@@ -7,7 +7,7 @@
         "type": "show",
         "content": "An original piece that centres around contemporary social issues. ‘Crossing the Rubicon’ serves as a commentary on life in modern-day London, the trials and tribulations one faces, and the inevitable consequences of actions.\n\nThe play tells the story of Jack and his sister Lizzie, two relatively ‘normal’ adolescents, who hope for ‘good’ grades which lead to ‘good’ jobs. The attractive and playful Lizzie, is courted by Rufus, a local youth with a criminal background and a less than encouraging future. Feeling the duty to protect his sister and his family name, Jack is forced to defend his sister, bringing him into a world completely different from his own. This new, crooked environment tests the limits of Jack’s mental endurance, facing an inner battle of whether to return to the straight and narrow of his previous life, or go through with the new demands placed on him by his criminal superiors.\n\nAn ensemble, devised piece being led by artistic director Simon Thompson (see award-winning ‘Slippery Soapbox’) and produced by NT Treasurer Jackie Lee.\n\nThe Die Is Cast…\n",
         "link": "/shows/08_09/crossing_the_rubicon.html",
-        "date": "12/12/2012",
+        "date": "",
         "excerpt": "",
         "seach_omit": ""
     }
@@ -20,7 +20,7 @@
         "type": "show",
         "content": "Set in a Mother and Baby Home in 1964, Be My Baby follows a 19 and unmarried Mary Adams who has fallen pregnant. Forced to go to the home by her mother, Mary along with the other girls, has to cope with the shame of her situation and the dawning realisation that her baby will be taken away and given up for adoption whether she likes it or not. Despite the hard hitting nature of the play, the youthfulness and positive spirit of the girls is echoed in the 1960s girl-group music which they sing along to.\n\nInspired by the real accounts and heart-breaking memories from the women Amanda Whittington interviewed, Be My Baby provides for us a glimpse into a part of our shockingly recent social history that for too long was shut away and ‘forgotten’.\n",
         "link": "/shows/11_12/be_my_baby.html",
-        "date": "12/11/2011",
+        "date": "2011-11-12",
         "excerpt": "",
         "seach_omit": ""
     }
@@ -46,7 +46,7 @@
         "type": "show",
         "content": "Stitch is looking to gain some direction in his life by visiting his sister and exploring the very exciting gay scene of Hull. What results is an obsessive crush on a man that works in the local aquarium and Stitch stealing a baby penguin. Brilliantly funny, emotionally moving, ‘Me, As Penguin’ is a unique, witty and northern comedy.\n",
         "link": "/shows/12_13/me_as_a_penguin.html",
-        "date": "20/02/2013",
+        "date": "2013-02-20",
         "excerpt": "",
         "seach_omit": ""
     }
@@ -59,7 +59,7 @@
         "type": "show",
         "content": "Set in London, in the not so distant future, where gangs prevail and memory has been wiped by the consumption of hallucinogenic butterflies, brothers Elliot and Darren survive by organising ‘parties’ where their clients’ most sadistic fantasies are realised. But it soon becomes clear that the success of one particular party will guarantee not just their safety, but their salvation.\n",
         "link": "/shows/12_13/mercury_fur.html",
-        "date": "03/11/2012",
+        "date": "2012-11-03",
         "excerpt": "",
         "seach_omit": ""
     }
@@ -72,7 +72,7 @@
         "type": "show",
         "content": "In an unnamed police state, a writer has been arrested because the content of his stories bares a striking resemblance to a series of gruesome child murders. Interrogated by two brutal detectives, he claims to know nothing of such murders. But also in their custody is his younger, brain damaged brother, who perhaps knows more than he first lets on. A darkly comic thriller like no other.\n",
         "link": "/shows/12_13/the_pillowman.html",
-        "date": "12/12/2012",
+        "date": "12-12-2012",
         "excerpt": "",
         "seach_omit": ""
     }
@@ -251,7 +251,7 @@
     ,{
         "title": "Committees",
         "type": "page",
-        "group": "top",
+        "group": "",
         "content": "Committees by Year\n\n  \n  \n  \n    1970-71 (2)\n  \n    1971-72 (6)\n  \n    1972-73 (7)\n  \n    1973-74 (6)\n  \n    1974-75 (3)\n  \n    1976-77 (2)\n  \n    1977-78 (2)\n  \n    1999-00 (2)\n  \n    2005-06 (6)\n  \n    2006-07 (14)\n  \n    2007-08 (13)\n  \n    2008-09 (15)\n  \n    2009-10 (14)\n  \n    2010-11 (20)\n  \n    2011-12 (19)\n  \n    2012-13 (19)\n  \n    2013-14 (17)\n  \n    2014-15 (17)\n  \n  \n\n",
         "link": "/committees/",
         "date": null,
@@ -266,7 +266,7 @@
         "title": "Committees",
         "type": "page",
         "group": "docs",
-        "content": "Committee listings are stored as _committees/YY_YY.md with YY_YY being the academic year ‘span’.\n\nAttribute Reference\n\n\n  \n    \n      Attribute\n      Job\n      Description\n    \n  \n  \n    \n      layout\n      Page layout\n      Sets the layout for the page, should always be set to committee.\n    \n    \n      title\n      Page title\n      Used to set the title of the page, should be in the format YYYY-YY.\n    \n    \n      year\n      Year this committee belongs to in the format YY_YY\n      i.e. for the 2012-13 academic year the year is “12_13”\n    \n    \n      committee\n      A person list for the committee\n       \n    \n  \n\n\nExample Committee\n\n---\nlayout: committee\n\ntitle: 2012-13\nyear: &quot;12_13&quot;\n\ncommittee:\n  - role: President\n    name: Sam Hayward\n  - role: Treasurer\n    name: Nick Stevenson\n  - role: Theatre Manager\n    name: James Bentley\n\n---\n\n",
+        "content": "Committee listings are stored as _committees/YY_YY.md with YY_YY being the academic year ‘span’.\n\nAttribute Reference\n\n\n  \n    \n      Attribute\n      Job\n      Description\n    \n  \n  \n    \n      layout\n      Page layout\n      Sets the layout for the page, should always be set to committee.\n    \n    \n      title\n      Page title\n      Used to set the title of the page, should be in the format YYYY-YY.\n    \n    \n      year\n      Year this committee belongs to in the format YY_YY\n      i.e. for the 2012-13 academic year the year is “12_13”\n    \n    \n      committee\n      A person list for the committee\n       \n    \n    \n      comments\n      Reserved for editor comments, will never show up on the live site.\n       \n    \n  \n\n\nExample Committee\n\n---\nlayout: committee\n\ntitle: 2012-13\nyear: &quot;12_13&quot;\n\ncommittee:\n  - role: President\n    name: Sam Hayward\n  - role: Treasurer\n    name: Nick Stevenson\n  - role: Theatre Manager\n    name: James Bentley\n\n---\n\n",
         "link": "/docs/committees/",
         "date": null,
         "excerpt": null,
@@ -294,7 +294,7 @@
         "title": "Editing",
         "type": "page",
         "group": "docs",
-        "content": "To edit the site you have several options, firstly though you must be added to the repository by an owner.\n\nEditing Online\n\nYou can then either use the GitHub website directly or Prose (probably the better option). Ensure you have a verified email address with GitHub otherwise your changes will not trigger a build.\n\nTo use Prose, visit the site and authorise with GitHub. Find the history-project repo to load up the file list. Navigate to the file you’re interested in and click ‘Edit’.\n\nMeta data can be edited on Prose by using one of the buttons on the far right.\n\nEditing Locally\n\nThis method requires a certain amount of technical knowledge.\n\nThis is the more complicated option, the benefits are you can use a desktop text editor and run the entire site on your machine to preview changes before they go live. You should have knowledge of Git and the command line to do this.\n\nDependences of this site are managed with Bundler, install it if you haven’t got it already and just do bundle install.\n\nTo get Jekyll up and running do bundle exec jekyll serve --watch, the site will then be available on http://localhost:4000.\n",
+        "content": "To edit the site you have several options, firstly though you must be added to the repository by an owner.\n\nEditing Online\n\nYou can then either use the GitHub website directly or Prose (probably the better option). Ensure you have a verified email address with GitHub otherwise your changes will not trigger a build.\n\nTo use Prose, visit the site and authorise with GitHub. Find the history-project repo to load up the file list. Navigate to the file you’re interested in and click ‘Edit’.\n\nMeta data can be edited on Prose by using one of the buttons on the far right.\n\nEditing Locally\n\nThis method requires a certain amount of technical knowledge.\n\nThis is the more complicated option, the benefits are you can use a desktop text editor and run the entire site on your machine to preview changes before they go live. You should have knowledge of Git and the command line to do this.\n\nDependences of this site are managed with Bundler, install it if you haven’t got it already and just do bundle install.\n\nTo get Jekyll up and running do bundle exec jekyll serve --watch, the site will then be available on http://localhost:4000.\n\nSyntaxes Used\n\nA combination of HTML and Markdown (Kramdown variant) is used for marking up our pages. YAML is used for meta data and is documented for shows, committees etc here.\n\nThe Kramdown syntax guide is useful for reference.\n",
         "link": "/docs/editing/",
         "date": null,
         "excerpt": null,
@@ -335,6 +335,20 @@
 
     
 
+    
+
+    
+    ,{
+        "title": "Alumni",
+        "type": "page",
+        "group": "top",
+        "content": "People stuff here\n",
+        "link": "/people/",
+        "date": null,
+        "excerpt": null,
+        "seach_omit": ""
+    }
+    
     
 
     
@@ -385,9 +399,9 @@
     ,{
         "title": "Shows",
         "type": "page",
-        "group": "top",
-        "content": "\n  \n    Shows\n  \n\n\n\n  \n    2010s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"201\" %}\n    {% include decade_list.html %}\n  \n  \n    2000s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"200\" %}\n    {% include decade_list.html %}\n  \n  \n    1990s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"199\" %}\n    {% include decade_list.html %}\n  \n  \n    1980s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"198\" %}\n    {% include decade_list.html %}\n  \n  \n    1970s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"197\" %}\n    {% include decade_list.html %}\n  \n  \n    1960s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"196\" %}\n    {% include decade_list.html %}\n  \n  \n    1950s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"195\" %}\n    {% include decade_list.html %}\n  \n  \n    1940s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"194\" %}\n    {% include decade_list.html %}\n  \n\n\n",
-        "link": "/shows/",
+        "group": "docs",
+        "content": "This site aims to collect much information about past shows of the New Theatre.\n\nThe show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'.\n\n## Attribute Reference\n\n| Attribute | Job | Description |\n|:-|:-|:-|\n| `layout` | Page layout | Sets the layout for the page, should always be set to `show`. |\n| `title` | Show title | Displayed at the top of the show page and on various other pages. |\n| `playwright` | Full name of the playwright |  |\n| `student_written` | Show written by an NT member | Set to `true`, `false` or line missing are equivalent. |\n| `season` | Season show belongs to | Choices: Autumn, Spring, Edinbugh |\n| `season_sort` | Order which this show comes in the entire year in a multiple of 10. | i.e. The Pillowman was the 7th show in the season, so the sort is 70. |\n| `year` | Year this show belongs to in the format YY_YY | i.e. The Pillowman was performed in the 2012-13 academic year so the year is \"12_13\" |\n| `venue` | Venue show was performed in. | There should only be one item in this list. |\n| `date_start` | Date of first performance | In the format YYYY-MM-DDD |\n| `date_end` | Date of last performance | In the format YYYY-MM-DDD |\n| `cast` | Cast members | Uses the [person list](/docs/person_list) format. |\n| `crew` | Crew members | Uses the [person list](/docs/person_list) format. |\n| `photos` | Production shots | Uses the [photos and assets](/docs/photos_and_assets) format. |\n| `assets` | Publicity and other materials | Uses the [photos and assets](/docs/photos_and_assets) format. |\n| `published` | *Not yet used!* Will in the future hide the show if set to false. |\n| `comments` | Reserved for editor comments, will **never** show up on the live site. |\n\n\n## Example Show\n\n{% highlight yaml %}\n---\nlayout: show\ntitle: The Pillowman\nplaywright: Martin McDonagh\nseason: In House\nseason_sort: 70\nyear: \"12_13\"\nperiod: Autumn\nvenue:\n  - New Theatre\ndate_start: 12/12/2012\ndate_end: 15/12/2012\ncast:\n  - role: Katurian\n    name: Sam Haywood\n  - role: Ariel\n    name: Will Randall\ncrew:\n  - role: Director\n    name: James McAndrew\n  - role: Producer\n    name: Nick Stevenson\nphotos:\n  - type: photo\n    image: pillowman_crew.jpg\n    caption: \"Cast and Crew shot. From back left: Jess Courtney, Gareth Morris, Livvy Hobson, Dan O'Connor, Charlotte Ball, Jacob Hayes, James McAndrew, Nick Stevenson, Chelsea Jayne Wright, Emily Heaton. Bottom from left: Sam Haywood, Will Randall, Alex Hollingsworth\"\nassets:\n  - type: poster\n    image: pillowman_poster.jpg\n  - type: flyer\n    image: pillowman_flyer_2.png\n  - type: programme\n    filename: the_pillowman_programme.pdf\n    title: Programme\n\npublished: true\n---\n{% endhighlight %}\n\n",
+        "link": "/docs/shows/",
         "date": null,
         "excerpt": null,
         "seach_omit": ""
@@ -397,11 +411,11 @@
 
     
     ,{
-        "title": "Shows",
+        "title": "Show / Committee Archives",
         "type": "page",
-        "group": "docs",
-        "content": "This site aims to collect much information about past shows of the New Theatre.\n\nThe show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'.\n\n## Attribute Reference\n\n| Attribute | Job | Description |\n|:-|:-|:-|\n| `layout` | Page layout | Sets the layout for the page, should always be set to `show`. |\n| `title` | Show title | Displayed at the top of the show page and on various other pages. |\n| `playwright` | Full name of the playwright |  |\n| `student_written` | Show written by an NT member | Set to `true`, `false` or line missing are equivalent. |\n| `season` | Season show belongs to | Choices: Autumn, Spring, Edinbugh |\n| `season_sort` | Order which this show comes in the entire year in a multiple of 10. | i.e. The Pillowman was the 7th show in the season, so the sort is 70. |\n| `year` | Year this show belongs to in the format YY_YY | i.e. The Pillowman was performed in the 2012-13 academic year so the year is \"12_13\" |\n| `venue` | Venue show was performed in. | There should only be one item in this list. |\n| `date_start` | Date of first performance | *Format under review, DD/MM/YYYY* |\n| `date_end` | Date of last performance | *Format under review, DD/MM/YYYY* |\n| `cast` | Cast members | Uses the [person list](/docs/person_list) format. |\n| `crew` | Crew members | Uses the [person list](/docs/person_list) format. |\n| `photos` | Production shots | Uses the [photos and assets](/docs/photos_and_assets) format. |\n| `assets` | Publicity and other materials | Uses the [photos and assets](/docs/photos_and_assets) format. |\n| `published` | *Not yet used!* Will in the future hide the show if set to false. |\n\n\n## Example Show\n\n{% highlight yaml %}\n---\nlayout: show\ntitle: The Pillowman\nplaywright: Martin McDonagh\nseason: In House\nseason_sort: 70\nyear: \"12_13\"\nperiod: Autumn\nvenue:\n  - New Theatre\ndate_start: 12/12/2012\ndate_end: 15/12/2012\ncast:\n  - role: Katurian\n    name: Sam Haywood\n  - role: Ariel\n    name: Will Randall\ncrew:\n  - role: Director\n    name: James McAndrew\n  - role: Producer\n    name: Nick Stevenson\nphotos:\n  - type: photo\n    image: pillowman_crew.jpg\n    caption: \"Cast and Crew shot. From back left: Jess Courtney, Gareth Morris, Livvy Hobson, Dan O'Connor, Charlotte Ball, Jacob Hayes, James McAndrew, Nick Stevenson, Chelsea Jayne Wright, Emily Heaton. Bottom from left: Sam Haywood, Will Randall, Alex Hollingsworth\"\nassets:\n  - type: poster\n    image: pillowman_poster.jpg\n  - type: flyer\n    image: pillowman_flyer_2.png\n  - type: programme\n    filename: the_pillowman_programme.pdf\n    title: Programme\n\npublished: true\n---\n{% endhighlight %}\n\n",
-        "link": "/docs/shows/",
+        "group": "top",
+        "content": "\n  \n    Years\n  \n\n\n\n  \n    2010s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"201\" %}\n    {% include decade_list.html %}\n  \n  \n    2000s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"200\" %}\n    {% include decade_list.html %}\n  \n  \n    1990s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"199\" %}\n    {% include decade_list.html %}\n  \n  \n    1980s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"198\" %}\n    {% include decade_list.html %}\n  \n  \n    1970s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"197\" %}\n    {% include decade_list.html %}\n  \n  \n    1960s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"196\" %}\n    {% include decade_list.html %}\n  \n  \n    1950s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"195\" %}\n    {% include decade_list.html %}\n  \n  \n    1940s\n    {% assign year_pages_decade = site.pages | where: \"decade\", \"194\" %}\n    {% include decade_list.html %}\n  \n\n\n",
+        "link": "/years/",
         "date": null,
         "excerpt": null,
         "seach_omit": ""

@@ -1306,6 +1306,68 @@ table {
       padding-right: 14%;
       max-width: 2000px; } }
 
+.home-main {
+  padding-right: 0px;
+  width: 100%;
+  padding-bottom: 17px; }
+  .home-main:last-child {
+    padding-bottom: 0px; }
+  @media only screen and (min-width: 768px) {
+    .home-main {
+      padding-bottom: 0; } }
+  @media only screen and (min-width: 768px) {
+    .home-main {
+      width: 75%; } }
+  @media only screen and (min-width: 768px) {
+    .home-main {
+      padding-right: 12px;
+      float: left; } }
+  @media only screen and (min-width: 1024px) {
+    .home-main {
+      padding-right: 14px;
+      float: left; } }
+  @media only screen and (min-width: 1200px) {
+    .home-main {
+      padding-right: 20px;
+      float: left; } }
+  @media only screen and (min-width: 1490px) {
+    .home-main {
+      padding-right: 24px;
+      float: left; } }
+  .grid .home-main:last-of-type {
+    padding-right: 0; }
+
+.home-aside {
+  padding-right: 0px;
+  width: 100%;
+  padding-bottom: 17px; }
+  .home-aside:last-child {
+    padding-bottom: 0px; }
+  @media only screen and (min-width: 768px) {
+    .home-aside {
+      padding-bottom: 0; } }
+  @media only screen and (min-width: 768px) {
+    .home-aside {
+      width: 25%; } }
+  @media only screen and (min-width: 768px) {
+    .home-aside {
+      padding-right: 12px;
+      float: left; } }
+  @media only screen and (min-width: 1024px) {
+    .home-aside {
+      padding-right: 14px;
+      float: left; } }
+  @media only screen and (min-width: 1200px) {
+    .home-aside {
+      padding-right: 20px;
+      float: left; } }
+  @media only screen and (min-width: 1490px) {
+    .home-aside {
+      padding-right: 24px;
+      float: left; } }
+  .grid .home-aside:last-of-type {
+    padding-right: 0; }
+
 .show {
   margin-bottom: 51px; }
 
@@ -1992,7 +2054,7 @@ table {
       padding-bottom: 0; } }
   @media only screen and (min-width: 768px) {
     .year-shows {
-      width: 75%; } }
+      width: 62.5%; } }
   @media only screen and (min-width: 768px) {
     .year-shows {
       padding-right: 12px;
@@ -2023,7 +2085,7 @@ table {
       padding-bottom: 0; } }
   @media only screen and (min-width: 768px) {
     .year-links {
-      width: 25%; } }
+      width: 37.5%; } }
   @media only screen and (min-width: 768px) {
     .year-links {
       padding-right: 12px;

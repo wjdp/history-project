@@ -18,11 +18,15 @@
   <!-- Icons -->
   <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
   <link href='http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/lib/octicons/octicons.css">
+
 
   <!-- fancybox CSS -->
   <link rel="stylesheet" href="/lib/fancyapps-fancyBox-18d1712/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
   <link rel="stylesheet" href="/lib/fancyapps-fancyBox-18d1712/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
   <link rel="stylesheet" href="/lib/fancyapps-fancyBox-18d1712/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+
+  <link rel="stylesheet" href="/lib/github-issues-widget/github-issues-widget-default.css" type="text/css" media="screen" />
 
   <link rel="stylesheet" href="/css/main.css">
 
@@ -82,9 +86,31 @@
  -->
 
     <div class="content">
-        <div class="page">
-  <article class="post-content">
-    <h1 id="contributing">Contributing</h1>
+        <div class="docs">
+  <nav class="docs-nav">
+    <div class="docs-nav-tabs">
+      <div class="docs-nav-tab current">
+        <a href='/about/'>About</a>
+      </div>
+      <div class="docs-nav-tab">
+        <a href='/docs/'>Docs</a>
+      </div>
+    </div>
+    <div class="docs-nav-inner">
+      <ul>
+      
+      
+        <li><a href="/about/">About This Site</a></li>
+      
+        <li><a href="/contributing/">Contributing</a></li>
+      
+        <li><a href="/roadmap/">Roadmap</a></li>
+      
+      </ul>
+    </div>
+  </nav>
+  <article class="docs-content">
+    <h1 id="i-classocticon-octicon-git-pull-requesti-contributing"><i class="octicon octicon-git-pull-request"></i> Contributing</h1>
 
 <p>This project relies on contributions from the alumni community. If you see a show missing information, a committee record a few names short or just have an interesting story to tell you can help out in a number of ways.</p>
 
@@ -98,10 +124,10 @@
 
 <ol>
   <li>
-    <p>Post a report on our <a href="https://github.com/newtheatre/history-project/issues">issue tracker</a>. We use a GitHub issue tracker for both design and content changes to the site.</p>
+    <p>Post a report on our <a href="https://github.com/newtheatre/history-project/issues"><i class="octicon octicon-issue-opened"></i> issue tracker</a>. We use a GitHub issue tracker for both design and content changes to the site.</p>
   </li>
   <li>
-    <p>If you’re technically inclined read our <a href="/docs/">docs</a> and create a <a href="https://github.com/newtheatre/history-project/compare">pull request</a> on our repository.</p>
+    <p>If you’re technically inclined read our <a href="/docs/">docs</a> and create a <a href="https://github.com/newtheatre/history-project/compare"><i class="octicon octicon-git-pull-request"></i> pull request</a> on our repository.</p>
   </li>
 </ol>
 
@@ -123,11 +149,9 @@
       <p>This project needs your help. If you have stuff, we want stuff. See the <a href="/contributing">contributing</a> page for more details.</p>
     </div>
     <div class="footer-col">
-      <p>Site last updated at 25 April 2015 20:25, build number 15
-.</p>
-      <p>6 shows and 18 committees.</p>
-      <p>Site <a href="/docs/">Documentation</a></p>
-      <p><a href="http://github.com/newtheatre/history-project"><i class="fa fa-github"></i> GitHub Repo</a></p>
+      <h5>About this site</h5>
+      <p>This site is an initiative of the New Theatre Alumni Network.</p>
+      <p><a href="/about/">About</a> | <a href="/docs/">Docs</a></p>
     </div>
 
   </div>
@@ -154,6 +178,8 @@
     $(".fancybox").fancybox();
   });
 </script>
+
+<script type="text/javascript" src="/lib/github-issues-widget/github-issues-widget.js"></script>
 
 
   </body>

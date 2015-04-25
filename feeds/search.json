@@ -249,6 +249,20 @@
 
     
     ,{
+        "title": "About This Site",
+        "type": "page",
+        "group": "about",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-04-25 22:55\n  Build number 16\n.\n  6 shows and 18 committees.\n\n",
+        "link": "/about/",
+        "date": null,
+        "excerpt": null,
+        "seach_omit": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "Committees",
         "type": "page",
         "group": "",
@@ -266,7 +280,7 @@
         "title": "Committees",
         "type": "page",
         "group": "docs",
-        "content": "Committee listings are stored as _committees/YY_YY.md with YY_YY being the academic year ‘span’.\n\nAttribute Reference\n\n\n  \n    \n      Attribute\n      Job\n      Description\n    \n  \n  \n    \n      layout\n      Page layout\n      Sets the layout for the page, should always be set to committee.\n    \n    \n      title\n      Page title\n      Used to set the title of the page, should be in the format YYYY-YY.\n    \n    \n      year\n      Year this committee belongs to in the format YY_YY\n      i.e. for the 2012-13 academic year the year is “12_13”\n    \n    \n      committee\n      A person list for the committee\n       \n    \n    \n      comments\n      Reserved for editor comments, will never show up on the live site.\n       \n    \n  \n\n\nExample Committee\n\n---\nlayout: committee\n\ntitle: 2012-13\nyear: &quot;12_13&quot;\n\ncommittee:\n  - role: President\n    name: Sam Hayward\n  - role: Treasurer\n    name: Nick Stevenson\n  - role: Theatre Manager\n    name: James Bentley\n\n---\n\n",
+        "content": "Committee listings are stored as _committees/YY_YY.md with YY_YY being the academic year ‘span’.\n\n Attribute Reference\n\n\n  \n    \n      Attribute\n      Job\n      Description\n    \n  \n  \n    \n      layout\n      Page layout\n      Sets the layout for the page, should always be set to committee.\n    \n    \n      title\n      Page title\n      Used to set the title of the page, should be in the format YYYY-YY.\n    \n    \n      year\n      Year this committee belongs to in the format YY_YY\n      i.e. for the 2012-13 academic year the year is “12_13”\n    \n    \n      committee\n      A person list for the committee\n       \n    \n    \n      comments\n      Reserved for editor comments, will never show up on the live site.\n       \n    \n  \n\n\n Example Committee\n\n---\nlayout: committee\n\ntitle: 2012-13\nyear: &quot;12_13&quot;\n\ncommittee:\n  - role: President\n    name: Sam Hayward\n  - role: Treasurer\n    name: Nick Stevenson\n  - role: Theatre Manager\n    name: James Bentley\n\n---\n\n",
         "link": "/docs/committees/",
         "date": null,
         "excerpt": null,
@@ -279,8 +293,8 @@
     ,{
         "title": "Contributing",
         "type": "page",
-        "group": "",
-        "content": "Contributing\n\nThis project relies on contributions from the alumni community. If you see a show missing information, a committee record a few names short or just have an interesting story to tell you can help out in a number of ways.\n\nContacting us\n\nPlease email us at &#097;&#108;&#117;&#109;&#110;&#105;&#064;&#110;&#101;&#119;&#116;&#104;&#101;&#097;&#116;&#114;&#101;&#046;&#111;&#114;&#103;&#046;&#117;&#107; if you have something to contribute, and don’t worry if you aren’t quite ready to part with your cherished New Theatre relics just yet – the University Archives have offered to photgraph and document any items sent to them, and then return them safely to you for safe keeping!\n\nContributing to the site directly\n\nWe use Git and GitHub to both collaborate on and serve this website.\n\n\n  \n    Post a report on our issue tracker. We use a GitHub issue tracker for both design and content changes to the site.\n  \n  \n    If you’re technically inclined read our docs and create a pull request on our repository.\n  \n\n\n",
+        "group": "about",
+        "content": " Contributing\n\nThis project relies on contributions from the alumni community. If you see a show missing information, a committee record a few names short or just have an interesting story to tell you can help out in a number of ways.\n\nContacting us\n\nPlease email us at &#097;&#108;&#117;&#109;&#110;&#105;&#064;&#110;&#101;&#119;&#116;&#104;&#101;&#097;&#116;&#114;&#101;&#046;&#111;&#114;&#103;&#046;&#117;&#107; if you have something to contribute, and don’t worry if you aren’t quite ready to part with your cherished New Theatre relics just yet – the University Archives have offered to photgraph and document any items sent to them, and then return them safely to you for safe keeping!\n\nContributing to the site directly\n\nWe use Git and GitHub to both collaborate on and serve this website.\n\n\n  \n    Post a report on our  issue tracker. We use a GitHub issue tracker for both design and content changes to the site.\n  \n  \n    If you’re technically inclined read our docs and create a  pull request on our repository.\n  \n\n\n",
         "link": "/contributing/",
         "date": null,
         "excerpt": null,
@@ -320,6 +334,8 @@
     
 
     
+
+    
     ,{
         "title": "Site Documentation",
         "type": "page",
@@ -356,7 +372,7 @@
         "title": "Person List",
         "type": "page",
         "group": "docs",
-        "content": "A person list is a format for storing a list of roles and names. They are used for various records on this site.\n\nAttribute Reference\n\n\n  \n    \n      Attribute\n      Job\n      Description\n    \n  \n  \n    \n      role\n      Corresponds to name of a role (acting, crew) or position (committee).\n      Can be set to unknown which will tag the role as unknown.\n    \n    \n      name\n      The person’s name.\n      Formatted FirstName LastName. Can be set to unknown which will tag the name as unknown.\n    \n    \n      note (optional)\n      An optional note.\n      Currently this is shown in brackets after the role when rendered.\n    \n  \n\n\nExample Person List\n\nlist:\n  - role: Katurian\n    name: Sam Haywood\n  - role: Ariel\n    name: Will Randall\n    note: Something\n\n",
+        "content": "A person list is a format for storing a list of roles and names. They are used for various records on this site.\n\n Attribute Reference\n\n\n  \n    \n      Attribute\n      Job\n      Description\n    \n  \n  \n    \n      role\n      Corresponds to name of a role (acting, crew) or position (committee).\n      Can be set to unknown which will tag the role as unknown.\n    \n    \n      name\n      The person’s name.\n      Formatted FirstName LastName. Can be set to unknown which will tag the name as unknown.\n    \n    \n      note (optional)\n      An optional note.\n      Currently this is shown in brackets after the role when rendered.\n    \n  \n\n\n Example Person List\n\nlist:\n  - role: Katurian\n    name: Sam Haywood\n  - role: Ariel\n    name: Will Randall\n    note: Something\n\n",
         "link": "/docs/person_list/",
         "date": null,
         "excerpt": null,
@@ -370,8 +386,22 @@
         "title": "Photos and Assets",
         "type": "page",
         "group": "docs",
-        "content": "Show records currently have a ‘Publicity Materials’ and ‘Production Shots’ section. In the show’s data file production shots are kept in a list called photos, and publicity materials in assets.\n\nThe image files themselves are kept in the images/for_shows/ folder whereas anything else (PDFs etc) are kept in assets/for_shows/.\n\nAttribute Reference\n\n\n  \n    \n      Attribute\n      Job\n      Description\n    \n  \n  \n    \n      type\n      Type of asset\n      The type of asset, the first of type poster will be used as the show’s poster. List non-exhaustive, should be lowercase: photo, poster, flyer, programme.\n    \n    \n      image(semi-optional)\n      If image (JPG, PNG) the filename\n      Will look under images/for_shows/.\n    \n    \n      filename(semi-optional)\n      If non-image (PDF etc) the filename\n      Will look under assets/for_shows/.\n    \n    \n      caption(image only, optional)\n      Image caption\n      Is shown when image is clicked on to make big.\n    \n  \n\n\nExample\n\nphotos:\n  - type: photo\n    image: pillowman_crew.jpg\n    caption: &quot;Cast and Crew shot. From back left: Jess Courtney, Gareth Morris, Livvy Hobson, Dan O&#39;Connor, Charlotte Ball, Jacob Hayes, James McAndrew, Nick Stevenson, Chelsea Jayne Wright, Emily Heaton. Bottom from left: Sam Haywood, Will Randall, Alex Hollingsworth&quot;\n\nassets:\n  - type: poster\n    image: pillowman_poster.jpg\n  - type: flyer\n    image: pillowman_flyer_2.png\n  - type: programme\n    filename: the_pillowman_programme.pdf\n    title: Programme\n\nUploading\n\nThis needs writing up.\n\nUploading images and assets needs to be done by a desktop Git application.\n",
+        "content": "Show records currently have a ‘Publicity Materials’ and ‘Production Shots’ section. In the show’s data file production shots are kept in a list called photos, and publicity materials in assets.\n\nThe image files themselves are kept in the images/for_shows/ folder whereas anything else (PDFs etc) are kept in assets/for_shows/.\n\n Attribute Reference\n\n\n  \n    \n      Attribute\n      Job\n      Description\n    \n  \n  \n    \n      type\n      Type of asset\n      The type of asset, the first of type poster will be used as the show’s poster. List non-exhaustive, should be lowercase: photo, poster, flyer, programme.\n    \n    \n      image(semi-optional)\n      If image (JPG, PNG) the filename\n      Will look under images/for_shows/.\n    \n    \n      filename(semi-optional)\n      If non-image (PDF etc) the filename\n      Will look under assets/for_shows/.\n    \n    \n      caption(image only, optional)\n      Image caption\n      Is shown when image is clicked on to make big.\n    \n  \n\n\n Example\n\nphotos:\n  - type: photo\n    image: pillowman_crew.jpg\n    caption: &quot;Cast and Crew shot. From back left: Jess Courtney, Gareth Morris, Livvy Hobson, Dan O&#39;Connor, Charlotte Ball, Jacob Hayes, James McAndrew, Nick Stevenson, Chelsea Jayne Wright, Emily Heaton. Bottom from left: Sam Haywood, Will Randall, Alex Hollingsworth&quot;\n\nassets:\n  - type: poster\n    image: pillowman_poster.jpg\n  - type: flyer\n    image: pillowman_flyer_2.png\n  - type: programme\n    filename: the_pillowman_programme.pdf\n    title: Programme\n\n Uploading\n\nThis needs writing up.\n\nUploading images and assets needs to be done by a desktop Git application.\n",
         "link": "/docs/photos_and_assets/",
+        "date": null,
+        "excerpt": null,
+        "seach_omit": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Roadmap",
+        "type": "page",
+        "group": "about",
+        "content": "\n\n   Roadmap\n\n  Our current timeline:\n\n  \n    27 April: Establish the site and define how data is going to be stored.\n    Mid May: Add a number of shows, polish the styling, make sure the site is working well on mobile devices, optimise search, add bios.\n    End of May: Have all the shows we have on record entered into the site. Officially launch.\n  \n\n\n\n\n\n Open Issues\n\n\n\n\n\n",
+        "link": "/roadmap/",
         "date": null,
         "excerpt": null,
         "seach_omit": ""
@@ -400,7 +430,7 @@
         "title": "Shows",
         "type": "page",
         "group": "docs",
-        "content": "This site aims to collect much information about past shows of the New Theatre.\n\nThe show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'.\n\n## Attribute Reference\n\n| Attribute | Job | Description |\n|:-|:-|:-|\n| `layout` | Page layout | Sets the layout for the page, should always be set to `show`. |\n| `title` | Show title | Displayed at the top of the show page and on various other pages. |\n| `playwright` | Full name of the playwright |  |\n| `student_written` | Show written by an NT member | Set to `true`, `false` or line missing are equivalent. |\n| `season` | Season show belongs to | Choices: Autumn, Spring, Edinbugh |\n| `season_sort` | Order which this show comes in the entire year in a multiple of 10. | i.e. The Pillowman was the 7th show in the season, so the sort is 70. |\n| `year` | Year this show belongs to in the format YY_YY | i.e. The Pillowman was performed in the 2012-13 academic year so the year is \"12_13\" |\n| `venue` | Venue show was performed in. | There should only be one item in this list. |\n| `date_start` | Date of first performance | In the format YYYY-MM-DDD |\n| `date_end` | Date of last performance | In the format YYYY-MM-DDD |\n| `cast` | Cast members | Uses the [person list](/docs/person_list) format. |\n| `crew` | Crew members | Uses the [person list](/docs/person_list) format. |\n| `photos` | Production shots | Uses the [photos and assets](/docs/photos_and_assets) format. |\n| `assets` | Publicity and other materials | Uses the [photos and assets](/docs/photos_and_assets) format. |\n| `published` | *Not yet used!* Will in the future hide the show if set to false. |\n| `comments` | Reserved for editor comments, will **never** show up on the live site. |\n\n\n## Example Show\n\n{% highlight yaml %}\n---\nlayout: show\ntitle: The Pillowman\nplaywright: Martin McDonagh\nseason: In House\nseason_sort: 70\nyear: \"12_13\"\nperiod: Autumn\nvenue:\n  - New Theatre\ndate_start: 12/12/2012\ndate_end: 15/12/2012\ncast:\n  - role: Katurian\n    name: Sam Haywood\n  - role: Ariel\n    name: Will Randall\ncrew:\n  - role: Director\n    name: James McAndrew\n  - role: Producer\n    name: Nick Stevenson\nphotos:\n  - type: photo\n    image: pillowman_crew.jpg\n    caption: \"Cast and Crew shot. From back left: Jess Courtney, Gareth Morris, Livvy Hobson, Dan O'Connor, Charlotte Ball, Jacob Hayes, James McAndrew, Nick Stevenson, Chelsea Jayne Wright, Emily Heaton. Bottom from left: Sam Haywood, Will Randall, Alex Hollingsworth\"\nassets:\n  - type: poster\n    image: pillowman_poster.jpg\n  - type: flyer\n    image: pillowman_flyer_2.png\n  - type: programme\n    filename: the_pillowman_programme.pdf\n    title: Programme\n\npublished: true\n---\n{% endhighlight %}\n\n",
+        "content": "This site aims to collect much information about past shows of the New Theatre.\n\nThe show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'.\n\n##  Attribute Reference\n\n| Attribute | Job | Description |\n|:-|:-|:-|\n| `layout` | Page layout | Sets the layout for the page, should always be set to `show`. |\n| `title` | Show title | Displayed at the top of the show page and on various other pages. |\n| `playwright` | Full name of the playwright |  |\n| `student_written` | Show written by an NT member | Set to `true`, `false` or line missing are equivalent. |\n| `season` | Season show belongs to | Choices: Autumn, Spring, Edinbugh |\n| `season_sort` | Order which this show comes in the entire year in a multiple of 10. | i.e. The Pillowman was the 7th show in the season, so the sort is 70. |\n| `year` | Year this show belongs to in the format YY_YY | i.e. The Pillowman was performed in the 2012-13 academic year so the year is \"12_13\" |\n| `venue` | Venue show was performed in. | There should only be one item in this list. |\n| `date_start` | Date of first performance | In the format YYYY-MM-DDD |\n| `date_end` | Date of last performance | In the format YYYY-MM-DDD |\n| `cast` | Cast members | Uses the [person list](/docs/person_list) format. |\n| `crew` | Crew members | Uses the [person list](/docs/person_list) format. |\n| `photos` | Production shots | Uses the [photos and assets](/docs/photos_and_assets) format. |\n| `assets` | Publicity and other materials | Uses the [photos and assets](/docs/photos_and_assets) format. |\n| `published` | *Not yet used!* Will in the future hide the show if set to false. |\n| `comments` | Reserved for editor comments, will **never** show up on the live site. |\n\n\n##  Example Show\n\n{% highlight yaml %}\n---\nlayout: show\ntitle: The Pillowman\nplaywright: Martin McDonagh\nseason: In House\nseason_sort: 70\nyear: \"12_13\"\nperiod: Autumn\nvenue:\n  - New Theatre\ndate_start: 12/12/2012\ndate_end: 15/12/2012\ncast:\n  - role: Katurian\n    name: Sam Haywood\n  - role: Ariel\n    name: Will Randall\ncrew:\n  - role: Director\n    name: James McAndrew\n  - role: Producer\n    name: Nick Stevenson\nphotos:\n  - type: photo\n    image: pillowman_crew.jpg\n    caption: \"Cast and Crew shot. From back left: Jess Courtney, Gareth Morris, Livvy Hobson, Dan O'Connor, Charlotte Ball, Jacob Hayes, James McAndrew, Nick Stevenson, Chelsea Jayne Wright, Emily Heaton. Bottom from left: Sam Haywood, Will Randall, Alex Hollingsworth\"\nassets:\n  - type: poster\n    image: pillowman_poster.jpg\n  - type: flyer\n    image: pillowman_flyer_2.png\n  - type: programme\n    filename: the_pillowman_programme.pdf\n    title: Programme\n\npublished: true\n---\n{% endhighlight %}\n\n",
         "link": "/docs/shows/",
         "date": null,
         "excerpt": null,

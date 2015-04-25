@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>New Theatre History Project</title>
+  <title>Committees</title>
   <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 ">
 
@@ -26,7 +26,7 @@
 
   <link rel="stylesheet" href="/css/main.css">
 
-  <link rel="canonical" href="http://alpha.history.newtheatre.org.uk/">
+  <link rel="canonical" href="http://alpha.history.newtheatre.org.uk/docs/committees/">
   <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://alpha.history.newtheatre.org.uk/feed.xml" />
 </head>
 
@@ -76,31 +76,99 @@
 
 <ol>
  
-  <li><a href="/">home</a> &nbsp; </li>
+  <li><a href="/">home</a> &#187; </li>
+
+  
+   
+   
+
+   <li><a href="/docs">docs</a> &#187; </li>
+
+   
+  
  
 </ol>
  -->
 
     <div class="content">
-        <div class="page">
-  <article class="post-content">
-    <p>Welcome to the New Theatre History Project!</p>
+        <div class="docs">
+  <nav class="docs-nav">
+    <div class="docs-nav-inner">
+      <h2>Documentation</h2>
+      <ul>
+      
+      
+        <li><a href="/docs/">Site Documentation</a></li>
+      
+        <li><a href="/docs/editing/">Editing</a></li>
+      
+        <li><a href="/docs/shows/">Shows</a></li>
+      
+        <li><a href="/docs/committees/">Committees</a></li>
+      
+        <li><a href="/docs/person_list/">Person List</a></li>
+      
+        <li><a href="/docs/photos_and_assets/">Photos and Assets</a></li>
+      
+      </ul>
+    </div>
+  </nav>
+  <article class="docs-content">
+    <h1>Committees</h1>
+    <p>Committee listings are stored as <code>_committees/YY_YY.md</code> with YY_YY being the academic year ‘span’.</p>
 
-<p>The New Theatre Alumni Network was founded in order to build a stronger sense of the history of the theatre, and with the launch of this project we are hoping to do just that! Following a recent visit to the Nottingham University Archives, we are using the project to piece together the New Theatre’s dynamic and vibrant history.</p>
+<h2 id="attribute-reference">Attribute Reference</h2>
 
-<p><img src="images/alumni3.png" alt="Alumni image" class="right" /></p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Attribute</th>
+      <th style="text-align: left">Job</th>
+      <th style="text-align: left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><code>layout</code></td>
+      <td style="text-align: left">Page layout</td>
+      <td style="text-align: left">Sets the layout for the page, should always be set to <code>committee</code>.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code>title</code></td>
+      <td style="text-align: left">Page title</td>
+      <td style="text-align: left">Used to set the title of the page, should be in the format YYYY-YY.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code>year</code></td>
+      <td style="text-align: left">Year this committee belongs to in the format YY_YY</td>
+      <td style="text-align: left">i.e. for the 2012-13 academic year the year is “12_13”</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code>committee</code></td>
+      <td style="text-align: left">A <a href="/docs/person_list">person list</a> for the committee</td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
 
-<blockquote>
-  <p>“whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from the New Theatre”</p>
-</blockquote>
+<h2 id="example-committee">Example Committee</h2>
 
-<p>This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.</p>
+<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="nn">---</span>
+<span class="l-Scalar-Plain">layout</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">committee</span>
 
-<p>In particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.</p>
+<span class="l-Scalar-Plain">title</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">2012-13</span>
+<span class="l-Scalar-Plain">year</span><span class="p-Indicator">:</span> <span class="s">&quot;12_13&quot;</span>
 
-<p>Please email us at alumni@newtheatre.org.uk if you have something to contribute, and don’t worry if you aren’t quite ready to part with your cherished New Theatre relics just yet – the University Archives have offered to photgraph and document any items sent to them, and then return them safely to you for safe keeping!</p>
+<span class="l-Scalar-Plain">committee</span><span class="p-Indicator">:</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">role</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">President</span>
+    <span class="l-Scalar-Plain">name</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Sam Hayward</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">role</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Treasurer</span>
+    <span class="l-Scalar-Plain">name</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Nick Stevenson</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">role</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Theatre Manager</span>
+    <span class="l-Scalar-Plain">name</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">James Bentley</span>
 
-<p>History project alpha, generated by Jekyll. Source at <a href="http://github.com/newtheatre/history-project">http://github.com/newtheatre/history-project</a></p>
+<span class="nn">---</span></code></pre></div>
+
 
   </article>
 

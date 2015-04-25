@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+  
+  
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Photos and Assets</title>
+  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
+
+  <!-- Fonts -->
+
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600|Montserrat' rel='stylesheet' type='text/css'>
+
+  <!-- Icons -->
+  <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+  <link href='http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css' rel='stylesheet' type='text/css'>
+
+  <!-- fancybox CSS -->
+  <link rel="stylesheet" href="/lib/fancyapps-fancyBox-18d1712/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+  <link rel="stylesheet" href="/lib/fancyapps-fancyBox-18d1712/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+  <link rel="stylesheet" href="/lib/fancyapps-fancyBox-18d1712/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+
+  <link rel="stylesheet" href="/css/main.css">
+
+  <link rel="canonical" href="http://alpha.history.newtheatre.org.uk/docs/photos_and_assets/">
+  <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://alpha.history.newtheatre.org.uk/feed.xml" />
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="/">
+      <img src="/images/logo.png" alt="Logo" class="site-title-logo" />
+      <h2 class="site-title-text">New Theatre<br />History Project</h2>
+    </a>
+
+    <nav class="site-nav">
+      
+      
+        
+        <i class="fa fa-ticket"></i> 
+        <a class="page-link" href="/shows/">Shows</a>
+        
+      
+        
+        <i class="fa fa-users"></i> 
+        <a class="page-link" href="/committees/">Committees</a>
+        
+      
+        
+        <i class="fa fa-book"></i> 
+        <a class="page-link" href="/history/">History</a>
+        
+      
+    </nav>
+    <div class="site-search">
+      
+      <form method="get" action="/search" data-search-form>
+        <input type="search" name="q" id="q" placeholder="Search" data-search-input class="site-search-input" />
+        <input type="submit" value="Search" class="site-search-submit" />
+      </form>
+      
+    </div>
+  </div>
+</header>
+
+
+    <!-- 
+
+
+<ol>
+ 
+  <li><a href="/">home</a> &#187; </li>
+
+  
+   
+   
+
+   <li><a href="/docs">docs</a> &#187; </li>
+
+   
+  
+ 
+</ol>
+ -->
+
+    <div class="content">
+        <div class="docs">
+  <nav class="docs-nav">
+    <div class="docs-nav-inner">
+      <h2>Documentation</h2>
+      <ul>
+      
+      
+        <li><a href="/docs/">Site Documentation</a></li>
+      
+        <li><a href="/docs/editing/">Editing</a></li>
+      
+        <li><a href="/docs/shows/">Shows</a></li>
+      
+        <li><a href="/docs/committees/">Committees</a></li>
+      
+        <li><a href="/docs/person_list/">Person List</a></li>
+      
+        <li><a href="/docs/photos_and_assets/">Photos and Assets</a></li>
+      
+      </ul>
+    </div>
+  </nav>
+  <article class="docs-content">
+    <h1>Photos and Assets</h1>
+    <p>Show records currently have a <em>‘Publicity Materials’</em> and <em>‘Production Shots’</em> section. In the show’s data file production shots are kept in a list called <code>photos</code>, and publicity materials in <code>assets</code>.</p>
+
+<p>The image files themselves are kept in the <code>images/for_shows/</code> folder whereas anything else (PDFs etc) are kept in <code>assets/for_shows/</code>.</p>
+
+<h2 id="attribute-reference">Attribute Reference</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Attribute</th>
+      <th style="text-align: left">Job</th>
+      <th style="text-align: left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><code>type</code></td>
+      <td style="text-align: left">Type of asset</td>
+      <td style="text-align: left">The type of asset, the first of type <em>poster</em> will be used as the show’s poster. List non-exhaustive, should be lowercase: <em>photo, poster, flyer, programme</em>.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code>image</code><br /><em>(semi-optional)</em></td>
+      <td style="text-align: left">If image (JPG, PNG) the filename</td>
+      <td style="text-align: left">Will look under <code>images/for_shows/</code>.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code>filename</code><br /><em>(semi-optional)</em></td>
+      <td style="text-align: left">If non-image (PDF etc) the filename</td>
+      <td style="text-align: left">Will look under <code>assets/for_shows/</code>.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code>caption</code><br /><em>(image only, optional)</em></td>
+      <td style="text-align: left">Image caption</td>
+      <td style="text-align: left">Is shown when image is clicked on to make big.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="example">Example</h2>
+
+<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="l-Scalar-Plain">photos</span><span class="p-Indicator">:</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">type</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">photo</span>
+    <span class="l-Scalar-Plain">image</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">pillowman_crew.jpg</span>
+    <span class="l-Scalar-Plain">caption</span><span class="p-Indicator">:</span> <span class="s">&quot;Cast</span><span class="nv"> </span><span class="s">and</span><span class="nv"> </span><span class="s">Crew</span><span class="nv"> </span><span class="s">shot.</span><span class="nv"> </span><span class="s">From</span><span class="nv"> </span><span class="s">back</span><span class="nv"> </span><span class="s">left:</span><span class="nv"> </span><span class="s">Jess</span><span class="nv"> </span><span class="s">Courtney,</span><span class="nv"> </span><span class="s">Gareth</span><span class="nv"> </span><span class="s">Morris,</span><span class="nv"> </span><span class="s">Livvy</span><span class="nv"> </span><span class="s">Hobson,</span><span class="nv"> </span><span class="s">Dan</span><span class="nv"> </span><span class="s">O&#39;Connor,</span><span class="nv"> </span><span class="s">Charlotte</span><span class="nv"> </span><span class="s">Ball,</span><span class="nv"> </span><span class="s">Jacob</span><span class="nv"> </span><span class="s">Hayes,</span><span class="nv"> </span><span class="s">James</span><span class="nv"> </span><span class="s">McAndrew,</span><span class="nv"> </span><span class="s">Nick</span><span class="nv"> </span><span class="s">Stevenson,</span><span class="nv"> </span><span class="s">Chelsea</span><span class="nv"> </span><span class="s">Jayne</span><span class="nv"> </span><span class="s">Wright,</span><span class="nv"> </span><span class="s">Emily</span><span class="nv"> </span><span class="s">Heaton.</span><span class="nv"> </span><span class="s">Bottom</span><span class="nv"> </span><span class="s">from</span><span class="nv"> </span><span class="s">left:</span><span class="nv"> </span><span class="s">Sam</span><span class="nv"> </span><span class="s">Haywood,</span><span class="nv"> </span><span class="s">Will</span><span class="nv"> </span><span class="s">Randall,</span><span class="nv"> </span><span class="s">Alex</span><span class="nv"> </span><span class="s">Hollingsworth&quot;</span>
+
+<span class="l-Scalar-Plain">assets</span><span class="p-Indicator">:</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">type</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">poster</span>
+    <span class="l-Scalar-Plain">image</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">pillowman_poster.jpg</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">type</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">flyer</span>
+    <span class="l-Scalar-Plain">image</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">pillowman_flyer_2.png</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">type</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">programme</span>
+    <span class="l-Scalar-Plain">filename</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">the_pillowman_programme.pdf</span>
+    <span class="l-Scalar-Plain">title</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Programme</span></code></pre></div>
+
+<h2 id="uploading">Uploading</h2>
+
+<div class="box-error">This needs writing up.</div>
+
+<p>Uploading images and assets needs to be done by a desktop Git application.</p>
+
+  </article>
+
+</div>
+
+    </div>
+
+    <footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col">
+      <p>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</p>
+    </div>
+    <div class="footer-col">
+      <h5>Contributing</h5>
+      <p>This project needs your help. If you have stuff, we want stuff. See the <a href="/contributing">contributing</a> page for more details.</p>
+    </div>
+    <div class="footer-col">
+      <p>Site last updated at 25 April 2015 15:34</p>
+      <p>6 shows and 18 committees.</p>
+      <p>Site <a href="/docs/">Documentation</a></p>
+      <p><a href="http://github.com/newtheatre/history-project"><i class="fa fa-github"></i> GitHub Repo</a></p>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    <!-- Add jQuery library -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+<!-- Add mousewheel plugin (this is optional) -->
+<script type="text/javascript" src="/lib/fancyapps-fancyBox-18d1712/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+<!-- fancybox -->
+<script type="text/javascript" src="/lib/fancyapps-fancyBox-18d1712/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<!-- Optionally add helpers - button, thumbnail and/or media -->
+<script type="text/javascript" src="/lib/fancyapps-fancyBox-18d1712/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+<script type="text/javascript" src="/lib/fancyapps-fancyBox-18d1712/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+<script type="text/javascript" src="/lib/fancyapps-fancyBox-18d1712/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".fancybox").fancybox();
+  });
+</script>
+
+
+  </body>
+
+</html>

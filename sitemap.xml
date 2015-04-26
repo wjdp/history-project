@@ -351,15 +351,7 @@
   </url>
   <url>
     <loc>http://alpha.history.newtheatre.org.uk/lib/report-issue-post/client/example.html</loc>
-    <lastmod>2015-04-26T20:52:16+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://alpha.history.newtheatre.org.uk/lib/mousetrap/plugins/record/tests/index.html</loc>
-    <lastmod>2015-03-30T14:56:43+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://alpha.history.newtheatre.org.uk/lib/mousetrap/tests/mousetrap.html</loc>
-    <lastmod>2015-03-30T14:56:43+00:00</lastmod>
+    <lastmod>2015-04-26T20:54:04+00:00</lastmod>
   </url>
   <url>
     <loc>http://alpha.history.newtheatre.org.uk/lib/fancybox/demo/iframe.html</loc>
@@ -370,11 +362,19 @@
     <lastmod>2013-06-14T09:12:29+00:00</lastmod>
   </url>
   <url>
+    <loc>http://alpha.history.newtheatre.org.uk/lib/mousetrap/plugins/record/tests/index.html</loc>
+    <lastmod>2015-03-30T14:56:43+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://alpha.history.newtheatre.org.uk/lib/mousetrap/tests/mousetrap.html</loc>
+    <lastmod>2015-03-30T14:56:43+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://alpha.history.newtheatre.org.uk/lib/ionicons/cheatsheet.html</loc>
     <lastmod>2015-01-03T20:02:30+00:00</lastmod>
   </url>
   <url>
     <loc>http://alpha.history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>
-    <lastmod>2015-04-26T20:52:16+00:00</lastmod>
+    <lastmod>2015-04-26T20:54:04+00:00</lastmod>
   </url>
 </urlset>

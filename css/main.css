@@ -2584,17 +2584,17 @@ table {
   text-shadow: 0 -1px 0 #5d2656; }
 
 .edit-tab {
-  top: 300px;
+  top: 290px;
   background: #5044a5;
   text-shadow: 0 -1px 0 #2d265d; }
 
 .history-tab {
-  top: 375px;
+  top: 355px;
   background: #4499a5;
   text-shadow: 0 -1px 0 #26565d; }
 
 .blame-tab {
-  top: 450px;
+  top: 420px;
   background: #44a550;
   text-shadow: 0 -1px 0 #265d2d; }
 

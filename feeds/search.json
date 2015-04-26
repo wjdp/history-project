@@ -266,7 +266,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-04-26 19:57\n  Build number 31\n.\n  6 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-04-26 20:12\n  Build number 34\n.\n  6 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": null,
@@ -322,7 +322,7 @@
         "title": "Editing",
         "type": "page",
         "group": "docs",
-        "content": "To edit the site you have several options, firstly though you must be added to the repository by an owner.\n\nEditing Online\n\nYou can then either use the GitHub website directly or Prose. Ensure you have a verified email address with GitHub otherwise your changes will not trigger a build.\n\nTo use the GitHub website use the  Edit This Page button to launch the editor. If you don’t have write access to the repo you will be prompted to create a fork and will be led through the process of creating a pull request.\n\nTo use Prose, visit the site and authorise with GitHub. Find the history-project repo to load up the file list. Navigate to the file you’re interested in and click ‘Edit’. You need write access to the repo to use Prose.\n\nMeta data can be edited on Prose by using one of the buttons on the far right.\n\nEditing Locally\n\nThis method requires a certain amount of technical knowledge.\n\nThis is the more complicated option, the benefits are you can use a desktop text editor and run the entire site on your machine to preview changes before they go live. You should have knowledge of Git and the command line to do this.\n\nDependences of this site are managed with Bundler, install it if you haven’t got it already and just do bundle install.\n\nTo get Jekyll up and running do bundle exec jekyll serve --watch, the site will then be available on http://localhost:4000.\n\nSyntaxes Used\n\nA combination of HTML and Markdown (Kramdown variant) is used for marking up our pages. YAML is used for meta data and is documented for shows, committees etc here.\n\nThe Kramdown syntax guide is useful for reference.\n",
+        "content": "To edit the site you have several options. To make direct edits you must be added to the repository by an owner however you can propose edits straight away for an editor to merge in.\n\nEditing Online\n\nYou can then either use the GitHub website directly or Prose. Ensure you have a verified email address with GitHub otherwise your changes will not trigger a build.\n\nGitHub\n\nTo use the GitHub website use the  Edit This Page button to launch the editor. If you don’t have write access to the repo you will be prompted to create a fork and will be led through the process of creating a pull request.\n\nProse\n\n\n\n You'll need write access to the repo to use Prose.\n\n\n\nTo use Prose, visit the site and authorise with GitHub. Find the history-project repo to load up the file list. Navigate to the file you’re interested in and click ‘Edit’.\n\nMeta data can be edited on Prose by using one of the buttons on the far right.\n\nEditing Locally\n\nThis method requires a certain amount of technical knowledge.\n\nThis is the more complicated option, the benefits are you can use a desktop text editor and run the entire site on your machine to preview changes before they go live. You should have knowledge of Git and the command line to do this.\n\nDependences of this site are managed with Bundler, install it if you haven’t got it already and just do bundle install.\n\nTo get Jekyll up and running do bundle exec jekyll serve --watch, the site will then be available on http://localhost:4000.\n\nSyntaxes Used\n\nA combination of HTML and Markdown (Kramdown variant) is used for marking up our pages. YAML is used for meta data and is documented for shows, committees etc here.\n\nThe Kramdown syntax guide is useful for reference.\n",
         "link": "/docs/editing/",
         "date": null,
         "excerpt": null,
@@ -350,6 +350,8 @@
     
 
     
+
+    
     ,{
         "title": "Site Documentation",
         "type": "page",
@@ -361,8 +363,6 @@
         "seach_omit": ""
     }
     
-    
-
     
 
     

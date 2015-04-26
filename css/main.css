@@ -2551,40 +2551,52 @@ table {
   border: none;
   padding: 7.225px; }
 
-.report-tab, .edit-tab {
+.side-tab {
   position: fixed;
-  top: 225px;
   right: -175px;
-  background: #A54499;
-  text-shadow: 0 -1px 0 #5d2656;
   opacity: 0.6;
   color: #eee;
   -webkit-transition: all ease-out 0.25s;
   -moz-transition: all ease-out 0.25s;
   transition: all ease-out 0.25s; }
-  .report-tab a, .edit-tab a {
+  .side-tab a {
     padding: 14.45px 28.9px;
     display: block;
     color: #eee; }
-  .report-tab i, .report-tab p, .edit-tab i, .edit-tab p {
+  .side-tab i, .side-tab p {
     line-height: 28.9px; }
-  .report-tab i, .edit-tab i {
+  .side-tab i {
     float: left;
     font-size: 34px;
     padding-right: 28.9px; }
-  .report-tab p, .edit-tab p {
+  .side-tab p {
     font-size: 17px;
     font-weight: bold;
     min-width: 200px; }
-  .report-tab:hover, .edit-tab:hover {
+  .side-tab:hover {
     right: 0px;
     opacity: 1;
     cursor: hand; }
 
+.report-tab {
+  top: 225px;
+  background: #A54499;
+  text-shadow: 0 -1px 0 #5d2656; }
+
 .edit-tab {
   top: 300px;
-  background: #4458a5;
-  text-shadow: 0 -1px 0 #26325d; }
+  background: #5044a5;
+  text-shadow: 0 -1px 0 #2d265d; }
+
+.history-tab {
+  top: 375px;
+  background: #4499a5;
+  text-shadow: 0 -1px 0 #26565d; }
+
+.blame-tab {
+  top: 450px;
+  background: #44a550;
+  text-shadow: 0 -1px 0 #265d2d; }
 
 .report {
   display: none; }

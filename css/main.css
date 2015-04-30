@@ -2624,6 +2624,10 @@ table {
   top: 50px;
   left: 50%;
   padding: 28.9px; }
+  .report-modal a {
+    color: #2083b7; }
+    .report-modal a:hover {
+      text-decoration: underline; }
 
 .report-close {
   position: absolute;

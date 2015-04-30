@@ -266,7 +266,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-04-29 11:41\n  Build number 43\n.\n  6 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-04-30 11:13\n  Build number 44\n.\n  6 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": null,
@@ -411,6 +411,20 @@
 
     
     ,{
+        "title": "Recent Changes",
+        "type": "page",
+        "group": "about",
+        "content": " Recent Changes\n\n30 Apr - Turn off debug output30 Apr - Attempt at variable adding via plugins\n\nDoesn't do anything at this time30 Apr - Start of show index30 Apr - Recent changes page, html filter added30 Apr - Links in report modal colour and underline29 Apr - Update 404.html\n\nMake img src absolute, fixes #5228 Apr - update tech summary28 Apr - Update photos_and_assets.md27 Apr - Add images from ticketing system, do compression.\n\nUncompressed was 150MB, compressed is 24MB. Closes #3426 Apr - Move utilities to bin\n",
+        "link": "/recent_changes/",
+        "date": null,
+        "excerpt": null,
+        "seach_omit": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "Roadmap",
         "type": "page",
         "group": "about",
@@ -446,6 +460,20 @@
         "group": "docs",
         "content": "This site aims to collect much information about past shows of the New Theatre.\n\nThe show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'.\n\n##  Attribute Reference\n\n| Attribute | Job | Description |\n|:-|:-|:-|\n| `layout` | Page layout | Sets the layout for the page, should always be set to `show`. |\n| `title` | Show title | Displayed at the top of the show page and on various other pages. |\n| `playwright` | Full name of the playwright |  |\n| `student_written` | Show written by an NT member | Set to `true`, `false` or line missing are equivalent. |\n| `season` | Season show belongs to | Choices: Autumn, Spring, Edinbugh |\n| `season_sort` | Order which this show comes in the entire year in a multiple of 10. | i.e. The Pillowman was the 7th show in the season, so the sort is 70. |\n| `year` | Year this show belongs to in the format YY_YY | i.e. The Pillowman was performed in the 2012-13 academic year so the year is \"12_13\" |\n| `venue` | Venue show was performed in. | There should only be one item in this list. |\n| `date_start` | Date of first performance | In the format YYYY-MM-DDD |\n| `date_end` | Date of last performance | In the format YYYY-MM-DDD |\n| `cast` | Cast members | Uses the [person list](/docs/person_list) format. |\n| `crew` | Crew members | Uses the [person list](/docs/person_list) format. |\n| `photos` | Production shots | Uses the [photos and assets](/docs/photos_and_assets) format. |\n| `assets` | Publicity and other materials | Uses the [photos and assets](/docs/photos_and_assets) format. |\n| `published` | *Not yet used!* Will in the future hide the show if set to false. |\n| `comments` | Reserved for editor comments, will **never** show up on the live site. |\n\n\n##  Example Show\n\n{% highlight yaml %}\n---\nlayout: show\ntitle: The Pillowman\nplaywright: Martin McDonagh\nseason: In House\nseason_sort: 70\nyear: \"12_13\"\nperiod: Autumn\nvenue:\n  - New Theatre\ndate_start: 12/12/2012\ndate_end: 15/12/2012\ncast:\n  - role: Katurian\n    name: Sam Haywood\n  - role: Ariel\n    name: Will Randall\ncrew:\n  - role: Director\n    name: James McAndrew\n  - role: Producer\n    name: Nick Stevenson\nphotos:\n  - type: photo\n    image: pillowman_crew.jpg\n    caption: \"Cast and Crew shot. From back left: Jess Courtney, Gareth Morris, Livvy Hobson, Dan O'Connor, Charlotte Ball, Jacob Hayes, James McAndrew, Nick Stevenson, Chelsea Jayne Wright, Emily Heaton. Bottom from left: Sam Haywood, Will Randall, Alex Hollingsworth\"\nassets:\n  - type: poster\n    image: pillowman_poster.jpg\n  - type: flyer\n    image: pillowman_flyer_2.png\n  - type: programme\n    filename: the_pillowman_programme.pdf\n    title: Programme\n\npublished: true\n---\n{% endhighlight %}\n\n",
         "link": "/docs/shows/",
+        "date": null,
+        "excerpt": null,
+        "seach_omit": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Show Index",
+        "type": "page",
+        "group": "",
+        "content": "# Show Index\n\n\n\n\n\nThis page relies on a plugin that hasn't quite been finished yet. Output may vary.\n\n\n\n{{ show_index }}\n\n{{ vars_enabled }}\n",
+        "link": "/shows/",
         "date": null,
         "excerpt": null,
         "seach_omit": ""

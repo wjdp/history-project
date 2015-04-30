@@ -266,6 +266,9 @@
     <loc>http://alpha.history.newtheatre.org.uk/docs/photos_and_assets/</loc>
   </url>
   <url>
+    <loc>http://alpha.history.newtheatre.org.uk/recent_changes/</loc>
+  </url>
+  <url>
     <loc>http://alpha.history.newtheatre.org.uk/roadmap/</loc>
   </url>
   <url>
@@ -273,6 +276,9 @@
   </url>
   <url>
     <loc>http://alpha.history.newtheatre.org.uk/docs/shows/</loc>
+  </url>
+  <url>
+    <loc>http://alpha.history.newtheatre.org.uk/shows/</loc>
   </url>
   <url>
     <loc>http://alpha.history.newtheatre.org.uk/years/</loc>

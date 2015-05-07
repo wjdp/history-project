@@ -10,14 +10,15 @@
   <meta name="description" content="New Theatre Alumni Network E: ntalumni@newtheatre.org.uk T: @ntalumni
 ">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600|Montserrat" />
-  <link rel='stylesheet' type='text/css' href='/bundles/c06847da4bb0311e9b1cbbf2048f8204.css' />
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://alpha.history.newtheatre.org.uk/search/">
-  <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://alpha.history.newtheatre.org.uk/feed.xml" />
+  <link rel='stylesheet' type='text/css' href='/bundles/8d2738bef73eaa27c54fb68016de1433.css' />
+  <link rel="stylesheet" href="/css/main.css?cachebust=201505071617">
+  <link rel="canonical" href="http://history.newtheatre.org.uk/search/">
+  <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://history.newtheatre.org.uk/feed.xml" />
+  <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
 </head>
 
 
-  <body>
+  <body class="search">
 
     <header class="site-header">
   <div class="wrapper">
@@ -31,7 +32,12 @@
       
         
         <i class="fa fa-ticket"></i> 
-        <a class="page-link" href="/years/">Show / Committee Archives</a>
+        <a class="page-link" href="/years/">Archives</a>
+        
+      
+        
+        <i class="fa fa-users"></i> 
+        <a class="page-link" href="/people/">Alumni</a>
         
       
         
@@ -39,6 +45,8 @@
         <a class="page-link" href="/history/">History</a>
         
       
+      <i class="octicon octicon-circuit-board"></i>
+      <a class="page-link" href="/about/">About</a>
     </nav>
     <div class="site-search">
       
@@ -75,6 +83,11 @@
 
 <div class="search-results">
   <!-- Search results placeholder -->
+  <div class="box-warning">
+    <i class="fa fa-exclamation-triangle"></i>
+    These search results are very much in beta. If you find any bugs, such as pages not showing up you know exist, please report them using the button on the right.
+  </div>
+
   <p data-search-found>
     <span data-search-found-count></span> result(s) found for &ldquo;<span data-search-found-term></span>&rdquo;.
   </p>
@@ -85,7 +98,34 @@
   <!-- Search result template -->
   <script type="text/x-template" id="search-result">
     <div>
-      <h3>##type## ##group## <a href="##Url##">##Title##</a></h3>
+    <% if (item.type == "show") { %>
+      <div class="search-result">
+        <h3 class="search-result-show-title">
+          <% if (item.poster_thumb_tag) { %><%= item.poster_thumb_tag %><% } else { %><i class="fa fa-ticket"></i><% } %>
+          <a href="<%= item.link %>"><%= item.title %></a>
+          <% if (item.playwright) { %><span class="search-result-playwright">by <%= item.playwright %></span><% } %>
+          </h3>
+        <p class="meta"><%= item.run %> at <%= item.venue %>, <%= item.season %> season</p>
+        <p><%= item.excerpt %></p>
+      </div>
+    <% } else { %>
+      <% if (item.group == "about") { %>
+        <div class="search-result">
+          <h3><i class="octicon octicon-circuit-board"></i> <a href="<%= item.link %>"><%= item.title %></a></h3>
+          <p><%= item.excerpt %></p>
+        </div>
+      <% } else if (item.group == "docs") { %>
+        <div class="search-result">
+          <h3><i class="fa fa-file-text-o"></i> <a href="<%= item.link %>"><%= item.title %></a></h3>
+          <p><%= item.excerpt %></p>
+        </div>
+      <% } else { %>
+        <div class="search-result">
+          <h3><i class="fa fa-file"></i> <a href="<%= item.link %>"><%= item.title %></a></h3>
+          <p><%= item.excerpt %></p>
+        </div>
+      <% } %>
+    <% } %>
     </div>
   </script>
 
@@ -107,7 +147,7 @@
     </div>
     <div class="footer-col">
       <h5>Contributing</h5>
-      <p>This project needs your help. If you have stuff, we want stuff. See the <a href="/contributing">contributing</a> page for more details.</p>
+      <p>This project needs your help. If you have stuff, we want stuff. See the <a href="/contributing/">contributing</a> page for more details.</p>
     </div>
     <div class="footer-col">
       <h5>About this site</h5>
@@ -124,22 +164,6 @@
 <div id="report-this-page" class="side-tab report-tab">
   <a href="#">
     <i class="octicon octicon-issue-opened"></i><p class="report-tab-text">Report This Page</p>
-  </a>
-</div>
-
-<div class="side-tab edit-tab">
-  <a href="https://github.com/newtheatre/history-project/edit/master/search.html">
-    <i class="octicon octicon octicon-pencil"></i><p class="report-tab-text">Edit This Page</p>
-  </a>
-</div>
-<div class="side-tab history-tab">
-  <a href="https://github.com/newtheatre/history-project/commits/master/search.html">
-    <i class="octicon octicon octicon-history"></i><p class="report-tab-text">Page History</p>
-  </a>
-</div>
-<div class="side-tab blame-tab">
-  <a href="https://github.com/newtheatre/history-project/blame/master/search.html">
-    <i class="octicon octicon octicon-microscope"></i><p class="report-tab-text">Blame</p>
   </a>
 </div>
 

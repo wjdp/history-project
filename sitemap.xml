@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://history.newtheatre.org.uk/jekyll/update/2015/04/13/welcome-to-jekyll/</loc>
-    <lastmod>2015-04-13T20:22:39+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://history.newtheatre.org.uk/years/00_01/</loc>
   </url>
   <url>
@@ -354,6 +350,10 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/committees/99_00.html</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/googlee5aee69e17917677.html</loc>
+    <lastmod>2015-05-07T16:30:02+00:00</lastmod>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>

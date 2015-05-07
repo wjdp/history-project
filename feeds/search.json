@@ -295,10 +295,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-07 17:23\n  Build number 52\n.\n  6 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-07 17:24\n  Build number 53\n.\n  6 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-07 17:23\n  Build number 52\n.\n  6 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-07 17:24\n  Build number 53\n.\n  6 shows and 18 committees.\n\n"
     }
     
     
@@ -433,10 +433,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n07 May - Update site.description to more SEO friendly07 May - Cross off first milestone on roadmap07 May - JSONLint the search JSON file07 May - Search by playwright07 May - Google site verification, remove all placeholder posts07 May - Attempt to fix non-caching rubygems with travis07 May - Correct some broken links re alpha -&gt; history domain07 May - Remove side-tabs on mobile viewports, closes #5507 May - Improvements, behaviour and styling of search\n\n- Exclude pages from results (index pages, special pages)\n- Use underscore templating for show results, increases capability of content organisation\n- Show posters on show results, show meta data, seach pays attention to cast and crew lists, closes #2\n- Search results styling\n- Search results 'beta' message\n\nAll in all I think this closes #2307 May - Set navbar, closes #24\n\nWe now have Archives, Alumni, History and About\n",
+        "content": " Recent Changes\n\n07 May - site.description single line07 May - Update site.description to more SEO friendly07 May - Cross off first milestone on roadmap07 May - JSONLint the search JSON file07 May - Search by playwright07 May - Google site verification, remove all placeholder posts07 May - Attempt to fix non-caching rubygems with travis07 May - Correct some broken links re alpha -&gt; history domain07 May - Remove side-tabs on mobile viewports, closes #5507 May - Improvements, behaviour and styling of search\n\n- Exclude pages from results (index pages, special pages)\n- Use underscore templating for show results, increases capability of content organisation\n- Show posters on show results, show meta data, seach pays attention to cast and crew lists, closes #2\n- Search results styling\n- Search results 'beta' message\n\nAll in all I think this closes #23\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 07 May - Update site.description to more SEO friendly07 May - Cross off first milestone on roadmap07 May - JSONLint the search JSON file07 May - Search by playwright07 May - Google site verification, remove all placeholder posts07 May - Attempt to fix non-caching rubygems with travis07 May..."
+        "excerpt": "Recent Changes 07 May - site.description single line07 May - Update site.description to more SEO friendly07 May - Cross off first milestone on roadmap07 May - JSONLint the search JSON file07 May - Search by playwright07 May - Google site verification, remove all placeholder posts07 May - Attempt to fix..."
     }
     
     

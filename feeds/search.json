@@ -307,10 +307,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-07 16:22\n  Build number 48\n.\n  6 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-07 16:25\n  Build number 49\n.\n  6 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-07 16:22\n  Build number 48\n.\n  6 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-07 16:25\n  Build number 49\n.\n  6 shows and 18 committees.\n\n"
     }
     
     
@@ -445,10 +445,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n07 May - Correct some broken links re alpha -&gt; history domain07 May - Remove side-tabs on mobile viewports, closes #5507 May - Improvements, behaviour and styling of search\n\n- Exclude pages from results (index pages, special pages)\n- Use underscore templating for show results, increases capability of content organisation\n- Show posters on show results, show meta data, seach pays attention to cast and crew lists, closes #2\n- Search results styling\n- Search results 'beta' message\n\nAll in all I think this closes #2307 May - Set navbar, closes #24\n\nWe now have Archives, Alumni, History and About07 May - Favicon added, closes #49\n\nNot 100% on the design07 May - Increase poster thumb size from 400 to 440, fixes #4207 May - Fix issues with bundled CSS assets\n\n- Added cachebust to main.css (Sass)\n- Added $site-url var to Sass build (= {{site.url}})\n- Migrated fancybox styling to VC\n- Octicons and fancybox working again, closes #5807 May - Drop alpha. from domain.\n\nOld wiki site at wiki.history.newtheatre.org.uk, closes #5007 May - Rename Jekyll page contributing.md\n\nas conflicts with the GitHub expected guidelines for contributing doc, closes #5701 May - Update bundle install for travis to travis' version\n",
+        "content": " Recent Changes\n\n07 May - Attempt to fix non-caching rubygems with travis07 May - Correct some broken links re alpha -&gt; history domain07 May - Remove side-tabs on mobile viewports, closes #5507 May - Improvements, behaviour and styling of search\n\n- Exclude pages from results (index pages, special pages)\n- Use underscore templating for show results, increases capability of content organisation\n- Show posters on show results, show meta data, seach pays attention to cast and crew lists, closes #2\n- Search results styling\n- Search results 'beta' message\n\nAll in all I think this closes #2307 May - Set navbar, closes #24\n\nWe now have Archives, Alumni, History and About07 May - Favicon added, closes #49\n\nNot 100% on the design07 May - Increase poster thumb size from 400 to 440, fixes #4207 May - Fix issues with bundled CSS assets\n\n- Added cachebust to main.css (Sass)\n- Added $site-url var to Sass build (= {{site.url}})\n- Migrated fancybox styling to VC\n- Octicons and fancybox working again, closes #5807 May - Drop alpha. from domain.\n\nOld wiki site at wiki.history.newtheatre.org.uk, closes #5007 May - Rename Jekyll page contributing.md\n\nas conflicts with the GitHub expected guidelines for contributing doc, closes #57\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 07 May - Correct some broken links re alpha -&gt; history domain07 May - Remove side-tabs on mobile viewports, closes #5507 May - Improvements, behaviour and styling of search - Exclude pages from results (index pages, special pages) - Use underscore templating for show results, increases capability of..."
+        "excerpt": "Recent Changes 07 May - Attempt to fix non-caching rubygems with travis07 May - Correct some broken links re alpha -&gt; history domain07 May - Remove side-tabs on mobile viewports, closes #5507 May - Improvements, behaviour and styling of search - Exclude pages from results (index pages, special pages) -..."
     }
     
     

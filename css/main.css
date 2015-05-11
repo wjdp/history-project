@@ -5429,6 +5429,32 @@ html {
   color: #ae81ff; }
 
 /* Literal.Number.Integer.Long */
+.debug-build-details {
+  display: none;
+  font-family: monospace;
+  font-size: 11.5px;
+  font-weight: bold;
+  background: #000;
+  color: #4FFF1F;
+  padding: 1px 3px;
+  z-index: 9000;
+  position: fixed;
+  top: 2px;
+  left: 2px; }
+
+.debug-mode {
+  display: none;
+  font-family: monospace;
+  font-size: 11.5px;
+  font-weight: bold;
+  background: #000;
+  color: #4FFF1F;
+  padding: 1px 3px;
+  z-index: 9000;
+  position: fixed;
+  top: 2px;
+  right: 2px; }
+
 * {
   font-family: "Open Sans", Helvetica, sans-serif;
   -webkit-tap-highlight-color: transparent; }
@@ -7007,9 +7033,23 @@ table {
   .decade-list li {
     padding-bottom: 0; }
   .decade-list li {
-    padding-bottom: 0; }
+    padding-bottom: 0;
+    position: relative; }
   .decade-list .empty a {
     color: #828282; }
+
+.decade-list-counts {
+  display: none;
+  font-family: monospace;
+  font-size: 11.5px;
+  font-weight: bold;
+  background: #000;
+  color: #4FFF1F;
+  padding: 1px 3px;
+  z-index: 9000;
+  position: absolute;
+  right: 0;
+  top: 2px; }
 
 .decade-194 h3 {
   background: #601123;

@@ -295,10 +295,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-11 00:49\n  Build number 54\n.\n  6 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-11 01:23\n  Build number 55\n.\n  6 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-11 00:49\n  Build number 54\n.\n  6 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-11 01:23\n  Build number 55\n.\n  6 shows and 18 committees.\n\n"
     }
     
     
@@ -377,7 +377,7 @@
         "title": "Site Documentation",
         "type": "page",
         "group": "docs",
-        "content": "The aim of the backend of this site to to strike a balance between making a powerful site and making that site easy to edit. For the bits that aren’t that easy here’s the documentation!\n\nTechnical Summary\n\nThe source for this site is kept in a GitHub repository, this keeps a full history of all changes and allows broad collaboration.\n\nPages, layouts and styling is all kept in plain text. The Jekyll static site generator - which runs on every authorised change from a Travis CI build - then turns the constituent parts of the project into the built site in front of you. The built site is hosted from the gh-pages branch of the repo by the  GitHub Pages service.\n",
+        "content": "The aim of the backend of this site to to strike a balance between making a powerful site and making that site easy to edit. For the bits that aren’t that easy here’s the documentation!\n\nTechnical Summary\n\nThe source for this site is kept in a GitHub repository, this keeps a full history of all changes and allows broad collaboration.\n\nPages, layouts and styling is all kept in plain text. The Jekyll static site generator - which runs on every authorised change from a Travis CI build - then turns the constituent parts of the project into the built site in front of you. The built site is hosted from the gh-pages branch of the repo by the  GitHub Pages service.\n\nSuper Secret Editors Mode\n\nIf you type the word editor - go on try it - while this site is active you’ll enable a secret editors’ / debuggy mode. Extra (ugly) content will be shown - for example show counts next to years on the archive page. If these items seem a bit cryptic hover over them and hope someone left a tooltip description.\n",
         "link": "/docs/",
         "date": null,
         "excerpt": "The aim of the backend of this site to to strike a balance between making a powerful site and making that site easy to edit. For the bits that aren’t that easy here’s the documentation! Technical Summary The source for this site is kept in a GitHub repository, this keeps..."
@@ -433,10 +433,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n11 May - Style breadcrumbs on /years and shows better\n\ncloses #6107 May - typo07 May - site.description single line07 May - Update site.description to more SEO friendly07 May - Cross off first milestone on roadmap07 May - JSONLint the search JSON file07 May - Search by playwright07 May - Google site verification, remove all placeholder posts07 May - Attempt to fix non-caching rubygems with travis07 May - Correct some broken links re alpha -&gt; history domain\n",
+        "content": " Recent Changes\n\n11 May - Add editors' mode, type e d i t o r into the site11 May - Style breadcrumbs on /years and shows better\n\ncloses #6107 May - typo07 May - site.description single line07 May - Update site.description to more SEO friendly07 May - Cross off first milestone on roadmap07 May - JSONLint the search JSON file07 May - Search by playwright07 May - Google site verification, remove all placeholder posts07 May - Attempt to fix non-caching rubygems with travis\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 11 May - Style breadcrumbs on /years and shows better closes #6107 May - typo07 May - site.description single line07 May - Update site.description to more SEO friendly07 May - Cross off first milestone on roadmap07 May - JSONLint the search JSON file07 May - Search by playwright07..."
+        "excerpt": "Recent Changes 11 May - Add editors' mode, type e d i t o r into the site11 May - Style breadcrumbs on /years and shows better closes #6107 May - typo07 May - site.description single line07 May - Update site.description to more SEO friendly07 May - Cross off first..."
     }
     
     

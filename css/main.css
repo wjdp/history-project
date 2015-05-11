@@ -5805,44 +5805,47 @@ table {
     background: #0c2f42; }
 
 .breadcrumbs {
-  margin: 0 auto;
-  overflow: auto;
-  position: relative;
-  padding-left: 8px;
-  padding-right: 8px;
-  margin-bottom: 28.9px;
-  list-style: none;
-  overflow: hidden; }
-  @media only screen and (min-width: 480px) {
-    .breadcrumbs {
-      padding-left: 8px;
-      padding-right: 8px; } }
-  @media only screen and (min-width: 768px) {
-    .breadcrumbs {
-      padding-left: 2%;
-      padding-right: 2%; } }
-  @media only screen and (min-width: 1024px) {
-    .breadcrumbs {
-      padding-left: 4%;
-      padding-right: 4%; } }
-  @media only screen and (min-width: 1200px) {
-    .breadcrumbs {
-      padding-left: 8%;
-      padding-right: 8%; } }
-  @media only screen and (min-width: 1490px) {
-    .breadcrumbs {
-      padding-left: 14%;
-      padding-right: 14%;
-      max-width: 2000px; } }
+  background: #373236; }
+  .breadcrumbs .breadcrumb-list {
+    margin: 0 auto;
+    overflow: auto;
+    position: relative;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-top: -57.8px;
+    margin-left: 0;
+    margin-bottom: 28.9px;
+    list-style: none;
+    overflow: hidden; }
+    @media only screen and (min-width: 480px) {
+      .breadcrumbs .breadcrumb-list {
+        padding-left: 8px;
+        padding-right: 8px; } }
+    @media only screen and (min-width: 768px) {
+      .breadcrumbs .breadcrumb-list {
+        padding-left: 2%;
+        padding-right: 2%; } }
+    @media only screen and (min-width: 1024px) {
+      .breadcrumbs .breadcrumb-list {
+        padding-left: 4%;
+        padding-right: 4%; } }
+    @media only screen and (min-width: 1200px) {
+      .breadcrumbs .breadcrumb-list {
+        padding-left: 8%;
+        padding-right: 8%; } }
+    @media only screen and (min-width: 1490px) {
+      .breadcrumbs .breadcrumb-list {
+        padding-left: 14%;
+        padding-right: 14%;
+        max-width: 2000px; } }
 
 .breadcrumbs li {
   padding-bottom: 0; }
 
 .breadcrumbs li a {
-  color: white;
+  color: #eee;
   text-decoration: none;
-  padding: 10px 0 10px 65px;
-  background: #424242;
+  padding: 10px 10px 10px 65px;
   position: relative;
   display: block;
   float: left; }
@@ -5854,7 +5857,7 @@ table {
   height: 0;
   border-top: 50px solid transparent;
   border-bottom: 50px solid transparent;
-  border-left: 30px solid #424242;
+  border-left: 30px solid #373236;
   position: absolute;
   top: 50%;
   margin-top: -50px;
@@ -5868,17 +5871,16 @@ table {
   height: 0;
   border-top: 50px solid transparent;
   border-bottom: 50px solid transparent;
-  border-left: 30px solid white;
+  border-left: 30px solid #f1f1f1;
   position: absolute;
   top: 50%;
   margin-top: -50px;
-  margin-left: 1px;
+  margin-left: 2px;
   left: 100%;
   z-index: 1; }
 
 .breadcrumbs li:first-child a {
-  padding-left: 10px;
-  border-radius: 6px 0 0 6px; }
+  padding-left: 10px; }
 
 .breadcrumbs li:nth-child(2) a {
   background: #242424; }
@@ -5903,12 +5905,6 @@ table {
 
 .breadcrumbs li:nth-child(5) a:after {
   border-left-color: #141414; }
-
-.breadcrumbs li:first-child a:hover {
-  background: #2e2e2e; }
-
-.breadcrumbs li:first-child a:hover:after {
-  border-left-color: #2e2e2e !important; }
 
 /*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
 .fancybox-wrap,

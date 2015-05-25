@@ -1103,28 +1103,6 @@
 
     
     ,{
-        "title": "The Imaginary Invalid",
-        "type": "show",
-        
-        
-        
-        "year_title": "1974 - 75",
-        "content": "The Imaginary Invalid (French: Le malade imaginaire) is a three-act comédie-ballet by the French playwright Molière with dance sequences and musical interludes by Marc-Antoine Charpentier.\n",
-        "playwright": "Molière",
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/74_75/the_imaginary_invalid.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "The Imaginary Invalid (French: Le malade imaginaire) is a three-act comédie-ballet by the French playwright Molière with dance sequences and musical interludes by Marc-Antoine Charpentier.\n",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "The Threepenny Opera",
         "type": "show",
         
@@ -1307,10 +1285,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:59\n  Build number 222\n.\n  52 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 12:00\n  Build number 221\n.\n  51 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:59\n  Build number 222\n.\n  52 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 12:00\n  Build number 221\n.\n  51 shows and 18 committees.\n\n"
     }
     
     
@@ -1445,10 +1423,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Updated the_imaginary_invalid.md25 May - Created 2015-05-25-the-imaginary-invalid.md25 May - Deleted 2015-05-25-the-threepenny-opera.md25 May - Updated the_threepenny_opera.md25 May - Created 2015-05-25-the-threepenny-opera.md25 May - Deleted 2015-05-25-the-real-inspector-hound.md25 May - Updated the_real_inspector_hound.md25 May - Created 2015-05-25-the-real-inspector-hound.md25 May - Deleted 2015-05-25-the-golden-pathway-annual.md25 May - Updated the_golden_pathway-annual.md\n",
+        "content": " Recent Changes\n\n25 May - Created 2015-05-25-the-imaginary-invalid.md25 May - Deleted 2015-05-25-the-threepenny-opera.md25 May - Updated the_threepenny_opera.md25 May - Created 2015-05-25-the-threepenny-opera.md25 May - Deleted 2015-05-25-the-real-inspector-hound.md25 May - Updated the_real_inspector_hound.md25 May - Created 2015-05-25-the-real-inspector-hound.md25 May - Deleted 2015-05-25-the-golden-pathway-annual.md25 May - Updated the_golden_pathway-annual.md25 May - Created 2015-05-25-the-golden-pathway-annual.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Updated the_imaginary_invalid.md25 May - Created 2015-05-25-the-imaginary-invalid.md25 May - Deleted 2015-05-25-the-threepenny-opera.md25 May - Updated the_threepenny_opera.md25 May - Created 2015-05-25-the-threepenny-opera.md25 May - Deleted 2015-05-25-the-real-inspector-hound.md25 May - Updated the_real_inspector_hound.md25 May - Created 2015-05-25-the-real-inspector-hound.md25 May - Deleted 2015-05-25-the-golden-pathway-annual.md25 May - Updated the_golden_pathway-annual.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-the-imaginary-invalid.md25 May - Deleted 2015-05-25-the-threepenny-opera.md25 May - Updated the_threepenny_opera.md25 May - Created 2015-05-25-the-threepenny-opera.md25 May - Deleted 2015-05-25-the-real-inspector-hound.md25 May - Updated the_real_inspector_hound.md25 May - Created 2015-05-25-the-real-inspector-hound.md25 May - Deleted 2015-05-25-the-golden-pathway-annual.md25 May - Updated the_golden_pathway-annual.md25 May - Created 2015-05-25-the-golden-pathway-annual.md\n"
     }
     
     

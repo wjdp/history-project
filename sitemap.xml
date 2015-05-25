@@ -367,9 +367,6 @@
     <loc>http://history.newtheatre.org.uk/shows/71_72/under_milk_wood.html</loc>
   </url>
   <url>
-    <loc>http://history.newtheatre.org.uk/shows/72_73/2015-05-25-vatzlav.html</loc>
-  </url>
-  <url>
     <loc>http://history.newtheatre.org.uk/shows/72_73/erpingham_camp.html</loc>
   </url>
   <url>
@@ -401,6 +398,9 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/shows/72_73/tis_pity_shes_a_whore.html</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/shows/72_73/vatzlav.html</loc>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/shows/72_73/whos_afraid_of_virginia_woolf.html</loc>
@@ -461,7 +461,7 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/googlee5aee69e17917677.html</loc>
-    <lastmod>2015-05-25T11:32:17+00:00</lastmod>
+    <lastmod>2015-05-25T11:32:33+00:00</lastmod>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>

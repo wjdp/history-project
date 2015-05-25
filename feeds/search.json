@@ -641,20 +641,20 @@
 
     
     ,{
-        "title": "Penthesilea",
+        "title": "Everyman",
         "type": "show",
         
         
         
         "year_title": "1972 - 73",
-        "content": "Penthesilea (1808) is a tragedy by the German playwright Heinrich von Kleist about the mythological Amazon queen, Penthesilea, described as an exploration of sexual frenzy. Goethe rejected it as “unplayable”.\n",
-        "playwright": "Heinrich von Kleist",
+        "content": "The Somonyng of Everyman (The Summoning of Everyman), usually referred to simply as Everyman, is a late 15th-century morality play. Like John Bunyan’s 1678 Christian novel The Pilgrim’s Progress, Everyman uses allegorical characters to examine the question of Christian salvation and what Man must do to attain it. The premise is that the good and evil deeds of one’s life will be tallied by God after death, as in a ledger book. The play is the allegorical accounting of the life of Everyman, who represents all mankind. In the course of the action, Everyman tries to convince other characters to accompany him in the hope of improving his account. All the characters are also allegorical, each personifying an abstract idea such as Fellowship, (material) Goods, and Knowledge. The conflict between good and evil is dramatised by the interactions between characters. Everyman is being singled out because it is difficult for him to find characters to accompany him on his pilgrimage. Everyman eventually realizes through this pilgrimage that he is essentially alone, despite all the personified characters that were supposed necessities and friends to him. Everyman learns that when you are brought to death and placed before God all you are left with is your own good deeds.\n",
+        "playwright": "Anon",
         "season": "In House",
         "venue": ["New Theatre"],
-        "link": "/shows/72_73/2015-05-25-penthesilea.html",
+        "link": "/shows/72_73/everyman.html",
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "Penthesilea (1808) is a tragedy by the German playwright Heinrich von Kleist about the mythological Amazon queen, Penthesilea, described as an exploration of sexual frenzy. Goethe rejected it as “unplayable”.\n",
+        "excerpt": "The Somonyng of Everyman (The Summoning of Everyman), usually referred to simply as Everyman, is a late 15th-century morality play. Like John Bunyan’s 1678 Christian novel The Pilgrim’s Progress, Everyman uses allegorical characters to examine the question of Christian salvation and what Man must do to attain it. The premise...",
         "cast": "",
         "crew": ""
     }
@@ -699,6 +699,28 @@
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
         "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Penthesilea",
+        "type": "show",
+        
+        
+        
+        "year_title": "1972 - 73",
+        "content": "Penthesilea (1808) is a tragedy by the German playwright Heinrich von Kleist about the mythological Amazon queen, Penthesilea, described as an exploration of sexual frenzy. Goethe rejected it as “unplayable”.\n",
+        "playwright": "Heinrich von Kleist",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/72_73/penthesilea.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "Penthesilea (1808) is a tragedy by the German playwright Heinrich von Kleist about the mythological Amazon queen, Penthesilea, described as an exploration of sexual frenzy. Goethe rejected it as “unplayable”.\n",
         "cast": "",
         "crew": ""
     }
@@ -867,10 +889,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:15\n  Build number 159\n.\n  32 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:17\n  Build number 163\n.\n  33 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:15\n  Build number 159\n.\n  32 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:17\n  Build number 163\n.\n  33 shows and 18 committees.\n\n"
     }
     
     
@@ -1005,10 +1027,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Created 2015-05-25-penthesilea.md25 May - Deleted 2015-05-25-messidor.md25 May - Updated messidor.md25 May - Created 2015-05-25-messidor.md25 May - Updated beneath_the_daschund.md25 May - Deleted 2015-05-25-measure-for-measure.md25 May - Updated measure_for_measure.md25 May - Created 2015-05-25-measure-for-measure.md25 May - Deleted 2015-05-25-beneath-the-daschund.md25 May - Updated beneath_the_daschund.md\n",
+        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-everyman.md25 May - Updated everyman.md25 May - Created 2015-05-25-everyman.md25 May - Deleted 2015-05-25-penthesilea.md25 May - Updated penthesilea.md25 May - Created 2015-05-25-penthesilea.md25 May - Deleted 2015-05-25-messidor.md25 May - Updated messidor.md25 May - Created 2015-05-25-messidor.md25 May - Updated beneath_the_daschund.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-penthesilea.md25 May - Deleted 2015-05-25-messidor.md25 May - Updated messidor.md25 May - Created 2015-05-25-messidor.md25 May - Updated beneath_the_daschund.md25 May - Deleted 2015-05-25-measure-for-measure.md25 May - Updated measure_for_measure.md25 May - Created 2015-05-25-measure-for-measure.md25 May - Deleted 2015-05-25-beneath-the-daschund.md25 May - Updated beneath_the_daschund.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-everyman.md25 May - Updated everyman.md25 May - Created 2015-05-25-everyman.md25 May - Deleted 2015-05-25-penthesilea.md25 May - Updated penthesilea.md25 May - Created 2015-05-25-penthesilea.md25 May - Deleted 2015-05-25-messidor.md25 May - Updated messidor.md25 May - Created 2015-05-25-messidor.md25 May - Updated beneath_the_daschund.md\n"
     }
     
     

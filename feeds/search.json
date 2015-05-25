@@ -2027,28 +2027,6 @@
 
     
     ,{
-        "title": "Twice Nightly",
-        "type": "show",
-        
-        
-        
-        "year_title": "1997 - 98",
-        "content": "\n",
-        "playwright": null,
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/97_98/2015-05-25-twice-nightly.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "\n",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "Bouncers",
         "type": "show",
         
@@ -2192,6 +2170,28 @@
         "season": "In House",
         "venue": ["New Theatre"],
         "link": "/shows/97_98/the_trial.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Twice Nightly",
+        "type": "show",
+        
+        
+        
+        "year_title": "1997 - 98",
+        "content": "\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/97_98/twice_nightly.html",
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
         "excerpt": "\n",
@@ -2363,10 +2363,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:56\n  Build number 376\n.\n  100 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:57\n  Build number 378\n.\n  100 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:56\n  Build number 376\n.\n  100 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:57\n  Build number 378\n.\n  100 shows and 18 committees.\n\n"
     }
     
     
@@ -2501,10 +2501,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Created 2015-05-25-twice-nightly.md25 May - Deleted 2015-05-25-fame-the-musical.md25 May - Updated fame_the_musical.md25 May - Created 2015-05-25-fame-the-musical.md25 May - Deleted 2015-05-25-loose-knots.md25 May - Updated loose_knots.md25 May - Created 2015-05-25-loose-knots.md25 May - Deleted 2015-05-25-the-changeling.md25 May - Updated the_changeling.md25 May - Created 2015-05-25-the-changeling.md\n",
+        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-twice-nightly.md25 May - Updated twice_nightly.md25 May - Created 2015-05-25-twice-nightly.md25 May - Deleted 2015-05-25-fame-the-musical.md25 May - Updated fame_the_musical.md25 May - Created 2015-05-25-fame-the-musical.md25 May - Deleted 2015-05-25-loose-knots.md25 May - Updated loose_knots.md25 May - Created 2015-05-25-loose-knots.md25 May - Deleted 2015-05-25-the-changeling.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-twice-nightly.md25 May - Deleted 2015-05-25-fame-the-musical.md25 May - Updated fame_the_musical.md25 May - Created 2015-05-25-fame-the-musical.md25 May - Deleted 2015-05-25-loose-knots.md25 May - Updated loose_knots.md25 May - Created 2015-05-25-loose-knots.md25 May - Deleted 2015-05-25-the-changeling.md25 May - Updated the_changeling.md25 May - Created 2015-05-25-the-changeling.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-twice-nightly.md25 May - Updated twice_nightly.md25 May - Created 2015-05-25-twice-nightly.md25 May - Deleted 2015-05-25-fame-the-musical.md25 May - Updated fame_the_musical.md25 May - Created 2015-05-25-fame-the-musical.md25 May - Deleted 2015-05-25-loose-knots.md25 May - Updated loose_knots.md25 May - Created 2015-05-25-loose-knots.md25 May - Deleted 2015-05-25-the-changeling.md\n"
     }
     
     

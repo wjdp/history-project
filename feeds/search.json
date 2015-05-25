@@ -2605,10 +2605,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 23:37\n  Build number 426\n.\n  111 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 23:50\n  Build number 427\n.\n  111 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 23:37\n  Build number 426\n.\n  111 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 23:50\n  Build number 427\n.\n  111 shows and 18 committees.\n\n"
     }
     
     
@@ -2743,10 +2743,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925 May - Travis and Gemnasium badges in debug mode25 May - Hide unassigned show box, show with debug, #2825 May - Fix decade-list columns on FF, closes #67\n\nAnd any other browser other than webkit25 May - Try and fix octicons again again, #58\n\nNow using my fork of octicons that allows for user specified font location rather than a jury rigged bugfix.25 May - Try and fix octicons again, #5825 May - Show year on search results even when exact dates are unknown\n\nCloses #7625 May - Done better with the Next / Previous year buttons\n\nCloses #33, Also now have next / prev show buttons.\n",
+        "content": " Recent Changes\n\n25 May - Replace heap with GA, #8125 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925 May - Travis and Gemnasium badges in debug mode25 May - Hide unassigned show box, show with debug, #2825 May - Fix decade-list columns on FF, closes #67\n\nAnd any other browser other than webkit25 May - Try and fix octicons again again, #58\n\nNow using my fork of octicons that allows for user specified font location rather than a jury rigged bugfix.25 May - Try and fix octicons again, #5825 May - Show year on search results even when exact dates are unknown\n\nCloses #76\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 25 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925 May - Travis and Gemnasium badges in debug mode25 May - Hide unassigned show box, show with debug, #2825 May - Fix decade-list columns on..."
+        "excerpt": "Recent Changes 25 May - Replace heap with GA, #8125 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925 May - Travis and Gemnasium badges in debug mode25 May - Hide unassigned show box, show with debug,..."
     }
     
     

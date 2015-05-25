@@ -201,28 +201,6 @@
 
     
     ,{
-        "title": "The Proposal",
-        "type": "show",
-        
-        
-        
-        "year_title": "1955 - 56",
-        "content": "\n",
-        "playwright": null,
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/55_56/2015-05-25-the-proposal.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "\n",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "The Alchemist",
         "type": "show",
         
@@ -427,10 +405,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:38\n  Build number 85\n.\n  12 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:38\n  Build number 86\n.\n  11 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:38\n  Build number 85\n.\n  12 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:38\n  Build number 86\n.\n  11 shows and 18 committees.\n\n"
     }
     
     
@@ -565,10 +543,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Updated the_proposal.md25 May - Created 2015-05-25-the-proposal.md25 May - Updated the_alchemist.md25 May - Updated the_cherry_orchard.md25 May - Deleted 2015-05-25-the-alchemist.md25 May - Updated the_alchemist.md25 May - Created 2015-05-25-the-alchemist.md25 May - Updated the_cherry_orchard.md25 May - Updated the_cherry_orchard.md25 May - Deleted 2015-05-25-the-cherry-orchard.md\n",
+        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-the-proposal.md25 May - Updated the_proposal.md25 May - Created 2015-05-25-the-proposal.md25 May - Updated the_alchemist.md25 May - Updated the_cherry_orchard.md25 May - Deleted 2015-05-25-the-alchemist.md25 May - Updated the_alchemist.md25 May - Created 2015-05-25-the-alchemist.md25 May - Updated the_cherry_orchard.md25 May - Updated the_cherry_orchard.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Updated the_proposal.md25 May - Created 2015-05-25-the-proposal.md25 May - Updated the_alchemist.md25 May - Updated the_cherry_orchard.md25 May - Deleted 2015-05-25-the-alchemist.md25 May - Updated the_alchemist.md25 May - Created 2015-05-25-the-alchemist.md25 May - Updated the_cherry_orchard.md25 May - Updated the_cherry_orchard.md25 May - Deleted 2015-05-25-the-cherry-orchard.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-the-proposal.md25 May - Updated the_proposal.md25 May - Created 2015-05-25-the-proposal.md25 May - Updated the_alchemist.md25 May - Updated the_cherry_orchard.md25 May - Deleted 2015-05-25-the-alchemist.md25 May - Updated the_alchemist.md25 May - Created 2015-05-25-the-alchemist.md25 May - Updated the_cherry_orchard.md25 May - Updated the_cherry_orchard.md\n"
     }
     
     

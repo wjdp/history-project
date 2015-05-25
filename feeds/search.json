@@ -1543,6 +1543,28 @@
 
     
     ,{
+        "title": "Jekyll & Hyde",
+        "type": "show",
+        
+        
+        
+        "year_title": "1995 - 96",
+        "content": "\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/95_96/2015-05-25-jekyll-hyde.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "Frankenstein",
         "type": "show",
         
@@ -1769,10 +1791,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:11\n  Build number 295\n.\n  73 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:11\n  Build number 296\n.\n  74 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:11\n  Build number 295\n.\n  73 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:11\n  Build number 296\n.\n  74 shows and 18 committees.\n\n"
     }
     
     
@@ -1907,10 +1929,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-grease-the-musical.md25 May - Updated grease_the_musical.md25 May - Created 2015-05-25-grease-the-musical.md25 May - Deleted 2015-05-25-the-bear.md25 May - Updated the_bear.md25 May - Created 2015-05-25-the-bear.md25 May - Updated frankenstein.md25 May - Updated frankenstein.md25 May - Deleted frankenstein.txt25 May - Updated frankenstein.md\n",
+        "content": " Recent Changes\n\n25 May - Created 2015-05-25-jekyll-hyde.md25 May - Deleted 2015-05-25-grease-the-musical.md25 May - Updated grease_the_musical.md25 May - Created 2015-05-25-grease-the-musical.md25 May - Deleted 2015-05-25-the-bear.md25 May - Updated the_bear.md25 May - Created 2015-05-25-the-bear.md25 May - Updated frankenstein.md25 May - Updated frankenstein.md25 May - Deleted frankenstein.txt\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-grease-the-musical.md25 May - Updated grease_the_musical.md25 May - Created 2015-05-25-grease-the-musical.md25 May - Deleted 2015-05-25-the-bear.md25 May - Updated the_bear.md25 May - Created 2015-05-25-the-bear.md25 May - Updated frankenstein.md25 May - Updated frankenstein.md25 May - Deleted frankenstein.txt25 May - Updated frankenstein.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-jekyll-hyde.md25 May - Deleted 2015-05-25-grease-the-musical.md25 May - Updated grease_the_musical.md25 May - Created 2015-05-25-grease-the-musical.md25 May - Deleted 2015-05-25-the-bear.md25 May - Updated the_bear.md25 May - Created 2015-05-25-the-bear.md25 May - Updated frankenstein.md25 May - Updated frankenstein.md25 May - Deleted frankenstein.txt\n"
     }
     
     

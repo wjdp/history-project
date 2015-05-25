@@ -1697,6 +1697,28 @@
 
     
     ,{
+        "title": "The Birthday Party",
+        "type": "show",
+        
+        
+        
+        "year_title": "1996 - 97",
+        "content": "\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/96_97/2015-05-25-the-birthday-party.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "24 Hour Play",
         "type": "show",
         
@@ -1818,6 +1840,28 @@
         "season": "In House",
         "venue": ["New Theatre"],
         "link": "/shows/96_97/housemates.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Birthday Party",
+        "type": "show",
+        
+        
+        
+        "year_title": "1996 - 97",
+        "content": "\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/96_97/the_birthday_party.html",
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
         "excerpt": "\n",
@@ -2011,10 +2055,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:36\n  Build number 330\n.\n  84 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:37\n  Build number 333\n.\n  86 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:36\n  Build number 330\n.\n  84 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:37\n  Build number 333\n.\n  86 shows and 18 committees.\n\n"
     }
     
     
@@ -2149,10 +2193,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-absent-friends.md25 May - Updated absent_friends.md25 May - Created 2015-05-25-absent-friends.md25 May - Deleted 2015-05-25-cabaret-the-musical.md25 May - Updated cabaret_the_musical.md25 May - Created 2015-05-25-cabaret-the-musical.md25 May - Deleted 2015-05-25-hamlet.md25 May - Updated hamlet.md25 May - Created 2015-05-25-hamlet.md25 May - Deleted 2015-05-25-24-hour-play.md\n",
+        "content": " Recent Changes\n\n25 May - Updated the_birthday_party.md25 May - Created 2015-05-25-the-birthday-party.md25 May - Deleted 2015-05-25-absent-friends.md25 May - Updated absent_friends.md25 May - Created 2015-05-25-absent-friends.md25 May - Deleted 2015-05-25-cabaret-the-musical.md25 May - Updated cabaret_the_musical.md25 May - Created 2015-05-25-cabaret-the-musical.md25 May - Deleted 2015-05-25-hamlet.md25 May - Updated hamlet.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-absent-friends.md25 May - Updated absent_friends.md25 May - Created 2015-05-25-absent-friends.md25 May - Deleted 2015-05-25-cabaret-the-musical.md25 May - Updated cabaret_the_musical.md25 May - Created 2015-05-25-cabaret-the-musical.md25 May - Deleted 2015-05-25-hamlet.md25 May - Updated hamlet.md25 May - Created 2015-05-25-hamlet.md25 May - Deleted 2015-05-25-24-hour-play.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Updated the_birthday_party.md25 May - Created 2015-05-25-the-birthday-party.md25 May - Deleted 2015-05-25-absent-friends.md25 May - Updated absent_friends.md25 May - Created 2015-05-25-absent-friends.md25 May - Deleted 2015-05-25-cabaret-the-musical.md25 May - Updated cabaret_the_musical.md25 May - Created 2015-05-25-cabaret-the-musical.md25 May - Deleted 2015-05-25-hamlet.md25 May - Updated hamlet.md\n"
     }
     
     

@@ -1697,6 +1697,28 @@
 
     
     ,{
+        "title": "Housemates",
+        "type": "show",
+        
+        
+        
+        "year_title": "1996 - 97",
+        "content": "\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/96_97/2015-05-25-housemates.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "24 Hour Play",
         "type": "show",
         
@@ -1862,6 +1884,28 @@
         "season": "In House",
         "venue": ["New Theatre"],
         "link": "/shows/96_97/showstoppers_musical_review.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Star Whores Special Derision (Sketch Show)",
+        "type": "show",
+        
+        
+        
+        "year_title": "1996 - 97",
+        "content": "\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/96_97/star_whores_special_derision_sketch_show.html",
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
         "excerpt": "\n",
@@ -2099,10 +2143,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:41\n  Build number 342\n.\n  88 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:43\n  Build number 346\n.\n  90 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:41\n  Build number 342\n.\n  88 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:43\n  Build number 346\n.\n  90 shows and 18 committees.\n\n"
     }
     
     
@@ -2237,10 +2281,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-the-cocktail-hour.md25 May - Updated the_cocktail_hour.md25 May - Created 2015-05-25-the-cocktail-hour.md25 May - Deleted 2015-05-25-showstoppers-musical-review.md25 May - Updated showstoppers_musical_review.md25 May - Created 2015-05-25-showstoppers-musical-review.md25 May - Deleted 2015-05-25-latin.md25 May - Updated latin.md25 May - Created 2015-05-25-latin.md25 May - Deleted 2015-05-25-the-birthday-party.md\n",
+        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-star-whores-special-derision-sketch-show.md25 May - Updated star_whores_special_derision_sketch_show.md25 May - Created 2015-05-25-star-whores-special-derision-sketch-show.md25 May - Created 2015-05-25-housemates.md25 May - Deleted 2015-05-25-the-cocktail-hour.md25 May - Updated the_cocktail_hour.md25 May - Created 2015-05-25-the-cocktail-hour.md25 May - Deleted 2015-05-25-showstoppers-musical-review.md25 May - Updated showstoppers_musical_review.md25 May - Created 2015-05-25-showstoppers-musical-review.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-the-cocktail-hour.md25 May - Updated the_cocktail_hour.md25 May - Created 2015-05-25-the-cocktail-hour.md25 May - Deleted 2015-05-25-showstoppers-musical-review.md25 May - Updated showstoppers_musical_review.md25 May - Created 2015-05-25-showstoppers-musical-review.md25 May - Deleted 2015-05-25-latin.md25 May - Updated latin.md25 May - Created 2015-05-25-latin.md25 May - Deleted 2015-05-25-the-birthday-party.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-star-whores-special-derision-sketch-show.md25 May - Updated star_whores_special_derision_sketch_show.md25 May - Created 2015-05-25-star-whores-special-derision-sketch-show.md25 May - Created 2015-05-25-housemates.md25 May - Deleted 2015-05-25-the-cocktail-hour.md25 May - Updated the_cocktail_hour.md25 May - Created 2015-05-25-the-cocktail-hour.md25 May - Deleted 2015-05-25-showstoppers-musical-review.md25 May - Updated showstoppers_musical_review.md25 May - Created 2015-05-25-showstoppers-musical-review.md\n"
     }
     
     

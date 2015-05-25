@@ -135,28 +135,6 @@
 
     
     ,{
-        "title": "The Philadelphia Story",
-        "type": "show",
-        
-        
-        
-        "year_title": "1954 - 55",
-        "content": "The Philadelphia Story is a 1939 American comic play by Philip Barry. It tells the story of a socialite whose wedding plans are complicated by the simultaneous arrival of her ex-husband and an attractive journalist.\n",
-        "playwright": "Philip Barry",
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/2015-05-25-the-philadelphia-story.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "The Philadelphia Story is a 1939 American comic play by Philip Barry. It tells the story of a socialite whose wedding plans are complicated by the simultaneous arrival of her ex-husband and an attractive journalist.\n",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "Earth Spirit",
         "type": "show",
         
@@ -171,6 +149,28 @@
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
         "excerpt": "Earth Spirit (1895) (Erdgeist) is a play by the German dramatist Frank Wedekind. It forms the first part of his pairing of ‘Lulu’ plays, the second is Pandora’s Box (1904), both of which depict a society “riven by the demands of lust and greed”. In German folklore an erdgeist is...",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Philadelphia Story",
+        "type": "show",
+        
+        
+        
+        "year_title": "1954 - 55",
+        "content": "The Philadelphia Story is a 1939 American comic play by Philip Barry. It tells the story of a socialite whose wedding plans are complicated by the simultaneous arrival of her ex-husband and an attractive journalist.\n",
+        "playwright": "Philip Barry",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/54_55/the-philadelphia-story.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "The Philadelphia Story is a 1939 American comic play by Philip Barry. It tells the story of a socialite whose wedding plans are complicated by the simultaneous arrival of her ex-husband and an attractive journalist.\n",
         "cast": "",
         "crew": ""
     }
@@ -339,10 +339,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:25\n  Build number 66\n.\n  8 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:26\n  Build number 68\n.\n  8 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:25\n  Build number 66\n.\n  8 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:26\n  Build number 68\n.\n  8 shows and 18 committees.\n\n"
     }
     
     
@@ -477,10 +477,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Created 2015-05-25-the-philadelphia-story.md25 May - Updated earth-spirit.md25 May - Updated earth-spirit.md25 May - Deleted earth-spirit.md25 May - Updated earth-spirit.md25 May - Deleted 2015-05-25-earth-spirit.md25 May - Updated earth-spirit.md25 May - Added show Earth Spirit16 May - Rename the_winterling.txt to the_winterling.md13 May - Add beta message top of index page\n",
+        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-the-philadelphia-story.md25 May - Updated the-philadelphia-story.md25 May - Created 2015-05-25-the-philadelphia-story.md25 May - Updated earth-spirit.md25 May - Updated earth-spirit.md25 May - Deleted earth-spirit.md25 May - Updated earth-spirit.md25 May - Deleted 2015-05-25-earth-spirit.md25 May - Updated earth-spirit.md25 May - Added show Earth Spirit\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 25 May - Created 2015-05-25-the-philadelphia-story.md25 May - Updated earth-spirit.md25 May - Updated earth-spirit.md25 May - Deleted earth-spirit.md25 May - Updated earth-spirit.md25 May - Deleted 2015-05-25-earth-spirit.md25 May - Updated earth-spirit.md25 May - Added show Earth Spirit16 May - Rename the_winterling.txt to the_winterling.md13 May - Add beta message top of..."
+        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-the-philadelphia-story.md25 May - Updated the-philadelphia-story.md25 May - Created 2015-05-25-the-philadelphia-story.md25 May - Updated earth-spirit.md25 May - Updated earth-spirit.md25 May - Deleted earth-spirit.md25 May - Updated earth-spirit.md25 May - Deleted 2015-05-25-earth-spirit.md25 May - Updated earth-spirit.md25 May - Added show Earth Spirit\n"
     }
     
     

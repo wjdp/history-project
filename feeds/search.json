@@ -133,6 +133,28 @@
     
     
 
+    
+    ,{
+        "title": "Earth Spirit",
+        "type": "show",
+        
+        
+        
+        "year_title": "1953 - 54",
+        "content": "Earth Spirit (1895) (Erdgeist) is a play by the German dramatist Frank Wedekind. It forms the first part of his pairing of ‘Lulu’ plays, the second is Pandora’s Box (1904), both of which depict a society “riven by the demands of lust and greed”. In German folklore an erdgeist is a gnome, first described in Goethe’s Faust (1808). Together with Pandora’s Box, Wedekind’s play formed the basis for the silent film Pandora’s Box (1929) starring Louise Brooks and the opera Lulu by Alban Berg (1935, premiered posthumously in 1937).\n",
+        "playwright": "Frank Wedekind",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/2015-05-25-earth-spirit.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "Earth Spirit (1895) (Erdgeist) is a play by the German dramatist Frank Wedekind. It forms the first part of his pairing of ‘Lulu’ plays, the second is Pandora’s Box (1904), both of which depict a society “riven by the demands of lust and greed”. In German folklore an erdgeist is...",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
 
 
 
@@ -295,10 +317,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-16 14:38\n  Build number 58\n.\n  6 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:19\n  Build number 59\n.\n  7 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-16 14:38\n  Build number 58\n.\n  6 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:19\n  Build number 59\n.\n  7 shows and 18 committees.\n\n"
     }
     
     
@@ -433,10 +455,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n16 May - Rename the_winterling.txt to the_winterling.md13 May - Add beta message top of index page11 May - Additional editors mode shizzle11 May - Clean up styling of archives/years page11 May - Add editors' mode, type e d i t o r into the site11 May - Style breadcrumbs on /years and shows better\n\ncloses #6107 May - typo07 May - site.description single line07 May - Update site.description to more SEO friendly07 May - Cross off first milestone on roadmap\n",
+        "content": " Recent Changes\n\n25 May - Added show Earth Spirit16 May - Rename the_winterling.txt to the_winterling.md13 May - Add beta message top of index page11 May - Additional editors mode shizzle11 May - Clean up styling of archives/years page11 May - Add editors' mode, type e d i t o r into the site11 May - Style breadcrumbs on /years and shows better\n\ncloses #6107 May - typo07 May - site.description single line07 May - Update site.description to more SEO friendly\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 16 May - Rename the_winterling.txt to the_winterling.md13 May - Add beta message top of index page11 May - Additional editors mode shizzle11 May - Clean up styling of archives/years page11 May - Add editors' mode, type e d i t o r into the site11 May - Style..."
+        "excerpt": "Recent Changes 25 May - Added show Earth Spirit16 May - Rename the_winterling.txt to the_winterling.md13 May - Add beta message top of index page11 May - Additional editors mode shizzle11 May - Clean up styling of archives/years page11 May - Add editors' mode, type e d i t o r..."
     }
     
     

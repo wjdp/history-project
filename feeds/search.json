@@ -947,6 +947,28 @@
     
     
 
+    
+    ,{
+        "title": "Inherit the Wind",
+        "type": "show",
+        
+        
+        
+        "year_title": null,
+        "content": "Inherit the Wind is a play by Jerome Lawrence and Robert Edwin Lee. The play, which debuted in 1955, is a story that fictionalizes the 1925 Scopes “Monkey” Trial as a means to discuss the then-contemporary McCarthy trials.\n\nThe debate over creationism versus evolution has contemporary resonance, as evidenced by the play’s numerous revivals and screen adaptations decades after its initial theatrical run.\n",
+        "playwright": "Jerome Lawrence and Robert Edwin Lee",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/73_74/inherit_the_wind.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "Inherit the Wind is a play by Jerome Lawrence and Robert Edwin Lee. The play, which debuted in 1955, is a story that fictionalizes the 1925 Scopes “Monkey” Trial as a means to discuss the then-contemporary McCarthy trials. The debate over creationism versus evolution has contemporary resonance, as evidenced by...",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
 
 
 
@@ -1109,10 +1131,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:37\n  Build number 195\n.\n  43 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:37\n  Build number 196\n.\n  44 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:37\n  Build number 195\n.\n  43 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:37\n  Build number 196\n.\n  44 shows and 18 committees.\n\n"
     }
     
     
@@ -1247,10 +1269,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Deleted 2015-05-25-vatzlav.md25 May - Updated vatzlav.md25 May - Created 2015-05-25-vatzlav.md25 May - Deleted 2015-05-25-rites.md25 May - Updated rites.md25 May - Created 2015-05-25-rites.md\n",
+        "content": " Recent Changes\n\n25 May - Updated inherit_the_wind.md25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Deleted 2015-05-25-vatzlav.md25 May - Updated vatzlav.md25 May - Created 2015-05-25-vatzlav.md25 May - Deleted 2015-05-25-rites.md25 May - Updated rites.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Deleted 2015-05-25-vatzlav.md25 May - Updated vatzlav.md25 May - Created 2015-05-25-vatzlav.md25 May - Deleted 2015-05-25-rites.md25 May - Updated rites.md25 May - Created 2015-05-25-rites.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Updated inherit_the_wind.md25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Deleted 2015-05-25-vatzlav.md25 May - Updated vatzlav.md25 May - Created 2015-05-25-vatzlav.md25 May - Deleted 2015-05-25-rites.md25 May - Updated rites.md\n"
     }
     
     

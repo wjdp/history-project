@@ -641,28 +641,6 @@
 
     
     ,{
-        "title": "The Glass Menagerie",
-        "type": "show",
-        
-        
-        
-        "year_title": "1972 - 73",
-        "content": "The Glass Menagerie is a four-character memory play by Tennessee Williams which premiered in 1944 and catapulted Williams from obscurity to fame. The play has strong autobiographical elements, featuring characters based on Williams himself, his histrionic mother, and his mentally fragile sister Laura. In writing the play, Williams drew on an earlier short story, as well as a screenplay he had written under the title of The Gentleman Caller.\n",
-        "playwright": "Tennessee Williams",
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/72_73/2015-05-25-the-glass-menagerie.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "The Glass Menagerie is a four-character memory play by Tennessee Williams which premiered in 1944 and catapulted Williams from obscurity to fame. The play has strong autobiographical elements, featuring characters based on Williams himself, his histrionic mother, and his mentally fragile sister Laura. In writing the play, Williams drew on...",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "Erpingham Camp",
         "type": "show",
         
@@ -809,6 +787,28 @@
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
         "excerpt": "This was the New Theatre’s first attempt at marketing a “season” of plays. 25p per production or 40p for any two! Slag is a 1970 play by British writer David Hare. Slag is a biting satire in which the only characters are the three teachers of a tiny isolated girls’...",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Glass Menagerie",
+        "type": "show",
+        
+        
+        
+        "year_title": "1972 - 73",
+        "content": "The Glass Menagerie is a four-character memory play by Tennessee Williams which premiered in 1944 and catapulted Williams from obscurity to fame. The play has strong autobiographical elements, featuring characters based on Williams himself, his histrionic mother, and his mentally fragile sister Laura. In writing the play, Williams drew on an earlier short story, as well as a screenplay he had written under the title of The Gentleman Caller.\n",
+        "playwright": "Tennessee Williams",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/72_73/the_glass_menagerie.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "The Glass Menagerie is a four-character memory play by Tennessee Williams which premiered in 1944 and catapulted Williams from obscurity to fame. The play has strong autobiographical elements, featuring characters based on Williams himself, his histrionic mother, and his mentally fragile sister Laura. In writing the play, Williams drew on...",
         "cast": "",
         "crew": ""
     }
@@ -999,10 +999,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:25\n  Build number 177\n.\n  38 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:25\n  Build number 178\n.\n  38 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:25\n  Build number 177\n.\n  38 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:25\n  Build number 178\n.\n  38 shows and 18 committees.\n\n"
     }
     
     
@@ -1137,10 +1137,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Created 2015-05-25-the-glass-menagerie.md25 May - Deleted 2015-05-25-slag.md25 May - Updated slag.md25 May - Created 2015-05-25-slag.md25 May - Deleted 2015-05-25-your-filename.md25 May - Updated erpingham_camp.md25 May - Created 2015-05-25-your-filename.md25 May - Deleted 2015-05-25-ruffian-on-the-stair.md25 May - Updated ruffian_on_the_stair.md25 May - Created 2015-05-25-ruffian-on-the-stair.md\n",
+        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-the-glass-menagerie.md25 May - Updated the_glass_menagerie.md25 May - Created 2015-05-25-the-glass-menagerie.md25 May - Deleted 2015-05-25-slag.md25 May - Updated slag.md25 May - Created 2015-05-25-slag.md25 May - Deleted 2015-05-25-your-filename.md25 May - Updated erpingham_camp.md25 May - Created 2015-05-25-your-filename.md25 May - Deleted 2015-05-25-ruffian-on-the-stair.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-the-glass-menagerie.md25 May - Deleted 2015-05-25-slag.md25 May - Updated slag.md25 May - Created 2015-05-25-slag.md25 May - Deleted 2015-05-25-your-filename.md25 May - Updated erpingham_camp.md25 May - Created 2015-05-25-your-filename.md25 May - Deleted 2015-05-25-ruffian-on-the-stair.md25 May - Updated ruffian_on_the_stair.md25 May - Created 2015-05-25-ruffian-on-the-stair.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-the-glass-menagerie.md25 May - Updated the_glass_menagerie.md25 May - Created 2015-05-25-the-glass-menagerie.md25 May - Deleted 2015-05-25-slag.md25 May - Updated slag.md25 May - Created 2015-05-25-slag.md25 May - Deleted 2015-05-25-your-filename.md25 May - Updated erpingham_camp.md25 May - Created 2015-05-25-your-filename.md25 May - Deleted 2015-05-25-ruffian-on-the-stair.md\n"
     }
     
     

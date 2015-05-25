@@ -1432,26 +1432,6 @@
     
 
     
-    ,{
-        "title": "Noises Off",
-        "type": "show",
-        
-        
-        
-        "year_title": "1994 - 95",
-        "content": "Noises Off is a 1982 play by the English playwright Michael Frayn. The idea for it came in 1970, when Frayn was watching from the wings a performance of The Two of Us, a farce that he had written for Lynn Redgrave. He said, “It was funnier from behind than in front, and I thought that one day I must write a farce from behind.” The prototype, a short-lived one-act play called Exits, was written and performed in 1977. At the request of his associate, Michael Codron, Frayn expanded this into what would become Noises Off. It takes its title from the theatrical stage direction indicating sounds coming from offstage.\n",
-        "playwright": "Michael Frayn",
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/94_95/2015-05-25-noises-off.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "Noises Off is a 1982 play by the English playwright Michael Frayn. The idea for it came in 1970, when Frayn was watching from the wings a performance of The Two of Us, a farce that he had written for Lynn Redgrave. He said, “It was funnier from behind than...",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
 
     
     ,{
@@ -1491,6 +1471,28 @@
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
         "excerpt": "Noises Off is a 1982 play by the English playwright Michael Frayn. The idea for it came in 1970, when Frayn was watching from the wings a performance of The Two of Us, a farce that he had written for Lynn Redgrave. He said, “It was funnier from behind than...",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Stars in their eyes",
+        "type": "show",
+        
+        
+        
+        "year_title": "1994 - 95",
+        "content": "Stars in their eyes\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/94_95/stars_in_their_eyes.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "Stars in their eyes\n",
         "cast": "",
         "crew": ""
     }
@@ -1681,10 +1683,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 14:55\n  Build number 277\n.\n  69 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 14:56\n  Build number 280\n.\n  70 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 14:55\n  Build number 277\n.\n  69 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 14:56\n  Build number 280\n.\n  70 shows and 18 committees.\n\n"
     }
     
     
@@ -1819,10 +1821,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Updated noises_off.md25 May - Created 2015-05-25-noises-off.md25 May - Updated macbeth.md25 May - Updated macbeth.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Deleted westside_story.txt25 May - Updated westside_story.md25 May - Updated macbeth.md\n",
+        "content": " Recent Changes\n\n25 May - Updated stars_in_their_eyes.md25 May - Created 2015-05-25-your-filename.md25 May - Deleted 2015-05-25-noises-off.md25 May - Updated noises_off.md25 May - Created 2015-05-25-noises-off.md25 May - Updated macbeth.md25 May - Updated macbeth.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Updated westside_story.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Updated noises_off.md25 May - Created 2015-05-25-noises-off.md25 May - Updated macbeth.md25 May - Updated macbeth.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Deleted westside_story.txt25 May - Updated westside_story.md25 May - Updated macbeth.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Updated stars_in_their_eyes.md25 May - Created 2015-05-25-your-filename.md25 May - Deleted 2015-05-25-noises-off.md25 May - Updated noises_off.md25 May - Created 2015-05-25-noises-off.md25 May - Updated macbeth.md25 May - Updated macbeth.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Updated westside_story.md\n"
     }
     
     

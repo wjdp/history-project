@@ -317,10 +317,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:19\n  Build number 59\n.\n  7 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:20\n  Build number 60\n.\n  7 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:19\n  Build number 59\n.\n  7 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:20\n  Build number 60\n.\n  7 shows and 18 committees.\n\n"
     }
     
     
@@ -455,10 +455,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Added show Earth Spirit16 May - Rename the_winterling.txt to the_winterling.md13 May - Add beta message top of index page11 May - Additional editors mode shizzle11 May - Clean up styling of archives/years page11 May - Add editors' mode, type e d i t o r into the site11 May - Style breadcrumbs on /years and shows better\n\ncloses #6107 May - typo07 May - site.description single line07 May - Update site.description to more SEO friendly\n",
+        "content": " Recent Changes\n\n25 May - Updated earth-spirit.md25 May - Added show Earth Spirit16 May - Rename the_winterling.txt to the_winterling.md13 May - Add beta message top of index page11 May - Additional editors mode shizzle11 May - Clean up styling of archives/years page11 May - Add editors' mode, type e d i t o r into the site11 May - Style breadcrumbs on /years and shows better\n\ncloses #6107 May - typo07 May - site.description single line\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 25 May - Added show Earth Spirit16 May - Rename the_winterling.txt to the_winterling.md13 May - Add beta message top of index page11 May - Additional editors mode shizzle11 May - Clean up styling of archives/years page11 May - Add editors' mode, type e d i t o r..."
+        "excerpt": "Recent Changes 25 May - Updated earth-spirit.md25 May - Added show Earth Spirit16 May - Rename the_winterling.txt to the_winterling.md13 May - Add beta message top of index page11 May - Additional editors mode shizzle11 May - Clean up styling of archives/years page11 May - Add editors' mode, type e d..."
     }
     
     

@@ -465,28 +465,6 @@
 
     
     ,{
-        "title": "Measure for Measure",
-        "type": "show",
-        
-        
-        
-        "year_title": "1972 - 73",
-        "content": "\n",
-        "playwright": "William Shakespeare",
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/71_72/2015-05-25-measure-for-measure.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "\n",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "Beneath the Daschund",
         "type": "show",
         
@@ -661,6 +639,28 @@
     
     
 
+    
+    ,{
+        "title": "Measure for Measure",
+        "type": "show",
+        
+        
+        
+        "year_title": "1972 - 73",
+        "content": "\n",
+        "playwright": "William Shakespeare",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/72_73/measure_for_measure.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
 
 
 
@@ -823,10 +823,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:12\n  Build number 152\n.\n  30 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:12\n  Build number 154\n.\n  30 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:12\n  Build number 152\n.\n  30 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:12\n  Build number 154\n.\n  30 shows and 18 committees.\n\n"
     }
     
     
@@ -961,10 +961,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Created 2015-05-25-measure-for-measure.md25 May - Deleted 2015-05-25-beneath-the-daschund.md25 May - Updated beneath_the_daschund.md25 May - Created 2015-05-25-beneath-the-daschund.md25 May - Deleted 2015-05-25-cal-a-pantomime-out-of-season.md25 May - Updated cal_a_pantomime_out_of_season.md25 May - Created 2015-05-25-cal-a-pantomime-out-of-season.md25 May - Updated under_milk_wood.md25 May - Deleted 2015-05-25-festival-of-one-act-plays.md25 May - Updated festival_of_one_act_plays.md\n",
+        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-measure-for-measure.md25 May - Updated measure_for_measure.md25 May - Created 2015-05-25-measure-for-measure.md25 May - Deleted 2015-05-25-beneath-the-daschund.md25 May - Updated beneath_the_daschund.md25 May - Created 2015-05-25-beneath-the-daschund.md25 May - Deleted 2015-05-25-cal-a-pantomime-out-of-season.md25 May - Updated cal_a_pantomime_out_of_season.md25 May - Created 2015-05-25-cal-a-pantomime-out-of-season.md25 May - Updated under_milk_wood.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-measure-for-measure.md25 May - Deleted 2015-05-25-beneath-the-daschund.md25 May - Updated beneath_the_daschund.md25 May - Created 2015-05-25-beneath-the-daschund.md25 May - Deleted 2015-05-25-cal-a-pantomime-out-of-season.md25 May - Updated cal_a_pantomime_out_of_season.md25 May - Created 2015-05-25-cal-a-pantomime-out-of-season.md25 May - Updated under_milk_wood.md25 May - Deleted 2015-05-25-festival-of-one-act-plays.md25 May - Updated festival_of_one_act_plays.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-measure-for-measure.md25 May - Updated measure_for_measure.md25 May - Created 2015-05-25-measure-for-measure.md25 May - Deleted 2015-05-25-beneath-the-daschund.md25 May - Updated beneath_the_daschund.md25 May - Created 2015-05-25-beneath-the-daschund.md25 May - Deleted 2015-05-25-cal-a-pantomime-out-of-season.md25 May - Updated cal_a_pantomime_out_of_season.md25 May - Created 2015-05-25-cal-a-pantomime-out-of-season.md25 May - Updated under_milk_wood.md\n"
     }
     
     

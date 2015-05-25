@@ -28,7 +28,7 @@
         "title": "Be My Baby",
         "type": "show",
         
-        "poster_thumb_tag": "<img src='/images/resized/for_shows/be_my_baby_poster-140x186-dc80f2.jpg' class='search-result-poster-thumb' alt='Show poster' >",
+        "poster_thumb_tag": "<a href='/shows/11_12/be_my_baby.html'><img src='/images/resized/for_shows/be_my_baby_poster-140x186-dc80f2.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2011 - 12",
         "content": "Set in a Mother and Baby Home in 1964, Be My Baby follows a 19 and unmarried Mary Adams who has fallen pregnant. Forced to go to the home by her mother, Mary along with the other girls, has to cope with the shame of her situation and the dawning realisation that her baby will be taken away and given up for adoption whether she likes it or not. Despite the hard hitting nature of the play, the youthfulness and positive spirit of the girls is echoed in the 1960s girl-group music which they sing along to.\n\nInspired by the real accounts and heart-breaking memories from the women Amanda Whittington interviewed, Be My Baby provides for us a glimpse into a part of our shockingly recent social history that for too long was shut away and ‘forgotten’.\n",
@@ -72,7 +72,7 @@
         "title": "Me, As A Penguin",
         "type": "show",
         
-        "poster_thumb_tag": "<img src='/images/resized/for_shows/me_as_a_penguin_poster-140x197-ebc910.jpg' class='search-result-poster-thumb' alt='Show poster' >",
+        "poster_thumb_tag": "<a href='/shows/12_13/me_as_a_penguin.html'><img src='/images/resized/for_shows/me_as_a_penguin_poster-140x197-ebc910.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2012 - 13",
         "content": "Stitch is looking to gain some direction in his life by visiting his sister and exploring the very exciting gay scene of Hull. What results is an obsessive crush on a man that works in the local aquarium and Stitch stealing a baby penguin. Brilliantly funny, emotionally moving, ‘Me, As Penguin’ is a unique, witty and northern comedy.\n",
@@ -94,7 +94,7 @@
         "title": "Mercury Fur",
         "type": "show",
         
-        "poster_thumb_tag": "<img src='/images/resized/for_shows/mercury_fur_poster-140x198-780325.jpg' class='search-result-poster-thumb' alt='Show poster' >",
+        "poster_thumb_tag": "<a href='/shows/12_13/mercury_fur.html'><img src='/images/resized/for_shows/mercury_fur_poster-140x198-780325.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2012 - 13",
         "content": "Set in London, in the not so distant future, where gangs prevail and memory has been wiped by the consumption of hallucinogenic butterflies, brothers Elliot and Darren survive by organising ‘parties’ where their clients’ most sadistic fantasies are realised. But it soon becomes clear that the success of one particular party will guarantee not just their safety, but their salvation.\n",
@@ -116,7 +116,7 @@
         "title": "The Pillowman",
         "type": "show",
         
-        "poster_thumb_tag": "<img src='/images/resized/for_shows/pillowman_poster-140x198-b1d494.jpg' class='search-result-poster-thumb' alt='Show poster' >",
+        "poster_thumb_tag": "<a href='/shows/12_13/the_pillowman.html'><img src='/images/resized/for_shows/pillowman_poster-140x198-b1d494.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2012 - 13",
         "content": "In an unnamed police state, a writer has been arrested because the content of his stories bares a striking resemblance to a series of gruesome child murders. Interrogated by two brutal detectives, he claims to know nothing of such murders. But also in their custody is his younger, brain damaged brother, who perhaps knows more than he first lets on. A darkly comic thriller like no other.\n",
@@ -2605,10 +2605,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 23:10\n  Build number 425\n.\n  111 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 23:37\n  Build number 426\n.\n  111 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 23:10\n  Build number 425\n.\n  111 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 23:37\n  Build number 426\n.\n  111 shows and 18 committees.\n\n"
     }
     
     
@@ -2743,10 +2743,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Hide unassigned show box, show with debug, #2825 May - Fix decade-list columns on FF, closes #67\n\nAnd any other browser other than webkit25 May - Try and fix octicons again again, #58\n\nNow using my fork of octicons that allows for user specified font location rather than a jury rigged bugfix.25 May - Try and fix octicons again, #5825 May - Show year on search results even when exact dates are unknown\n\nCloses #7625 May - Done better with the Next / Previous year buttons\n\nCloses #33, Also now have next / prev show buttons.25 May - Update season_sort info in docs25 May - Exclude year pages from sitemap.xml25 May - Update deps to make button green again25 May - Fix two shows that slipped through the regex. #74\n",
+        "content": " Recent Changes\n\n25 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925 May - Travis and Gemnasium badges in debug mode25 May - Hide unassigned show box, show with debug, #2825 May - Fix decade-list columns on FF, closes #67\n\nAnd any other browser other than webkit25 May - Try and fix octicons again again, #58\n\nNow using my fork of octicons that allows for user specified font location rather than a jury rigged bugfix.25 May - Try and fix octicons again, #5825 May - Show year on search results even when exact dates are unknown\n\nCloses #7625 May - Done better with the Next / Previous year buttons\n\nCloses #33, Also now have next / prev show buttons.\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 25 May - Hide unassigned show box, show with debug, #2825 May - Fix decade-list columns on FF, closes #67 And any other browser other than webkit25 May - Try and fix octicons again again, #58 Now using my fork of octicons that allows for user specified font..."
+        "excerpt": "Recent Changes 25 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925 May - Travis and Gemnasium badges in debug mode25 May - Hide unassigned show box, show with debug, #2825 May - Fix decade-list columns on..."
     }
     
     

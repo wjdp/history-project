@@ -34,7 +34,7 @@
 
 .grid-row {
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-row:after {
     content: "";
     display: table;
@@ -43,7 +43,7 @@
 .grid-1 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-1:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -74,7 +74,7 @@
 .grid-2 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-2:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -105,7 +105,7 @@
 .grid-3 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-3:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -136,7 +136,7 @@
 .grid-4 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-4:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -167,7 +167,7 @@
 .grid-5 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-5:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -198,7 +198,7 @@
 .grid-6 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-6:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -229,7 +229,7 @@
 .grid-7 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-7:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -260,7 +260,7 @@
 .grid-8 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-8:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -291,7 +291,7 @@
 .grid-9 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-9:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -322,7 +322,7 @@
 .grid-10 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-10:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -353,7 +353,7 @@
 .grid-11 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-11:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -384,7 +384,7 @@
 .grid-12 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .grid-12:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -6208,6 +6208,20 @@ html {
   top: 2px;
   left: 2px; }
 
+.debug-badges {
+  display: none;
+  font-family: monospace;
+  font-size: 11.5px;
+  font-weight: bold;
+  background: #000;
+  color: #4FFF1F;
+  padding: 1px 3px;
+  z-index: 9000;
+  position: fixed;
+  top: 20px;
+  left: 2px;
+  padding: 3px 3px 0px 3px; }
+
 .debug-mode {
   display: none;
   font-family: monospace;
@@ -6497,7 +6511,7 @@ body {
 .col-1-3 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .col-1-3:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -6528,7 +6542,7 @@ body {
 .col-2-3 {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .col-2-3:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -7137,7 +7151,7 @@ table {
     padding-left: 8px;
     padding-right: 8px;
     width: 100%;
-    padding-bottom: 17px; }
+    padding-bottom: 28.9px; }
     @media only screen and (min-width: 480px) {
       .site-header .wrapper {
         padding-left: 8px;
@@ -7174,7 +7188,7 @@ table {
   display: block;
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px;
+  padding-bottom: 28.9px;
   text-decoration: none; }
   .site-title:last-child {
     padding-bottom: 0px; }
@@ -7227,7 +7241,7 @@ table {
 .site-nav {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px;
+  padding-bottom: 28.9px;
   text-align: center;
   line-height: 63px; }
   .site-nav:last-child {
@@ -7275,7 +7289,7 @@ table {
 .site-search {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px;
+  padding-bottom: 28.9px;
   text-align: right;
   line-height: 63px; }
   .site-search:last-child {
@@ -7358,7 +7372,7 @@ table {
 .home-main {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .home-main:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -7389,7 +7403,7 @@ table {
 .home-aside {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .home-aside:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -7450,7 +7464,7 @@ table {
 
 .show-row {
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .show-row:after {
     content: "";
     display: table;
@@ -7461,7 +7475,7 @@ table {
 .show-info {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .show-info:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -7491,7 +7505,7 @@ table {
 
 .show-header {
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .show-header:after {
     content: "";
     display: table;
@@ -7499,7 +7513,7 @@ table {
   .show-header .show-playwright, .show-header .show-season, .show-header .show-date, .show-header .show-venue {
     padding-right: 0px;
     width: 100%;
-    padding-bottom: 17px;
+    padding-bottom: 28.9px;
     font-size: 20.4px; }
     .show-header .show-playwright:last-child, .show-header .show-season:last-child, .show-header .show-date:last-child, .show-header .show-venue:last-child {
       padding-bottom: 0px; }
@@ -7545,7 +7559,7 @@ table {
 .show-poster {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px;
+  padding-bottom: 28.9px;
   float: right !important; }
   .show-poster:last-child {
     padding-bottom: 0px; }
@@ -7623,7 +7637,7 @@ table {
 
 .show-photos {
   width: 100%;
-  padding-bottom: 17px;
+  padding-bottom: 28.9px;
   padding-bottom: 0; }
   .show-photos:after {
     content: "";
@@ -7656,7 +7670,7 @@ table {
   .show-photos .show-photo-single {
     padding-right: 0px;
     width: 100%;
-    padding-bottom: 17px; }
+    padding-bottom: 28.9px; }
     .show-photos .show-photo-single:last-child {
       padding-bottom: 0px; }
     @media only screen and (min-width: 768px) {
@@ -7703,7 +7717,7 @@ table {
   margin-left: 0;
   list-style: none;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .show-assets-list li {
     padding-bottom: 0; }
   .show-assets-list:after {
@@ -7713,7 +7727,7 @@ table {
   .show-assets-list .show-asset-file, .show-assets-list .show-asset-image {
     padding-right: 0px;
     width: 100%;
-    padding-bottom: 17px; }
+    padding-bottom: 28.9px; }
     .show-assets-list .show-asset-file:last-child, .show-assets-list .show-asset-image:last-child {
       padding-bottom: 0px; }
     @media only screen and (min-width: 768px) {
@@ -7761,7 +7775,7 @@ table {
 .show-cast, .show-crew {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .show-cast:last-child, .show-crew:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -7824,7 +7838,7 @@ table {
 .decade {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .decade:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -8113,7 +8127,7 @@ table {
 .year-shows {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .year-shows:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -8144,7 +8158,7 @@ table {
 .year-links {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .year-links:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -8209,7 +8223,7 @@ body.search .site-header {
   .search-form .search-form-title {
     padding-right: 0px;
     width: 100%;
-    padding-bottom: 17px; }
+    padding-bottom: 28.9px; }
     .search-form .search-form-title:last-child {
       padding-bottom: 0px; }
     @media only screen and (min-width: 768px) {
@@ -8245,7 +8259,7 @@ body.search .site-header {
   .search-form .search-form-text {
     padding-right: 0px;
     width: 100%;
-    padding-bottom: 17px; }
+    padding-bottom: 28.9px; }
     .search-form .search-form-text:last-child {
       padding-bottom: 0px; }
     @media only screen and (min-width: 768px) {
@@ -8275,7 +8289,7 @@ body.search .site-header {
   .search-form .search-form-actions {
     padding-right: 0px;
     width: 100%;
-    padding-bottom: 17px; }
+    padding-bottom: 28.9px; }
     .search-form .search-form-actions:last-child {
       padding-bottom: 0px; }
     @media only screen and (min-width: 768px) {
@@ -8372,7 +8386,7 @@ body.search .site-header {
     padding-left: 8px;
     padding-right: 8px;
     width: 100%;
-    padding-bottom: 17px; }
+    padding-bottom: 28.9px; }
     @media only screen and (min-width: 480px) {
       .site-footer .wrapper {
         padding-left: 8px;
@@ -8402,7 +8416,7 @@ body.search .site-header {
 .footer-col {
   padding-right: 0px;
   width: 100%;
-  padding-bottom: 17px; }
+  padding-bottom: 28.9px; }
   .footer-col:last-child {
     padding-bottom: 0px; }
   @media only screen and (min-width: 768px) {
@@ -8461,7 +8475,7 @@ body.search .site-header {
   .docs .docs-nav {
     padding-right: 0px;
     width: 100%;
-    padding-bottom: 17px; }
+    padding-bottom: 28.9px; }
     .docs .docs-nav:last-child {
       padding-bottom: 0px; }
     @media only screen and (min-width: 768px) {
@@ -8502,7 +8516,7 @@ body.search .site-header {
   .docs .docs-content {
     padding-right: 0px;
     width: 100%;
-    padding-bottom: 17px; }
+    padding-bottom: 28.9px; }
     .docs .docs-content:last-child {
       padding-bottom: 0px; }
     @media only screen and (min-width: 768px) {

@@ -135,6 +135,28 @@
 
     
     ,{
+        "title": "Death of a salesman",
+        "type": "show",
+        
+        
+        
+        "year_title": "1958 - 59",
+        "content": "Death of a Salesman is a 1949 play written by American playwright Arthur Miller. Death of a Salesman is often numbered on the short list of being among the finest American plays in the 20th century.\n",
+        "playwright": "Arthur Miller",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/2015-05-25-death-of-a-salesman.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "Death of a Salesman is a 1949 play written by American playwright Arthur Miller. Death of a Salesman is often numbered on the short list of being among the finest American plays in the 20th century.\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "Earth Spirit",
         "type": "show",
         
@@ -355,28 +377,6 @@
 
     
     ,{
-        "title": "'Tis pity she's a whore",
-        "type": "show",
-        
-        
-        
-        "year_title": "1957 - 58",
-        "content": "‘Tis Pity She’s a Whore is a tragedy written by John Ford.\n",
-        "playwright": "John Ford",
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/57_58/2015-05-25--tis-pity-she-s-a-whore.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "‘Tis Pity She’s a Whore is a tragedy written by John Ford.\n",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "The Bald Prima Donna",
         "type": "show",
         
@@ -391,6 +391,50 @@
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
         "excerpt": "La Cantatrice Chauve — translated from French as The Bald Soprano or The Bald Prima Donna — is the first play written by Romanian-French playwright Eugène Ionesco. The idea for the play came to Ionesco while he was trying to learn English with the Assimil method. Impressed by the contents...",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "'Tis pity she's a whore",
+        "type": "show",
+        
+        
+        
+        "year_title": "1957 - 58",
+        "content": "‘Tis Pity She’s a Whore is a tragedy written by John Ford.\n",
+        "playwright": "John Ford",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/57_58/tis_pity_shes_a_whore.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "‘Tis Pity She’s a Whore is a tragedy written by John Ford.\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Death of a salesman",
+        "type": "show",
+        
+        
+        
+        "year_title": "1958 - 59",
+        "content": "Death of a Salesman is a 1949 play written by American playwright Arthur Miller. Death of a Salesman is often numbered on the short list of being among the finest American plays in the 20th century.\n",
+        "playwright": "Arthur Miller",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/death_of_a_salesman.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "Death of a Salesman is a 1949 play written by American playwright Arthur Miller. Death of a Salesman is often numbered on the short list of being among the finest American plays in the 20th century.\n",
         "cast": "",
         "crew": ""
     }
@@ -559,10 +603,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 10:02\n  Build number 110\n.\n  18 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 10:04\n  Build number 114\n.\n  20 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 10:02\n  Build number 110\n.\n  18 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 10:04\n  Build number 114\n.\n  20 shows and 18 committees.\n\n"
     }
     
     
@@ -697,10 +741,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Created 2015-05-25--tis-pity-she-s-a-whore.md25 May - Deleted 2015-05-25-the-bald-prima-donna.md25 May - Updated the_bald_prima_donna.md25 May - Created 2015-05-25-the-bald-prima-donna.md25 May - Deleted 2015-05-25-twelfth-night.md25 May - Updated twelfth_night.md25 May - Created 2015-05-25-twelfth-night.md25 May - Deleted 2015-05-25-measure-for-measure.md25 May - Updated measure_for_measure.md25 May - Created 2015-05-25-measure-for-measure.md\n",
+        "content": " Recent Changes\n\n25 May - Updated death_of_a_salesman.md25 May - Created 2015-05-25-death-of-a-salesman.md25 May - Deleted 2015-05-25--tis-pity-she-s-a-whore.md25 May - Updated tis_pity_shes_a_whore.md25 May - Created 2015-05-25--tis-pity-she-s-a-whore.md25 May - Deleted 2015-05-25-the-bald-prima-donna.md25 May - Updated the_bald_prima_donna.md25 May - Created 2015-05-25-the-bald-prima-donna.md25 May - Deleted 2015-05-25-twelfth-night.md25 May - Updated twelfth_night.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25--tis-pity-she-s-a-whore.md25 May - Deleted 2015-05-25-the-bald-prima-donna.md25 May - Updated the_bald_prima_donna.md25 May - Created 2015-05-25-the-bald-prima-donna.md25 May - Deleted 2015-05-25-twelfth-night.md25 May - Updated twelfth_night.md25 May - Created 2015-05-25-twelfth-night.md25 May - Deleted 2015-05-25-measure-for-measure.md25 May - Updated measure_for_measure.md25 May - Created 2015-05-25-measure-for-measure.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Updated death_of_a_salesman.md25 May - Created 2015-05-25-death-of-a-salesman.md25 May - Deleted 2015-05-25--tis-pity-she-s-a-whore.md25 May - Updated tis_pity_shes_a_whore.md25 May - Created 2015-05-25--tis-pity-she-s-a-whore.md25 May - Deleted 2015-05-25-the-bald-prima-donna.md25 May - Updated the_bald_prima_donna.md25 May - Created 2015-05-25-the-bald-prima-donna.md25 May - Deleted 2015-05-25-twelfth-night.md25 May - Updated twelfth_night.md\n"
     }
     
     

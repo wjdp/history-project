@@ -201,6 +201,28 @@
 
     
     ,{
+        "title": "Huis Clos",
+        "type": "show",
+        
+        
+        
+        "year_title": "1955 - 56",
+        "content": "No Exit (French: Huis Clos) is a 1944 existentialist French play by Jean-Paul Sartre. The original title is the French equivalent of the legal term in camera, referring to a private discussion behind closed doors; English translations have also been performed under the titles In Camera, No Way Out, Vicious Circle, Behind Closed Doors, and Dead End.\n\nThe play is a depiction of the afterlife in which three deceased characters are punished by being locked into a room together for eternity. It is the source of Sartre’s especially famous and often misinterpreted quotation “L’enfer, c’est les autres” or “Hell is other people”, a reference to Sartre’s ideas about the Look and the perpetual ontological struggle of being caused to see oneself as an object in the world of another consciousness.\n",
+        "playwright": "Jean-Paul Sartre",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/55_56/2015-05-25-huis-clos.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "No Exit (French: Huis Clos) is a 1944 existentialist French play by Jean-Paul Sartre. The original title is the French equivalent of the legal term in camera, referring to a private discussion behind closed doors; English translations have also been performed under the titles In Camera, No Way Out, Vicious...",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "The Alchemist",
         "type": "show",
         
@@ -405,10 +427,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:41\n  Build number 88\n.\n  11 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:46\n  Build number 89\n.\n  12 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:41\n  Build number 88\n.\n  11 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 09:46\n  Build number 89\n.\n  12 shows and 18 committees.\n\n"
     }
     
     
@@ -543,10 +565,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Updated the_proposal.md25 May - Updated the_alchemist.md25 May - Deleted 2015-05-25-the-proposal.md25 May - Updated the_proposal.md25 May - Created 2015-05-25-the-proposal.md25 May - Updated the_alchemist.md25 May - Updated the_cherry_orchard.md25 May - Deleted 2015-05-25-the-alchemist.md25 May - Updated the_alchemist.md25 May - Created 2015-05-25-the-alchemist.md\n",
+        "content": " Recent Changes\n\n25 May - Created 2015-05-25-huis-clos.md25 May - Updated the_proposal.md25 May - Updated the_alchemist.md25 May - Deleted 2015-05-25-the-proposal.md25 May - Updated the_proposal.md25 May - Created 2015-05-25-the-proposal.md25 May - Updated the_alchemist.md25 May - Updated the_cherry_orchard.md25 May - Deleted 2015-05-25-the-alchemist.md25 May - Updated the_alchemist.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Updated the_proposal.md25 May - Updated the_alchemist.md25 May - Deleted 2015-05-25-the-proposal.md25 May - Updated the_proposal.md25 May - Created 2015-05-25-the-proposal.md25 May - Updated the_alchemist.md25 May - Updated the_cherry_orchard.md25 May - Deleted 2015-05-25-the-alchemist.md25 May - Updated the_alchemist.md25 May - Created 2015-05-25-the-alchemist.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-huis-clos.md25 May - Updated the_proposal.md25 May - Updated the_alchemist.md25 May - Deleted 2015-05-25-the-proposal.md25 May - Updated the_proposal.md25 May - Created 2015-05-25-the-proposal.md25 May - Updated the_alchemist.md25 May - Updated the_cherry_orchard.md25 May - Deleted 2015-05-25-the-alchemist.md25 May - Updated the_alchemist.md\n"
     }
     
     

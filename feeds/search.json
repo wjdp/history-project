@@ -927,6 +927,28 @@
 
     
     ,{
+        "title": "Susie",
+        "type": "show",
+        
+        
+        
+        "year_title": "1973 - 74",
+        "content": "An improvised and unscripted drama entry for NUS festival\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/73_74/2015-05-25-susie.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "An improvised and unscripted drama entry for NUS festival\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "Inherit the Wind",
         "type": "show",
         
@@ -1131,10 +1153,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:40\n  Build number 201\n.\n  44 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:41\n  Build number 202\n.\n  45 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:40\n  Build number 201\n.\n  44 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:41\n  Build number 202\n.\n  45 shows and 18 committees.\n\n"
     }
     
     
@@ -1269,10 +1291,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Update vatzlav.md25 May - Deleted 2015-05-25-the-lunch-hour.md25 May - Updated the_lunch_hour.md25 May - Created 2015-05-25-the-lunch-hour.md25 May - Deleted 2015-05-25-inherit-the-wind.md25 May - Updated inherit_the_wind.md25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md\n",
+        "content": " Recent Changes\n\n25 May - Created 2015-05-25-susie.md25 May - Update vatzlav.md25 May - Deleted 2015-05-25-the-lunch-hour.md25 May - Updated the_lunch_hour.md25 May - Created 2015-05-25-the-lunch-hour.md25 May - Deleted 2015-05-25-inherit-the-wind.md25 May - Updated inherit_the_wind.md25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Update vatzlav.md25 May - Deleted 2015-05-25-the-lunch-hour.md25 May - Updated the_lunch_hour.md25 May - Created 2015-05-25-the-lunch-hour.md25 May - Deleted 2015-05-25-inherit-the-wind.md25 May - Updated inherit_the_wind.md25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-susie.md25 May - Update vatzlav.md25 May - Deleted 2015-05-25-the-lunch-hour.md25 May - Updated the_lunch_hour.md25 May - Created 2015-05-25-the-lunch-hour.md25 May - Deleted 2015-05-25-inherit-the-wind.md25 May - Updated inherit_the_wind.md25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md\n"
     }
     
     

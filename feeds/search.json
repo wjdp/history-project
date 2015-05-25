@@ -1433,16 +1433,16 @@
 
     
     ,{
-        "title": "Untitled",
+        "title": "Macbeth",
         "type": "show",
         
         
         
-        "year_title": null,
+        "year_title": "1994 - 95",
         "content": "\n",
-        "playwright": null,
+        "playwright": "William Shakespeare",
         "season": "In House",
-        "venue": null,
+        "venue": ["New Theatre"],
         "link": "/shows/94_95/macbeth.html",
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
@@ -1637,10 +1637,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 14:40\n  Build number 273\n.\n  67 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 14:43\n  Build number 274\n.\n  67 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 14:40\n  Build number 273\n.\n  67 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 14:43\n  Build number 274\n.\n  67 shows and 18 committees.\n\n"
     }
     
     
@@ -1775,10 +1775,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Deleted westside_story.txt25 May - Updated westside_story.md25 May - Updated macbeth.md25 May - Deleted macbeth.txt25 May - Updated macbeth.md25 May - Deleted 2015-05-25-froots-one-woman-s-search-for-her-oranges.md25 May - Updated froots_one_womans_search_for_her_oranges.md\n",
+        "content": " Recent Changes\n\n25 May - Updated macbeth.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Deleted westside_story.txt25 May - Updated westside_story.md25 May - Updated macbeth.md25 May - Deleted macbeth.txt25 May - Updated macbeth.md25 May - Deleted 2015-05-25-froots-one-woman-s-search-for-her-oranges.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Deleted westside_story.txt25 May - Updated westside_story.md25 May - Updated macbeth.md25 May - Deleted macbeth.txt25 May - Updated macbeth.md25 May - Deleted 2015-05-25-froots-one-woman-s-search-for-her-oranges.md25 May - Updated froots_one_womans_search_for_her_oranges.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Updated macbeth.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Updated westside_story.md25 May - Deleted westside_story.txt25 May - Updated westside_story.md25 May - Updated macbeth.md25 May - Deleted macbeth.txt25 May - Updated macbeth.md25 May - Deleted 2015-05-25-froots-one-woman-s-search-for-her-oranges.md\n"
     }
     
     

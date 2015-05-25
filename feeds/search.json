@@ -641,28 +641,6 @@
 
     
     ,{
-        "title": "Messidor",
-        "type": "show",
-        
-        
-        
-        "year_title": "1972 - 73",
-        "content": "\n",
-        "playwright": null,
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/72_73/2015-05-25-messidor.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "\n",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "Measure for Measure",
         "type": "show",
         
@@ -674,6 +652,28 @@
         "season": "In House",
         "venue": ["New Theatre"],
         "link": "/shows/72_73/measure_for_measure.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Messidor",
+        "type": "show",
+        
+        
+        
+        "year_title": "1972 - 73",
+        "content": "\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/72_73/messidor.html",
         "date": "",
         "run": "<span class=\"unknown\">Dates Unknown</span>",
         "excerpt": "\n",
@@ -845,10 +845,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:14\n  Build number 156\n.\n  31 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:14\n  Build number 158\n.\n  31 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:14\n  Build number 156\n.\n  31 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:14\n  Build number 158\n.\n  31 shows and 18 committees.\n\n"
     }
     
     
@@ -983,10 +983,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Created 2015-05-25-messidor.md25 May - Updated beneath_the_daschund.md25 May - Deleted 2015-05-25-measure-for-measure.md25 May - Updated measure_for_measure.md25 May - Created 2015-05-25-measure-for-measure.md25 May - Deleted 2015-05-25-beneath-the-daschund.md25 May - Updated beneath_the_daschund.md25 May - Created 2015-05-25-beneath-the-daschund.md25 May - Deleted 2015-05-25-cal-a-pantomime-out-of-season.md25 May - Updated cal_a_pantomime_out_of_season.md\n",
+        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-messidor.md25 May - Updated messidor.md25 May - Created 2015-05-25-messidor.md25 May - Updated beneath_the_daschund.md25 May - Deleted 2015-05-25-measure-for-measure.md25 May - Updated measure_for_measure.md25 May - Created 2015-05-25-measure-for-measure.md25 May - Deleted 2015-05-25-beneath-the-daschund.md25 May - Updated beneath_the_daschund.md25 May - Created 2015-05-25-beneath-the-daschund.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-messidor.md25 May - Updated beneath_the_daschund.md25 May - Deleted 2015-05-25-measure-for-measure.md25 May - Updated measure_for_measure.md25 May - Created 2015-05-25-measure-for-measure.md25 May - Deleted 2015-05-25-beneath-the-daschund.md25 May - Updated beneath_the_daschund.md25 May - Created 2015-05-25-beneath-the-daschund.md25 May - Deleted 2015-05-25-cal-a-pantomime-out-of-season.md25 May - Updated cal_a_pantomime_out_of_season.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-messidor.md25 May - Updated messidor.md25 May - Created 2015-05-25-messidor.md25 May - Updated beneath_the_daschund.md25 May - Deleted 2015-05-25-measure-for-measure.md25 May - Updated measure_for_measure.md25 May - Created 2015-05-25-measure-for-measure.md25 May - Deleted 2015-05-25-beneath-the-daschund.md25 May - Updated beneath_the_daschund.md25 May - Created 2015-05-25-beneath-the-daschund.md\n"
     }
     
     

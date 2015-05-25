@@ -2605,10 +2605,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 21:50\n  Build number 423\n.\n  111 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 22:39\n  Build number 424\n.\n  111 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 21:50\n  Build number 423\n.\n  111 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 22:39\n  Build number 424\n.\n  111 shows and 18 committees.\n\n"
     }
     
     
@@ -2743,10 +2743,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Try and fix octicons again, #5825 May - Show year on search results even when exact dates are unknown\n\nCloses #7625 May - Done better with the Next / Previous year buttons\n\nCloses #33, Also now have next / prev show buttons.25 May - Update season_sort info in docs25 May - Exclude year pages from sitemap.xml25 May - Update deps to make button green again25 May - Fix two shows that slipped through the regex. #7425 May - Switch number to text for season_sort, #7425 May - Fix season_sort bad formatting by prose, #7425 May - Remove venue attribute from shows in the 60s and 50s\n",
+        "content": " Recent Changes\n\n25 May - Try and fix octicons again again, #58\n\nNow using my fork of octicons that allows for user specified font location rather than a jury rigged bugfix.25 May - Try and fix octicons again, #5825 May - Show year on search results even when exact dates are unknown\n\nCloses #7625 May - Done better with the Next / Previous year buttons\n\nCloses #33, Also now have next / prev show buttons.25 May - Update season_sort info in docs25 May - Exclude year pages from sitemap.xml25 May - Update deps to make button green again25 May - Fix two shows that slipped through the regex. #7425 May - Switch number to text for season_sort, #7425 May - Fix season_sort bad formatting by prose, #74\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 25 May - Try and fix octicons again, #5825 May - Show year on search results even when exact dates are unknown Closes #7625 May - Done better with the Next / Previous year buttons Closes #33, Also now have next / prev show buttons.25 May - Update..."
+        "excerpt": "Recent Changes 25 May - Try and fix octicons again again, #58 Now using my fork of octicons that allows for user specified font location rather than a jury rigged bugfix.25 May - Try and fix octicons again, #5825 May - Show year on search results even when exact dates..."
     }
     
     

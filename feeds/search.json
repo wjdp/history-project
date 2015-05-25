@@ -641,28 +641,6 @@
 
     
     ,{
-        "title": "Inherit the Wind",
-        "type": "show",
-        
-        
-        
-        "year_title": null,
-        "content": "Inherit the Wind is a play by Jerome Lawrence and Robert Edwin Lee. The play, which debuted in 1955, is a story that fictionalizes the 1925 Scopes “Monkey” Trial as a means to discuss the then-contemporary McCarthy trials.\n\nThe debate over creationism versus evolution has contemporary resonance, as evidenced by the play’s numerous revivals and screen adaptations decades after its initial theatrical run.\n",
-        "playwright": "Jerome Lawrence and Robert Edwin Lee",
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/72_73/2015-05-25-inherit-the-wind.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "Inherit the Wind is a play by Jerome Lawrence and Robert Edwin Lee. The play, which debuted in 1955, is a story that fictionalizes the 1925 Scopes “Monkey” Trial as a means to discuss the then-contemporary McCarthy trials. The debate over creationism versus evolution has contemporary resonance, as evidenced by...",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "Erpingham Camp",
         "type": "show",
         
@@ -949,6 +927,28 @@
 
     
     ,{
+        "title": "The Lunch Hour",
+        "type": "show",
+        
+        
+        
+        "year_title": "1973 - 74",
+        "content": "A short play actually put on the lunch hour!\n\nLunch Hour is a 1961 film based on a one-act play by John Mortimer. It is about a man and a woman who have an affair during their lunch hour. Shirley Ann Field described it as perhaps “the most enjoyable film I’d ever done” because the cast and crew all worked so closely together.\n",
+        "playwright": "John Mortimer",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/73_74/2015-05-25-the-lunch-hour.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "A short play actually put on the lunch hour! Lunch Hour is a 1961 film based on a one-act play by John Mortimer. It is about a man and a woman who have an affair during their lunch hour. Shirley Ann Field described it as perhaps “the most enjoyable film...",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "Inherit the Wind",
         "type": "show",
         
@@ -1131,10 +1131,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:37\n  Build number 196\n.\n  44 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:38\n  Build number 198\n.\n  44 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:37\n  Build number 196\n.\n  44 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 11:38\n  Build number 198\n.\n  44 shows and 18 committees.\n\n"
     }
     
     
@@ -1269,10 +1269,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Updated inherit_the_wind.md25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Deleted 2015-05-25-vatzlav.md25 May - Updated vatzlav.md25 May - Created 2015-05-25-vatzlav.md25 May - Deleted 2015-05-25-rites.md25 May - Updated rites.md\n",
+        "content": " Recent Changes\n\n25 May - Created 2015-05-25-the-lunch-hour.md25 May - Deleted 2015-05-25-inherit-the-wind.md25 May - Updated inherit_the_wind.md25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Deleted 2015-05-25-vatzlav.md25 May - Updated vatzlav.md25 May - Created 2015-05-25-vatzlav.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Updated inherit_the_wind.md25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Deleted 2015-05-25-vatzlav.md25 May - Updated vatzlav.md25 May - Created 2015-05-25-vatzlav.md25 May - Deleted 2015-05-25-rites.md25 May - Updated rites.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-the-lunch-hour.md25 May - Deleted 2015-05-25-inherit-the-wind.md25 May - Updated inherit_the_wind.md25 May - Created 2015-05-25-inherit-the-wind.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Updated vatzlav.md25 May - Deleted 2015-05-25-vatzlav.md25 May - Updated vatzlav.md25 May - Created 2015-05-25-vatzlav.md\n"
     }
     
     

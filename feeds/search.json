@@ -1345,6 +1345,28 @@
 
     
     ,{
+        "title": "Tests",
+        "type": "show",
+        
+        
+        
+        "year_title": "1978 - 79",
+        "content": "\n",
+        "playwright": null,
+        "season": "Edinburgh",
+        "venue": ["Edinburgh"],
+        "link": "/shows/78_79/tests.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "The Plotters of Cabbage Patch Corner",
         "type": "show",
         
@@ -1527,10 +1549,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 12:15\n  Build number 254\n.\n  62 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 12:16\n  Build number 255\n.\n  63 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 12:15\n  Build number 254\n.\n  62 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 12:16\n  Build number 255\n.\n  63 shows and 18 committees.\n\n"
     }
     
     
@@ -1665,10 +1687,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Created 2015-05-25-tests.md25 May - Deleted 2015-05-25-the-plotters-of-cabbage-patch-corner.md25 May - Updated the_plotters_of_cabbage_patch_corner.md25 May - Created 2015-05-25-the-plotters-of-cabbage-patch-corner.md25 May - Deleted 2015-05-25-christine-in-love.md25 May - Updated christine_in_love.md25 May - Created 2015-05-25-christine-in-love.md25 May - Deleted 2015-05-25-a-scent-of-flowers.md25 May - Updated a_scent_of_flowers.md25 May - Created 2015-05-25-a-scent-of-flowers.md\n",
+        "content": " Recent Changes\n\n25 May - Updated tests.md25 May - Created 2015-05-25-tests.md25 May - Deleted 2015-05-25-the-plotters-of-cabbage-patch-corner.md25 May - Updated the_plotters_of_cabbage_patch_corner.md25 May - Created 2015-05-25-the-plotters-of-cabbage-patch-corner.md25 May - Deleted 2015-05-25-christine-in-love.md25 May - Updated christine_in_love.md25 May - Created 2015-05-25-christine-in-love.md25 May - Deleted 2015-05-25-a-scent-of-flowers.md25 May - Updated a_scent_of_flowers.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-tests.md25 May - Deleted 2015-05-25-the-plotters-of-cabbage-patch-corner.md25 May - Updated the_plotters_of_cabbage_patch_corner.md25 May - Created 2015-05-25-the-plotters-of-cabbage-patch-corner.md25 May - Deleted 2015-05-25-christine-in-love.md25 May - Updated christine_in_love.md25 May - Created 2015-05-25-christine-in-love.md25 May - Deleted 2015-05-25-a-scent-of-flowers.md25 May - Updated a_scent_of_flowers.md25 May - Created 2015-05-25-a-scent-of-flowers.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Updated tests.md25 May - Created 2015-05-25-tests.md25 May - Deleted 2015-05-25-the-plotters-of-cabbage-patch-corner.md25 May - Updated the_plotters_of_cabbage_patch_corner.md25 May - Created 2015-05-25-the-plotters-of-cabbage-patch-corner.md25 May - Deleted 2015-05-25-christine-in-love.md25 May - Updated christine_in_love.md25 May - Created 2015-05-25-christine-in-love.md25 May - Deleted 2015-05-25-a-scent-of-flowers.md25 May - Updated a_scent_of_flowers.md\n"
     }
     
     

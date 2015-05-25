@@ -135,28 +135,6 @@
 
     
     ,{
-        "title": "The Dark Tower",
-        "type": "show",
-        
-        
-        
-        "year_title": "1971 - 72",
-        "content": "NUS Drama Festival Entry, performed on the stage in the Trent Building\n",
-        "playwright": "George S. Kaufman and Alexander Woollcott",
-        "season": "In House",
-        "venue": ["Trent Building"],
-        "link": "/shows/2015-05-25-the-dark-tower.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "NUS Drama Festival Entry, performed on the stage in the Trent Building\n",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "Earth Spirit",
         "type": "show",
         
@@ -669,10 +647,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 10:30\n  Build number 125\n.\n  23 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 10:30\n  Build number 126\n.\n  22 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 10:30\n  Build number 125\n.\n  23 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 10:30\n  Build number 126\n.\n  22 shows and 18 committees.\n\n"
     }
     
     
@@ -807,10 +785,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Updated the_dark_tower.md25 May - Created 2015-05-25-the-dark-tower.md25 May - Deleted 2015-05-25-ghosts.md25 May - Updated ghosts.md25 May - Created 2015-05-25-ghosts.md25 May - Deleted 2015-05-25-the-visit.md25 May - Updated the_visit.md25 May - Created 2015-05-25-the-visit.md25 May - Deleted death_of_a_salesman.md25 May - Updated death_of_a_salesman.md\n",
+        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-the-dark-tower.md25 May - Updated the_dark_tower.md25 May - Created 2015-05-25-the-dark-tower.md25 May - Deleted 2015-05-25-ghosts.md25 May - Updated ghosts.md25 May - Created 2015-05-25-ghosts.md25 May - Deleted 2015-05-25-the-visit.md25 May - Updated the_visit.md25 May - Created 2015-05-25-the-visit.md25 May - Deleted death_of_a_salesman.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Updated the_dark_tower.md25 May - Created 2015-05-25-the-dark-tower.md25 May - Deleted 2015-05-25-ghosts.md25 May - Updated ghosts.md25 May - Created 2015-05-25-ghosts.md25 May - Deleted 2015-05-25-the-visit.md25 May - Updated the_visit.md25 May - Created 2015-05-25-the-visit.md25 May - Deleted death_of_a_salesman.md25 May - Updated death_of_a_salesman.md\n"
+        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-the-dark-tower.md25 May - Updated the_dark_tower.md25 May - Created 2015-05-25-the-dark-tower.md25 May - Deleted 2015-05-25-ghosts.md25 May - Updated ghosts.md25 May - Created 2015-05-25-ghosts.md25 May - Deleted 2015-05-25-the-visit.md25 May - Updated the_visit.md25 May - Created 2015-05-25-the-visit.md25 May - Deleted death_of_a_salesman.md\n"
     }
     
     

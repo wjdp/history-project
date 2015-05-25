@@ -298,6 +298,9 @@
     <loc>http://history.newtheatre.org.uk/shows/12_13/the_pillowman.html</loc>
   </url>
   <url>
+    <loc>http://history.newtheatre.org.uk/shows/2015-05-25-the-dark-tower.html</loc>
+  </url>
+  <url>
     <loc>http://history.newtheatre.org.uk/shows/53_54/earth_spirit.html</loc>
   </url>
   <url>
@@ -341,9 +344,6 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/shows/70_71/ghosts.html</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/shows/71_72/the_dark_tower.html</loc>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/committees/05_06.html</loc>
@@ -401,7 +401,7 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/googlee5aee69e17917677.html</loc>
-    <lastmod>2015-05-25T10:29:55+00:00</lastmod>
+    <lastmod>2015-05-25T10:29:41+00:00</lastmod>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>

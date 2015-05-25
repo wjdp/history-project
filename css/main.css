@@ -6192,6 +6192,9 @@ html {
   color: #ae81ff; }
 
 /* Literal.Number.Integer.Long */
+.debug {
+  display: none; }
+
 .debug-build-details {
   display: none;
   font-family: monospace;
@@ -6601,30 +6604,30 @@ table {
   .person-list .person-role {
     font-weight: 100; }
 
-.box-error, .box-warning, .box-success, .box-info {
+.box-error, .box-warning, .box-success, .box-info, .box-debug {
   padding: 28.9px;
   margin-bottom: 28.9px;
   position: relative;
   color: #eee; }
-  .box-error i, .box-warning i, .box-success i, .box-info i {
+  .box-error i, .box-warning i, .box-success i, .box-info i, .box-debug i {
     position: absolute;
     top: 7px;
     right: 9px;
     color: #828282;
     font-size: 68px;
     opacity: 0.2; }
-    .box-error i.fa-exclamation-triangle, .box-warning i.fa-exclamation-triangle, .box-success i.fa-exclamation-triangle, .box-info i.fa-exclamation-triangle {
+    .box-error i.fa-exclamation-triangle, .box-warning i.fa-exclamation-triangle, .box-success i.fa-exclamation-triangle, .box-info i.fa-exclamation-triangle, .box-debug i.fa-exclamation-triangle {
       top: 8px;
       right: 8px;
       font-size: 62px; }
-    .box-error i.fa-question, .box-warning i.fa-question, .box-success i.fa-question, .box-info i.fa-question {
+    .box-error i.fa-question, .box-warning i.fa-question, .box-success i.fa-question, .box-info i.fa-question, .box-debug i.fa-question {
       top: 3px;
       right: 12px; }
-    .box-error i.fa-camera, .box-warning i.fa-camera, .box-success i.fa-camera, .box-info i.fa-camera {
+    .box-error i.fa-camera, .box-warning i.fa-camera, .box-success i.fa-camera, .box-info i.fa-camera, .box-debug i.fa-camera {
       top: 10px;
       right: 11px;
       font-size: 58px; }
-    .box-error i.fa-info-circle, .box-warning i.fa-info-circle, .box-success i.fa-info-circle, .box-info i.fa-info-circle {
+    .box-error i.fa-info-circle, .box-warning i.fa-info-circle, .box-success i.fa-info-circle, .box-info i.fa-info-circle, .box-debug i.fa-info-circle {
       top: 3px; }
 
 .box-error {
@@ -6645,6 +6648,14 @@ table {
 .box-info {
   background: #114560; }
   .box-info code {
+    background: #0c2f42; }
+
+.box-debug {
+  display: none;
+  background: #000;
+  color: #4FFF1F;
+  font-family: monospace; }
+  .box-debug code {
     background: #0c2f42; }
 
 .breadcrumb-inner {
@@ -7846,8 +7857,9 @@ table {
     padding: 28.9px; }
 
 .decade-list {
-  -webkit-column-count: 2;
-  -webkit-column-gap: 20px;
+  -webkit-columns: 2 12px;
+  -moz-columns: 2 12px;
+  columns: 2 12px;
   margin-left: 0;
   list-style: none;
   margin: 0 8px 28.9px 10px; }

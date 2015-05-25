@@ -1697,28 +1697,6 @@
 
     
     ,{
-        "title": "Hamlet",
-        "type": "show",
-        
-        
-        
-        "year_title": "1996 - 97",
-        "content": "\n",
-        "playwright": "William Shakespeare",
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/96_97/2015-05-25-hamlet.html",
-        "date": "",
-        "run": "<span class=\"unknown\">Dates Unknown</span>",
-        "excerpt": "\n",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
         "title": "24 Hour Play",
         "type": "show",
         
@@ -1757,6 +1735,28 @@
         "excerpt": "On 12 December, 1969, a bomb exploded in the Bank of Agriculture in Piazza Fontana, Milan, killing sixteen people and injuring about a hundred. Soon after this the anarchist Guiseppe Pinelli was held for questioning in the Milanese Police Headquarters, while another anarchist, Pietro Valpreda was similarly pulled in in...",
         "cast": "Jeremy Brooker, Lawrence Evans, Andrew Watson, Ben Moore, Alex Williams, Phil Andrews, ",
         "crew": "Gemma Robinson, Anna Metcalf, Neil Thomson, Kevin Telfer, Lucy Phillips, Alex Mackenzie-Smith, Sarah Barker, Alex Foster, Lazy, Lucy Phillips, Bernice Low, Claire Messore, Matt Price, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Hamlet",
+        "type": "show",
+        
+        
+        
+        "year_title": "1996 - 97",
+        "content": "\n",
+        "playwright": "William Shakespeare",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/96_97/hamlet.html",
+        "date": "",
+        "run": "<span class=\"unknown\">Dates Unknown</span>",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
     }
     
     
@@ -1967,10 +1967,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:32\n  Build number 322\n.\n  82 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:33\n  Build number 324\n.\n  82 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:32\n  Build number 322\n.\n  82 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 15:33\n  Build number 324\n.\n  82 shows and 18 committees.\n\n"
     }
     
     
@@ -2105,10 +2105,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Created 2015-05-25-hamlet.md25 May - Deleted 2015-05-25-24-hour-play.md25 May - Updated 24_hour_play.md25 May - Created 2015-05-25-24-hour-play.md25 May - Deleted 2015-05-25-housemates.md25 May - Updated housemates.md25 May - Created 2015-05-25-housemates.md25 May - Deleted who_claimed_roger_s_habit.md25 May - Updated who_claimed_rogers_habit.md25 May - Deleted who_claimed_roger_s_habit.txt\n",
+        "content": " Recent Changes\n\n25 May - Deleted 2015-05-25-hamlet.md25 May - Updated hamlet.md25 May - Created 2015-05-25-hamlet.md25 May - Deleted 2015-05-25-24-hour-play.md25 May - Updated 24_hour_play.md25 May - Created 2015-05-25-24-hour-play.md25 May - Deleted 2015-05-25-housemates.md25 May - Updated housemates.md25 May - Created 2015-05-25-housemates.md25 May - Deleted who_claimed_roger_s_habit.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n25 May - Created 2015-05-25-hamlet.md25 May - Deleted 2015-05-25-24-hour-play.md25 May - Updated 24_hour_play.md25 May - Created 2015-05-25-24-hour-play.md25 May - Deleted 2015-05-25-housemates.md25 May - Updated housemates.md25 May - Created 2015-05-25-housemates.md25 May - Deleted who_claimed_roger_s_habit.md25 May - Updated who_claimed_rogers_habit.md25 May - Deleted who_claimed_roger_s_habit.txt\n"
+        "excerpt": " Recent Changes\n\n25 May - Deleted 2015-05-25-hamlet.md25 May - Updated hamlet.md25 May - Created 2015-05-25-hamlet.md25 May - Deleted 2015-05-25-24-hour-play.md25 May - Updated 24_hour_play.md25 May - Created 2015-05-25-24-hour-play.md25 May - Deleted 2015-05-25-housemates.md25 May - Updated housemates.md25 May - Created 2015-05-25-housemates.md25 May - Deleted who_claimed_roger_s_habit.md\n"
     }
     
     

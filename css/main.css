@@ -5886,7 +5886,7 @@ table {
     background: #0c2f42; }
 
 .breadcrumbs {
-  background: #373236; }
+  background: #383237; }
   .breadcrumbs .breadcrumb-list {
     margin: 0 auto;
     overflow: auto;
@@ -5938,7 +5938,7 @@ table {
   height: 0;
   border-top: 50px solid transparent;
   border-bottom: 50px solid transparent;
-  border-left: 30px solid #373236;
+  border-left: 30px solid #383237;
   position: absolute;
   top: 50%;
   margin-top: -50px;

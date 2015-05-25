@@ -2605,10 +2605,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 18:58\n  Build number 418\n.\n  111 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 20:12\n  Build number 421\n.\n  111 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 18:58\n  Build number 418\n.\n  111 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 20:12\n  Build number 421\n.\n  111 shows and 18 committees.\n\n"
     }
     
     
@@ -2743,10 +2743,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Remove venue attribute from shows in the 60s and 50s25 May - Add debug year to show pages25 May - Fix year_to_decade function\n\nThis was written incorrectly making the breadcrumbs for 1990 previous not be styled when looking at shows,25 May - Update frankenstein.md25 May - Updated festival_of_one_act_plays.md25 May - Update 09_10.md25 May - Update 08_09.md25 May - Deleted 2015-05-25-the-trial.md25 May - Updated the_trial_spring.md25 May - Deleted 2015-05-25-the-tempest.md\n",
+        "content": " Recent Changes\n\n25 May - Update deps to make button green again25 May - Fix two shows that slipped through the regex. #7425 May - Switch number to text for season_sort, #7425 May - Fix season_sort bad formatting by prose, #7425 May - Remove venue attribute from shows in the 60s and 50s25 May - Add debug year to show pages25 May - Fix year_to_decade function\n\nThis was written incorrectly making the breadcrumbs for 1990 previous not be styled when looking at shows,25 May - Update frankenstein.md25 May - Updated festival_of_one_act_plays.md25 May - Update 09_10.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 25 May - Remove venue attribute from shows in the 60s and 50s25 May - Add debug year to show pages25 May - Fix year_to_decade function This was written incorrectly making the breadcrumbs for 1990 previous not be styled when looking at shows,25 May - Update frankenstein.md25 May..."
+        "excerpt": "Recent Changes 25 May - Update deps to make button green again25 May - Fix two shows that slipped through the regex. #7425 May - Switch number to text for season_sort, #7425 May - Fix season_sort bad formatting by prose, #7425 May - Remove venue attribute from shows in the..."
     }
     
     

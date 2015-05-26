@@ -2709,6 +2709,28 @@
 
     
     ,{
+        "title": "The rise & fall of little voice",
+        "type": "show",
+        
+        
+        
+        "year_title": "1999 - 00",
+        "content": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "playwright": "Jim Cartwright",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/99_00/2015-05-26-the-rise-fall-of-little-voice.html",
+        "date": "",
+        "run": "1999 - 00 (Dates Unknown)",
+        "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "Confusions",
         "type": "show",
         
@@ -2720,6 +2742,28 @@
         "season": "In House",
         "venue": ["New Theatre"],
         "link": "/shows/99_00/confusions.html",
+        "date": "",
+        "run": "1999 - 00 (Dates Unknown)",
+        "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "The rise & fall of little voice",
+        "type": "show",
+        
+        
+        
+        "year_title": "1999 - 00",
+        "content": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "playwright": "Jim Cartwright",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/99_00/the_rise_and_fall_of_little_voice.html",
         "date": "",
         "run": "1999 - 00 (Dates Unknown)",
         "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
@@ -2891,10 +2935,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:12\n  Build number 472\n.\n  124 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:12\n  Build number 474\n.\n  126 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:12\n  Build number 472\n.\n  124 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:12\n  Build number 474\n.\n  126 shows and 18 committees.\n\n"
     }
     
     
@@ -3029,10 +3073,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n26 May - Updated confusions.md26 May - Deleted 2015-05-26-confusions.md26 May - Updated confusions.md26 May - Created 2015-05-26-confusions.md26 May - Deleted 2015-05-26-twice-nightly.md26 May - Updated twice_nightly.md26 May - Created 2015-05-26-twice-nightly.md26 May - Deleted 2015-05-26-tom-jones.md26 May - Updated tom_jones.md26 May - Created 2015-05-26-tom-jones.md\n",
+        "content": " Recent Changes\n\n26 May - Updated the_rise_and_fall_of_little_voice.md26 May - Created 2015-05-26-the-rise-fall-of-little-voice.md26 May - Updated confusions.md26 May - Deleted 2015-05-26-confusions.md26 May - Updated confusions.md26 May - Created 2015-05-26-confusions.md26 May - Deleted 2015-05-26-twice-nightly.md26 May - Updated twice_nightly.md26 May - Created 2015-05-26-twice-nightly.md26 May - Deleted 2015-05-26-tom-jones.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n26 May - Updated confusions.md26 May - Deleted 2015-05-26-confusions.md26 May - Updated confusions.md26 May - Created 2015-05-26-confusions.md26 May - Deleted 2015-05-26-twice-nightly.md26 May - Updated twice_nightly.md26 May - Created 2015-05-26-twice-nightly.md26 May - Deleted 2015-05-26-tom-jones.md26 May - Updated tom_jones.md26 May - Created 2015-05-26-tom-jones.md\n"
+        "excerpt": " Recent Changes\n\n26 May - Updated the_rise_and_fall_of_little_voice.md26 May - Created 2015-05-26-the-rise-fall-of-little-voice.md26 May - Updated confusions.md26 May - Deleted 2015-05-26-confusions.md26 May - Updated confusions.md26 May - Created 2015-05-26-confusions.md26 May - Deleted 2015-05-26-twice-nightly.md26 May - Updated twice_nightly.md26 May - Created 2015-05-26-twice-nightly.md26 May - Deleted 2015-05-26-tom-jones.md\n"
     }
     
     

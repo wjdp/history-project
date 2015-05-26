@@ -2027,6 +2027,28 @@
 
     
     ,{
+        "title": "Head State",
+        "type": "show",
+        
+        
+        
+        "year_title": "1998 - 99",
+        "content": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/97_98/2015-05-26-head-state.html",
+        "date": "",
+        "run": "1998 - 99 (Dates Unknown)",
+        "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "24 Hour Play",
         "type": "show",
         
@@ -2443,28 +2465,6 @@
     
     
 
-    
-    ,{
-        "title": "Head State",
-        "type": "show",
-        
-        
-        
-        "year_title": "1998 - 99",
-        "content": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
-        "playwright": null,
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/98_99/head_state.html",
-        "date": "",
-        "run": "1998 - 99 (Dates Unknown)",
-        "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
 
 
 
@@ -2627,10 +2627,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:47\n  Build number 433\n.\n  112 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:47\n  Build number 431\n.\n  112 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:47\n  Build number 433\n.\n  112 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:47\n  Build number 431\n.\n  112 shows and 18 committees.\n\n"
     }
     
     
@@ -2765,10 +2765,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n26 May - Deleted 2015-05-26-head-state.md26 May - Updated head_state.md26 May - Created 2015-05-26-head-state.md26 May - Fix for breadcrumb overflow on mobile\n\nApplies to #3126 May - Implement 'current' tag to group nav highlight, closes #8226 May - Mobile header fixup\n\nCloses #59, addresses issues in #3126 May - Add last commit debug box25 May - Replace heap with GA, #8125 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #66\n",
+        "content": " Recent Changes\n\n26 May - Created 2015-05-26-head-state.md26 May - Fix for breadcrumb overflow on mobile\n\nApplies to #3126 May - Implement 'current' tag to group nav highlight, closes #8226 May - Mobile header fixup\n\nCloses #59, addresses issues in #3126 May - Add last commit debug box25 May - Replace heap with GA, #8125 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925 May - Travis and Gemnasium badges in debug mode\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 26 May - Deleted 2015-05-26-head-state.md26 May - Updated head_state.md26 May - Created 2015-05-26-head-state.md26 May - Fix for breadcrumb overflow on mobile Applies to #3126 May - Implement 'current' tag to group nav highlight, closes #8226 May - Mobile header fixup Closes #59, addresses issues in #3126 May -..."
+        "excerpt": "Recent Changes 26 May - Created 2015-05-26-head-state.md26 May - Fix for breadcrumb overflow on mobile Applies to #3126 May - Implement 'current' tag to group nav highlight, closes #8226 May - Mobile header fixup Closes #59, addresses issues in #3126 May - Add last commit debug box25 May - Replace..."
     }
     
     

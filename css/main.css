@@ -6731,9 +6731,6 @@ table {
       padding-left: 14%;
       padding-right: 14%;
       max-width: 2000px; } }
-  @media only screen and (min-width: 768px) {
-    .breadcrumb-inner {
-      margin-top: -57.8px; } }
 
 .breadcrumb-list {
   margin: 0;
@@ -7225,6 +7222,9 @@ table {
         padding-bottom: 28.9px; } }
   .site-header, .site-header a {
     color: #eee; }
+
+.header-nobr .site-header {
+  margin-bottom: 0; }
 
 @media only screen and (min-width: 768px) {
   .site-title, .site-nav, .site-search {

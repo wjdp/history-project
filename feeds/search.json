@@ -2445,6 +2445,28 @@
 
     
     ,{
+        "title": "Blood Wedding",
+        "type": "show",
+        
+        
+        
+        "year_title": "1998 - 99",
+        "content": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "playwright": "Federico García Lorca",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/98_99/2015-05-26-blood-wedding.html",
+        "date": "",
+        "run": "1998 - 99 (Dates Unknown)",
+        "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "Head State",
         "type": "show",
         
@@ -2671,10 +2693,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:51\n  Build number 440\n.\n  114 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:52\n  Build number 441\n.\n  115 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:51\n  Build number 440\n.\n  114 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:52\n  Build number 441\n.\n  115 shows and 18 committees.\n\n"
     }
     
     
@@ -2809,10 +2831,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n26 May - Deleted 2015-05-26-little-shop-of-horrors.md26 May - Updated little_shop_of_horrors.md26 May - Created 2015-05-26-little-shop-of-horrors.md26 May - Updated the_real_inspector_hound.md26 May - Deleted 2015-05-26-the-real-inspector-hound.md26 May - Updated the_real_inspector_hound.md26 May - Created 2015-05-26-the-real-inspector-hound.md26 May - Deleted 2015-05-26-head-state.md26 May - Updated head_state.md26 May - Created 2015-05-26-head-state.md\n",
+        "content": " Recent Changes\n\n26 May - Created 2015-05-26-blood-wedding.md26 May - Deleted 2015-05-26-little-shop-of-horrors.md26 May - Updated little_shop_of_horrors.md26 May - Created 2015-05-26-little-shop-of-horrors.md26 May - Updated the_real_inspector_hound.md26 May - Deleted 2015-05-26-the-real-inspector-hound.md26 May - Updated the_real_inspector_hound.md26 May - Created 2015-05-26-the-real-inspector-hound.md26 May - Deleted 2015-05-26-head-state.md26 May - Updated head_state.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n26 May - Deleted 2015-05-26-little-shop-of-horrors.md26 May - Updated little_shop_of_horrors.md26 May - Created 2015-05-26-little-shop-of-horrors.md26 May - Updated the_real_inspector_hound.md26 May - Deleted 2015-05-26-the-real-inspector-hound.md26 May - Updated the_real_inspector_hound.md26 May - Created 2015-05-26-the-real-inspector-hound.md26 May - Deleted 2015-05-26-head-state.md26 May - Updated head_state.md26 May - Created 2015-05-26-head-state.md\n"
+        "excerpt": " Recent Changes\n\n26 May - Created 2015-05-26-blood-wedding.md26 May - Deleted 2015-05-26-little-shop-of-horrors.md26 May - Updated little_shop_of_horrors.md26 May - Created 2015-05-26-little-shop-of-horrors.md26 May - Updated the_real_inspector_hound.md26 May - Deleted 2015-05-26-the-real-inspector-hound.md26 May - Updated the_real_inspector_hound.md26 May - Created 2015-05-26-the-real-inspector-hound.md26 May - Deleted 2015-05-26-head-state.md26 May - Updated head_state.md\n"
     }
     
     

@@ -2445,7 +2445,7 @@
 
     
     ,{
-        "title": "Chasing Dolphins",
+        "title": "Summer Nights",
         "type": "show",
         
         
@@ -2455,7 +2455,7 @@
         "playwright": null,
         "season": "In House",
         "venue": ["New Theatre"],
-        "link": "/shows/98_99/2015-05-26-chasing-dolphins.html",
+        "link": "/shows/98_99/2015-05-26-summer-nights.html",
         "date": "",
         "run": "1998 - 99 (Dates Unknown)",
         "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
@@ -2500,6 +2500,28 @@
         "season": "In House",
         "venue": ["New Theatre"],
         "link": "/shows/98_99/blood_wedding.html",
+        "date": "",
+        "run": "1998 - 99 (Dates Unknown)",
+        "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Chasing Dolphins",
+        "type": "show",
+        
+        
+        
+        "year_title": "1998 - 99",
+        "content": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/98_99/chasing_dolphins.html",
         "date": "",
         "run": "1998 - 99 (Dates Unknown)",
         "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
@@ -2588,6 +2610,28 @@
         "season": "In House",
         "venue": ["New Theatre"],
         "link": "/shows/98_99/out_for_a_duck.html",
+        "date": "",
+        "run": "1998 - 99 (Dates Unknown)",
+        "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Summer Nights",
+        "type": "show",
+        
+        
+        
+        "year_title": "1998 - 99",
+        "content": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/98_99/summer_nights.html",
         "date": "",
         "run": "1998 - 99 (Dates Unknown)",
         "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
@@ -2803,10 +2847,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:04\n  Build number 457\n.\n  120 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:05\n  Build number 461\n.\n  122 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:04\n  Build number 457\n.\n  120 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:05\n  Build number 461\n.\n  122 shows and 18 committees.\n\n"
     }
     
     
@@ -2941,10 +2985,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n26 May - Created 2015-05-26-chasing-dolphins.md26 May - Deleted 2015-05-26-an-ideal-husband.md26 May - Updated an_ideal_husband.md26 May - Created 2015-05-26-an-ideal-husband.md26 May - Deleted 2015-05-26-the-last-supper.md26 May - Updated the_last_supper.md26 May - Created 2015-05-26-the-last-supper.md26 May - Updated out_for_a_duck.md26 May - Deleted 2015-05-26-out-for-a-duck.md26 May - Updated out_for_a_duck.md\n",
+        "content": " Recent Changes\n\n26 May - Updated summer_nights.md26 May - Created 2015-05-26-summer-nights.md26 May - Deleted 2015-05-26-chasing-dolphins.md26 May - Updated chasing_dolphins.md26 May - Created 2015-05-26-chasing-dolphins.md26 May - Deleted 2015-05-26-an-ideal-husband.md26 May - Updated an_ideal_husband.md26 May - Created 2015-05-26-an-ideal-husband.md26 May - Deleted 2015-05-26-the-last-supper.md26 May - Updated the_last_supper.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n26 May - Created 2015-05-26-chasing-dolphins.md26 May - Deleted 2015-05-26-an-ideal-husband.md26 May - Updated an_ideal_husband.md26 May - Created 2015-05-26-an-ideal-husband.md26 May - Deleted 2015-05-26-the-last-supper.md26 May - Updated the_last_supper.md26 May - Created 2015-05-26-the-last-supper.md26 May - Updated out_for_a_duck.md26 May - Deleted 2015-05-26-out-for-a-duck.md26 May - Updated out_for_a_duck.md\n"
+        "excerpt": " Recent Changes\n\n26 May - Updated summer_nights.md26 May - Created 2015-05-26-summer-nights.md26 May - Deleted 2015-05-26-chasing-dolphins.md26 May - Updated chasing_dolphins.md26 May - Created 2015-05-26-chasing-dolphins.md26 May - Deleted 2015-05-26-an-ideal-husband.md26 May - Updated an_ideal_husband.md26 May - Created 2015-05-26-an-ideal-husband.md26 May - Deleted 2015-05-26-the-last-supper.md26 May - Updated the_last_supper.md\n"
     }
     
     

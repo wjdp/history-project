@@ -6197,95 +6197,124 @@ html {
 
 .debug-build-details {
   display: none;
-  font-family: monospace;
-  font-size: 11.5px;
-  font-weight: bold;
   background: #000;
-  color: #4FFF1F;
   padding: 1px 3px;
   z-index: 9000;
   position: fixed;
   top: 2px;
   left: 2px; }
+  .debug-build-details, .debug-build-details a, .debug-build-details a:visited {
+    font-family: monospace;
+    color: #4FFF1F;
+    font-size: 11.5px;
+    font-weight: bold;
+    line-height: 12px; }
 
-.debug-badges {
+.debug-last-commit {
   display: none;
-  font-family: monospace;
-  font-size: 11.5px;
-  font-weight: bold;
   background: #000;
-  color: #4FFF1F;
   padding: 1px 3px;
   z-index: 9000;
   position: fixed;
   top: 20px;
+  left: 2px; }
+  .debug-last-commit, .debug-last-commit a, .debug-last-commit a:visited {
+    font-family: monospace;
+    color: #4FFF1F;
+    font-size: 11.5px;
+    font-weight: bold;
+    line-height: 12px; }
+
+.debug-badges {
+  display: none;
+  background: #000;
+  padding: 1px 3px;
+  z-index: 9000;
+  position: fixed;
+  top: 38px;
   left: 2px;
-  padding: 3px 3px 0px 3px; }
+  padding: 3px 3px 1px 3px; }
+  .debug-badges, .debug-badges a, .debug-badges a:visited {
+    font-family: monospace;
+    color: #4FFF1F;
+    font-size: 11.5px;
+    font-weight: bold;
+    line-height: 12px; }
 
 .debug-mode {
   display: none;
-  font-family: monospace;
-  font-size: 11.5px;
-  font-weight: bold;
   background: #000;
-  color: #4FFF1F;
   padding: 1px 3px;
   z-index: 9000;
   position: fixed;
   top: 2px;
   right: 2px; }
+  .debug-mode, .debug-mode a, .debug-mode a:visited {
+    font-family: monospace;
+    color: #4FFF1F;
+    font-size: 11.5px;
+    font-weight: bold;
+    line-height: 12px; }
 
 .debug-abs-top-left {
   display: none;
-  font-family: monospace;
-  font-size: 11.5px;
-  font-weight: bold;
   background: #000;
-  color: #4FFF1F;
   padding: 1px 3px;
   z-index: 9000;
   position: absolute;
   top: 2px;
   left: 2px; }
+  .debug-abs-top-left, .debug-abs-top-left a, .debug-abs-top-left a:visited {
+    font-family: monospace;
+    color: #4FFF1F;
+    font-size: 11.5px;
+    font-weight: bold;
+    line-height: 12px; }
 
 .debug-abs-top-right {
   display: none;
-  font-family: monospace;
-  font-size: 11.5px;
-  font-weight: bold;
   background: #000;
-  color: #4FFF1F;
   padding: 1px 3px;
   z-index: 9000;
   position: absolute;
   top: 2px;
   right: 2px; }
+  .debug-abs-top-right, .debug-abs-top-right a, .debug-abs-top-right a:visited {
+    font-family: monospace;
+    color: #4FFF1F;
+    font-size: 11.5px;
+    font-weight: bold;
+    line-height: 12px; }
 
 .debug-abs-bottom-left {
   display: none;
-  font-family: monospace;
-  font-size: 11.5px;
-  font-weight: bold;
   background: #000;
-  color: #4FFF1F;
   padding: 1px 3px;
   z-index: 9000;
   position: absolute;
   bottom: 2px;
   left: 2px; }
+  .debug-abs-bottom-left, .debug-abs-bottom-left a, .debug-abs-bottom-left a:visited {
+    font-family: monospace;
+    color: #4FFF1F;
+    font-size: 11.5px;
+    font-weight: bold;
+    line-height: 12px; }
 
 .debug-abs-bottom-right {
   display: none;
-  font-family: monospace;
-  font-size: 11.5px;
-  font-weight: bold;
   background: #000;
-  color: #4FFF1F;
   padding: 1px 3px;
   z-index: 9000;
   position: absolute;
   bottom: 2px;
   right: 2px; }
+  .debug-abs-bottom-right, .debug-abs-bottom-right a, .debug-abs-bottom-right a:visited {
+    font-family: monospace;
+    color: #4FFF1F;
+    font-size: 11.5px;
+    font-weight: bold;
+    line-height: 12px; }
 
 .debug-container {
   position: relative; }
@@ -6680,7 +6709,6 @@ table {
   padding-right: 8px;
   margin-bottom: 28.9px;
   background: #383237;
-  margin-top: -57.8px;
   margin-left: 0; }
   @media only screen and (min-width: 480px) {
     .breadcrumb-inner {
@@ -6703,6 +6731,9 @@ table {
       padding-left: 14%;
       padding-right: 14%;
       max-width: 2000px; } }
+  @media only screen and (min-width: 768px) {
+    .breadcrumb-inner {
+      margin-top: -57.8px; } }
 
 .breadcrumb-list {
   margin: 0;
@@ -6765,6 +6796,9 @@ table {
 
 .breadcrumb-controls {
   float: right; }
+  @media only screen and (max-width: 767px) {
+    .breadcrumb-controls {
+      display: none; } }
   .breadcrumb-controls a {
     color: #eee;
     display: inline-block;
@@ -7141,9 +7175,13 @@ table {
   max-width: none; }
 
 .site-header {
-  padding: 57.8px 0 28.9px 0;
-  margin-bottom: 57.8px;
+  padding: 14.45px 0 0 0;
+  margin-bottom: 28.9px;
   background: #52224c; }
+  @media only screen and (min-width: 768px) {
+    .site-header {
+      margin-bottom: 57.8px;
+      padding: 57.8px 0 28.9px 0; } }
   .site-header .wrapper {
     margin: 0 auto;
     overflow: auto;
@@ -7151,7 +7189,8 @@ table {
     padding-left: 8px;
     padding-right: 8px;
     width: 100%;
-    padding-bottom: 28.9px; }
+    padding-bottom: 28.9px;
+    padding-bottom: 0; }
     @media only screen and (min-width: 480px) {
       .site-header .wrapper {
         padding-left: 8px;
@@ -7177,6 +7216,13 @@ table {
       content: "";
       display: table;
       clear: both; }
+    @media only screen and (max-width: 767px) {
+      .site-header .wrapper {
+        padding-left: 0;
+        padding-right: 0; } }
+    @media only screen and (min-width: 768px) {
+      .site-header .wrapper {
+        padding-bottom: 28.9px; } }
   .site-header, .site-header a {
     color: #eee; }
 
@@ -7218,11 +7264,15 @@ table {
     padding-right: 0; }
   @media only screen and (max-width: 767px) {
     .site-title {
-      width: 270px;
-      margin: 0 auto; } }
+      width: 280px;
+      margin: 0 auto;
+      padding-bottom: 14.45px; } }
 
 .site-title-logo {
   float: left; }
+  @media only screen and (max-width: 767px) {
+    .site-title-logo {
+      width: 32px; } }
 
 .site-title-text {
   padding-top: 2px;
@@ -7236,7 +7286,10 @@ table {
       line-height: 31.2px; } }
   @media only screen and (max-width: 479px) {
     .site-title-text {
-      font-size: 23.4px; } }
+      font-size: 15.6px;
+      padding-left: 42px; }
+      .site-title-text br {
+        display: none; } }
 
 .site-nav {
   padding-right: 0px;
@@ -7271,20 +7324,33 @@ table {
   .grid .site-nav:last-of-type {
     padding-right: 0; }
   .site-nav .page-link {
-    text-decoration: none;
-    padding-bottom: 3px; }
-    .site-nav .page-link:hover {
-      border-bottom: 2px solid #eee; }
-    .site-nav .page-link.current {
-      border-bottom: 2px solid #A54499; }
-    @media only screen and (min-width: 768px) {
-      .site-nav .page-link {
-        margin-right: 38px; }
-        .site-nav .page-link:last-child {
-          margin-right: 0; } }
+    text-decoration: none; }
     @media only screen and (max-width: 767px) {
       .site-nav .page-link {
-        display: block; } }
+        display: block;
+        float: left;
+        width: 25%;
+        padding: 14.45px 0;
+        text-align: center; }
+        .site-nav .page-link i {
+          display: block;
+          font-size: 2rem;
+          padding-bottom: 1rem; }
+        .site-nav .page-link .page-link-text {
+          display: block;
+          line-height: 1em; }
+        .site-nav .page-link.current {
+          background: #813578; } }
+    @media only screen and (min-width: 768px) {
+      .site-nav .page-link {
+        margin-right: 38px;
+        padding-bottom: 3px; }
+        .site-nav .page-link:last-child {
+          margin-right: 0; }
+        .site-nav .page-link:hover .page-link-text {
+          border-bottom: 2px solid #eee; }
+        .site-nav .page-link.current .page-link-text {
+          border-bottom: 2px solid #A54499; } }
 
 .site-search {
   padding-right: 0px;
@@ -7318,6 +7384,9 @@ table {
       float: left; } }
   .grid .site-search:last-of-type {
     padding-right: 0; }
+  @media only screen and (max-width: 767px) {
+    .site-search {
+      display: none; } }
 
 .site-search-input {
   padding: 6px;
@@ -7889,16 +7958,18 @@ table {
 
 .decade-list-counts {
   display: none;
-  font-family: monospace;
-  font-size: 11.5px;
-  font-weight: bold;
   background: #000;
-  color: #4FFF1F;
   padding: 1px 3px;
   z-index: 9000;
   position: absolute;
   right: 0;
   top: 2px; }
+  .decade-list-counts, .decade-list-counts a, .decade-list-counts a:visited {
+    font-family: monospace;
+    color: #4FFF1F;
+    font-size: 11.5px;
+    font-weight: bold;
+    line-height: 12px; }
 
 .decade-194 h3 {
   background: #601123;

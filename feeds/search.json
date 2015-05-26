@@ -2605,10 +2605,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 23:50\n  Build number 427\n.\n  111 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 01:02\n  Build number 428\n.\n  111 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-25 23:50\n  Build number 427\n.\n  111 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 01:02\n  Build number 428\n.\n  111 shows and 18 committees.\n\n"
     }
     
     
@@ -2743,10 +2743,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n25 May - Replace heap with GA, #8125 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925 May - Travis and Gemnasium badges in debug mode25 May - Hide unassigned show box, show with debug, #2825 May - Fix decade-list columns on FF, closes #67\n\nAnd any other browser other than webkit25 May - Try and fix octicons again again, #58\n\nNow using my fork of octicons that allows for user specified font location rather than a jury rigged bugfix.25 May - Try and fix octicons again, #5825 May - Show year on search results even when exact dates are unknown\n\nCloses #76\n",
+        "content": " Recent Changes\n\n26 May - Mobile header fixup\n\nCloses #59, addresses issues in #3126 May - Add last commit debug box25 May - Replace heap with GA, #8125 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925 May - Travis and Gemnasium badges in debug mode25 May - Hide unassigned show box, show with debug, #2825 May - Fix decade-list columns on FF, closes #67\n\nAnd any other browser other than webkit25 May - Try and fix octicons again again, #58\n\nNow using my fork of octicons that allows for user specified font location rather than a jury rigged bugfix.\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 25 May - Replace heap with GA, #8125 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925 May - Travis and Gemnasium badges in debug mode25 May - Hide unassigned show box, show with debug,..."
+        "excerpt": "Recent Changes 26 May - Mobile header fixup Closes #59, addresses issues in #3126 May - Add last commit debug box25 May - Replace heap with GA, #8125 May - Add heap analytics, #8125 May - Search show posters now clickable, closes #6625 May - Grid row padding, closes #6925..."
     }
     
     

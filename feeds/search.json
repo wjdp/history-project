@@ -2649,10 +2649,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:49\n  Build number 436\n.\n  113 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:49\n  Build number 437\n.\n  113 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:49\n  Build number 436\n.\n  113 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:49\n  Build number 437\n.\n  113 shows and 18 committees.\n\n"
     }
     
     
@@ -2787,10 +2787,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n26 May - Deleted 2015-05-26-the-real-inspector-hound.md26 May - Updated the_real_inspector_hound.md26 May - Created 2015-05-26-the-real-inspector-hound.md26 May - Deleted 2015-05-26-head-state.md26 May - Updated head_state.md26 May - Created 2015-05-26-head-state.md26 May - Fix for breadcrumb overflow on mobile\n\nApplies to #3126 May - Implement 'current' tag to group nav highlight, closes #8226 May - Mobile header fixup\n\nCloses #59, addresses issues in #3126 May - Add last commit debug box\n",
+        "content": " Recent Changes\n\n26 May - Updated the_real_inspector_hound.md26 May - Deleted 2015-05-26-the-real-inspector-hound.md26 May - Updated the_real_inspector_hound.md26 May - Created 2015-05-26-the-real-inspector-hound.md26 May - Deleted 2015-05-26-head-state.md26 May - Updated head_state.md26 May - Created 2015-05-26-head-state.md26 May - Fix for breadcrumb overflow on mobile\n\nApplies to #3126 May - Implement 'current' tag to group nav highlight, closes #8226 May - Mobile header fixup\n\nCloses #59, addresses issues in #31\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 26 May - Deleted 2015-05-26-the-real-inspector-hound.md26 May - Updated the_real_inspector_hound.md26 May - Created 2015-05-26-the-real-inspector-hound.md26 May - Deleted 2015-05-26-head-state.md26 May - Updated head_state.md26 May - Created 2015-05-26-head-state.md26 May - Fix for breadcrumb overflow on mobile Applies to #3126 May - Implement 'current' tag to group nav highlight, closes #8226 May..."
+        "excerpt": "Recent Changes 26 May - Updated the_real_inspector_hound.md26 May - Deleted 2015-05-26-the-real-inspector-hound.md26 May - Updated the_real_inspector_hound.md26 May - Created 2015-05-26-the-real-inspector-hound.md26 May - Deleted 2015-05-26-head-state.md26 May - Updated head_state.md26 May - Created 2015-05-26-head-state.md26 May - Fix for breadcrumb overflow on mobile Applies to #3126 May - Implement 'current' tag to group nav..."
     }
     
     

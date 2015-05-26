@@ -6735,7 +6735,8 @@ table {
 .breadcrumb-list {
   margin: 0;
   list-style: none;
-  overflow: hidden; }
+  overflow: hidden;
+  min-width: 720px; }
   .breadcrumb-list li {
     padding-bottom: 0; }
   .breadcrumb-list li a {

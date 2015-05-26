@@ -2445,7 +2445,7 @@
 
     
     ,{
-        "title": "Tom Jones",
+        "title": "Twice Nightly",
         "type": "show",
         
         
@@ -2453,9 +2453,9 @@
         "year_title": "1998 - 99",
         "content": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
         "playwright": null,
-        "season": "In House",
-        "venue": ["New Theatre"],
-        "link": "/shows/98_99/2015-05-26-tom-jones.html",
+        "season": "Edinburgh",
+        "venue": ["Edinburgh"],
+        "link": "/shows/98_99/2015-05-26-twice-nightly.html",
         "date": "",
         "run": "1998 - 99 (Dates Unknown)",
         "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
@@ -2869,10 +2869,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:08\n  Build number 464\n.\n  123 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:08\n  Build number 466\n.\n  123 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:08\n  Build number 464\n.\n  123 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:08\n  Build number 466\n.\n  123 shows and 18 committees.\n\n"
     }
     
     
@@ -3007,10 +3007,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n26 May - Updated tom_jones.md26 May - Created 2015-05-26-tom-jones.md26 May - Deleted 2015-05-26-summer-nights.md26 May - Updated summer_nights.md26 May - Created 2015-05-26-summer-nights.md26 May - Deleted 2015-05-26-chasing-dolphins.md26 May - Updated chasing_dolphins.md26 May - Created 2015-05-26-chasing-dolphins.md26 May - Deleted 2015-05-26-an-ideal-husband.md26 May - Updated an_ideal_husband.md\n",
+        "content": " Recent Changes\n\n26 May - Created 2015-05-26-twice-nightly.md26 May - Deleted 2015-05-26-tom-jones.md26 May - Updated tom_jones.md26 May - Created 2015-05-26-tom-jones.md26 May - Deleted 2015-05-26-summer-nights.md26 May - Updated summer_nights.md26 May - Created 2015-05-26-summer-nights.md26 May - Deleted 2015-05-26-chasing-dolphins.md26 May - Updated chasing_dolphins.md26 May - Created 2015-05-26-chasing-dolphins.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n26 May - Updated tom_jones.md26 May - Created 2015-05-26-tom-jones.md26 May - Deleted 2015-05-26-summer-nights.md26 May - Updated summer_nights.md26 May - Created 2015-05-26-summer-nights.md26 May - Deleted 2015-05-26-chasing-dolphins.md26 May - Updated chasing_dolphins.md26 May - Created 2015-05-26-chasing-dolphins.md26 May - Deleted 2015-05-26-an-ideal-husband.md26 May - Updated an_ideal_husband.md\n"
+        "excerpt": " Recent Changes\n\n26 May - Created 2015-05-26-twice-nightly.md26 May - Deleted 2015-05-26-tom-jones.md26 May - Updated tom_jones.md26 May - Created 2015-05-26-tom-jones.md26 May - Deleted 2015-05-26-summer-nights.md26 May - Updated summer_nights.md26 May - Created 2015-05-26-summer-nights.md26 May - Deleted 2015-05-26-chasing-dolphins.md26 May - Updated chasing_dolphins.md26 May - Created 2015-05-26-chasing-dolphins.md\n"
     }
     
     

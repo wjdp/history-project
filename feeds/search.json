@@ -2577,6 +2577,28 @@
 
     
     ,{
+        "title": "The Last Supper",
+        "type": "show",
+        
+        
+        
+        "year_title": "1998 - 99",
+        "content": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/98_99/the_last_supper.html",
+        "date": "",
+        "run": "1998 - 99 (Dates Unknown)",
+        "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "The Real Inspector Hound",
         "type": "show",
         
@@ -2759,10 +2781,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:58\n  Build number 451\n.\n  118 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:58\n  Build number 452\n.\n  119 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:58\n  Build number 451\n.\n  118 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 12:58\n  Build number 452\n.\n  119 shows and 18 committees.\n\n"
     }
     
     
@@ -2897,10 +2919,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n26 May - Created 2015-05-26-the-last-supper.md26 May - Updated out_for_a_duck.md26 May - Deleted 2015-05-26-out-for-a-duck.md26 May - Updated out_for_a_duck.md26 May - Created 2015-05-26-out-for-a-duck.md26 May - Deleted 2015-05-26-city-of-angels.md26 May - Updated city_of_angels.md26 May - Created 2015-05-26-city-of-angels.md26 May - Deleted 2015-05-26-blood-wedding.md26 May - Updated blood_wedding.md\n",
+        "content": " Recent Changes\n\n26 May - Updated the_last_supper.md26 May - Created 2015-05-26-the-last-supper.md26 May - Updated out_for_a_duck.md26 May - Deleted 2015-05-26-out-for-a-duck.md26 May - Updated out_for_a_duck.md26 May - Created 2015-05-26-out-for-a-duck.md26 May - Deleted 2015-05-26-city-of-angels.md26 May - Updated city_of_angels.md26 May - Created 2015-05-26-city-of-angels.md26 May - Deleted 2015-05-26-blood-wedding.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n26 May - Created 2015-05-26-the-last-supper.md26 May - Updated out_for_a_duck.md26 May - Deleted 2015-05-26-out-for-a-duck.md26 May - Updated out_for_a_duck.md26 May - Created 2015-05-26-out-for-a-duck.md26 May - Deleted 2015-05-26-city-of-angels.md26 May - Updated city_of_angels.md26 May - Created 2015-05-26-city-of-angels.md26 May - Deleted 2015-05-26-blood-wedding.md26 May - Updated blood_wedding.md\n"
+        "excerpt": " Recent Changes\n\n26 May - Updated the_last_supper.md26 May - Created 2015-05-26-the-last-supper.md26 May - Updated out_for_a_duck.md26 May - Deleted 2015-05-26-out-for-a-duck.md26 May - Updated out_for_a_duck.md26 May - Created 2015-05-26-out-for-a-duck.md26 May - Deleted 2015-05-26-city-of-angels.md26 May - Updated city_of_angels.md26 May - Created 2015-05-26-city-of-angels.md26 May - Deleted 2015-05-26-blood-wedding.md\n"
     }
     
     

@@ -2885,6 +2885,28 @@
 
     
     ,{
+        "title": "Shopping and F***ing",
+        "type": "show",
+        
+        
+        
+        "year_title": "1999 - 00",
+        "content": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/99_00/shopping_and_f***ing.html",
+        "date": "",
+        "run": "1999 - 00 (Dates Unknown)",
+        "excerpt": "A New Post\n\nEnter text in Markdown. Use the toolbar above, or click the ? button for formatting help.\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "The Office",
         "type": "show",
         
@@ -3089,10 +3111,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:23\n  Build number 497\n.\n  133 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:24\n  Build number 498\n.\n  134 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:23\n  Build number 497\n.\n  133 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-26 13:24\n  Build number 498\n.\n  134 shows and 18 committees.\n\n"
     }
     
     
@@ -3227,10 +3249,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n26 May - Created 2015-05-26-shopping-and-f-ing.md26 May - Deleted 2015-05-26-dr-faustus.md26 May - Updated dr_faustus.md26 May - Created 2015-05-26-dr-faustus.md26 May - Deleted 2015-05-26-our-day-out.md26 May - Updated our_day_out.md26 May - Created 2015-05-26-our-day-out.md26 May - Deleted 2015-05-26-all-my-sons.md26 May - Updated all_my_sons.md26 May - Created 2015-05-26-all-my-sons.md\n",
+        "content": " Recent Changes\n\n26 May - Updated shopping_and_f***ing.md26 May - Created 2015-05-26-shopping-and-f-ing.md26 May - Deleted 2015-05-26-dr-faustus.md26 May - Updated dr_faustus.md26 May - Created 2015-05-26-dr-faustus.md26 May - Deleted 2015-05-26-our-day-out.md26 May - Updated our_day_out.md26 May - Created 2015-05-26-our-day-out.md26 May - Deleted 2015-05-26-all-my-sons.md26 May - Updated all_my_sons.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n26 May - Created 2015-05-26-shopping-and-f-ing.md26 May - Deleted 2015-05-26-dr-faustus.md26 May - Updated dr_faustus.md26 May - Created 2015-05-26-dr-faustus.md26 May - Deleted 2015-05-26-our-day-out.md26 May - Updated our_day_out.md26 May - Created 2015-05-26-our-day-out.md26 May - Deleted 2015-05-26-all-my-sons.md26 May - Updated all_my_sons.md26 May - Created 2015-05-26-all-my-sons.md\n"
+        "excerpt": " Recent Changes\n\n26 May - Updated shopping_and_f***ing.md26 May - Created 2015-05-26-shopping-and-f-ing.md26 May - Deleted 2015-05-26-dr-faustus.md26 May - Updated dr_faustus.md26 May - Created 2015-05-26-dr-faustus.md26 May - Deleted 2015-05-26-our-day-out.md26 May - Updated our_day_out.md26 May - Created 2015-05-26-our-day-out.md26 May - Deleted 2015-05-26-all-my-sons.md26 May - Updated all_my_sons.md\n"
     }
     
     

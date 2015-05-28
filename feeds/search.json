@@ -4193,10 +4193,10 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-28 02:07\n  Build number 513\n.\n  190 shows and 18 committees.\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-28 02:25\n  Build number 514\n.\n  190 shows and 18 committees.\n\n",
         "link": "/about/",
         "date": null,
-        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-28 02:07\n  Build number 513\n.\n  190 shows and 18 committees.\n\n"
+        "excerpt": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network.\n\nPeople\n\n\n  Will Pimblett\n  Phil Geller\n\n\nBuild Details\n\n\n  Site last updated at 2015-05-28 02:25\n  Build number 514\n.\n  190 shows and 18 committees.\n\n"
     }
     
     
@@ -4331,10 +4331,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n28 May - Optimise the build process\n\nYears, shows and committees now have Ruby generators.\n\n- The year attribute on shows is no longer required\n- Years are now a collection under _years rather than pages under years27 May - Fix dates in new shows, #8927 May - Show comments on shows #7827 May - Update readme with useful bash stuff27 May - Add 11-12 shows27 May - Update the_memory_of_water.md27 May - the_memory_of_water, add some cast members\n\nStill missing one, I think27 May - Cast and crew not separated, now fixed26 May - Create robots.txt26 May - Add 12-13 season\n",
+        "content": " Recent Changes\n\n28 May - Fix missing shows banner showing up incorrectly28 May - Optimise the build process\n\nYears, shows and committees now have Ruby generators.\n\n- The year attribute on shows is no longer required\n- Years are now a collection under _years rather than pages under years27 May - Fix dates in new shows, #8927 May - Show comments on shows #7827 May - Update readme with useful bash stuff27 May - Add 11-12 shows27 May - Update the_memory_of_water.md27 May - the_memory_of_water, add some cast members\n\nStill missing one, I think27 May - Cast and crew not separated, now fixed26 May - Create robots.txt\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 28 May - Optimise the build process Years, shows and committees now have Ruby generators. - The year attribute on shows is no longer required - Years are now a collection under _years rather than pages under years27 May - Fix dates in new shows, #8927 May -..."
+        "excerpt": "Recent Changes 28 May - Fix missing shows banner showing up incorrectly28 May - Optimise the build process Years, shows and committees now have Ruby generators. - The year attribute on shows is no longer required - Years are now a collection under _years rather than pages under years27 May..."
     }
     
     

@@ -4193,7 +4193,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Will Pimblett\n      Phil Geller\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-05-28 21:16\n      Build number 522\n.\n      190 shows and 18 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Will Pimblett\n      Phil Geller\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-05-28 23:27\n      Build number 523\n.\n      190 shows and 18 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -4236,6 +4236,19 @@
         "link": "/contributing/",
         "date": null,
         "excerpt": "Contributing This project relies on contributions from the alumni community. If you see a show missing information, a committee record a few names short or just have an interesting story to tell you can help out in a number of ways. Contacting us Please email us at &#097;&#108;&#117;&#109;&#110;&#105;&#064;&#110;&#101;&#119;&#116;&#104;&#101;&#097;&#116;&#114;&#101;&#046;&#111;&#114;&#103;&#046;&#117;&#107; if you..."
+    }
+    
+    
+
+    
+    ,{
+        "title": "Design",
+        "type": "page",
+        "group": "",
+        "content": "\n\n  Design Test\n\n  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus magna id dui mollis dignissim. Donec malesuada dolor eget suscipit ullamcorper. Proin facilisis leo quis tellus porta, faucibus malesuada nisl ornare. Cras sed risus accumsan, maximus felis vitae, efficitur risus. Phasellus ornare malesuada urna, sit amet varius massa pulvinar et. Cras molestie sodales nulla vitae feugiat. Donec efficitur nisl dui, ut faucibus nisi interdum nec. Nullam fermentum in sapien quis tincidunt. Etiam hendrerit maximus augue, ut vestibulum quam posuere nec. Suspendisse non nunc ut tortor consectetur tristique. Quisque rutrum diam in justo accumsan volutpat sed sed ligula.\n\n  Vestibulum accumsan placerat malesuada. Nulla at nisl varius ex pretium consequat mollis non ante. Etiam pharetra ac felis non sodales. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ultrices facilisis est, ut pharetra velit sodales vitae. Etiam vel purus lobortis, suscipit dolor in, laoreet leo. Nam lorem lectus, molestie sed risus vitae, tincidunt feugiat leo. Sed quam ante, iaculis eget magna eu, semper rhoncus lacus. Sed sit amet nibh lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse eleifend sagittis tellus sit amet lacinia.\n\n  \n    Unordered list item\n    Bob\n    Alice\n    Eve\n  \n\n\n\n\n\n  Buttons\n\n  A button\nA button\nA button\nA button\nA button\n\n\n",
+        "link": "/design/",
+        "date": null,
+        "excerpt": "Design Test Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus magna id dui mollis dignissim. Donec malesuada dolor eget suscipit ullamcorper. Proin facilisis leo quis tellus porta, faucibus malesuada nisl ornare. Cras sed risus accumsan, maximus felis vitae, efficitur risus. Phasellus ornare malesuada urna, sit amet varius massa..."
     }
     
     
@@ -4331,10 +4344,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n28 May - Update ruby deps28 May - Update about.md28 May - Still can't spell28 May - Update about.md28 May - Fix travis conf28 May - Update index.md28 May - Optimise image tag generation\n\nChops off ~15 seconds, #8628 May - [TRAVIS] Prevent caching entire site, only gen. images28 May - Fancy show count / year graph\n\nShown on home page currently28 May - Update report tool link\n",
+        "content": " Recent Changes\n\n28 May - Implement buttons, close #9528 May - Update ruby deps28 May - Update about.md28 May - Still can't spell28 May - Update about.md28 May - Fix travis conf28 May - Update index.md28 May - Optimise image tag generation\n\nChops off ~15 seconds, #8628 May - [TRAVIS] Prevent caching entire site, only gen. images28 May - Fancy show count / year graph\n\nShown on home page currently\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 28 May - Update ruby deps28 May - Update about.md28 May - Still can't spell28 May - Update about.md28 May - Fix travis conf28 May - Update index.md28 May - Optimise image tag generation Chops off ~15 seconds, #8628 May - [TRAVIS] Prevent caching entire site, only gen...."
+        "excerpt": "Recent Changes 28 May - Implement buttons, close #9528 May - Update ruby deps28 May - Update about.md28 May - Still can't spell28 May - Update about.md28 May - Fix travis conf28 May - Update index.md28 May - Optimise image tag generation Chops off ~15 seconds, #8628 May - [TRAVIS]..."
     }
     
     

@@ -7227,6 +7227,41 @@ table {
   padding: 0;
   max-width: none; }
 
+.button, a.button {
+  padding: 9.6237px 19.2474px;
+  line-height: 17px;
+  display: inline-block;
+  margin-bottom: 28.9px;
+  border: none;
+  margin-right: 14.45px;
+  margin-bottom: 28.9px;
+  background: #424242;
+  border-bottom: 3px solid #141414;
+  text-shadow: 0 -1px 0 #0f0f0f;
+  font-size: 17px;
+  font-weight: bold;
+  color: #eee;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  position: relative; }
+  .button:hover, a.button:hover {
+    text-decoration: none; }
+  .button:active, a.button:active {
+    top: 1px;
+    border-bottom-width: 2px;
+    outline: 0;
+    margin-bottom: 29.9px; }
+  .button:focus, a.button:focus {
+    outline: 0; }
+
+.button-search {
+  background: #2083b7;
+  border-bottom: 3px solid #134b69;
+  text-shadow: 0 -1px 0 #114560; }
+
 .site-header {
   padding: 14.45px 0 0 0;
   margin-bottom: 28.9px;
@@ -8379,9 +8414,10 @@ body.search .site-header {
       padding-right: 0; }
   .search-form .search-form-text, .search-form .search-form-actions {
     padding-top: 14.45px; }
-    .search-form .search-form-text input, .search-form .search-form-text button, .search-form .search-form-actions input, .search-form .search-form-actions button {
+    .search-form .search-form-text input, .search-form .search-form-text .button, .search-form .search-form-actions input, .search-form .search-form-actions .button {
       font-size: 20.4px;
       padding: 7.225px;
+      line-height: 28.9px;
       width: 100%; }
   .search-form .search-form-text {
     padding-right: 0px;
@@ -8448,15 +8484,6 @@ body.search .site-header {
     color: #eee;
     border: 2px #eee solid;
     border-radius: 2px; }
-  .search-form .search-submit {
-    background: #2083b7;
-    border: none;
-    border-bottom: 4px #175e83 solid;
-    color: #eee;
-    text-shadow: 0 -1px 0 #114560;
-    position: relative; }
-    .search-form .search-submit:active {
-      top: 1px; }
 
 .search-results {
   margin: 0 auto;

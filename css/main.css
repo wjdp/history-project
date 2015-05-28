@@ -8815,5 +8815,25 @@ body.search .site-header {
     border-bottom-color: #242424;
     text-shadow: 0 -1px 0 #0f0f0f; }
 
+.year-graph {
+  width: 100%;
+  padding-bottom: 28.9px;
+  margin-bottom: 28.9px;
+  padding-top: 1rem;
+  background: #150813; }
+  .year-graph:after {
+    content: "";
+    display: table;
+    clear: both; }
+  .year-graph .year-graph-bar {
+    float: left;
+    width: 1.33333%;
+    background: red; }
+    .year-graph .year-graph-bar a {
+      display: block;
+      width: 100%; }
+      .year-graph .year-graph-bar a:hover {
+        text-decoration: none; }
+
 .fancybox-title-float-wrap .child {
   white-space: normal; }

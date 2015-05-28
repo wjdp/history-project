@@ -10,7 +10,7 @@
   <meta name="description" content="Archive project collecting past shows, committees and alumni bios to piece together the New Theatre’s dynamic and vibrant history.">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600|Montserrat" />
   <link rel='stylesheet' type='text/css' href='/bundles/2b3d836e7d863c435aa4ef73f2a4dfe8.css' />
-  <link rel="stylesheet" href="/css/main.css?cachebust=201505271919">
+  <link rel="stylesheet" href="/css/main.css?cachebust=201505280207">
   <link rel="canonical" href="http://history.newtheatre.org.uk/docs/shows/">
   <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://history.newtheatre.org.uk/feed.xml" />
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
@@ -32,13 +32,18 @@
     <!-- Debug LHS -->
     <div class="debug-build-details" data-debug-toggle>
       <i class="fa fa-clock-o"></i>
-      2015-05-27 19:19, build 512
+      2015-05-28 02:07, build 513
 , section about
     </div>
 
     <div class="debug-last-commit" data-debug-toggle>
       <i class="octicon octicon-history"></i>
-      27 May - <a href='https://github.com/newtheatre/history-project/commit/20dd77b206b9ed9793ad52bc91f81cc7def1c560/'>Show comments on shows #78</a>
+      28 May - <a href='https://github.com/newtheatre/history-project/commit/b3531d39d3a7a91c70e1ce252a332fe7efc76f10/'>Optimise the build process
+
+Years, shows and committees now have Ruby generators.
+
+- The year attribute on shows is no longer required
+- Years are now a collection under _years rather than pages under years</a>
     </div>
 
     <div class="debug-badges" data-debug-toggle>
@@ -106,25 +111,6 @@
   </div>
 </header>
 
-
-    <!-- 
-
-
-<ol>
- 
-  <li><a href="/">home</a> &#187; </li>
-
-  
-   
-   
-
-   <li><a href="/docs">docs</a> &#187; </li>
-
-   
-  
- 
-</ol>
- -->
 
     <div class="content">
         <div class="docs">
@@ -199,11 +185,6 @@
       <td style="text-align: left">Shows at 30, 40, 50 etc</td>
     </tr>
     <tr>
-      <td style="text-align: left"><code>year</code></td>
-      <td style="text-align: left">Year this show belongs to in the format YY_YY</td>
-      <td style="text-align: left">i.e. The Pillowman was performed in the 2012-13 academic year so the year is “12_13”</td>
-    </tr>
-    <tr>
       <td style="text-align: left"><code>venue</code></td>
       <td style="text-align: left">Venue show was performed in.</td>
       <td style="text-align: left">There should only be one item in this list.</td>
@@ -211,12 +192,12 @@
     <tr>
       <td style="text-align: left"><code>date_start</code></td>
       <td style="text-align: left">Date of first performance</td>
-      <td style="text-align: left">In the format YYYY-MM-DDD</td>
+      <td style="text-align: left">In the format YYYY-MM-DD</td>
     </tr>
     <tr>
       <td style="text-align: left"><code>date_end</code></td>
       <td style="text-align: left">Date of last performance</td>
-      <td style="text-align: left">In the format YYYY-MM-DDD</td>
+      <td style="text-align: left">In the format YYYY-MM-DD</td>
     </tr>
     <tr>
       <td style="text-align: left"><code>cast</code></td>
@@ -258,12 +239,11 @@
 <span class="l-Scalar-Plain">playwright</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Martin McDonagh</span>
 <span class="l-Scalar-Plain">season</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">In House</span>
 <span class="l-Scalar-Plain">season_sort</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">70</span>
-<span class="l-Scalar-Plain">year</span><span class="p-Indicator">:</span> <span class="s">&quot;12_13&quot;</span>
 <span class="l-Scalar-Plain">period</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Autumn</span>
 <span class="l-Scalar-Plain">venue</span><span class="p-Indicator">:</span>
   <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">New Theatre</span>
-<span class="l-Scalar-Plain">date_start</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">12/12/2012</span>
-<span class="l-Scalar-Plain">date_end</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">15/12/2012</span>
+<span class="l-Scalar-Plain">date_start</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">2012-12-12</span>
+<span class="l-Scalar-Plain">date_end</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">2012-12-15</span>
 <span class="l-Scalar-Plain">cast</span><span class="p-Indicator">:</span>
   <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">role</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Katurian</span>
     <span class="l-Scalar-Plain">name</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Sam Haywood</span>

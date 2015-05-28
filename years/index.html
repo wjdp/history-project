@@ -10,7 +10,7 @@
   <meta name="description" content="Archive project collecting past shows, committees and alumni bios to piece together the New Theatre’s dynamic and vibrant history.">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600|Montserrat" />
   <link rel='stylesheet' type='text/css' href='/bundles/2b3d836e7d863c435aa4ef73f2a4dfe8.css' />
-  <link rel="stylesheet" href="/css/main.css?cachebust=201505271919">
+  <link rel="stylesheet" href="/css/main.css?cachebust=201505280207">
   <link rel="canonical" href="http://history.newtheatre.org.uk/years/">
   <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://history.newtheatre.org.uk/feed.xml" />
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
@@ -32,13 +32,18 @@
     <!-- Debug LHS -->
     <div class="debug-build-details" data-debug-toggle>
       <i class="fa fa-clock-o"></i>
-      2015-05-27 19:19, build 512
+      2015-05-28 02:07, build 513
 , section archives
     </div>
 
     <div class="debug-last-commit" data-debug-toggle>
       <i class="octicon octicon-history"></i>
-      27 May - <a href='https://github.com/newtheatre/history-project/commit/20dd77b206b9ed9793ad52bc91f81cc7def1c560/'>Show comments on shows #78</a>
+      28 May - <a href='https://github.com/newtheatre/history-project/commit/b3531d39d3a7a91c70e1ce252a332fe7efc76f10/'>Optimise the build process
+
+Years, shows and committees now have Ruby generators.
+
+- The year attribute on shows is no longer required
+- Years are now a collection under _years rather than pages under years</a>
     </div>
 
     <div class="debug-badges" data-debug-toggle>
@@ -107,16 +112,6 @@
 </header>
 
 
-    <!-- 
-
-
-<ol>
- 
-  <li><a href="/">home</a> &nbsp; </li>
- 
-</ol>
- -->
-
     <div class="content">
         <div class="breadcrumbs">
   <div class="breadcrumb-inner">
@@ -134,71 +129,69 @@
   <div class="decade decade-201">
     <h3>2010s</h3>
     
-    
-
-<ul class="decade-list">
-  
-  
+    <ul class="decade-list">
   
 
-  <li class="empty"><a href="/years/14_15/">2014 - 15</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    C
-  </div>
+    <a href="/years/14_15.html">2014 - 15</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      C
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/13_14/">2013 - 14</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    7
-    C
-  </div>
+    <a href="/years/13_14.html">2013 - 14</a>
 
-  </li>
-
-  
-  
-  
-
-  <li ><a href="/years/12_13/">2012 - 13</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    30
-    C
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      7
+      C
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/11_12/">2011 - 12</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    23
-    C
-  </div>
+    <a href="/years/12_13.html">2012 - 13</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      30
+      C
+    </div>
 
   </li>
 
   
-  
+
+  <li >
+
+    <a href="/years/11_12.html">2011 - 12</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      23
+      C
+    </div>
+
+  </li>
+
   
 
-  <li class="empty"><a href="/years/10_11/">2010 - 11</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    C
-  </div>
+    <a href="/years/10_11.html">2010 - 11</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      C
+    </div>
 
   </li>
 
@@ -209,136 +202,134 @@
   <div class="decade decade-200">
     <h3>2000s</h3>
     
-    
-
-<ul class="decade-list">
-  
-  
+    <ul class="decade-list">
   
 
-  <li class="empty"><a href="/years/09_10/">2009 - 10</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    C
-  </div>
+    <a href="/years/09_10.html">2009 - 10</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      C
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/08_09/">2008 - 09</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    1
-    C
-  </div>
+    <a href="/years/08_09.html">2008 - 09</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/07_08/">2007 - 08</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    C
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      1
+      C
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/06_07/">2006 - 07</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    C
-  </div>
+    <a href="/years/07_08.html">2007 - 08</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/05_06/">2005 - 06</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    C
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      C
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/04_05/">2004 - 05</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/06_07.html">2006 - 07</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/03_04/">2003 - 04</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      C
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/02_03/">2002 - 03</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/05_06.html">2005 - 06</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/01_02/">2001 - 02</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      C
+    </div>
 
   </li>
 
   
-  
+
+  <li class="empty">
+
+    <a href="/years/04_05.html">2004 - 05</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
   
 
-  <li class="empty"><a href="/years/00_01/">2000 - 01</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/03_04.html">2003 - 04</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/02_03.html">2002 - 03</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/01_02.html">2001 - 02</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/00_01.html">2000 - 01</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
@@ -349,136 +340,134 @@
   <div class="decade decade-199">
     <h3>1990s</h3>
     
-    
-
-<ul class="decade-list">
-  
-  
+    <ul class="decade-list">
   
 
-  <li ><a href="/years/99_00/">1999 - 00</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    12
-    C
-  </div>
+    <a href="/years/99_00.html">1999 - 00</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      12
+      C
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/98_99/">1998 - 99</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    12
-    
-  </div>
+    <a href="/years/98_99.html">1998 - 99</a>
 
-  </li>
-
-  
-  
-  
-
-  <li ><a href="/years/97_98/">1997 - 98</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    19
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      12
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/96_97/">1996 - 97</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    15
-    
-  </div>
+    <a href="/years/97_98.html">1997 - 98</a>
 
-  </li>
-
-  
-  
-  
-
-  <li ><a href="/years/95_96/">1995 - 96</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    7
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      19
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/94_95/">1994 - 95</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    5
-    
-  </div>
+    <a href="/years/96_97.html">1996 - 97</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/93_94/">1993 - 94</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      15
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/92_93/">1992 - 93</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/95_96.html">1995 - 96</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/91_92/">1991 - 92</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      7
+      
+    </div>
 
   </li>
 
   
-  
+
+  <li >
+
+    <a href="/years/94_95.html">1994 - 95</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      5
+      
+    </div>
+
+  </li>
+
   
 
-  <li class="empty"><a href="/years/90_91/">1990 - 91</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/93_94.html">1993 - 94</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/92_93.html">1992 - 93</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/91_92.html">1991 - 92</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/90_91.html">1990 - 91</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
@@ -489,136 +478,134 @@
   <div class="decade decade-198">
     <h3>1980s</h3>
     
-    
-
-<ul class="decade-list">
-  
-  
+    <ul class="decade-list">
   
 
-  <li class="empty"><a href="/years/89_90/">1989 - 90</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/89_90.html">1989 - 90</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/88_89/">1988 - 89</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/88_89.html">1988 - 89</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/87_88/">1987 - 88</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/86_87/">1986 - 87</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/87_88.html">1987 - 88</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/85_86/">1985 - 86</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/84_85/">1984 - 85</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/86_87.html">1986 - 87</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/83_84/">1983 - 84</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/82_83/">1982 - 83</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/85_86.html">1985 - 86</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/81_82/">1981 - 82</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
+
+  <li class="empty">
+
+    <a href="/years/84_85.html">1984 - 85</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
   
 
-  <li class="empty"><a href="/years/80_81/">1980 - 81</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/83_84.html">1983 - 84</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/82_83.html">1982 - 83</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/81_82.html">1981 - 82</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/80_81.html">1980 - 81</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
@@ -629,136 +616,134 @@
   <div class="decade decade-197">
     <h3>1970s</h3>
     
-    
-
-<ul class="decade-list">
-  
-  
+    <ul class="decade-list">
   
 
-  <li class="empty"><a href="/years/79_80/">1979 - 80</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/79_80.html">1979 - 80</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/78_79/">1978 - 79</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    5
-    
-  </div>
+    <a href="/years/78_79.html">1978 - 79</a>
 
-  </li>
-
-  
-  
-  
-
-  <li ><a href="/years/77_78/">1977 - 78</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    4
-    C
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      5
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/76_77/">1976 - 77</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    3
-    C
-  </div>
+    <a href="/years/77_78.html">1977 - 78</a>
 
-  </li>
-
-  
-  
-  
-
-  <li ><a href="/years/75_76/">1975 - 76</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    2
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      4
+      C
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/74_75/">1974 - 75</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    2
-    C
-  </div>
+    <a href="/years/76_77.html">1976 - 77</a>
 
-  </li>
-
-  
-  
-  
-
-  <li ><a href="/years/73_74/">1973 - 74</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    6
-    C
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      3
+      C
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/72_73/">1972 - 73</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    13
-    C
-  </div>
+    <a href="/years/75_76.html">1975 - 76</a>
 
-  </li>
-
-  
-  
-  
-
-  <li ><a href="/years/71_72/">1971 - 72</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    8
-    C
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      2
+      
+    </div>
 
   </li>
 
   
-  
+
+  <li >
+
+    <a href="/years/74_75.html">1974 - 75</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      2
+      C
+    </div>
+
+  </li>
+
   
 
-  <li ><a href="/years/70_71/">1970 - 71</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    1
-    C
-  </div>
+    <a href="/years/73_74.html">1973 - 74</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      7
+      C
+    </div>
+
+  </li>
+
+  
+
+  <li >
+
+    <a href="/years/72_73.html">1972 - 73</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      13
+      C
+    </div>
+
+  </li>
+
+  
+
+  <li >
+
+    <a href="/years/71_72.html">1971 - 72</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      8
+      C
+    </div>
+
+  </li>
+
+  
+
+  <li >
+
+    <a href="/years/70_71.html">1970 - 71</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      1
+      C
+    </div>
 
   </li>
 
@@ -769,136 +754,134 @@
   <div class="decade decade-196">
     <h3>1960s</h3>
     
-    
-
-<ul class="decade-list">
-  
-  
+    <ul class="decade-list">
   
 
-  <li class="empty"><a href="/years/69_70/">1969 - 70</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/69_70.html">1969 - 70</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/68_69/">1968 - 69</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/68_69.html">1968 - 69</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/67_68/">1967 - 68</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/66_67/">1966 - 67</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/67_68.html">1967 - 68</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/65_66/">1965 - 66</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/64_65/">1964 - 65</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    1
-    
-  </div>
+    <a href="/years/66_67.html">1966 - 67</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/63_64/">1963 - 64</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/62_63/">1962 - 63</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/65_66.html">1965 - 66</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/61_62/">1961 - 62</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
+
+  <li >
+
+    <a href="/years/64_65.html">1964 - 65</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      1
+      
+    </div>
+
+  </li>
+
   
 
-  <li class="empty"><a href="/years/60_61/">1960 - 61</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/63_64.html">1963 - 64</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/62_63.html">1962 - 63</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/61_62.html">1961 - 62</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/60_61.html">1960 - 61</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
@@ -909,136 +892,134 @@
   <div class="decade decade-195">
     <h3>1950s</h3>
     
-    
-
-<ul class="decade-list">
-  
-  
+    <ul class="decade-list">
   
 
-  <li class="empty"><a href="/years/59_60/">1959 - 60</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/59_60.html">1959 - 60</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/58_59/">1958 - 59</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    1
-    
-  </div>
+    <a href="/years/58_59.html">1958 - 59</a>
 
-  </li>
-
-  
-  
-  
-
-  <li ><a href="/years/57_58/">1957 - 58</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    2
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      1
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/56_57/">1956 - 57</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    2
-    
-  </div>
+    <a href="/years/57_58.html">1957 - 58</a>
 
-  </li>
-
-  
-  
-  
-
-  <li ><a href="/years/55_56/">1955 - 56</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    5
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      2
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li ><a href="/years/54_55/">1954 - 55</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    2
-    
-  </div>
+    <a href="/years/56_57.html">1956 - 57</a>
 
-  </li>
-
-  
-  
-  
-
-  <li ><a href="/years/53_54/">1953 - 54</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    1
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      2
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/52_53/">1952 - 53</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/55_56.html">1955 - 56</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/51_52/">1951 - 52</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      5
+      
+    </div>
 
   </li>
 
   
-  
+
+  <li >
+
+    <a href="/years/54_55.html">1954 - 55</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      2
+      
+    </div>
+
+  </li>
+
   
 
-  <li class="empty"><a href="/years/50_51/">1950 - 51</a>
+  <li >
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/53_54.html">1953 - 54</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      1
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/52_53.html">1952 - 53</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/51_52.html">1951 - 52</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/50_51.html">1950 - 51</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
@@ -1049,136 +1030,134 @@
   <div class="decade decade-194">
     <h3>1940s</h3>
     
-    
-
-<ul class="decade-list">
-  
-  
+    <ul class="decade-list">
   
 
-  <li class="empty"><a href="/years/49_50/">1949 - 50</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/49_50.html">1949 - 50</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/48_49/">1948 - 49</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/48_49.html">1948 - 49</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/47_48/">1947 - 48</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/46_47/">1946 - 47</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/47_48.html">1947 - 48</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/45_46/">1945 - 46</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/44_45/">1944 - 45</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/46_47.html">1946 - 47</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/43_44/">1943 - 44</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
-  
 
-  <li class="empty"><a href="/years/42_43/">1942 - 43</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/45_46.html">1945 - 46</a>
 
-  </li>
-
-  
-  
-  
-
-  <li class="empty"><a href="/years/41_42/">1941 - 42</a>
-
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 
   
-  
+
+  <li class="empty">
+
+    <a href="/years/44_45.html">1944 - 45</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
   
 
-  <li class="empty"><a href="/years/40_41/">1940 - 41</a>
+  <li class="empty">
 
-  <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
-    
-    
-  </div>
+    <a href="/years/43_44.html">1943 - 44</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/42_43.html">1942 - 43</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/41_42.html">1941 - 42</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
+
+  </li>
+
+  
+
+  <li class="empty">
+
+    <a href="/years/40_41.html">1940 - 41</a>
+
+    <div class="decade-list-counts" data-debug-toggle title="Show counts for year, C denotes a committee record">
+      
+      
+    </div>
 
   </li>
 

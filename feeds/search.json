@@ -222,6 +222,26 @@
     
 
     
+    ,{
+        "title": "Untitled",
+        "type": "show",
+        
+        
+        
+        "year_title": "2001 - 02",
+        "content": "Alan Bennett’s theatrical range extends well beyong the dour, domestic Talking Heads monologues that have become his trademark. First performed in 1973 with the likes of Alex Guiness, Patricia Hayes and Phyllida Law creating the roles, Heabeas Corpus (which essentially means “have the body”) is a manic and stylized examination of our fascination with marriage, sex, lust (love doesn’t get much of a look in) and our own morality.\n\nAlan Bennett writes, “It was an attempt to write a farce without the paraphernalia of farce - hiding places, multipliex exits, umpteen doors. Trousers fall, it is true, but in an instantaneous way as if by divine intervention. Habeas Corpus is a favourite of mine if only because it’s one of the few times I’ve tried to write a naturalistic play…There are plenty of good arts - henpecked husband, frustrated wife, lecherous curate, ubiquitous char - and everyone is slightly larger than life. “\n\n",
+        "playwright": "Alan Bennett",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/01_02/habeas_corpus.html",
+        "date": "2002-03-06",
+        "run": "6 - 9 March 2002",
+        "excerpt": "Alan Bennett’s theatrical range extends well beyong the dour, domestic Talking Heads monologues that have become his trademark. First performed in 1973 with the likes of Alex Guiness, Patricia Hayes and Phyllida Law creating the roles, Heabeas Corpus (which essentially means “have the body”) is a manic and stylized examination...",
+        "cast": "Joseph Arkley, Katie Hartwill, Ali Sherriffs, Helen Townsend, Anneliese Mackintosh, Christopher Stephen, George K, Ben Bergin, Stephanie Lane, Cat McCotter, Bush, ",
+        "crew": "Lynette Shanbury, Alison Carr, Alison Griffiths, Mike Cook, Rob Wicks, Suzy Freake, "
+    }
+    
+    
 
     
     ,{
@@ -4547,7 +4567,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Will Pimblett\n      Phil Geller\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-05-29 10:46\n      Build number 588\n.\n      207 shows and 18 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Will Pimblett\n      Phil Geller\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-05-29 12:34\n      Build number 589\n.\n      207 shows and 18 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -4698,10 +4718,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n29 May - Deleted habeas_corpus.txt29 May - Updated habeas_corpus.md29 May - Created 2015-05-29-cabaret.md29 May - Updated hamlet.md29 May - Deleted 2015-05-29-hamlet.md29 May - Updated hamlet.md29 May - Created 2015-05-29-hamlet.md29 May - Updated our_countrys_good.md29 May - Updated the_homecoming.md29 May - Updated our_countrys_good.md\n",
+        "content": " Recent Changes\n\n29 May - Updated habeas_corpus.md29 May - Deleted habeas_corpus.txt29 May - Updated habeas_corpus.md29 May - Created 2015-05-29-cabaret.md29 May - Updated hamlet.md29 May - Deleted 2015-05-29-hamlet.md29 May - Updated hamlet.md29 May - Created 2015-05-29-hamlet.md29 May - Updated our_countrys_good.md29 May - Updated the_homecoming.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n29 May - Deleted habeas_corpus.txt29 May - Updated habeas_corpus.md29 May - Created 2015-05-29-cabaret.md29 May - Updated hamlet.md29 May - Deleted 2015-05-29-hamlet.md29 May - Updated hamlet.md29 May - Created 2015-05-29-hamlet.md29 May - Updated our_countrys_good.md29 May - Updated the_homecoming.md29 May - Updated our_countrys_good.md\n"
+        "excerpt": " Recent Changes\n\n29 May - Updated habeas_corpus.md29 May - Deleted habeas_corpus.txt29 May - Updated habeas_corpus.md29 May - Created 2015-05-29-cabaret.md29 May - Updated hamlet.md29 May - Deleted 2015-05-29-hamlet.md29 May - Updated hamlet.md29 May - Created 2015-05-29-hamlet.md29 May - Updated our_countrys_good.md29 May - Updated the_homecoming.md\n"
     }
     
     

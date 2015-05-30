@@ -10,7 +10,7 @@
   <meta name="description" content="Archive project collecting past shows, committees and alumni bios to piece together the New Theatre’s dynamic and vibrant history.">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600|Montserrat" />
   <link rel='stylesheet' type='text/css' href='/bundles/2b3d836e7d863c435aa4ef73f2a4dfe8.css' />
-  <link rel="stylesheet" href="/css/main.css?cachebust=201505301606">
+  <link rel="stylesheet" href="/css/main.css?cachebust=201505301722">
   <link rel="canonical" href="http://history.newtheatre.org.uk/docs/editing/">
   <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://history.newtheatre.org.uk/feed.xml" />
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
@@ -32,13 +32,15 @@
     <!-- Debug LHS -->
     <div class="debug-build-details" data-debug-toggle>
       <i class="fa fa-clock-o"></i>
-      2015-05-30 16:06, build 649
+      2015-05-30 17:22, build 651
 , section about
     </div>
 
     <div class="debug-last-commit" data-debug-toggle>
       <i class="octicon octicon-history"></i>
-      30 May - <a href='https://github.com/newtheatre/history-project/commit/1f2bfdba101d68c960cfbe781114dfeea69bbaa3/'>Add video designer icon</a>
+      30 May - <a href='https://github.com/newtheatre/history-project/commit/5fdf809d4f79c1d67a0fafd1a2289435c836f425/'>Set shows and committees to published: true on prose
+
+Addresses #96</a>
     </div>
 
     <div class="debug-badges" data-debug-toggle>
@@ -139,15 +141,21 @@
   </nav>
   <article class="docs-content">
     <h1>Editing</h1>
-    <p>To edit the site you have several options. To make direct edits you must be added to the <a href="http://github.com/newtheatre/history-project">repository</a> by an <a href="https://github.com/orgs/newtheatre/people">owner</a> however you can propose edits straight away for an editor to merge in.</p>
+    <p>To edit the site you have several options. To make direct edits you must be added as a trusted editor to the <a href="http://github.com/newtheatre/history-project">repository</a> by an <a href="https://github.com/orgs/newtheatre/people">owner</a> however you can propose edits straight away for an editor to merge in.</p>
 
 <h2 id="editing-online">Editing Online</h2>
 
-<p>You can then either use the GitHub website directly or Prose. Ensure you have a verified email address with GitHub otherwise your changes will not trigger a build.</p>
+<p>You can either use the GitHub website, Prose or using a text editor on your computer. Either way you’ll need a free GitHub account, you can <a href="https://github.com/join">sign up here</a>.</p>
+
+<p>Ensure you have a verified email address with GitHub otherwise your changes will not trigger a build.</p>
 
 <h3 id="github">GitHub</h3>
 
-<p>To use the GitHub website use the <strong><i class="octicon octicon octicon-pencil"></i> Edit This Page</strong> button to launch the editor. If you don’t have write access to the repo you will be prompted to create a fork and will be led through the process of creating a pull request.</p>
+<iframe class="youtube" src="https://www.youtube.com/embed/yC2aBvMgTzg?showinfo=0&amp;color=white&amp;modestbranding=1" frameborder="0" allowfullscreen=""></iframe>
+
+<p>To use the GitHub website use the <strong><i class="octicon octicon octicon-pencil"></i> Edit This Page</strong> button on the right hand edge of a page to launch the editor.</p>
+
+<p>If you’re not a trusted editor you’ll be prompted to create a <em>fork</em> and will be led through the process of creating a pull request. Later an editor will check your changes are valid and merge them into the repo.</p>
 
 <h3 id="prose">Prose</h3>
 
@@ -157,9 +165,9 @@
 
 </div>
 
-<p>To use <a href="http://prose.io">Prose</a>, visit the site and authorise with GitHub. Find the history-project repo to load up the file list. Navigate to the file you’re interested in and click ‘Edit’.</p>
+<p><a href="http://prose.io">Prose</a> is a bit nicer to use when doing a lot of editing. Visit the site and authorise with GitHub. Find the history-project repo to load up the file list. Navigate to the file you’re interested in and click ‘Edit’.</p>
 
-<p>Meta data can be edited on Prose by using one of the buttons on the far right.</p>
+<p>Meta data can be edited on Prose by using one of the buttons on the far right, a preview should also be available.</p>
 
 <h2 id="editing-locally">Editing Locally</h2>
 
@@ -167,9 +175,9 @@
 
 <p>This is the more complicated option, the benefits are you can use a desktop text editor and run the entire site on your machine to preview changes before they go live. You should have knowledge of Git and the command line to do this.</p>
 
-<p>Dependences of this site are managed with <a href="http://bundler.io/">Bundler</a>, install it if you haven’t got it already and just do <code>bundle install</code>.</p>
+<p>See <a href="https://github.com/newtheatre/history-project/blob/master/README.md">README.md</a> for up to date install instructions.</p>
 
-<p>To get Jekyll up and running do <code>bundle exec jekyll serve --watch</code>, the site will then be available on <a href="http://localhost:4000">http://localhost:4000</a>.</p>
+<p>Getting the site running on your machine locally is easy to do on Mac and Linux. It <em>can</em> be done on Windows, but it’s tricky. The website <a href="http://jekyll-windows.juthilo.com/">Run Jekyll on Windows</a> has a full tutorial on how to do this.</p>
 
 <h2 id="syntaxes-used">Syntaxes Used</h2>
 

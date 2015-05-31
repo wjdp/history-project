@@ -10,7 +10,7 @@
   <meta name="description" content="Archive project collecting past shows, committees and alumni bios to piece together the New Theatre’s dynamic and vibrant history.">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600|Montserrat" />
   <link rel='stylesheet' type='text/css' href='/bundles/2b3d836e7d863c435aa4ef73f2a4dfe8.css' />
-  <link rel="stylesheet" href="/css/main.css?cachebust=201505311857">
+  <link rel="stylesheet" href="/css/main.css?cachebust=201505312103">
   <link rel="canonical" href="http://history.newtheatre.org.uk/shows/71_72/the_dark_tower.html">
   <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://history.newtheatre.org.uk/feed.xml" />
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
@@ -32,13 +32,15 @@
     <!-- Debug LHS -->
     <div class="debug-build-details" data-debug-toggle>
       <i class="fa fa-clock-o"></i>
-      2015-05-31 18:57, build 658
+      2015-05-31 21:03, build 659
 , section archives
     </div>
 
     <div class="debug-last-commit" data-debug-toggle>
       <i class="octicon octicon-history"></i>
-      31 May - <a href='https://github.com/newtheatre/history-project/commit/02267b8a7f7e63267b99875c8da473aed263315e/'>Make page.title bold on report form modal</a>
+      31 May - <a href='https://github.com/newtheatre/history-project/commit/72aa3572be536c83ecbf20b549fa583665df7e99/'>Implement 'Improve this page' modal
+
+Modal dialogue for non-editors that prompts whether to fork and propose changes or just make an issue using the anonymous report form.</a>
     </div>
 
     <div class="debug-badges" data-debug-toggle>
@@ -763,7 +765,8 @@ var jekyll_page_next = "/shows/71_72/the_cocktail_party.html";
   </a>
 </div>
 
-<div class="side-tab edit-tab">
+
+<div id="improve-this-page" class="side-tab edit-tab">
   <a href="https://github.com/newtheatre/history-project/edit/master/_shows/71_72/the_dark_tower.md">
     <i class="octicon octicon octicon-pencil"></i><p class="report-tab-text">Improve This Page</p>
   </a>
@@ -802,6 +805,29 @@ var jekyll_page_next = "/shows/71_72/the_cocktail_party.html";
   </div>
 </div>
 
+<div id="improve" class="improve">
+  <div data-report-close class="improve-bg"></div>
+  <div id="improve-modal" class="improve-modal">
+    <div data-improve-close class="improve-close"><i class="octicon octicon-x"></i></div>
+    <h3><i class="octicon octicon-pencil"></i> Improve this page</h3>
+    <div id="improve-modal-content">
+      <p>Anyone can propose improvements to this page, while quite easy this is a multi-step process and you'll also need a free <a href="https://github.com/join">GitHub account</a>. Alternatively you can file a report for this page and have an editor do the work for you.</p>
+
+      <div class="improve-actions">
+        <div class="improve-action">
+          <a href="https://github.com/newtheatre/history-project/edit/master/_shows/71_72/the_dark_tower.md" class="button button-improve">Propose improvements</a>
+          <p>Slower, but helps us more.</p>
+        </div>
+        <div class="improve-action">
+          <a data-report-this-page href="#" class="button button-report">File a report instead</a>
+          <p>Quicker, less technically demanding.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
 <script type="text/template" id="report-success-template">
   <div class="box-success">
     <i class="octicon octicon-check"></i> Report submitted successfully.
@@ -812,8 +838,7 @@ var jekyll_page_next = "/shows/71_72/the_cocktail_party.html";
   <p class="report-link"><a href="<%=url%>"><%=url%></a></p>
 </script>
 
-
-    <script type='text/javascript' src='/bundles/74bf972d589558a47c079c6f7dc459b5.js'></script>
+    <script type='text/javascript' src='/bundles/c92eaf5043e40d06e3c3c2cd25cb6b4a.js'></script>
 
 
 

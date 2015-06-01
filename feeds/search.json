@@ -54,7 +54,7 @@
         
         "year_title": "2000 - 01",
         "content": "\n",
-        "playwright": " Peter Shaffer",
+        "playwright": "Peter Shaffer",
         "season": "In House",
         "venue": ["New Theatre"],
         "link": "/shows/00_01/black_comedy.html",
@@ -186,7 +186,7 @@
         
         "year_title": "2000 - 01",
         "content": "\n",
-        "playwright": " Richard O'Brien",
+        "playwright": "Richard O'Brien",
         "season": "In House",
         "venue": ["New Theatre"],
         "link": "/shows/00_01/the_rocky_horror_show.html",
@@ -486,9 +486,69 @@
     
 
     
-
+    ,{
+        "title": "Bedroom Farce",
+        "type": "show",
+        
+        
+        
+        "year_title": "2002 - 03",
+        "content": "4 couples, 3 bedrooms, 1 party, 1 night…a recipe for disaster…..\n",
+        "playwright": "Alan Ayckbourn",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/02_03/bedroom_farce.html",
+        "date": "2003-04-30",
+        "run": "30 April - 3 May 2003",
+        "excerpt": "4 couples, 3 bedrooms, 1 party, 1 night…a recipe for disaster…..\n",
+        "cast": "Phil Hammond, Abi Styles, Adam Hirschowitz, Polly Faber, Greg Aldam, Naomi Atkins, Nick Salmon, Samantha Pysk, ",
+        "crew": "Kurban Kassam, Alex Jenkinson, Aidan McClure, Rob Durford, Loic Tallan, Rosie Collis, Mary Jane Sturt, Tansy Drake, Mike Dawe, "
+    }
+    
     
 
+    
+    ,{
+        "title": "'Crave' and 'The Ruffian On The Stair'",
+        "type": "show",
+        
+        
+        
+        "year_title": "2002 - 03",
+        "content": "In 1967 Joe Orton was battered to death by his lover, Kenneth Halliwell. He left behind a handful of plays and television scripts. When Sarah Kane committed suicide in 1999 she too had only lived long enough to produce a relatively small body of work - five plays in total and one short film. The violent circumstances of their authors’ deaths is not the only factor that links “The Ruffian on the Stair” and “Crave”. Both plays deal with the theme of death, or more specifically, the desire to no longer exist.\n",
+        "playwright": "Joe Orton, Sarah Kane",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/02_03/crave_and_the_ruffian_on_the_stair.html",
+        "date": "2009-06-04",
+        "run": "4 - 7 June 2009",
+        "excerpt": "In 1967 Joe Orton was battered to death by his lover, Kenneth Halliwell. He left behind a handful of plays and television scripts. When Sarah Kane committed suicide in 1999 she too had only lived long enough to produce a relatively small body of work - five plays in total...",
+        "cast": "Toby Brack, Ruth Wilson, Ben Bergin, Anneliese Mackintosh, Janey Lawson, Phil Sarson, Bush, ",
+        "crew": "Stuart Barter, Chloe Campbell, Jamie Abson, Lucy Ockenden, Sarah Bal, Naomi Oppenheim, Amanda Robinson, Nick Stafford, John Campbell, Matt Wilson, Toby Knowles, Claude Debussy, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Doctor Faustus",
+        "type": "show",
+        
+        
+        
+        "year_title": "2002 - 03",
+        "content": "\n",
+        "playwright": "Christopher Marlowe",
+        "season": "In House",
+        "venue": ["Djanogly Theatre"],
+        "link": "/shows/02_03/doctor_faustus.html",
+        "date": "2003-06-04",
+        "run": "4 - 7 June 2003",
+        "excerpt": "\n",
+        "cast": "Jamie Griffiths, Ali Sherriffs, Nick Belcher, Nick Belcher, Nick Belcher, Nick Belcher, Sophie Bostock, Sophie Bostock, Emily Hawkins, Emily Hawkins, Emily Hawkins, Andy Macdonnell, Andy Macdonnell, Andy Macdonnell, Andy Macdonnell, Andy Macdonnell, Chris Robers, Chris Robers, Chris Robers, Chris Robers, Sam Taylor, Sam Taylor, Sam Taylor, ",
+        "crew": "Michael Longhurst, Davina Shah, Jamie Abson, Stuart Andrews, Nottingham Playhouse Workshop, Davina Shah, Ben Taunt, Toby Knowles, Ben Taunt, James Law, Jenny Constantine, Emma Shepherd & Simon Brown (Eskimo Design), Roo Machell (Ampersand Design Studio), Kate Donovan, Tom King, Sam Partridge, Judith Thei, "
+    }
+    
     
 
     
@@ -537,6 +597,138 @@
 
     
     ,{
+        "title": "The Dispute",
+        "type": "show",
+        
+        
+        
+        "year_title": "2002 - 03",
+        "content": "What if six children had been kept locked away in darkness and isolation their whole lives? What if tonight they were to be released? How would bodies and minds reared in darkness respond to the first words, the first lies, the first kisses? What if you got to watch?\n",
+        "playwright": "Marivaux",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/02_03/the_dispute.html",
+        "date": "",
+        "run": "2002 - 03 (Dates Unknown)",
+        "excerpt": "What if six children had been kept locked away in darkness and isolation their whole lives? What if tonight they were to be released? How would bodies and minds reared in darkness respond to the first words, the first lies, the first kisses? What if you got to watch?\n",
+        "cast": "Andrew Haugen, Claire Butters, Yashouda Balraj, Elliot Bhana, Cat McCotter, Nikolaj Babic, Stacie Bowden, Tom Kemble, Ian Mitchell-Innes, Emily Cahalane, ",
+        "crew": "Jen Aggleton, Rachel Farrell, Mark Rowlands, Marni Miller, Chris Brammeld, Martina Heron, Robin Pritchett, Jen Aggleton, Rachel Farrell, Robin Pritchett, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Translations",
+        "type": "show",
+        
+        
+        
+        "year_title": "2002 - 03",
+        "content": "The play is set in a small community in Baile Beag, County Donegal. When the British Army arrive to make the first detailed maps of the area, the Irish Community are forced to question their whole identity. When one of the English soldiers goes missing, the community begins to feel the full force of the might of the British Arym and its incursion on their lives.\n",
+        "playwright": "Brian Friel",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/02_03/translations.html",
+        "date": "2003-03-18",
+        "run": "18 - 21 March 2003",
+        "excerpt": "The play is set in a small community in Baile Beag, County Donegal. When the British Army arrive to make the first detailed maps of the area, the Irish Community are forced to question their whole identity. When one of the English soldiers goes missing, the community begins to feel...",
+        "cast": "Joseph Arkley, Joe Millington, Jenny Crossley, Ellie Burt, Ali Sherriffs, Charly Brooks, Andy McDonnell, Chris Roberts, Rob Ridd, Rupert Hurley, ",
+        "crew": "Katie Hartwill, Richard McKelvey, Joe Millington, Jane Lawson, The Cast, Crew and Ade, Chris Brammeld, Richard McKEelvey, Jane Lawson, Martin Piggott, Tom Kyle, Richard McKelvey, Stephanie Lane, Katie Hartwill, Richard McKelvey, Pete Bridge, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Amadeus",
+        "type": "show",
+        
+        
+        
+        "year_title": "2003 - 04",
+        "content": "\n",
+        "playwright": "Peter Shaffer",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/03_04/amadeus.html",
+        "date": "",
+        "run": "2003 - 04 (Dates Unknown)",
+        "excerpt": "\n",
+        "cast": "Joseph Arkley, Stephanie Lane, Sarah-Jane Franklin, Tom King, Euan Lawrence, Chris Roberts, Nikolaj Babic, Tom Kemble, Jen Aggleton, Anna Geffert, Ellie Burt, Diane Morrison, Marni Miller, Chris Holiday, Tom Kemble, Ben Bergin, Lydia Waine, ",
+        "crew": "Henry Filloux-Bennett, Cat McCotter, Henry Fillouz-Bennett, Cat McCotter, Tom King, Ben Richards, Chris Roberts, Kate Holder, The Lacemarket Theatre, Chris Brammeld, Sarah Haugh, Henry Filloux-Bennett, Jen Pollock, Rachel Farrell, Karen Williams, Ben Richards, Sarah-Jane Franklin, Lydia Waine, Henry Filloux-Bennett, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Talking to Terrorists",
+        "type": "show",
+        
+        
+        
+        "year_title": "2006 - 07",
+        "content": "Talking to Terrorists, written by Robin Soans and originally commissioned by the Royal Court and Out of Joint Theatre Company, is the result of 12 months of meetings with peacemakers, politicians, journalists, hostages, psychologists and, perhaps most importantly, with those who’ve crossed the line themselves.The basic question? What makes ordinary people do extreme things?\n\nA highly topical, politically invigorating and dramatically electric project, Talking to Terrorists will challenge a lot of your misconceptions about what and who terrorists - and their victims - are.\n",
+        "playwright": "Robin Soans",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/06_07/talking_to_terrorists.html",
+        "date": "2007-02-21",
+        "run": "21 - 24 February 2007",
+        "excerpt": "Talking to Terrorists, written by Robin Soans and originally commissioned by the Royal Court and Out of Joint Theatre Company, is the result of 12 months of meetings with peacemakers, politicians, journalists, hostages, psychologists and, perhaps most importantly, with those who’ve crossed the line themselves.The basic question? What makes ordinary...",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Cross Stitching",
+        "type": "show",
+        
+        
+        
+        "year_title": "2007 - 08",
+        "content": "From the production team that brought you ‘After Miss Julie’, comes a new modern day love story embedded with twists and turns rendering it closer to Dr Jekyll and Mr Hyde than Romeo and Juliet.\n\nRichard and Thomas’ burgeoning romance is limited only by their feelings of inadequacy and embarrassment as their affection in everyday situations and scenarios garner the unwanted disgust of a predominantly heterosexual society. In this surrealist piece, the consequence of such unwanted attention is Richard’s decision to have a gender-reassignment operation and thus the introduction of his post-operational alter ego, Gail. Non-linear and surrealist in style, ‘Cross-Stitching’ is an offer of new writing which has gone through the rigours of the Donmar Warehouse, whilst serving up something genuinely fresh and original in its analysis of contemporary social acceptance and perception.\n",
+        "playwright": "Anthony Lau",
+        "season": "Edinburgh",
+        "venue": ["C Soco Chambers Street"],
+        "link": "/shows/07_08/cross_stitching.html",
+        "date": "2008-08-13",
+        "run": "13 - 25 August 2008",
+        "excerpt": "From the production team that brought you ‘After Miss Julie’, comes a new modern day love story embedded with twists and turns rendering it closer to Dr Jekyll and Mr Hyde than Romeo and Juliet. Richard and Thomas’ burgeoning romance is limited only by their feelings of inadequacy and embarrassment...",
+        "cast": "",
+        "crew": "Anthony Lau, unknown, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Crossing the Rubicon",
+        "type": "show",
+        
+        
+        
+        "year_title": "2007 - 08",
+        "content": "An original piece that centres around contemporary social issues. ‘Crossing the Rubicon’ serves as a commentary on life in modern-day London, the trials and tribulations one faces, and the inevitable consequences of actions.\n\nThe play tells the story of Jack and his sister Lizzie, two relatively ‘normal’ adolescents, who hope for ‘good’ grades which lead to ‘good’ jobs. The attractive and playful Lizzie, is courted by Rufus, a local youth with a criminal background and a less than encouraging future. Feeling the duty to protect his sister and his family name, Jack is forced to defend his sister, bringing him into a world completely different from his own. This new, crooked environment tests the limits of Jack’s mental endurance, facing an inner battle of whether to return to the straight and narrow of his previous life, or go through with the new demands placed on him by his criminal superiors.\n\nAn ensemble, devised piece being led by artistic director Simon Thompson (see award-winning ‘Slippery Soapbox’) and produced by NT Treasurer Jackie Lee.\n\nThe Die Is Cast…\n",
+        "playwright": "Cal Lewis (Devised)",
+        "season": "Edinburgh",
+        "venue": ["C Soco Chambers Street"],
+        "link": "/shows/07_08/crossing_the_rubicon.html",
+        "date": "2008-08-13",
+        "run": "13 - 25 August 2008",
+        "excerpt": "An original piece that centres around contemporary social issues. ‘Crossing the Rubicon’ serves as a commentary on life in modern-day London, the trials and tribulations one faces, and the inevitable consequences of actions. The play tells the story of Jack and his sister Lizzie, two relatively ‘normal’ adolescents, who hope...",
+        "cast": "",
+        "crew": "Cal Lewis, Jackie Lee, "
+    }
+    
+    
+
+    
+    ,{
         "title": "Crossing the Rubicon",
         "type": "show",
         
@@ -553,6 +745,908 @@
         "excerpt": "An original piece that centres around contemporary social issues. ‘Crossing the Rubicon’ serves as a commentary on life in modern-day London, the trials and tribulations one faces, and the inevitable consequences of actions. The play tells the story of Jack and his sister Lizzie, two relatively ‘normal’ adolescents, who hope...",
         "cast": "",
         "crew": "Cal Lewis, Jackie Lee, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Warehouse 364",
+        "type": "show",
+        
+        "poster_thumb_tag": "<a href='/shows/08_09/warehouse_364.html'><img src='/images/resized/for_shows/warehouse_364_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
+        
+        "year_title": "2008 - 09",
+        "content": "An amalgam of razor sharp-witted new writing and devising, Warehouse 362 is delves into the murky waters of part-time prostitution (Tuesdays and Thursdays, not bank holidays). With a generous helping of Film Noir gangland underworlds, mysterious strangers and, of course, a warehouse (a big one), Warehouse 364 is rich, vibrant and at times downright trippy. Starring a prostitute.\n",
+        "playwright": "Andy McNamee",
+        "season": "Edinburgh",
+        "venue": ["C Cubed Main"],
+        "link": "/shows/08_09/warehouse_364.html",
+        "date": "2009-08-06",
+        "run": "6 - 31 August 2009",
+        "excerpt": "An amalgam of razor sharp-witted new writing and devising, Warehouse 362 is delves into the murky waters of part-time prostitution (Tuesdays and Thursdays, not bank holidays). With a generous helping of Film Noir gangland underworlds, mysterious strangers and, of course, a warehouse (a big one), Warehouse 364 is rich, vibrant...",
+        "cast": "",
+        "crew": "Andy McNamee, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Betrayal",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "Robert and Jerry are best friends.\n\nEmma is Robert’s wife.\n\nAnd Jerry’s lover.\n\nSet over a ten year period that moves backwards offering the audience a unique insight into the story that twists and turns with every year passed.\n",
+        "playwright": "Harold Pinter",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/betrayal.html",
+        "date": "2010-06-03",
+        "run": "3 - 4 June 2010",
+        "excerpt": "Robert and Jerry are best friends.\n\nEmma is Robert’s wife.\n\nAnd Jerry’s lover.\n\nSet over a ten year period that moves backwards offering the audience a unique insight into the story that twists and turns with every year passed.\n",
+        "cast": "Lizzie Bourne, Douggie McMeekin, Adam Wood, ",
+        "crew": "Andy McNamee, Jess Conway, Matt Leventhall, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Blithe Spirit",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "Blithe Spirit - Charles is writing a novel about the occult. He calls upon the eccentric psychic medium Madame Arcati to aid in his research. She mistakenly summons Charles’ ex-wife from beyond the grave. Hilarity ensues.\n",
+        "playwright": "Noel Coward",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/blithe_spirit.html",
+        "date": "2009-11-04",
+        "run": "4 - 7 November 2009",
+        "excerpt": "Blithe Spirit - Charles is writing a novel about the occult. He calls upon the eccentric psychic medium Madame Arcati to aid in his research. She mistakenly summons Charles’ ex-wife from beyond the grave. Hilarity ensues.\n",
+        "cast": "Flo Hapgood, Hugh Williams, Hannah Dale, Ramani Rajaratnam, Max Grant, Sophia Stanley, Holly, ",
+        "crew": "Lawrence Bolton, unknown, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Boy's Life",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "Set in the late 80’s, Boys’ Life tracks the misadventures of three former college mates as they simultaneously pursue and refuse adulthood; and the women who are both attracted to and repelled by them along the way. Told in a series of fast-paced and bitingly funny scenes, Boys’ Life digs up some uncomfortable truths as the friends ‘crawl through the gutter for regular sex.’\n",
+        "playwright": "Howard Korder",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/boys_life.html",
+        "date": "2009-10-21",
+        "run": "21 - 24 October 2009",
+        "excerpt": "Set in the late 80’s, Boys’ Life tracks the misadventures of three former college mates as they simultaneously pursue and refuse adulthood; and the women who are both attracted to and repelled by them along the way. Told in a series of fast-paced and bitingly funny scenes, Boys’ Life digs...",
+        "cast": "Ollie Silver, Angus MacRae, Stephen Irvine, Jamie Munro, Rosie Tressler, Kirsten McGachey, Polly Keane, Emma Begg, James Lovell, ",
+        "crew": "Gus Miller, Anna Morley, Amy Rushton, Tim Watkins, Lawrence Bolton, Bora Hunja, Gabriella DeMatteis, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Dinner",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "The table is laid and an artist, a scientist and a sexpot are dressing for dinner. Paige, hostess extraordinaire, is famed as much for her acid tongue as her inventive menus but tonight, in celebrating the publication of her husband’s first book, she will go far beyond belief.\n\nYou are all invited to Dinner, a satirical comedy about the middle classes.\n",
+        "playwright": "Moira Buffini",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/dinner.html",
+        "date": "2010-03-03",
+        "run": "3 - 6 March 2010",
+        "excerpt": "The table is laid and an artist, a scientist and a sexpot are dressing for dinner. Paige, hostess extraordinaire, is famed as much for her acid tongue as her inventive menus but tonight, in celebrating the publication of her husband’s first book, she will go far beyond belief. You are...",
+        "cast": "",
+        "crew": "Zoe Sharp, Bora Hunja, Fu, Renske Nina Vos, Rowena Fox, Lawrence Bolton, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Dracula",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/dracula.html",
+        "date": "",
+        "run": "2009 - 10 (Dates Unknown)",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Excess",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "A tango bar. A bedroom.\n\nA young couple. A rent boy.\n\nTwo best mates. A predator.\n\nA shy barmaid. A guy who listens.\n\nAs these stories intersect and unravel we find startling parallels with our own lives.\n",
+        "playwright": "Cesar Texeira",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/excess.html",
+        "date": "2010-03-29",
+        "run": "29 March - 1 April 2010",
+        "excerpt": "A tango bar. A bedroom.\n\nA young couple. A rent boy.\n\nTwo best mates. A predator.\n\nA shy barmaid. A guy who listens.\n\nAs these stories intersect and unravel we find startling parallels with our own lives.\n",
+        "cast": "Tommo Fowler, Dan Rae-Scott, Stephanie Soh, James Lovell, Liz Stevens, Jonny Fitzpatrick, Bryony Blackler, ",
+        "crew": "Cesar Teixeria, Kathryn Feavers, Lawrence Bolton, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Ghetto",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "Ghetto - “Everytime we put on a show - sold out three weeks in advance!… People who knew next day they’d be on a train to the camps, the night before they’d put on their finery and come to a play.”\n\nSet in the Lithuanian Ghetto of Vilna in 1942, Ghetto tells the real story of a small community of Jewish artists who find each other in the midst of mass deprivation and suffering. They resolve to create plays, music and concerts with the hope of putting as many people as possible to work in order to survive.\n",
+        "playwright": "Joshua Sobol",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/ghetto.html",
+        "date": "2009-11-25",
+        "run": "25 - 28 November 2009",
+        "excerpt": "Ghetto - “Everytime we put on a show - sold out three weeks in advance!… People who knew next day they’d be on a train to the camps, the night before they’d put on their finery and come to a play.” Set in the Lithuanian Ghetto of Vilna in 1942,...",
+        "cast": "Cem Aytacli, Lauren Grant, Florian Goebel, Will Vickers, Douggie McMeekin, Alanna Southgate, Oliver Margolis, Chloe Keedy, Topher Collins, Paul Whickman, Rose Eccleshare, Amy Rushton, Peter Carey, Conrad Cohen, Andrew Kennedy, Lucien Jack, ",
+        "crew": "Hatty Preston, Libby Galvin, Philip Geller, Matt Leventhall, Angus MacRae, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Hamlet",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "‘Something is rotten in the state of Denmark.’ This is a play about a man who could not make up his mind, or rather, could not act upon what he knew to be true. Hamlet’s course which, set in stone by his position, is shattered by the untimely death of his father. It is a revenge tragedy that transcends its genre and explores the very core of human bonds, fear, and guilt\n",
+        "playwright": "William Shakespeare",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/hamlet.html",
+        "date": "2009-12-08",
+        "run": "8 - 11 December 2009",
+        "excerpt": "‘Something is rotten in the state of Denmark.’ This is a play about a man who could not make up his mind, or rather, could not act upon what he knew to be true. Hamlet’s course which, set in stone by his position, is shattered by the untimely death of...",
+        "cast": "James Lewis, Tom Walsh, Rupert Bradshaw, Ben Mellor, James Torrance, Dave Maggs, Adam Wells, Anna Wheatley, Jenni Herzberg, Amelia O'Shae, Grace Rowland, Mathilda Holland, ",
+        "crew": "Dan Rae-Scott, Emily Adams, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "His Lordship Entertains",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "Described as “Fawlty Towers Mark One”, Ronnie Barker’s His Lordship Entertains follows the exploits of Lord Rustless and his staff, as they attempt to run a hotel in a stately manor. With characters of every shape and size, an affair, a French exotic dancer, a rogue lion and a wedding doomed to hilarity, Ronnie Barker is sure to have every one of us in stitches with this timeless golden comedy.\n\n",
+        "playwright": "Ronnie Barker",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/his_lordship_entertains.html",
+        "date": "2010-06-09",
+        "run": "9 - 12 June 2010",
+        "excerpt": "Described as “Fawlty Towers Mark One”, Ronnie Barker’s His Lordship Entertains follows the exploits of Lord Rustless and his staff, as they attempt to run a hotel in a stately manor. With characters of every shape and size, an affair, a French exotic dancer, a rogue lion and a wedding...",
+        "cast": "Ben Cave, Flo Hapgood, James Townend, James McAndrew, Abi Byrne, Hannah Dale, Sophie Griffiths, Rhys Williamson, Amy Rushton, Tom Walsh, Emma Begg, Kristen McGachey, Matt Wilks, Elin Stenner-Matthews, ",
+        "crew": "Conrad Cohen, Rachel Feeney, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Only One Wing",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "\n",
+        "playwright": null,
+        "season": "Edinburgh",
+        "venue": null,
+        "link": "/shows/09_10/only_one_wing.html",
+        "date": "",
+        "run": "2009 - 10 (Dates Unknown)",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Our Town",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "Our Town is Thornton Wilder’s Pulitzer-prizewinning classic. The story follows George Gibbs and Emlly Webb from their first romance, to marriage and ultimately to Emily’s death in childbirth.\n",
+        "playwright": "Thornton Wilder",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/our_town.html",
+        "date": "2010-02-24",
+        "run": "24 - 27 February 2010",
+        "excerpt": "Our Town is Thornton Wilder’s Pulitzer-prizewinning classic. The story follows George Gibbs and Emlly Webb from their first romance, to marriage and ultimately to Emily’s death in childbirth.\n",
+        "cast": "",
+        "crew": "Stephen Irvine, Lawrence Bolton, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Rhinocerous",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "A Rhinoceros is running amok. Stories are sweeping the town. A cat has died as a direct result.\n\nMr Dudard is believing the stories. Daisy saw the whole thing with her own eyes. Mr Botard is denying the whole filthy business.\n\nAnd Berenger has even stopped drinking.\n\nPeople are beginning to talk…\n",
+        "playwright": "Eugene Ionesco",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/rhinoceros.html",
+        "date": "2009-12-02",
+        "run": "2 - 5 December 2009",
+        "excerpt": "A Rhinoceros is running amok. Stories are sweeping the town. A cat has died as a direct result. Mr Dudard is believing the stories. Daisy saw the whole thing with her own eyes. Mr Botard is denying the whole filthy business. And Berenger has even stopped drinking. People are beginning...",
+        "cast": "Adam Wood, Sophie Sandham, Tim Watkins, Sam Pearce, George Bancroft Livingstone, Anna Sheriff, Elizabeth Stevenson, Chris Walters, Rob Orme, Nell Charleston, Simon Peal, Elsa Harriskine, Laura Wishart, ",
+        "crew": "Andy McNamee, Jess Conway, Matt Leventhall, Gus Miller, Charlotte Wright, Philip Geller, Matt Leventhall, James Herbert, Lucy Dove, Angus MacRae, Emily O'Dwyer, Philip Geller, Matt Leventhall, Vickie Vukelic, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Road",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "Drunken wide-boy Scullery takes the audience on a journey downt’ ROAD. This deprived, working-class, Lancashire town suffers the brunt of widespread unemployment during Thatcher government of the 80s.\n\nInhabitants of the ROAD resort to sex, drink and their own imaginations to escape their grim reality; the source of hilarity and tragedy that makes this night ont’ ROAD a gripping experience for its visitors…\n",
+        "playwright": "Jim Cartwright",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/road.html",
+        "date": "2010-03-17",
+        "run": "17 - 20 March 2010",
+        "excerpt": "Drunken wide-boy Scullery takes the audience on a journey downt’ ROAD. This deprived, working-class, Lancashire town suffers the brunt of widespread unemployment during Thatcher government of the 80s. Inhabitants of the ROAD resort to sex, drink and their own imaginations to escape their grim reality; the source of hilarity and...",
+        "cast": "Chris Walters, Ben Mellor, ",
+        "crew": "Elizabeth Stevenson, Rose Williams, Philip Geller, Bora Hunja, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Bacchae",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "The Bacchae - Dionysus has returned to Thebes seeking revenge on his family who have denied him a place of honour as a deity. He has driven the women of Thebes into an ecstatic frenzy, sending them dancing and hunting on Mount Cithearon.\n\n",
+        "playwright": "Euripedes",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/the_bacchae.html",
+        "date": "2009-11-18",
+        "run": "18 - 21 November 2009",
+        "excerpt": "The Bacchae - Dionysus has returned to Thebes seeking revenge on his family who have denied him a place of honour as a deity. He has driven the women of Thebes into an ecstatic frenzy, sending them dancing and hunting on Mount Cithearon.\n\n",
+        "cast": "",
+        "crew": "Fu Baxter, unknown, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Country",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "Richard, a Doctor with a history of drug problems, has moved his wife Corinne and their children to the countryside with promises of a fresh start.\n\nBut who is the comatose woman he has found late at night, alone on the roadside, and why has he brought her into his house?\n\n‘The Country’ is a beautifully written dissection of sexual politics, deception and despair by one of Britain’s most exciting modern playwrights\n",
+        "playwright": "Martin Crimp",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/the_country.html",
+        "date": "2009-10-28",
+        "run": "28 - 31 October 2009",
+        "excerpt": "Richard, a Doctor with a history of drug problems, has moved his wife Corinne and their children to the countryside with promises of a fresh start. But who is the comatose woman he has found late at night, alone on the roadside, and why has he brought her into his...",
+        "cast": "Benjamin Cave, Elizabeth Bourne, Megan Salter, ",
+        "crew": "Rebecca Catlin, Sophia Levine, James Herbert, Philip Geller, Philip Geller, Matthew Leventhall, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Fire-Raisers",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/the_firerasers.html",
+        "date": "",
+        "run": "2009 - 10 (Dates Unknown)",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Importance Of Being Earnest",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "The importance of being Earnest - To avoid family duties, Algernon Moncrieff, a bachelor-about-town, has invented Bunbury, a sick relative who frequently calls him away. His friend, Jack Worthing, has invented a wicked brother called Ernest to disguise his own misdemeanors. When Algernon poses as Ernest in order to meet the excessively pretty Cecily, confusion takes hold. And it’s not until the full significance of an ordinary black handbag is discovered that Jack is allowed to marry his beloved Gwendolen.\n\nA trivial comedy for serious people.\n\nTHE IMPORTANCE OF BEING EARNEST by OSCAR WILDE\n\nA stellar cast, an outrageous set and more witty (in the true sense of the word) banter (in the most victorian meaning of the word) than you can shake a stick at.\n",
+        "playwright": "Oscar Wilde",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/the_importance_of_being_earnest.html",
+        "date": "2009-11-11",
+        "run": "11 - 14 November 2009",
+        "excerpt": "The importance of being Earnest - To avoid family duties, Algernon Moncrieff, a bachelor-about-town, has invented Bunbury, a sick relative who frequently calls him away. His friend, Jack Worthing, has invented a wicked brother called Ernest to disguise his own misdemeanors. When Algernon poses as Ernest in order to meet...",
+        "cast": "Simon Foster, David Cornish, Natalie Barclay, Laura Thomson, Lucy Butler, Robert Jones, Fran Rylands, James Townend, ",
+        "crew": "Tommo Fowler, Nicci Samuels, Philip Geller, Emily O'Dwyer, Lottie Hiscox, Mark Loach, Cordelia Bradley, Tim Watkins, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Love of the Nightingale",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "\n",
+        "playwright": null,
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/the_love_of_the_nightingale.html",
+        "date": "",
+        "run": "2009 - 10 (Dates Unknown)",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Real Inspector Hound",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "Two critics.\n\nA body.\n\nA man dressed as a woman.\n\nCue hilarity.\n",
+        "playwright": "Tom Stoppard",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/the_real_inspector_hound.html",
+        "date": "2010-05-05",
+        "run": "5 - 8 May 2010",
+        "excerpt": "Two critics.\n\nA body.\n\nA man dressed as a woman.\n\nCue hilarity.\n",
+        "cast": "James Lewis, Cem Aytacli, James Torrance, Neil Joseph, Rosie Tressler, Laura Wishart, Simon Peal, Simon Foster, David Cornish, George Bancroft-Livingston, Joshua Cohn-Burrows, Revilo Silogram, Jonathan Kogan, ",
+        "crew": "Oliver Margolis, Ellie Buck, Matt Leventhall, Philip Geller, Lawrence Bolton, Matt Leventhall, Jenny Mann, Kathryn Feavers, Kate Margolis, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Retreat",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "\n",
+        "playwright": null,
+        "season": "Edinburgh",
+        "venue": null,
+        "link": "/shows/09_10/the_retreat.html",
+        "date": "",
+        "run": "2009 - 10 (Dates Unknown)",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Shape of Things",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "An unconfident, unattractive English student in a Midwestern college enters, by means he cannot comprehend, into a relationship with a beautiful, enigmatic art student. Under her guidance he undergoes a huge physical transformation. But what is the price of beauty?\n",
+        "playwright": "Neil Lapute",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/the_shape_of_things.html",
+        "date": "2010-03-24",
+        "run": "24 - 27 March 2010",
+        "excerpt": "An unconfident, unattractive English student in a Midwestern college enters, by means he cannot comprehend, into a relationship with a beautiful, enigmatic art student. Under her guidance he undergoes a huge physical transformation. But what is the price of beauty?\n",
+        "cast": "Hatty Preston, David Cornis, Lizzy Bourne, George Bancroft-Livingston, ",
+        "crew": "Gus Miller, Anna Morley, Fran Rylands, Angus MacRae, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Small Things",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "Two houses, each perched on a mountaintop, stare at each other across a deep valley.\n\nA man and a woman talk abut the small things – parquet floor zigzagging down corridors, brown sauce and soggy chips.\n\nEnda Walsh’s electrifying two hander is an awesome account of brutality and unfaltering loyalty magnificently told through the inane chitchat of everyday life.\n",
+        "playwright": "Enda Walsh",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/the_small_things.html",
+        "date": "2010-05-12",
+        "run": "12 - 15 May 2010",
+        "excerpt": "Two houses, each perched on a mountaintop, stare at each other across a deep valley. A man and a woman talk abut the small things – parquet floor zigzagging down corridors, brown sauce and soggy chips. Enda Walsh’s electrifying two hander is an awesome account of brutality and unfaltering loyalty...",
+        "cast": "Andy McNamee, Jess Conway, Matt Leventhall, James Herbert, Philip Geller, Matt Leventhall, Angus MacRae, Tim Watkins, Philip Geller, ",
+        "crew": "Will Vickers, Megan Salter, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Winterling",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "‘I like London. I like pavements. I like to walk out the door and not sink up to my waist in primordial sludge. I don’t like sheep. I don’t like the country. It’s covered in shit.’\n\nWest waits in a burnt-out farmhouse on Dartmoor in the depths of winter with two associates from the city. The wine has been poured and the revolver loaded…\n\nA dark comedy of mysterious intentions and personal isolation.\n",
+        "playwright": "Jez Butterworth",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/09_10/the_winterling.html",
+        "date": "2010-02-17",
+        "run": "17 - 20 February 2010",
+        "excerpt": "‘I like London. I like pavements. I like to walk out the door and not sink up to my waist in primordial sludge. I don’t like sheep. I don’t like the country. It’s covered in shit.’ West waits in a burnt-out farmhouse on Dartmoor in the depths of winter with...",
+        "cast": "Adam Wood, Douggie McMeekin, Ollie Silver, Jenni Herzberg, Dave Maggs, ",
+        "crew": "Rebecca Catlin, Liz Rose, James Herbert, Philip Geller, Philip Geller, Matt Leventhall, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "A View From The Bridge",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "“I was just thinking before, comin’ home, suppose my father didn’t come to this country, and I was starving like them over there … and I had people in America could keep me for a couple of months? The man would be honoured to lend me a place to sleep.”\nEddie Carbone, a poor longshoreman, lives with his wife Beatrice and niece Catherine in 1950s New York. Living out the ‘American Dream’ their world is rocked by the arrival of two illegal immigrant cousins Marco and Rodolpho. Tensions soar, and Alfieri a local lawyer, along with the audience, sit powerless and watch it ‘run its bloody course.’\nA View From the Bridge is a highly charged dramatic play about romance, jealousy, betrayal and the ‘American Dream’.\n",
+        "playwright": "Arthur Miller",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/a_view_from_the_bridge.html",
+        "date": "2011-03-16",
+        "run": "16 - 19 March 2011",
+        "excerpt": "“I was just thinking before, comin’ home, suppose my father didn’t come to this country, and I was starving like them over there … and I had people in America could keep me for a couple of months? The man would be honoured to lend me a place to sleep.”...",
+        "cast": "Will Randall, Ben Williamson, Lee Shipman, Hugh Williams, Jacek Zmarz, Ajay Stevenson, Natalie Barclay, Lucy Dollman, Hollie Stoker, Claire Harley, ",
+        "crew": "Nick Hughes, James Lovell, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "After the End",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "Louise wakes up alone with a work colleague, Mark, in his nuclear fallout shelter.\nHe explains the destruction caused above them by a nuclear bomb, and how he carried her here, where they’ll have to remain for two weeks.\nIt’s imperative that they find a way to get along. However, Louise really doesn’t want to play Dungeons and Dragons…\n\n…but Mark is going to have to insist.\n",
+        "playwright": "Dennis Kelly",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/after_the_end.html",
+        "date": "2011-03-02",
+        "run": "2 - 5 March 2011",
+        "excerpt": "Louise wakes up alone with a work colleague, Mark, in his nuclear fallout shelter. He explains the destruction caused above them by a nuclear bomb, and how he carried her here, where they’ll have to remain for two weeks. It’s imperative that they find a way to get along. However,...",
+        "cast": "Gus Miller, Adna Duherich, Philip Geller, ",
+        "crew": "Chris Walters, Flapgood, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Arcadia",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "“When we have found all the mysteries and lost all the meanings, we will be alone, on an empty shore”\n\nApril 1809, a stately home in Derbyshire… Under the watchful eye of her tutor Septimus, Thomasina, a gifted pupil, proposes a startling theory beyond her comprehension. All the while scandal emerges as the secret desires and illicit passions of the adults are stirred by the arrival of one Lord Byron.\n\nIn the very same room two hundred years later, popular historian Hannah and university don Bernard are piecing together puzzling clues, curiously recalling those events of 1809, in their quest to uncover the scandal invoked by Lord Byron’s presence at Sidley Park.\n",
+        "playwright": "Tom Stoppard",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/arcadia.html",
+        "date": "2010-11-24",
+        "run": "24 - 27 November 2010",
+        "excerpt": "“When we have found all the mysteries and lost all the meanings, we will be alone, on an empty shore” April 1809, a stately home in Derbyshire… Under the watchful eye of her tutor Septimus, Thomasina, a gifted pupil, proposes a startling theory beyond her comprehension. All the while scandal...",
+        "cast": "Dan Rae-Scott, Lauren Grant, Adam Wells, Jonny Fitzpatrick, James Lovell, Rose Eccleshare, Sam Hayward, Nell Charleston, Topher Collins, Grace Rowland, Henry Blanchard, Emily Zinkin, ",
+        "crew": "Tim Watkins, Kathryn Feavers, Matthew Leventhall, Philip Geller, Ellie Badger, Rose Williams, Francesca Andrews, Ed Denham, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Bluebird",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "“This is an extraordinary city. It’s a city that you should see primarily at nighttime. It is becomes more concentrated at nighttime. We could take a look at it for a while…”\nFailed novelist Jimmy Macneill drives a London minicab, ferrying around the weird and wonderful characters who inhabit the city. In lending an ear to their tragic tales, he attempts to bury the story of his own past.\nBluebird is an urban drama about the disparate horrors and delights of living in a city that comes to life at night-time.\n",
+        "playwright": "Simon Stephens",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/bluebird.html",
+        "date": "2010-11-17",
+        "run": "17 - 20 November 2010",
+        "excerpt": "“This is an extraordinary city. It’s a city that you should see primarily at nighttime. It is becomes more concentrated at nighttime. We could take a look at it for a while…” Failed novelist Jimmy Macneill drives a London minicab, ferrying around the weird and wonderful characters who inhabit the...",
+        "cast": "Cem Aytacli, Alanna Southgate, James Lainchbury, Hugh Williams, Rosanna Stoker, Lucy Bromilow, ",
+        "crew": "Rebecca Catlin, Liz Rose, James Herbert, Philip Geller, Dan Rae-Scott, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Caucasian Chalk Circle",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "The city burns in the heat of civil war and a servant girl sacrifices everything to protect an abandoned child. But when peace is finally restored, the boy’s mother comes to claim him. Calling upon the ancient tradition of the chalk circle, a comical judge sets about resolving the dispute. But in a culture of corruption and deception, who wins?\nWritten by the grand master of storytelling and peopled with vivid and amusing characters, Brecht’s satirical masterpiece is one of the greatest of the last century.\n",
+        "playwright": "Bertold Brecht",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/caucasian_chalk_circle.html",
+        "date": "2010-11-03",
+        "run": "3 - 6 November 2010",
+        "excerpt": "The city burns in the heat of civil war and a servant girl sacrifices everything to protect an abandoned child. But when peace is finally restored, the boy’s mother comes to claim him. Calling upon the ancient tradition of the chalk circle, a comical judge sets about resolving the dispute....",
+        "cast": "Greg Fahey, Liz Stevens, Conrad Cohen, Natalie Barclay, Robert Leventhall, Emily Davenport, Will Warren, Abi Byrne, Pete Allott, ",
+        "crew": "Dan Downes, Adna Duherich, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Cradle Me",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "In the aftermath of an unspeakable, yet avoidable tragedy, the Neill family finds itself torn apart by grief and turning to Daniel, the troubled teenage boy next door for solace.\n\nDaniel’s relationships with the different members of the family drive the plot of what is both a powerful and emotional mediation on grief and the paths it leads us down.\n\nCradle Me explores the aftermath of tragedy and the implications of burgeoning sexuality, the impact of inaction and the consequences of desire.\n",
+        "playwright": "Simon Vinnicombe",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/cradle_me.html",
+        "date": "2011-03-09",
+        "run": "9 - 12 March 2011",
+        "excerpt": "In the aftermath of an unspeakable, yet avoidable tragedy, the Neill family finds itself torn apart by grief and turning to Daniel, the troubled teenage boy next door for solace. Daniel’s relationships with the different members of the family drive the plot of what is both a powerful and emotional...",
+        "cast": "Christey Nethercott, James Bentley, Ellie Cawthorne, Henry Blanchard, ",
+        "crew": "Charlotte Wright, Sophie Watson, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Deus Vult",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "In 1127 a young landlady’s thoughts of turning to prostitution for financial salvation are interrupted by the arrival of an old man who can only pay for his drink with a story. His tale takes them to the Holy Land 30 years previously, amidst the horror of the First Crusade, where the man and his friend were spared a hanging upon agreeing to cross into enemy territory and retrieve an artefact behind which an army could take Jerusalem. As the story unfolds the landlady is forced to examine her life and reflect upon her inadequacies as well as the need for redemption that she has only a swearing, thieving, whoring, boozing old outlaw to help her find. Deus Vult is not a historical play; it is a modern play about relatable people struggling with the timeless issues of fear, loyalty and morality. Above all it is about humanity’s never-ending struggle to seek a glimmer of light in a world of filth and emptiness.\n\nDeus Vult promises to be a moving and powerful performance from a new piece of student-brewed writing.\n",
+        "playwright": "Adam Wells",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/deus_vult.html",
+        "date": "2011-02-16",
+        "run": "16 - 19 February 2011",
+        "excerpt": "In 1127 a young landlady’s thoughts of turning to prostitution for financial salvation are interrupted by the arrival of an old man who can only pay for his drink with a story. His tale takes them to the Holy Land 30 years previously, amidst the horror of the First Crusade,...",
+        "cast": "Conrad Cohen, Lauren Grant, Rupert Bradshaw, Laurence Jennings, Ed Gilbert, Grace Rowland, Adam Wells, Kathryn Feavers, ",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "Flare Path",
+        "type": "show",
+        
+        "poster_thumb_tag": "<a href='/shows/10_11/flare_path.html'><img src='/images/resized/for_shows/flare_path_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
+        
+        "year_title": "2010 - 11",
+        "content": "1941, and the Falcon hotel in Milchester plays host to the brave young men of the RAF and their loved ones. Patricia, wife of the charming and heroic Flight-Lieutenant Teddy Graham arrives to tell him that she is leaving him for her old flame, Hollywood heartthrob Peter Kyle. However, when Teddy and the others are called off on a dangerous night bombing mission and things start to go awry, Patricia struggles to find the right moment to break her news.\n\nIn turns gripping, funny, and tragic, Flare Path is an honest and human study of people performing their duty to society and the conflict that entails with love and self-interest.\n",
+        "playwright": "Terence Rattigan",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/flare_path.html",
+        "date": "2010-12-07",
+        "run": "7 - 10 December 2010",
+        "excerpt": "1941, and the Falcon hotel in Milchester plays host to the brave young men of the RAF and their loved ones. Patricia, wife of the charming and heroic Flight-Lieutenant Teddy Graham arrives to tell him that she is leaving him for her old flame, Hollywood heartthrob Peter Kyle. However, when...",
+        "cast": "Izzy Scrimshire, Laura Thomson, Katie Barry, James Bentley, Matt Miller, James McAndrew, Peter Cary, Christey Nethercott, Tegan Jolly, Jono Lake, Alex Hollingsworth, ",
+        "crew": "Gus Miller, James Townend, Fran Rylands, Conrad Cohen, Angus MacRae, Lawrence Bolton, James Herbert, Bora Hunja, Robert Leventhall, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Hedda Gabler",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "Hedda Gabler, the sophisticated daughter of an aristocratic general, has returned from her honeymoon with the somewhat less sophisticated Jorgen Tesman, a 14th Century Domestic Crafts Specialist. As they settle into their new home, the reappearance of Tesman’s academic rival and Hedda’s old flame, Ejlbert Lovborg throws their lives into disarray. Jealousy, blackmail and manipulation soon ensue as secrets are uncovered and lies unspun, culminating in the play’s dramatic conclusion.\n\n",
+        "playwright": "Henrick Ibson",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/hedda_gabler.html",
+        "date": "2010-10-20",
+        "run": "20 - 23 October 2010",
+        "excerpt": "Hedda Gabler, the sophisticated daughter of an aristocratic general, has returned from her honeymoon with the somewhat less sophisticated Jorgen Tesman, a 14th Century Domestic Crafts Specialist. As they settle into their new home, the reappearance of Tesman’s academic rival and Hedda’s old flame, Ejlbert Lovborg throws their lives into...",
+        "cast": "Flo Hapgood, Max Grant, Emma Begg, Matt Wilks, Sean Jones, Rachel Webb, Alix Hattenstone, ",
+        "crew": "Charlotte Wright, Sophie Watson, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Hymns",
+        "type": "show",
+        
+        "poster_thumb_tag": "<a href='/shows/10_11/hymns.html'><img src='/images/resized/for_shows/hymns_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
+        
+        "year_title": "2010 - 11",
+        "content": "Four men reunite to mourn the loss of a close friend, but time has had a corrosive effect on this once tight-knit bunch. From beneath their surface bravura, a brooding animosity emerges. Their struggle to deal with grief and guilt brings them to a breaking point where the truth lays waiting.\n",
+        "playwright": "Chris O'Connell",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/hymns.html",
+        "date": "2011-06-08",
+        "run": "8 - 11 June 2011",
+        "excerpt": "Four men reunite to mourn the loss of a close friend, but time has had a corrosive effect on this once tight-knit bunch. From beneath their surface bravura, a brooding animosity emerges. Their struggle to deal with grief and guilt brings them to a breaking point where the truth lays...",
+        "cast": "Sam Warren, Jonny Fitzpatrick, Sam Hayward, Sean Jones, ",
+        "crew": "Matt Wilks, Elin Stenner-Matthews, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Normal",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "“It seemed to me that the chill he had placed in my soul had finally thawed. I had not reckoned on feeling that chill again so soon…”\n\nDr. Justus Wehner is a young, precocious lawyer who has been given the opportunity of his career – sent to Düsseldorf to defend the notorious and now incarcerated Peter Kürten, he begins to lose sight of himself as he acquires an uneasy empathy for the bloodier recesses of his client’s mind.\n\n‘Normal’ traces the uneasy relationship developed between Peter Kürten, Dr. Wehner and Eva Kürten whilst unravelling Kürten’s brutal, abusive and deprived childhood in dour provincial Germany, asking the question – “Do we bear monsters, or do we create them?”\n",
+        "playwright": "Anthony Nielson",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/normal.html",
+        "date": "2010-11-10",
+        "run": "10 - 13 November 2010",
+        "excerpt": "“It seemed to me that the chill he had placed in my soul had finally thawed. I had not reckoned on feeling that chill again so soon…” Dr. Justus Wehner is a young, precocious lawyer who has been given the opportunity of his career – sent to Düsseldorf to defend...",
+        "cast": "Benjamin Cave, Alex Hollingsworth, Elle O'Rorke, ",
+        "crew": "George Bancroft-Livingston, James Saville, Matthew Leventhall, Angus MacRae, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Orphans",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "‘I hate violence. It makes me cry. Always has…’\n\nDanny and Helen are having a candlelit dinner in their family home, when Helen’s brother Liam turns up. Covered in blood.\n\nLiam claims to have found a lad on the pavement suffering from multiple stab wounds. Distressed, panicked and bewildered, he hugs the bloody boy.\n\nBut as the play unfolds, the identity of this lad and Liam’s account of what happened becomes increasingly more ambiguous…\n\nDisturbing but darkly comic, Orphans is a contemporary 3-hander that will have audiences on the edge of their seats.\n",
+        "playwright": "Dennis Kelly",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/orphans.html",
+        "date": "2010-10-27",
+        "run": "27 - 30 October 2010",
+        "excerpt": "‘I hate violence. It makes me cry. Always has…’ Danny and Helen are having a candlelit dinner in their family home, when Helen’s brother Liam turns up. Covered in blood. Liam claims to have found a lad on the pavement suffering from multiple stab wounds. Distressed, panicked and bewildered, he...",
+        "cast": "James Lewis, Megan Salter, Douggie McMeekin, ",
+        "crew": "Elizabeth Stevenson, Rose Williams, Matt Leventhall, Philip Geller, Vanessa Charters, Philip Geller, Matt Leventhall, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Rope",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "Brandon wants excitement and little cares how he gets it. With the help of his companion Granillo, he strangles a fellow student and deposits the body in a wooden chest. To celebrate this ‘perfect murder’, they invite some acquaintances (including the victim’s father) round to a party with the chest and its gruesome contents serving as a dining table. But Cadell is suspicious from the start of the evening…\n",
+        "playwright": "Patrick Hamilton",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/rope.html",
+        "date": "2011-05-11",
+        "run": "11 - 14 May 2011",
+        "excerpt": "Brandon wants excitement and little cares how he gets it. With the help of his companion Granillo, he strangles a fellow student and deposits the body in a wooden chest. To celebrate this ‘perfect murder’, they invite some acquaintances (including the victim’s father) round to a party with the chest...",
+        "cast": "Tim Watkins, Max Benenson, Freddie Garnett, Jack Hughes, Rosanna Stoker, Will Vickers, Francesca Andrews, Dan Rae-Scott, ",
+        "crew": "Elizabeth Stevenson, James Townend, Philip Geller, Liz Rose, Robert Leventhall, Philip Geller, Matthew Leventhall, Rose Williams, Suzie Roope, Kathryn Feavers, Holly Wicks, Liz Rose, Aneira Pugh, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "Smile",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "A haunted war photographer hides at the end of a deserted fairground pier, surrounded only by her collection of postcards and memories of the Bosnian war zone.\n\nA snapshot of a forgotten cafe in Eastern Europe, deserted of life.\n\nA stain to be erased.\n\nA shadow in the doorway.\n\nAnd a visitor to be faced.\n\nSmile for the camera. Smile. If you can.\n",
+        "playwright": "Stephen Lowe",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/smile.html",
+        "date": "2011-03-23",
+        "run": "23 - 26 March 2011",
+        "excerpt": "A haunted war photographer hides at the end of a deserted fairground pier, surrounded only by her collection of postcards and memories of the Bosnian war zone. A snapshot of a forgotten cafe in Eastern Europe, deserted of life. A stain to be erased. A shadow in the doorway. And...",
+        "cast": "Benjamin Cave, Amy Rushton, ",
+        "crew": "Rebecca Catlin, Liz Rose, James Herbert, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Laramie Project",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "Laramie Wyoming. October 7th, 1998. A gay university student is found tied to a fence in an isolated field, beaten and left for dead - purely because of his sexuality. Matthew Shepard’s abduction by two of the local boys created a media firestorm that spanned the globe, and inspired a generation to fight against intolerance.\n\nThe Laramie Project tells the story of the residents of this sleepy city in the American Midwest. In a town defined by an accident, a crime, it explores how it’s residents feel, their reactions, and perhaps most importantly, are they to be blamed?\n\nVerbatim theatre, innovative story telling and multirolling like you’ve never seen it before, The Laramie Project is one of the most performed plays in America and considered by many to be one of the 10 best american plays of the 90’s.\n\nJournalistic. Emotional. Frank. Unbiased. Astonishing.\n",
+        "playwright": "Moises Kaufman and the members of Tectonic Theater Project",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/the_laramie_project.html",
+        "date": "2011-05-04",
+        "run": "4 - 7 May 2011",
+        "excerpt": "Laramie Wyoming. October 7th, 1998. A gay university student is found tied to a fence in an isolated field, beaten and left for dead - purely because of his sexuality. Matthew Shepard’s abduction by two of the local boys created a media firestorm that spanned the globe, and inspired a...",
+        "cast": "Lawrence Bolton, Phillip Damms, Phoebe Fairbrother, Sarah Head, Claire Horn, Tegan Jolly, Kristen McGachey, Dave Porter, Andy Routledge, Fran Rylands, Izzy Scrimshire, Sophia Stanley, Weston Twardowski, ",
+        "crew": "Cesar Teixeira, Bryony Blackler, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "The Talented Mr Ripley",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "Tom Ripley is a young conman living in 1950s New York. After being confused for someone else, he is sent to Mongibello, Italy to retrieve the rich and lazy Richard Greenleaf. Instead of completing his task, Ripley slowly but surely integrates himself into Rickie’s life. After becoming obsessed with everything Rickie has (except for his girlfriend, Marge), Tom decides to take things into his own hands.\n\nA chilling psychological thriller, The Talented Mr Ripley is adapted from the award-winning book, which also spawned a movie featuring Matt Damon, Jude Law and Cate Blanchett.\n",
+        "playwright": "Phyllis Nagy",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/the_talented_mr_ripley.html",
+        "date": "2010-12-01",
+        "run": "1 - 4 December 2010",
+        "excerpt": "Tom Ripley is a young conman living in 1950s New York. After being confused for someone else, he is sent to Mongibello, Italy to retrieve the rich and lazy Richard Greenleaf. Instead of completing his task, Ripley slowly but surely integrates himself into Rickie’s life. After becoming obsessed with everything...",
+        "cast": "Weston Twardowski, Simon Peal, Katrina Holloway, Tom Walsh, Fran Rylands, Ben Williamson, Nick Hughes, ",
+        "crew": "Chris Walters, Bora Hunja, Fran Rylands, Matthew Llewellyn, Robert Leventhall, Jenny Mann, Bryony Blackler, "
+    }
+    
+    
+
+    
+    ,{
+        "title": "This Wide Night",
+        "type": "show",
+        
+        
+        
+        "year_title": "2010 - 11",
+        "content": "On her release from prison, Lorraine heads straight to Marie’s.\n\nOn the inside they used to share everything, but the friendship that once protected them now threatens to smother the fragile freedom they have found.\n",
+        "playwright": "Chloe Moss",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/shows/10_11/this_wide_night.html",
+        "date": "2011-02-23",
+        "run": "23 - 26 February 2011",
+        "excerpt": "On her release from prison, Lorraine heads straight to Marie’s.\n\nOn the inside they used to share everything, but the friendship that once protected them now threatens to smother the fragile freedom they have found.\n",
+        "cast": "Lucy Bromilow, Meg Salter, ",
+        "crew": "Sophie Reynolds, Nick Rowell, "
     }
     
     
@@ -4727,7 +5821,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-05-31 21:28\n      Build number 663\n.\n      217 shows and 18 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-06-01 00:52\n      Build number 664\n.\n      264 shows and 18 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -4878,10 +5972,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n31 May - Update index.md31 May - Update contributing docs31 May - Change references to edit =&gt; improve31 May - Tweak modal close button styling31 May - Implement 'Improve this page' modal\n\nModal dialogue for non-editors that prompts whether to fork and propose changes or just make an issue using the anonymous report form.31 May - Make page.title bold on report form modal31 May - Fix for longer text on report-tabs31 May - Update issue report form text31 May - Update report.html30 May - Updated about.md\n",
+        "content": " Recent Changes\n\n01 Jun - A large number of shows\n\nCloses #19 biatch!31 May - Implement node deps in package.json, update install instructions31 May - Update index.md31 May - Update contributing docs31 May - Change references to edit =&gt; improve31 May - Tweak modal close button styling31 May - Implement 'Improve this page' modal\n\nModal dialogue for non-editors that prompts whether to fork and propose changes or just make an issue using the anonymous report form.31 May - Make page.title bold on report form modal31 May - Fix for longer text on report-tabs31 May - Update issue report form text\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 31 May - Update index.md31 May - Update contributing docs31 May - Change references to edit =&gt; improve31 May - Tweak modal close button styling31 May - Implement 'Improve this page' modal Modal dialogue for non-editors that prompts whether to fork and propose changes or just make an..."
+        "excerpt": "Recent Changes 01 Jun - A large number of shows Closes #19 biatch!31 May - Implement node deps in package.json, update install instructions31 May - Update index.md31 May - Update contributing docs31 May - Change references to edit =&gt; improve31 May - Tweak modal close button styling31 May - Implement..."
     }
     
     

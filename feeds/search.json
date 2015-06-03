@@ -4792,7 +4792,7 @@
         "run": "11 - 12 November 2013",
         "excerpt": "An unwelcome discovery has caused Gary to run from everything his life has become in the last year. He runs straight back to Andy, his estranged best mate, who is living in a smoky haze with his girlfriend Debbie and doing little else. Over the course of the evening, Gary...",
         "cast": "Omid Faramarzi, Gary Berenzin, Amelia Gann, ",
-        "crew": "Matthew Miller, Lilly Dawson, Ginny Lee, Matthew Miller, Ginny Lee, Tom Selves, Will Pimblett, "
+        "crew": "Matthew Miller, Lilly Dawson, Ginny Lee, Matthew Miller, Ginny Lee, Tom Selves, Will Pimblett, Joanne Blunt, "
     }
     
     
@@ -8439,7 +8439,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-06-02 21:49\n      Build number 692\n.\n      383 shows and 18 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-06-03 22:53\n      Build number 694\n.\n      383 shows and 18 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -8590,10 +8590,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n02 Jun - Load github-issues-widget.js only on required page02 Jun - incorrect show name. Updated from for =&gt; to02 Jun - Update file types from flyer to programme02 Jun - Update morning_on_a_rainy_day_capital.md02 Jun - Update morning_on_a_rainy_day_capital.md\n\nChanged file names from flyer to programme to allow for newly uploaded images02 Jun - Upload images for morning for a rainy day programme\n\nupload of 3 pics for morning for a rainy day programme 02-0302 Jun - deleted morning on a rainy day pics02 Jun - rename JPG =&gt; jpg02 Jun - Fix error boxes RHS alignment #8702 Jun - Brought .breadcrumb-controls in line #87\n",
+        "content": " Recent Changes\n\n03 Jun - Update back_to_oblivion.md\n\nAdded technical operator (Joanne Blun). Info via email from Matt Miller.02 Jun - Load github-issues-widget.js only on required page02 Jun - incorrect show name. Updated from for =&gt; to02 Jun - Update file types from flyer to programme02 Jun - Update morning_on_a_rainy_day_capital.md02 Jun - Update morning_on_a_rainy_day_capital.md\n\nChanged file names from flyer to programme to allow for newly uploaded images02 Jun - Upload images for morning for a rainy day programme\n\nupload of 3 pics for morning for a rainy day programme 02-0302 Jun - deleted morning on a rainy day pics02 Jun - rename JPG =&gt; jpg02 Jun - Fix error boxes RHS alignment #87\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 02 Jun - Load github-issues-widget.js only on required page02 Jun - incorrect show name. Updated from for =&gt; to02 Jun - Update file types from flyer to programme02 Jun - Update morning_on_a_rainy_day_capital.md02 Jun - Update morning_on_a_rainy_day_capital.md Changed file names from flyer to programme to allow for newly uploaded..."
+        "excerpt": "Recent Changes 03 Jun - Update back_to_oblivion.md Added technical operator (Joanne Blun). Info via email from Matt Miller.02 Jun - Load github-issues-widget.js only on required page02 Jun - incorrect show name. Updated from for =&gt; to02 Jun - Update file types from flyer to programme02 Jun - Update morning_on_a_rainy_day_capital.md02 Jun..."
     }
     
     

@@ -10,7 +10,7 @@
   <meta name="description" content="Archive project collecting past shows, committees and alumni bios to piece together the New Theatre’s dynamic and vibrant history.">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600|Montserrat" />
   <link rel='stylesheet' type='text/css' href='/bundles/2b3d836e7d863c435aa4ef73f2a4dfe8.css' />
-  <link rel="stylesheet" href="/css/main.css?cachebust=201506040002">
+  <link rel="stylesheet" href="/css/main.css?cachebust=201506040033">
   <link rel="canonical" href="http://history.newtheatre.org.uk/docs/photos_and_assets/">
   <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://history.newtheatre.org.uk/feed.xml" />
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
@@ -32,15 +32,15 @@
     <!-- Debug LHS -->
     <div class="debug-build-details" data-debug-toggle>
       <i class="fa fa-clock-o"></i>
-      2015-06-04 00:02, build 696
+      2015-06-04 00:33, build 697
 , section about
     </div>
 
     <div class="debug-last-commit" data-debug-toggle>
       <i class="octicon octicon-history"></i>
-      04 Jun - <a href='https://github.com/newtheatre/history-project/commit/bcd45ab8dcd0105bf7efe4aadcf276e9c0654b91/'>Remove Jenni Yard (SM) from Molly Sweeny with advise from Jake Leonard
+      04 Jun - <a href='https://github.com/newtheatre/history-project/commit/ea19244e1b8f41f83fc980b735dc5c5c8f4440e0/'>Fix capitalisation of show titles, closes #105
 
-Closes #121</a>
+Think I got them all</a>
     </div>
 
     <div class="debug-badges" data-debug-toggle>
@@ -176,6 +176,11 @@ Closes #121</a>
       <td style="text-align: left">Image caption</td>
       <td style="text-align: left">Is shown when image is clicked on to make big.</td>
     </tr>
+    <tr>
+      <td style="text-align: left"><code>page</code><br /><em>(optional)</em></td>
+      <td style="text-align: left">Orders within a type, should be a number</td>
+      <td style="text-align: left">For type programme it is the page number where the front page is <code>1</code>, for a single page flyer the front would be <code>1</code> and the back <code>2</code>.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -190,7 +195,11 @@ Closes #121</a>
   <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">type</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">poster</span>
     <span class="l-Scalar-Plain">image</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">pillowman_poster.jpg</span>
   <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">type</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">flyer</span>
+    <span class="l-Scalar-Plain">image</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">pillowman_flyer_1.png</span>
+    <span class="l-Scalar-Plain">page</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">1</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">type</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">flyer</span>
     <span class="l-Scalar-Plain">image</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">pillowman_flyer_2.png</span>
+    <span class="l-Scalar-Plain">page</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">2</span>
   <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">type</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">programme</span>
     <span class="l-Scalar-Plain">filename</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">the_pillowman_programme.pdf</span>
     <span class="l-Scalar-Plain">title</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">Programme</span></code></pre></div>

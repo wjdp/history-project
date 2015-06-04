@@ -11,7 +11,7 @@
   Content: Person Name
 
 /* SITE */
-  Last update: 2015-06-03
+  Last update: 2015-06-04
   Language: English
   Doctype: HTML5
   IDE: Sublime Text, Prose.io

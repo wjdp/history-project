@@ -7119,7 +7119,7 @@
         "playwright": null,
         "season": "In House",
         "venue": ["New Theatre"],
-        "link": "/shows/95_96/jekyll_&_hyde.html",
+        "link": "/shows/95_96/jekyll_and_hyde.html",
         "date": "",
         "run": "1995 - 96 (Dates Unknown)",
         "excerpt": "\n",
@@ -8461,7 +8461,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-06-04 16:56\n      Build number 703\n.\n      384 shows and 18 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-06-04 17:56\n      Build number 704\n.\n      384 shows and 18 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -8616,10 +8616,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n04 Jun - Merge pull request #129 from newtheatre/coffee\n\nSwitch site JS to Coffeescript &amp; refactor JS asset bundling.04 Jun - Fix left and right keyboard navigation, disable up04 Jun - Add jekyll-jsminify04 Jun - Remove asset_bundler04 Jun - Refactor for coffeescript04 Jun - Poster additions, add Wild West End04 Jun - Tweak alignment of person list icons, fixes #10204 Jun - Show coloured circles on year list for season.\n\nIn the process fixed up 13_14 as had incorrect season attribute and messed up sorting.\n\nCloses #8804 Jun - Move arbitrary numbers and other settings to the config file\n\nCloses #9104 Jun - Fix capitalisation of show titles, closes #105\n\nThink I got them all\n",
+        "content": " Recent Changes\n\n04 Jun - &amp; =&gt; and in filename04 Jun - Merge pull request #129 from newtheatre/coffee\n\nSwitch site JS to Coffeescript &amp; refactor JS asset bundling.04 Jun - Fix left and right keyboard navigation, disable up04 Jun - Add jekyll-jsminify04 Jun - Remove asset_bundler04 Jun - Refactor for coffeescript04 Jun - Poster additions, add Wild West End04 Jun - Tweak alignment of person list icons, fixes #10204 Jun - Show coloured circles on year list for season.\n\nIn the process fixed up 13_14 as had incorrect season attribute and messed up sorting.\n\nCloses #8804 Jun - Move arbitrary numbers and other settings to the config file\n\nCloses #91\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 04 Jun - Merge pull request #129 from newtheatre/coffee Switch site JS to Coffeescript &amp; refactor JS asset bundling.04 Jun - Fix left and right keyboard navigation, disable up04 Jun - Add jekyll-jsminify04 Jun - Remove asset_bundler04 Jun - Refactor for coffeescript04 Jun - Poster additions, add Wild..."
+        "excerpt": "Recent Changes 04 Jun - &amp; =&gt; and in filename04 Jun - Merge pull request #129 from newtheatre/coffee Switch site JS to Coffeescript &amp; refactor JS asset bundling.04 Jun - Fix left and right keyboard navigation, disable up04 Jun - Add jekyll-jsminify04 Jun - Remove asset_bundler04 Jun - Refactor for..."
     }
     
     

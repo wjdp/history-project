@@ -1253,15 +1253,11 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/googlee5aee69e17917677.html</loc>
-    <lastmod>2015-06-14T12:45:58+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>
-    <lastmod>2015-04-26T20:54:04+00:00</lastmod>
+    <lastmod>2015-07-02T00:06:52+00:00</lastmod>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/lib/report-issue-post/client/example.html</loc>
-    <lastmod>2015-04-26T20:54:04+00:00</lastmod>
+    <lastmod>2015-07-02T00:08:26+00:00</lastmod>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/lib/fancybox/demo/iframe.html</loc>
@@ -1282,5 +1278,9 @@
   <url>
     <loc>http://history.newtheatre.org.uk/lib/ionicons/cheatsheet.html</loc>
     <lastmod>2015-01-03T20:02:30+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>
+    <lastmod>2015-07-02T00:08:26+00:00</lastmod>
   </url>
 </urlset>

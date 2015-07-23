@@ -380,7 +380,7 @@
         "title": "Once a Catholic",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/shows/01_02/once_a_catholic.html'></a>",
         
         "year_title": "2001 - 02",
         "content": "\n",
@@ -556,7 +556,7 @@
         "title": "'Morning on a Rainy day' and 'Capital'",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/shows/02_03/morning_on_a_rainy_day_capital.html'><img src='/images/resized/for_shows/morning_on_a_rainy_day_programme_1-140x.JPG' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2002 - 03",
         "content": "It is our intention in offering “Morning on a rainy day” and “Capital” to generate thought and discussion, and not merely to court controversy. We are genuinely concerned with the theme of the circularity of human behaviour that all too often prevents us from taking a step beyond ourselves in order to fully comprehend our own misgivings and errors of judgement. Where “Morning” aims to concentrate this issue on the personal level, “Capital” seeks to extend the line of thought to a global scale.\n",
@@ -8461,7 +8461,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-07-22 22:30\n      Build number 718\n.\n      384 shows and 18 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-07-23 16:09\n      Build number 719\n.\n      384 shows and 18 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -8616,10 +8616,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n22 Jul - Add meta descriptions to show pages, add site.title to all URLs22 Jul - Quote venue as colon involved22 Jul - Move season periods to data file, closes #131\n\nPeriods now in _data/periods.yaml, _includes/year_list.html modified to reflect this. Variable show -&gt; show_list_show for conflict reasons in _includes/show_list.html.22 Jul - Add codeclimate badge10 Jul - Fix milestone link again, last fix, honest!10 Jul - Fix roadmap links again, properly this time!08 Jul - Fix milestone links02 Jul - Prevent poster duplication in the poster-bar\n\nShown on home page.02 Jul - Add 9 cast/crew lists to 13-14 shows\n\nFrom spreadsheet sent to Dir/Producers and committee from that year.02 Jul - Person list generator tool\n",
+        "content": " Recent Changes\n\n23 Jul - Use flyers and posters as show posters when poster not set\n\nCloses #117, follows the rules as layed out in that issue:\n\n- The first asset with display_image: true tacked onto it, this should be rarely used as a manual override\n- The first poster in assets\n- The first flyer front in assets (type: flyer page: 1)\n- The first programme front in assets (type: programme page: 1)22 Jul - Add meta descriptions to show pages, add site.title to all URLs22 Jul - Quote venue as colon involved22 Jul - Move season periods to data file, closes #131\n\nPeriods now in _data/periods.yaml, _includes/year_list.html modified to reflect this. Variable show -&gt; show_list_show for conflict reasons in _includes/show_list.html.22 Jul - Add codeclimate badge10 Jul - Fix milestone link again, last fix, honest!10 Jul - Fix roadmap links again, properly this time!08 Jul - Fix milestone links02 Jul - Prevent poster duplication in the poster-bar\n\nShown on home page.02 Jul - Add 9 cast/crew lists to 13-14 shows\n\nFrom spreadsheet sent to Dir/Producers and committee from that year.\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 22 Jul - Add meta descriptions to show pages, add site.title to all URLs22 Jul - Quote venue as colon involved22 Jul - Move season periods to data file, closes #131 Periods now in _data/periods.yaml, _includes/year_list.html modified to reflect this. Variable show -&gt; show_list_show for conflict reasons in..."
+        "excerpt": "Recent Changes 23 Jul - Use flyers and posters as show posters when poster not set Closes #117, follows the rules as layed out in that issue: - The first asset with display_image: true tacked onto it, this should be rarely used as a manual override - The first poster..."
     }
     
     

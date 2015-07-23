@@ -10,7 +10,7 @@
   <meta name="description" content="Archive project collecting past shows, committees and alumni bios to piece together the New Theatre’s dynamic and vibrant history.">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600|Montserrat" />
   <link rel="stylesheet" href="/lib/github-issues-widget/github-issues-widget-default.css">
-  <link rel="stylesheet" href="/css/main.css?cachebust=201507222230">
+  <link rel="stylesheet" href="/css/main.css?cachebust=201507231609">
   <link rel="canonical" href="http://history.newtheatre.org.uk/recent_changes/">
   <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://history.newtheatre.org.uk/feed.xml" />
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
@@ -32,13 +32,20 @@
     <!-- Debug LHS -->
     <div class="debug-build-details" data-debug-toggle>
       <i class="fa fa-clock-o"></i>
-      2015-07-22 22:30, build 718
+      2015-07-23 16:09, build 719
 , section about
     </div>
 
     <div class="debug-last-commit" data-debug-toggle>
       <i class="octicon octicon-history"></i>
-      22 Jul - <a href='https://github.com/newtheatre/history-project/commit/7da6b5751317b74090972748e0351e7a16f300bd/'>Add meta descriptions to show pages, add site.title to all URLs</a>
+      23 Jul - <a href='https://github.com/newtheatre/history-project/commit/ce5426c1e23aa4ba155520dee16d6d616a1a19cb/'>Use flyers and posters as show posters when poster not set
+
+Closes #117, follows the rules as layed out in that issue:
+
+- The first asset with display_image: true tacked onto it, this should be rarely used as a manual override
+- The first poster in assets
+- The first flyer front in assets (type: flyer page: 1)
+- The first programme front in assets (type: programme page: 1)</a>
     </div>
 
     <div class="debug-badges" data-debug-toggle>
@@ -136,13 +143,20 @@
   <article class="docs-content">
     <h1 id="i-classocticon-octicon-historyi-recent-changes"><i class="octicon octicon-history"></i> Recent Changes</h1>
 
-<ul><li>22 Jul - <a href="https://github.com/newtheatre/history-project/commit/7da6b5751317b74090972748e0351e7a16f300bd/">Add meta descriptions to show pages, add site.title to all URLs</a></li><li>22 Jul - <a href="https://github.com/newtheatre/history-project/commit/92df702adb8858f1b26d44a5f7e4082604c1c24b/">Quote venue as colon involved</a></li><li>22 Jul - <a href="https://github.com/newtheatre/history-project/commit/99ade0834709e7c57b2bae830bb6ef42fa50a706/">Move season periods to data file, closes #131
+<ul><li>23 Jul - <a href="https://github.com/newtheatre/history-project/commit/ce5426c1e23aa4ba155520dee16d6d616a1a19cb/">Use flyers and posters as show posters when poster not set
+
+Closes #117, follows the rules as layed out in that issue:
+
+- The first asset with display_image: true tacked onto it, this should be rarely used as a manual override
+- The first poster in assets
+- The first flyer front in assets (type: flyer page: 1)
+- The first programme front in assets (type: programme page: 1)</a></li><li>22 Jul - <a href="https://github.com/newtheatre/history-project/commit/7da6b5751317b74090972748e0351e7a16f300bd/">Add meta descriptions to show pages, add site.title to all URLs</a></li><li>22 Jul - <a href="https://github.com/newtheatre/history-project/commit/92df702adb8858f1b26d44a5f7e4082604c1c24b/">Quote venue as colon involved</a></li><li>22 Jul - <a href="https://github.com/newtheatre/history-project/commit/99ade0834709e7c57b2bae830bb6ef42fa50a706/">Move season periods to data file, closes #131
 
 Periods now in _data/periods.yaml, _includes/year_list.html modified to reflect this. Variable show -&gt; show_list_show for conflict reasons in _includes/show_list.html.</a></li><li>22 Jul - <a href="https://github.com/newtheatre/history-project/commit/7c46cb57b6741cdc883f7cd458626feb0360f398/">Add codeclimate badge</a></li><li>10 Jul - <a href="https://github.com/newtheatre/history-project/commit/fb999e126e8e34f0e7c0c83cb3d33f9334e99276/">Fix milestone link again, last fix, honest!</a></li><li>10 Jul - <a href="https://github.com/newtheatre/history-project/commit/73b45b5b5bba895dd32894575d248ac2beb47549/">Fix roadmap links again, properly this time!</a></li><li>08 Jul - <a href="https://github.com/newtheatre/history-project/commit/369ef5d615109971780a91f13c5bf7a362702197/">Fix milestone links</a></li><li>02 Jul - <a href="https://github.com/newtheatre/history-project/commit/5b5b1129d4908962b5f0032a8b69820e4815cc21/">Prevent poster duplication in the poster-bar
 
 Shown on home page.</a></li><li>02 Jul - <a href="https://github.com/newtheatre/history-project/commit/b38b81c15f5a58830812d2fce0b5b696f94e0a49/">Add 9 cast/crew lists to 13-14 shows
 
-From spreadsheet sent to Dir/Producers and committee from that year.</a></li><li>02 Jul - <a href="https://github.com/newtheatre/history-project/commit/63d66b002b234880158a04441e788fc32361d726/">Person list generator tool</a></li></ul>
+From spreadsheet sent to Dir/Producers and committee from that year.</a></li></ul>
 
   </article>
 
@@ -711,8 +725,8 @@ From spreadsheet sent to Dir/Producers and committee from that year.</a></li><li
   <p class="report-link"><a href="<%=url%>"><%=url%></a></p>
 </script>
 
-    <script type="text/javascript" src="/js/lib.js?cachebust=201507222230"></script>
-<script type="text/javascript" src="/js/app.js?cachebust=201507222230"></script>
+    <script type="text/javascript" src="/js/lib.js?cachebust=201507231609"></script>
+<script type="text/javascript" src="/js/app.js?cachebust=201507231609"></script>
 
 
   </body>

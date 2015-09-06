@@ -74,7 +74,7 @@ For command line help, visit our wiki page on Bourbon’s [command line interfac
   mv app/assets/stylesheets/application.css app/assets/stylesheets/application.scss
   ```
 
-4. Delete _all_ Sprockets directives in `application.scss` (`require`, `require_tree` and `require_self`) and use Sass’s native `@import` instead.
+4. Delete _all_ Sprockets directives in `application.scss` (`require`, `require_tree` and `require_self`) and use Sass’s native `@import` instead. ([why?](http://pivotallabs.com/structure-your-sass-files-with-import))
 
 5. Import Bourbon at the beginning of `application.scss`. All additional stylesheets should be imported below Bourbon:
 
@@ -127,7 +127,7 @@ and may be redistributed under the terms specified in the [license](LICENSE.md).
 
 ## About thoughtbot
 
-[![thoughtbot](http://thoughtbot.github.io/images/signature.svg)][hire]
+[<img src="http://thoughtbot.github.io/images/signature.svg" width="250" alt="thoughtbot logo">][hire]
 
 Bourbon is maintained and funded by thoughtbot, inc.
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.

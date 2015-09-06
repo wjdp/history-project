@@ -25,6 +25,9 @@
     <loc>http://history.newtheatre.org.uk/docs/</loc>
   </url>
   <url>
+    <loc>http://history.newtheatre.org.uk/docs/people/</loc>
+  </url>
+  <url>
     <loc>http://history.newtheatre.org.uk/people/</loc>
   </url>
   <url>
@@ -1252,16 +1255,23 @@
     <loc>http://history.newtheatre.org.uk/committees/99_00.html</loc>
   </url>
   <url>
-    <loc>http://history.newtheatre.org.uk/googlee5aee69e17917677.html</loc>
-    <lastmod>2015-07-23T16:08:59+00:00</lastmod>
+    <loc>http://history.newtheatre.org.uk/people/will-pimblett/</loc>
   </url>
   <url>
-    <loc>http://history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>
-    <lastmod>2015-07-02T00:08:26+00:00</lastmod>
+    <loc>http://history.newtheatre.org.uk/googlee5aee69e17917677.html</loc>
+    <lastmod>2015-09-06T18:07:54+00:00</lastmod>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/lib/report-issue-post/client/example.html</loc>
-    <lastmod>2015-07-02T00:08:26+00:00</lastmod>
+    <lastmod>2015-09-06T18:09:51+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/lib/mousetrap/plugins/record/tests/index.html</loc>
+    <lastmod>2015-07-02T20:32:28+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/lib/mousetrap/tests/mousetrap.html</loc>
+    <lastmod>2015-07-02T20:32:28+00:00</lastmod>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/lib/fancybox/demo/iframe.html</loc>
@@ -1272,15 +1282,11 @@
     <lastmod>2013-06-14T09:12:29+00:00</lastmod>
   </url>
   <url>
-    <loc>http://history.newtheatre.org.uk/lib/mousetrap/plugins/record/tests/index.html</loc>
-    <lastmod>2015-03-30T14:56:43+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/lib/mousetrap/tests/mousetrap.html</loc>
-    <lastmod>2015-03-30T14:56:43+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://history.newtheatre.org.uk/lib/ionicons/cheatsheet.html</loc>
     <lastmod>2015-01-03T20:02:30+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>
+    <lastmod>2015-09-06T18:09:51+00:00</lastmod>
   </url>
 </urlset>

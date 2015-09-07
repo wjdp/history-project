@@ -9561,7 +9561,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-07 23:03\n      Build number 733\n.\n      434 shows and 18 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-07 23:17\n      Build number 734\n.\n      434 shows and 19 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -9576,10 +9576,10 @@
         "title": "Committees",
         "type": "page",
         "group": "",
-        "content": "Committees by Year\n\n  \n  \n  \n    1970-71 (2)\n  \n    1971-72 (6)\n  \n    1972-73 (7)\n  \n    1973-74 (6)\n  \n    1974-75 (3)\n  \n    1976-77 (2)\n  \n    1977-78 (2)\n  \n    1999-00 (2)\n  \n    2005-06 (6)\n  \n    2006-07 (14)\n  \n    2007-08 (13)\n  \n    2008-09 (15)\n  \n    2009-10 (14)\n  \n    2010-11 (20)\n  \n    2011-12 (19)\n  \n    2012-13 (19)\n  \n    2013-14 (17)\n  \n    2014-15 (17)\n  \n  \n\n",
+        "content": "Committees by Year\n\n  \n  \n  \n    1970-71 (2)\n  \n    1971-72 (6)\n  \n    1972-73 (7)\n  \n    1973-74 (6)\n  \n    1974-75 (3)\n  \n    1976-77 (2)\n  \n    1977-78 (2)\n  \n    1999-00 (2)\n  \n    2005-06 (6)\n  \n    2006-07 (14)\n  \n    2007-08 (13)\n  \n    2008-09 (15)\n  \n    2009-10 (14)\n  \n    2010-11 (20)\n  \n    2011-12 (19)\n  \n    2012-13 (19)\n  \n    2013-14 (17)\n  \n    2014-15 (17)\n  \n    2015-16 (17)\n  \n  \n\n",
         "link": "/committees/",
         "date": null,
-        "excerpt": "Committees by Year\n\n  \n  \n  \n    1970-71 (2)\n  \n    1971-72 (6)\n  \n    1972-73 (7)\n  \n    1973-74 (6)\n  \n    1974-75 (3)\n  \n    1976-77 (2)\n  \n    1977-78 (2)\n  \n    1999-00 (2)\n  \n    2005-06 (6)\n  \n    2006-07 (14)\n  \n    2007-08 (13)\n  \n    2008-09 (15)\n  \n    2009-10 (14)\n  \n    2010-11 (20)\n  \n    2011-12 (19)\n  \n    2012-13 (19)\n  \n    2013-14 (17)\n  \n    2014-15 (17)\n  \n  \n\n"
+        "excerpt": "Committees by Year\n\n  \n  \n  \n    1970-71 (2)\n  \n    1971-72 (6)\n  \n    1972-73 (7)\n  \n    1973-74 (6)\n  \n    1974-75 (3)\n  \n    1976-77 (2)\n  \n    1977-78 (2)\n  \n    1999-00 (2)\n  \n    2005-06 (6)\n  \n    2006-07 (14)\n  \n    2007-08 (13)\n  \n    2008-09 (15)\n  \n    2009-10 (14)\n  \n    2010-11 (20)\n  \n    2011-12 (19)\n  \n    2012-13 (19)\n  \n    2013-14 (17)\n  \n    2014-15 (17)\n  \n    2015-16 (17)\n  \n  \n\n"
     }
     
     
@@ -9742,10 +9742,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n07 Sep - Add venue changes and student_written attr to 14-1507 Sep - Add shows 2014-15 #10407 Sep - Add 2015-16 #14607 Sep - Add 'Studio A' to venue07 Sep - Add in final details from #110 spreadsheet07 Sep - Fix show-poster RHS alignment, closes #8707 Sep - Add production shots for 13-14 Autumn season from FB, #111\n\n- Conviction\n- Fox Finder\n- Habeus\n- Letting Go\n- Molly Sweeny\n- Judas\n- Pitchfork\n- Titus\n\nCouldn't find photos for other shows07 Sep - Fix github-issues-widget #68\n\n\"GITHUB_ISSUES_USER is undefined error\" vars were not global, defined after libray had loaded07 Sep - Load google fonts over either HTTP or HTTPS, re. #12206 Sep - De-ampersanding of and\n\nhttps://en.wikipedia.org/wiki/Rosencrantz_and_Guildenstern_Are_Dead\n",
+        "content": " Recent Changes\n\n07 Sep - Add 2015-16 committee, closes #14607 Sep - Add venue changes and student_written attr to 14-1507 Sep - Add shows 2014-15 #10407 Sep - Add 2015-16 #14607 Sep - Add 'Studio A' to venue07 Sep - Add in final details from #110 spreadsheet07 Sep - Fix show-poster RHS alignment, closes #8707 Sep - Add production shots for 13-14 Autumn season from FB, #111\n\n- Conviction\n- Fox Finder\n- Habeus\n- Letting Go\n- Molly Sweeny\n- Judas\n- Pitchfork\n- Titus\n\nCouldn't find photos for other shows07 Sep - Fix github-issues-widget #68\n\n\"GITHUB_ISSUES_USER is undefined error\" vars were not global, defined after libray had loaded07 Sep - Load google fonts over either HTTP or HTTPS, re. #122\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 07 Sep - Add venue changes and student_written attr to 14-1507 Sep - Add shows 2014-15 #10407 Sep - Add 2015-16 #14607 Sep - Add 'Studio A' to venue07 Sep - Add in final details from #110 spreadsheet07 Sep - Fix show-poster RHS alignment, closes #8707 Sep -..."
+        "excerpt": "Recent Changes 07 Sep - Add 2015-16 committee, closes #14607 Sep - Add venue changes and student_written attr to 14-1507 Sep - Add shows 2014-15 #10407 Sep - Add 2015-16 #14607 Sep - Add 'Studio A' to venue07 Sep - Add in final details from #110 spreadsheet07 Sep - Fix..."
     }
     
     
@@ -9778,6 +9778,8 @@
         "excerpt": "The show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'. ## Attribute Reference | Attribute | Job | Description | |:-|:-|:-| | `title` | Show title | Displayed at the top of the show page and on various other pages. | | `playwright` | Full name..."
     }
     
+    
+
     
 
     

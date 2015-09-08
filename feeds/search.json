@@ -4764,11 +4764,33 @@
         "content": "\n",
         "playwright": "(Devised)",
         "season": "Edinburgh",
-        "venue": ["New Theatre"],
+        "venue": ["ZOO Monkeyhouse"],
         "link": "/years/13_14/18b/",
         "date": "",
         "run": "2013 - 14 (Dates Unknown)",
         "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
+        "title": "18B & Queen B Previews",
+        "type": "show",
+        
+        "poster_thumb_tag": "<a href='/years/13_14/18b_queen_b_previews/'><img src='/images/resized/for_shows/queen_b_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
+        
+        "year_title": "2013 - 14",
+        "content": "Join us for one night only to see both shows that we’ll be taking up to Edinburgh this year!\n",
+        "playwright": null,
+        "season": "Previews",
+        "venue": ["New Theatre"],
+        "link": "/years/13_14/18b_queen_b_previews/",
+        "date": "2014-07-24",
+        "run": "24 July 2014",
+        "excerpt": "Join us for one night only to see both shows that we’ll be taking up to Edinburgh this year!\n",
         "cast": "",
         "crew": ""
     }
@@ -5336,7 +5358,7 @@
         "content": "\n",
         "playwright": null,
         "season": "Edinburgh",
-        "venue": ["New Theatre"],
+        "venue": ["ZOO Monkeyhouse"],
         "link": "/years/13_14/queen_b/",
         "date": "",
         "run": "2013 - 14 (Dates Unknown)",
@@ -5503,6 +5525,28 @@
 
     
     ,{
+        "title": "The Reviewers",
+        "type": "show",
+        
+        "poster_thumb_tag": "<a href='/years/13_14/the_reviewers/'><img src='/images/resized/for_shows/the_reviewers_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
+        
+        "year_title": "2013 - 14",
+        "content": "‘It’s not business– it’s personal.’ Spawn of the West End Reviews, headed by the conscienceless Keira Cochrane, make Edinburgh a miserable place to be during Fringe month. The city is rife with bribery, corruption and generically angsty student shows. So when the Critic with No Name rides into town with a new brand of objective critique, sparks will fly as thick and fast as the vindictively-worded reviews. Parodying everything from Les Miserables to Dirty Harry, The Reviewers is an irreverent new musical comedy that’ll make you ask yourself one question: Are you feeling objective? Well, are you punk?\n",
+        "playwright": null,
+        "season": "External",
+        "venue": ["New Theatre"],
+        "link": "/years/13_14/the_reviewers/",
+        "date": "2014-07-25",
+        "run": "25 July 2014",
+        "excerpt": "‘It’s not business– it’s personal.’ Spawn of the West End Reviews, headed by the conscienceless Keira Cochrane, make Edinburgh a miserable place to be during Fringe month. The city is rife with bribery, corruption and generically angsty student shows. So when the Critic with No Name rides into town with...",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "The Rivals",
         "type": "show",
         
@@ -5616,7 +5660,7 @@
         "title": "40%",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/40_percent/'><img src='/images/resized/for_shows/40_percent_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "40% is about a group of five first year students who are forced into doing what they dread the most, a group project. They raise important questions about feminism, masculinity and attitudes towards sexuality which are both comic and thought provoking. The five strangers each bring and take away something from the group, each opening up in their own ways to prove that people aren’t always what they seem.\n",
@@ -5660,7 +5704,7 @@
         "title": "Beats",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/beats/'><img src='/images/resized/for_shows/beats_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "In 1994 the Criminal Justice and Public Order Act effectively outlawed raves, banning public gatherings around amplified music characterised by ‘the emission of a succession of repetitive beats.’ Featuring a soundtrack from a live DJ and psychedelic 90s-inspired visuals, ‘Beats’ tells the story of Johnno McCreadie, a teenager living in the small suburban Scottish town at the time of the Act. ‘Beats’ is a coming of age story exploring rebellion, apathy, and the irresistible power of gathered youth.\n",
@@ -5682,7 +5726,7 @@
         "title": "Bent",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/bent/'><img src='/images/resized/for_shows/bent_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Berlin, 1934, and after Hitler instigates the Night of the Long Knives, Max is captured and sent to Dachau concentration camp. Here he meets Horst and the two fight to maintain their dignity and humanity, holding each other together through the power of words and imagination alone.\n",
@@ -5704,7 +5748,7 @@
         "title": "Bottleneck",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/bottleneck/'><img src='/images/resized/for_shows/bottleneck_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Liverpool, 1989. Greg is thirteen and has just started school and for some reason keeps being put in detention. Greg swears it was Tom’s fault, but he doesn’t want to upset Tom’s Dad because he’s big, he’s blue and that’s bad enough. Liverpool FC are everything to him. Greg dreams of playing for the reds, to go out onto Anfield and score one with Barnesy at the Kop end. But Greg has a story to tell you. Stories of the city he loves, the friends he’s going to have for life, the girls that keep picking on him and trip to Sheffield Wednesday that will live with him forever.\n",
@@ -5726,7 +5770,7 @@
         "title": "Bottleneck",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/bottleneck_stuff/'><img src='/images/resized/for_shows/bottleneck_stuff_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Liverpool, 1989. Greg is thirteen and has just started school and for some reason keeps being put in detention. Greg swears it was Tom’s fault, but he doesn’t want to upset Tom’s Dad because he’s big, he’s blue and that’s bad enough. Liverpool FC are everything to him. Greg dreams of playing for the reds, to go out onto Anfield and score one with Barnesy at the Kop end. But Greg has a story to tell you. Stories of the city he loves, the friends he’s going to have for life, the girls that keep picking on him and trip to Sheffield Wednesday that will live with him forever.\n",
@@ -5748,7 +5792,7 @@
         "title": "Brave New World",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/brave_new_world/'><img src='/images/resized/for_shows/brave_new_world_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Adapted by Roger Parsley. In Aldous Huxley’s amazing dystopian future filled with sex, drugs, and test-tube babies one man feels out of touch with his pain free life. His wanting to feel something more than society lets him have attracts unwanted attention from his superiors. When trying to impress a female co-worker he takes her to a human reservation, where those who live outside of societies rules succumb to disease and famine. There they meet a savage called John and make a shocking discovery which has far reaching ramifications back home, changing both their lives forever.\n",
@@ -5792,7 +5836,7 @@
         "title": "Cheque, Please",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/cheque_please_stuff/'><img src='/images/resized/for_shows/cheque_please_fringe-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Cheque Please follows Ivy, a waitress, who offers the audience a chance to experience a couple of weeks inside her head. Dealing with her depression and on a spiral of self evaluation she is forced to decide, with the aid of the audience, if she too wants to collect the cheque on her life and commit suicide herself. With the help of the other characters that influence her life, they build and illuminate conversations and experiences for the audience both as an outsider and from the inside of her own mind, posing the question; is your life worth it?\n\n",
@@ -5836,7 +5880,7 @@
         "title": "Doubt",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/doubt/'><img src='/images/resized/for_shows/doubt_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Principal Sister Aloysius is concerned that a priest working in St. Nicholas School may be abusing a child. In order to confirm her suspicions and help the boy in question, she will have to challenge her own beliefs and those around her in the search for the truth.\n",
@@ -5858,7 +5902,7 @@
         "title": "Emily and Ben in 'A Likely Story'",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/emily_and_ben_in_a_likely_story/'><img src='/images/resized/for_shows/emily_and_ben_a_likely_story_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "For two nights only, join Emily Brady (‘a beguiling comic energy’ - Beeston People) and Ben Hollands (‘pure pleasure’ – also Beeston People) in a warm and cosy room for an evening of improvised storytelling. With new stories and characters every evening and featuring a live improvised soundtrack, A Likely Story promises to amuse, delight and enchant. Cloakrooms will be provided for your cynicism and ennui.\n\n",
@@ -5880,7 +5924,7 @@
         "title": "Emily and Ben in 'A Likely Story'",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/emily_and_ben_in_a_likely_story_stuff/'><img src='/images/resized/for_shows/emily_and_ben_a_likely_story_stuff_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "For one day only, join Emily Brady (‘a beguiling comic energy’ - Beeston People) and Ben Hollands (‘pure pleasure’ – also Beeston People) in a warm and cosy room for an afternoon of improvised storytelling. With new stories and characters every evening and featuring a live improvised soundtrack, A Likely Story promises to amuse, delight and enchant. Cloakrooms will be provided for your cynicism and ennui.\n",
@@ -5902,7 +5946,7 @@
         "title": "First Do No Harm",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/first_do_no_harm/'><img src='/images/resized/for_shows/first_do_no_harm_banner-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Against the backdrop of the suffragist movement and England on the brink of war, Harold and Maud Leggett arrive in a small market town in the Cambridgeshire Fens where Harold is to practise as the town’s only ‘Panel’ doctor, under Lloyd George’s controversial health and welfare reforms. The established medical fraternity, led by the redoubtable Dr Ridgeway, is firmly opposed to the new system and soon Harold and Ridgeway, both combative, both driven by personal ideology, are at loggerheads. The consequences are catastrophic. This powerful, fast-moving play by playwright Hilary Spiers dramatises a forgotten corner of history, charting the huge personal and societal cost of establishing a national healthcare service and securing universal suffrage. Unison members have access to tickets at the concessionary rate of £5 per ticket. Please book a standard ticket and bring proof of membership to the Box Office.\n",
@@ -5924,7 +5968,7 @@
         "title": "Freshers' Fringe",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/freshers_fringe/'><img src='/images/resized/for_shows/freshers_fringe_2014_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "A collection of the most exciting new talent to descend upon England’s only student-run theatre this year bring you one electrifying show. An evening of short plays and sketches guaranteed to tantalise, transfix and titillate.\n",
@@ -5946,7 +5990,7 @@
         "title": "Hopelessly Devoted",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/hopelessly_devoted/'><img src='/images/resized/for_shows/hopelessly_devoted-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Following her smash-hit debut Wasted, Kate Tempest is back with an incendiary new play. Chess is in prison. Facing a lengthy sentence, her cell mate, Serena, becomes her soul mate. But when Serena is given parole, Chess faces total isolation. Hope comes in the form of a music producer looking for a reason to love music again. She finds a powerful voice in Chess. But to harness her talent, Chess must first face her past. Tickets only £8!\n",
@@ -5968,7 +6012,7 @@
         "title": "Infirmity",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/infirmity/'><img src='/images/resized/for_shows/infirmity_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Connor and Charlotte have been together since university. Now in their early 30’s, they’re struggling to maintain their relationship, so have sought help from a psychotherapist: Peter. Through a series of flashbacks, Peter explores the couple’s past, and begins to uncover the potential contributing issues. However, all is not as it seems, and a dark secret is being kept that threatens to tear Connor and Charlotte apart…\n",
@@ -5990,7 +6034,7 @@
         "title": "King Lear",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/king_lear/'><img src='/images/resized/for_shows/king_lear_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Widely regarded by scholars and academics as Shakespeare’s finest work, King Lear portrays a powerful king who loses his grip on everything that defines him. Along with Lear’s decline into madness, the play focuses on identity and morality as the state and royal family are torn apart.\n",
@@ -6034,13 +6078,13 @@
         "title": "Let's Just Pretend",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/lets_just_pretend/'><img src='/images/resized/for_shows/lets_just_pretend_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "‘Let’s Just Pretend’ follows the relationship of Caroline and Mark, from when they are sixteen to twenty eight. Caroline is ambitious and pragmatic alongside Mark’s love of imagination and together they flirt with the boundaries of reality. The audience watch their friendship and love blossom as they guide each other through teenage crises and real life trials. But as the play flashes forward and Mark moves further and further away from reality, Caroline wonders if he truly loves her or if he is just holding on the person she was when they were sixteen.\n",
         "playwright": "Nikki Hill",
         "season": "In House",
-        "venue": [null],
+        "venue": null,
         "link": "/years/14_15/lets_just_pretend/",
         "date": "2015-03-04",
         "run": "4 - 7 March 2015",
@@ -6056,13 +6100,13 @@
         "title": "Lust, Liquor, Burn",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/lust_liquor_burn/'><img src='/images/resized/for_shows/lust_liquor_burn_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "1970’s LA, a bombardment of lights, mystic rhythms transporting you into a world of indulgence, drugs, sex and outrage. Everything about it oozes with style. You want to hate it but it seduces you. Four characters, all entwined in a whodunit scenario. Equally glorious and despicable, who is the most likely culprit? Delve your way through the chaos and accusations, as it becomes increasingly apparent that behind the spectacle and glamour lie dangerous and damaged existences.\n",
         "playwright": null,
         "season": "Fringe",
-        "venue": [null],
+        "venue": null,
         "link": "/years/14_15/lust_liquor_burn/",
         "date": "2015-05-04",
         "run": "4 - 5 May 2015",
@@ -6100,7 +6144,7 @@
         "title": "Not About Heroes",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/not_about_heroes/'><img src='/images/resized/for_shows/not_about_heroes_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Edinburgh, July 1917. At Craiglockhart War Hospital for Nervous Disorders, Siegfried Sassoon crosses paths with Wilfred Owen. The former, arrogant and frustrated, has literary fame; the latter, diffident and traumatised, is completely unknown. Under Sassoon’s tutelage, Owen creates the most revered war poetry ever written, including Anthem for Doomed Youth and Dulce et Decorum Est. Fifteen years later, after a string of affairs and spiralling into depression, Sassoon looks back on their sixteen months of passion- passion that was for both their poetry and for each other. “I don’t know where either of us will go. But I’m glad I’m here, tonight, with you.”\n",
@@ -6122,7 +6166,7 @@
         "title": "Noumena Writers: Poetry and Prose Showcase",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/noumena_writers_poetry_and_prose_showcase/'><img src='/images/resized/for_shows/noumena_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Members of the Noumena Writers Collective will perform poetry and short fiction extracts from their freshly launched anthology. Travel with them to Africa, Ireland, Spain, and back in time to the distant past. Conquer your fears or fall in love. Embrace a bromance or revel in an anonymous encounter. Relive childhood memories and remember how life used to be.\n",
@@ -6144,7 +6188,7 @@
         "title": "Old Times",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/old_times/'><img src='/images/resized/for_shows/old_times_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Kate, Anna and Deeley are three people approaching middle age, whose lives have declined in excitement and adventure. They drink, smoke and reminisce about the old times they spent together. But beneath the surface of their taut, witty conversation lurks suggestions of darkness, until the present is overwhelmed with imitations of some frightening past. ‘Old Times’ explores how memories differ from truth and the all-encompassing nature of sexual rivalry.\n",
@@ -6188,11 +6232,11 @@
         "title": "OPEN",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/open_stuff/'><img src='/images/resized/for_shows/open_fringe-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "OPEN. Sharp devised theatre peering through the cracks in modern Britain. A brand new original piece set in a takeaway on election night. This play brims with bizarre characters, plucked right from the Great British public, spinning a tale of nostalgic optimism and greasy fingers. We have cobbled together stories from across Britain in an attempt to find the threads of commonality often hidden from view. If you love Russell Brand, hate Russell Brand, watch Question Time, watch Gogglebox, vote UKIP, vote Green, love this country or don’t recognise it anymore, this one’s for you.\n\n",
-        "playwright": "",
+        "playwright": null,
         "season": "STUFF",
         "venue": ["New Theatre"],
         "link": "/years/14_15/open_stuff/",
@@ -6210,7 +6254,7 @@
         "title": "Orphans",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/orphans/'><img src='/images/resized/for_shows/orphans_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Helen and her husband Danny are celebrating the news that Helen is newly pregnant with their second child with a quiet night in, but are interrupted by Helen’s brother Liam, who arrives covered in blood claiming to have found a young man who has been stabbed on the street. However when Liam’s account of the event begins to change under questioning, suspicions are aroused followed by increasing concern that he may have been more involved than first thought. A commentary on the extreme violence in urban areas, the question is - how far you would go for your family?\n",
@@ -6232,7 +6276,7 @@
         "title": "Our Country's Good",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/our_countrys_good/'><img src='/images/resized/for_shows/our_countrys_good_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Australia, 1788. The first fleet of British prison ships arrive at Botany Bay. Lieutenant Clark decides to stage a play using a ragbag cast of convicts until the distinction between captors and captives begins to blur…\n",
@@ -6254,7 +6298,7 @@
         "title": "Overspill",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/overspill/'><img src='/images/resized/for_shows/overspill_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Overspill is a play set in Bromley revolving around Baron, Potts and Finch - three 20 year old mates who decide to tell the story of their usual Friday night out filled with booze, burgers, bouncers, birds and banter. However, things take an unexpected turn when a bomb explodes in McDonalds and interrupts their comfortable routine. As more explosions tear their beloved hometown apart, tensions rise in the town as a vigilante state of mind takes hold, and for the lads, who began the weekend with such bravado, things are about to come to a violent end.\n",
@@ -6276,7 +6320,7 @@
         "title": "Paper Productions Present: The Rehearsal",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/paper_productions_present_the_rehearsal/'><img src='/images/resized/for_shows/paper_productions_the_rehearsal_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "As part of a behind the scenes tour of a student theatre production, the audience will find themselves witness to more than they had anticipated, receiving an unprecedented insight into the exhilaration and despair of a company caught up in an obsessive and ultimately damaging creative process. Welcome to The\n",
@@ -6298,7 +6342,7 @@
         "title": "Postgraduate NT Present: Our Country's Good",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/postgraduate_nt_present_our_countrys_good/'><img src='/images/resized/for_shows/postgrads_our_countrys_good_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "What better way to administer a penal colony of convicts than to make the prisoners act in a 18th century play? “Our Country’s Good” by T. Wertenbaker is inspired by true events that happened in the first British penal colony in New South Wales, Australia, in which officers used the “theatre as a humanising force” to rehabilitate the prisoners. However, things didn’t go smoothly…\n",
@@ -6320,7 +6364,7 @@
         "title": "Postgraduate NT Present: The Physicists",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/postgraduate_nt_present_the_physicists/'><img src='/images/resized/for_shows/postgrads_the_physicists_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "In the Les Cerisier sanatorium, run by the world famous psychiatrists, the twins Mathilde and Clothilde von Zahnd, a murder has just been committed. Nurse Irene Straub has been strangled by one of the patients, Ernst Heinrich Ernesti, who believes himself to be Einstein. A few months earlier another murder took place: nurse Dorothea Moser has been killed by another patient, Herbert Georg Beutler, who pretends to be Sir Isaac Newton. These two events will change forever the fate of Ernesti, Beutler and Johann Wilhelm Möbius, the third patient, who believes he is regularly visited by King Salomon. What these three characters have in common apart from their destiny? Before Les Cerisiers, they were brilliant physicists engaged in unveiling the secrets of nature.\n",
@@ -6342,7 +6386,7 @@
         "title": "punk rock",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/punk_rock/'><img src='/images/resized/for_shows/punk_rock_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Combining sharp humour, ruthless violence and compassion, Simon Stephens’ Punk Rock provides an unnerving chronicle of contemporary adolescence at the breaking point. A controversial and acute production that remains scarily relevant to the present day. This performance contains smoking.\n",
@@ -6364,7 +6408,7 @@
         "title": "Reservoir Dogs",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/reservoir_dogs/'><img src='/images/resized/for_shows/reservoir_dogs_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Perfect Crime. Perfect Killers. But when the diamond heist goes wrong, violence ensues. They have to find the rat, escape the pigs, and most importantly, survive each other. This fresh adaptation of the cult classic is set in a real warehouse, and will put the audience right in the centre of the action. Tense, brutal, witty, and with a killer soundtrack, Reservoir Dogs will entertain the whole family (as long as that family is old enough to remember the 90s)\n",
@@ -6386,7 +6430,7 @@
         "title": "Rhinoceros",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/rhinoceros/'><img src='/images/resized/for_shows/rhinoceros_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Written by one of the founding fathers of the ‘the Theatre of the Absurd’, ‘Rhinoceros’ follows Berenger, a disenfranchised and disillusioned anti-hero, as he refuses to change whilst the rest of the characters turn into rhinoceroses. A dark, dystopian, satirical phase, ‘Rhinoceros’ is fundamentally a play about conformity and the cult of opinion. However, the play touches on many ideas, such as the meaningless of language, the ridiculousness of everyday convention and alienation. This chilling representation of humanity attacks the arrogance of our everyday moral convictions.\n",
@@ -6408,7 +6452,7 @@
         "title": "Road",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/road/'><img src='/images/resized/for_shows/road_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "“THIS IS OUR ROAD!” Over the course of one wild night of drunken debauchery follow our mischievous tour guide, Scullery as he takes us down his anonymous road in Lancashire where we’re introduced to “all-sorts” who inhabit this un-named town. Hilarious, magical, and at times, very uncomfortable, we are given a glimpse into the world that is “ROAD”. Set in 1986, the play explores the lives of working class citizens in northern England during the Thatcher government and how they deal with their desire to escape the hopelessness of their lives. As a theatre experience we will be creating a completely immersive, unforgettable, one-of-a-kind show like never before seen on the NT stage. “Tonight it’s your road an’ all.”\n",
@@ -6430,13 +6474,13 @@
         "title": "Telos",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/telos/'><img src='/images/resized/for_shows/telos_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Telos follows four students at the end of university who are all, for undisclosed reasons, in group therapy. During sessions paced with bitterness and surface tension, questions are raised as to the worth of love, parenting and what it is about graduating into the “real world” that scares them – forcing everyone to face their deep set fears.\n",
         "playwright": "Harry Patte-Dobbs",
         "season": "Fringe",
-        "venue": [null],
+        "venue": null,
         "link": "/years/14_15/telos/",
         "date": "2015-03-16",
         "run": "16 - 17 March 2015",
@@ -6452,7 +6496,7 @@
         "title": "The Adventures of Anne Marie de Bourbon",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/the_adventures_of_anne_marie_de_bourbon/'><img src='/images/resized/for_shows/the_adventures_of_anne_marie_de_bourbon_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "A first for the New Theatre - a musical puppet show! This cleverly comic show depicts the extraordinary adventures of Anne Marie, a French aristocrat. After stowing away on a pirate ship, Anne is taken to a mysterious island, hitherto untouched by the outside world, hidden in the Bermuda Triangle. Join Anne Marie as she tries to understand the bizarre world she has been thrust into.\n",
@@ -6496,7 +6540,7 @@
         "title": "The Glass Menagerie",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/the_glass_menagerie/'><img src='/images/resized/for_shows/the_glass_menagerie_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Life in St Louis, Missouri, during the Great Depression was not easy. Tom Wingfield knows this all too well as he shares his memories of that time. A young aspiring poet tethered by reality to a monotonous job in a shoe factory, Tom is obligated to financially support his mother, Amanda, and his emotionally unstable sister, Laura, after his father abandoned the family some years previously. Having spent her younger years in Blue Mountain being greeted by gentleman callers, Amanda becomes obsessed with finding Laura a husband. Driven to the edge by judgement and hopelessness, Tom must choose between the family he loves and the life he desires.\n",
@@ -6518,7 +6562,7 @@
         "title": "The Infant",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/the_infant/'><img src='/images/resized/for_shows/the_infant_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "They have a picture, a picture that could spell the destruction of civilised society. And it might have been drawn by a 4 year old child. Who’s telling the truth? What is the truth? And does the truth really matter any more?\n",
@@ -6540,7 +6584,7 @@
         "title": "The Red Herrings Present: Small World",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/the_red_herrings_present_small_world/'><img src='/images/resized/for_shows/red_herrings_small_world_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "From your suggestions comes a world unlike anything ever seen before (or after). Watch in delight as UoN Improv society’s Red Herrings create astonishing worlds, whimsical characters, and heartwarming relationships of front of your very eyes.\n",
@@ -6562,7 +6606,7 @@
         "title": "The Ritual Slaughter of Gorge Mastromas",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/the_ritual_slaughter_of_gorge_mastromas/'><img src='/images/resized/for_shows/ritual_slaughter_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "If you could lie without flinching, corrupt without caring and succeed at all costs, how far would you go? How much would you make? An unrelenting attack on human nature, you must ask one simple question. Is it Goodness? Or Cowardice?\n",
@@ -6584,7 +6628,7 @@
         "title": "The Toyland Murders",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/the_toyland_murders/'><img src='/images/resized/for_shows/the_toyland_murders_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "When a series of mysterious murders hits downtown Toyland, it’s up to ragdoll Inspector Carmen McGraw and teddy bear Deputy Harvey B. Feltz to get to the bottom of it once and for all. Featuring hard-boiled wise-cracks, a line-up of colourful criminals and more murder outlines than you can shake a crow bar at, The Toyland Murders is a fast-paced family-friendly toybox puppet noir adventure unlike anything the New Theatre’s seen before.\n",
@@ -6650,7 +6694,7 @@
         "title": "What's Cooking?",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/whats_cooking/'><img src='/images/resized/for_shows/whats_cooking_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Amidst occasional power cuts, Roger and Kate are trying to enjoy a meal. Adrianna has been left in charge again and is relishing her freedom. When Bill and Annie come in to escape the rain, Adrianna is keen to prove herself a generous and entertaining host. She makes the rules here. Over the course of the evening, wine will be served. The vintage will be finished. The truth will out. Scores will be settled.\n",
@@ -6672,7 +6716,7 @@
         "title": "Women of Troy",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/women_of_troy/'><img src='/images/resized/for_shows/women_of_troy_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "The Trojan War is over. All its men are dead, all its women’s fate lie in the hands of their conquerors. In a prison, as the women await their fate, they struggle to keep alive their dignity, their humanity and their memories of a civilisation soon to be lost forever. Two thoughts keep them alive: to see their prince, Astyanax, survive to found a new Troy. And to see the punishment by death of the woman they blame for all their suffering, Helen.\n",
@@ -6694,13 +6738,13 @@
         "title": "Yours and Mine",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/yours_and_mine/'><img src='/images/resized/for_shows/yours_and_mine_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
         "content": "Peter gave up his dream to marry Karen, but when he meets Anna his existence is shattered. Unable to trust his wife or his sanity, Peter purposefully colludes with the realities of those around him to break down the lies and the woman who consumed the last ten years of his life. ‘Yours and Mine’ challenges gender roles in relationships and our typically static ideas about who’s right and wrong when a relationship disintegrates.\n",
         "playwright": "Miriam Dyberg",
         "season": "Fringe",
-        "venue": [null],
+        "venue": null,
         "link": "/years/14_15/yours_and_mine/",
         "date": "2015-05-11",
         "run": "11 - 12 May 2015",
@@ -9561,7 +9605,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-08 12:51\n      Build number 736\n.\n      434 shows and 19 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-08 14:08\n      Build number 737\n.\n      436 shows and 19 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -9677,7 +9721,7 @@
         "title": "People",
         "type": "page",
         "group": "docs",
-        "content": "\n   We haven't fully defined the person data type, breaking changes may still me made.\n\n\nBiographies of theatre alumni are stored as _people/firstname_lastname.md.\n\n Attribute Reference\n\n\n  \n    \n      Attribute\n      Job\n      Description\n    \n  \n  \n    \n      title\n      Person name.\n      In the format Firstname Lastname.\n    \n    \n      headshot\n      Filename of a photo.\n      Will look in the images/people/ directory. Filename should be firstname_lastname.jpg.\n    \n    \n      course\n      The course, or courses the person studied.\n      Can be a single value or a list if multiple courses studied.\n    \n    \n      graduated\n      The year the person graduated.\n      YYYY, if multiple courses\n    \n    \n      award(optional)\n      Award person received on leaving the theatre.\n      Should be in title case, Fellowship, Commendation. If not applicable line should be omitted.\n    \n    \n      comments\n      Reserved for editor comments, only displayed in editors’ mode.\n       \n    \n  \n\n\n Example Person\n\n---\nlayout: person\ntitle: John Smith\nheadshot: john_smith.jpg\ncourse: Mechanical Engineering\ngraduated: 2010\n---\n\nJohn did techie stuff\n\n---\nlayout: person\ntitle: Alice Smith\nheadshot: alice_smith.jpg\ncourse:\n  - Creative Writing BA\n  - English MA\ngraduated: 2015\naward: Commendation\n---\n\nAlice did acting\n\n",
+        "content": "\n   We haven't fully defined the person data type, breaking changes may still me made.\n\n\nBiographies of theatre alumni are stored as _people/firstname_lastname.md.\n\n Attribute Reference\n\n\n  \n    \n      Attribute\n      Job\n      Description\n    \n  \n  \n    \n      title\n      Person name.\n      In the format Firstname Lastname.\n    \n    \n      headshot\n      Filename of a photo.\n      Will look in the images/people/ directory. Filename should be firstname_lastname.jpg.\n    \n    \n      course\n      The course, or courses the person studied.\n      Can be a single value or a list if multiple courses studied.\n    \n    \n      graduated\n      The year the person graduated.\n      YYYY, if multiple courses\n    \n    \n      award(optional)\n      Award person received on leaving the theatre.\n      Should be in title case, Fellowship, Commendation. If not applicable line should be omitted.\n    \n    \n      comments\n      Reserved for editor comments, only displayed in editors’ mode.\n       \n    \n  \n\n\n Example Person\n\n---\ntitle: John Smith\nheadshot: john_smith.jpg\ncourse: BEng Mechanical Engineering\ngraduated: 2010\n---\n\nJohn did techie stuff\n\n---\ntitle: Alice Smith\nheadshot: alice_smith.jpg\ncourse:\n  - Creative Writing BA\n  - English MA\ngraduated: 2015\naward: Commendation\n---\n\nAlice did acting\n\n",
         "link": "/docs/people/",
         "date": null,
         "excerpt": "We haven't fully defined the person data type, breaking changes may still me made. Biographies of theatre alumni are stored as _people/firstname_lastname.md. Attribute Reference Attribute Job Description title Person name. In the format Firstname Lastname. headshot Filename of a photo. Will look in the images/people/ directory. Filename should be firstname_lastname.jpg...."
@@ -9742,10 +9786,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n08 Sep - Update people doc08 Sep - Basic fix for #38 to prevent overflows\n\nNow crops all to 180px, need to look into centring the thumbs.07 Sep - Show images and dates for 2015 frings shows07 Sep - Fix bug where single day shows did not display date in show_list07 Sep - Add 2015-16 committee, closes #14607 Sep - Add venue changes and student_written attr to 14-1507 Sep - Add shows 2014-15 #10407 Sep - Add 2015-16 #14607 Sep - Add 'Studio A' to venue07 Sep - Add in final details from #110 spreadsheet\n",
+        "content": " Recent Changes\n\n08 Sep - Add posters for 2014-15, closes #15008 Sep - Correct errors in 13_14 season_sorts, add Reviewers external show08 Sep - Couple more updates to person doc08 Sep - Committe short message error-&gt;warning (red to orange)08 Sep - Update people doc08 Sep - Basic fix for #38 to prevent overflows\n\nNow crops all to 180px, need to look into centring the thumbs.07 Sep - Show images and dates for 2015 frings shows07 Sep - Fix bug where single day shows did not display date in show_list07 Sep - Add 2015-16 committee, closes #14607 Sep - Add venue changes and student_written attr to 14-15\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 08 Sep - Update people doc08 Sep - Basic fix for #38 to prevent overflows Now crops all to 180px, need to look into centring the thumbs.07 Sep - Show images and dates for 2015 frings shows07 Sep - Fix bug where single day shows did not display..."
+        "excerpt": "Recent Changes 08 Sep - Add posters for 2014-15, closes #15008 Sep - Correct errors in 13_14 season_sorts, add Reviewers external show08 Sep - Couple more updates to person doc08 Sep - Committe short message error-&gt;warning (red to orange)08 Sep - Update people doc08 Sep - Basic fix for #38..."
     }
     
     
@@ -9778,6 +9822,162 @@
         "excerpt": "The show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'. ## Attribute Reference | Attribute | Job | Description | |:-|:-|:-| | `title` | Show title | Displayed at the top of the show page and on various other pages. | | `playwright` | Full name..."
     }
     
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
     
 
     

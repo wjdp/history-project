@@ -5770,16 +5770,16 @@
         "title": "Cheque, Please",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/cheque_please/'><img src='/images/resized/for_shows/cheque_please_fringe-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
-        "content": "Cheque Please follows Ivy, a waitress, who offers the audience a chance to experience a couple of weeks inside her head. Dealing with her depression and on a spiral of self evaluation she is forced to decide, with the aid of the audience, if she too wants to collect the cheque on her life and commit suicide herself. With the help of the other characters that influence her life, they build and illuminate conversations and experiences for the audience both as an outsider and from the inside of her own mind, posing the question; is your life worth it?\n",
+        "content": "Cheque Please follows Ivy, a waitress, who offers the audience a chance to experience a couple of weeks inside her head. Dealing with her depression and on a spiral of self evaluation she is forced to decide, with the aid of the audience, if she too wants to collect the cheque on her life and commit suicide herself. With the help of the other characters that influence her life, they build and illuminate conversations and experiences for the audience both as an outsider and from the inside of her own mind, posing the question; is your life worth it?\n\nCheque Please was on at odd days only at 11:00am\n",
         "playwright": null,
         "season": "Edinburgh",
         "venue": ["ZOO Monkeyhouse"],
         "link": "/years/14_15/cheque_please/",
-        "date": "",
-        "run": "2014 - 15 (Dates Unknown)",
+        "date": "2015-08-07",
+        "run": "7 - 31 August 2015",
         "excerpt": "Cheque Please follows Ivy, a waitress, who offers the audience a chance to experience a couple of weeks inside her head. Dealing with her depression and on a spiral of self evaluation she is forced to decide, with the aid of the audience, if she too wants to collect the...",
         "cast": "",
         "crew": ""
@@ -6166,16 +6166,16 @@
         "title": "OPEN",
         "type": "show",
         
-        
+        "poster_thumb_tag": "<a href='/years/14_15/open/'><img src='/images/resized/for_shows/open_fringe-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
         
         "year_title": "2014 - 15",
-        "content": "Sharp devised theatre peering through the cracks in modern Britain.\nA brand new original piece set in a takeaway on election night. This play brims with bizarre characters, plucked right from the Great British public, spinning a tale of nostalgic optimism and greasy fingers.\n\nWe have cobbled together stories from across Britain in an attempt to find the threads of commonality often hidden from view. If you love Russell Brand, hate Russell Brand, watch Question Time, watch Gogglebox, vote UKIP, vote Green, love this country or don’t recognise it anymore, this one’s for you.\n",
+        "content": "Sharp devised theatre peering through the cracks in modern Britain.\nA brand new original piece set in a takeaway on election night. This play brims with bizarre characters, plucked right from the Great British public, spinning a tale of nostalgic optimism and greasy fingers.\n\nWe have cobbled together stories from across Britain in an attempt to find the threads of commonality often hidden from view. If you love Russell Brand, hate Russell Brand, watch Question Time, watch Gogglebox, vote UKIP, vote Green, love this country or don’t recognise it anymore, this one’s for you.\n\nOPEN was on at even days only at 11:00am\n",
         "playwright": null,
         "season": "Edinburgh",
         "venue": ["ZOO Monkeyhouse"],
         "link": "/years/14_15/open/",
-        "date": "",
-        "run": "2014 - 15 (Dates Unknown)",
+        "date": "2015-08-08",
+        "run": "8 - 28 August 2015",
         "excerpt": "Sharp devised theatre peering through the cracks in modern Britain. A brand new original piece set in a takeaway on election night. This play brims with bizarre characters, plucked right from the Great British public, spinning a tale of nostalgic optimism and greasy fingers. We have cobbled together stories from...",
         "cast": "",
         "crew": ""
@@ -9561,7 +9561,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-07 23:17\n      Build number 734\n.\n      434 shows and 19 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-08 00:25\n      Build number 735\n.\n      434 shows and 19 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -9742,10 +9742,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n07 Sep - Add 2015-16 committee, closes #14607 Sep - Add venue changes and student_written attr to 14-1507 Sep - Add shows 2014-15 #10407 Sep - Add 2015-16 #14607 Sep - Add 'Studio A' to venue07 Sep - Add in final details from #110 spreadsheet07 Sep - Fix show-poster RHS alignment, closes #8707 Sep - Add production shots for 13-14 Autumn season from FB, #111\n\n- Conviction\n- Fox Finder\n- Habeus\n- Letting Go\n- Molly Sweeny\n- Judas\n- Pitchfork\n- Titus\n\nCouldn't find photos for other shows07 Sep - Fix github-issues-widget #68\n\n\"GITHUB_ISSUES_USER is undefined error\" vars were not global, defined after libray had loaded07 Sep - Load google fonts over either HTTP or HTTPS, re. #122\n",
+        "content": " Recent Changes\n\n08 Sep - Basic fix for #38 to prevent overflows\n\nNow crops all to 180px, need to look into centring the thumbs.07 Sep - Show images and dates for 2015 frings shows07 Sep - Fix bug where single day shows did not display date in show_list07 Sep - Add 2015-16 committee, closes #14607 Sep - Add venue changes and student_written attr to 14-1507 Sep - Add shows 2014-15 #10407 Sep - Add 2015-16 #14607 Sep - Add 'Studio A' to venue07 Sep - Add in final details from #110 spreadsheet07 Sep - Fix show-poster RHS alignment, closes #87\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 07 Sep - Add 2015-16 committee, closes #14607 Sep - Add venue changes and student_written attr to 14-1507 Sep - Add shows 2014-15 #10407 Sep - Add 2015-16 #14607 Sep - Add 'Studio A' to venue07 Sep - Add in final details from #110 spreadsheet07 Sep - Fix..."
+        "excerpt": "Recent Changes 08 Sep - Basic fix for #38 to prevent overflows Now crops all to 180px, need to look into centring the thumbs.07 Sep - Show images and dates for 2015 frings shows07 Sep - Fix bug where single day shows did not display date in show_list07 Sep -..."
     }
     
     

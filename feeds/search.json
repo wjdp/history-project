@@ -9605,7 +9605,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-13 20:10\n      Build number 760\n.\n      436 shows and 19 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-13 21:28\n      Build number 761\n.\n      436 shows and 19 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -9698,6 +9698,19 @@
     
 
     
+    ,{
+        "title": "Tell us about a show",
+        "type": "page",
+        "group": "collect",
+        "content": "\n  \n\n    \n      \n        Show\n        What's the name and who wrote it? If devised or other put that in instead.\n      \n      \n        \n        \n      \n    \n\n    \n      \n        Dates\n        What were the dates of the first and last performances?\n        If you're unsure, the show had multiple runs or some other complexity leave us a note at the end of this form\n      \n      \n        \n          \n          \n          \n        \n        \n          \n          \n          \n        \n      \n    \n\n    \n      \n        Type of show\n        Was this show part of the main New Theatre season, an external show, an Edinburgh show or something else?\n      \n      \n        \n      \n    \n\n    \n      \n        Venue\n        Where was the show performed?\n      \n      \n        \n      \n    \n\n    \n      \n        Synopsis\n        If the show was student written or is relatively unknown please provide a synopsis. If the synopsis used for the show's publicity that would be ideal.\n      \n      \n        \n      \n    \n\n    \n      \n        Cast\n        The roles and full names of those in the show. Please provide as much detail as you can.\n      \n      \n        \n      \n    \n\n    \n      \n        Crew\n        The roles and full names of the crew. Please provide as much detail as you can.\n      \n      \n        \n      \n    \n\n    \n      \n        Anything Else\n        Other details about the show.\n      \n      \n        \n      \n    \n\n    \n      \n        Your Details\n        Name and year of graduation. We may contact you using your alumni membership contact details.\n        If you have not yet registered for the Alumni Network please do so here.\n      \n      \n        \n        \n      \n    \n\n    \n      \n        Please send any photographs or publicity materials to alumni@newtheatre.org.uk.\n      \n      \n        Submit\n      \n    \n\n  \n\n",
+        "link": "/collect/show/",
+        "date": null,
+        "excerpt": "Show What's the name and who wrote it? If devised or other put that in instead. Dates What were the dates of the first and last performances? If you're unsure, the show had multiple runs or some other complexity leave us a note at the end of this form Type..."
+    }
+    
+    
+
+    
 
     
     ,{
@@ -9786,10 +9799,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n13 Sep - Update roadmap.md12 Sep - Upload of lots of images from the university archives12 Sep - Upload of Bedroom Farce Poster12 Sep - Added Show Poster12 Sep - Merge branch 'master' of https://github.com/newtheatre/history-project11 Sep - Optimise morning on a rainy day programme images11 Sep - Add previews to period colour11 Sep - Update periods.yaml10 Sep - Update cast and crew details BRH\n\nInformation from Jess McNamee, director09 Sep - Equus production shots\n",
+        "content": " Recent Changes\n\n13 Sep - Show data collection form, #15713 Sep - Update roadmap.md12 Sep - Upload of lots of images from the university archives12 Sep - Upload of Bedroom Farce Poster12 Sep - Added Show Poster12 Sep - Merge branch 'master' of https://github.com/newtheatre/history-project11 Sep - Optimise morning on a rainy day programme images11 Sep - Add previews to period colour11 Sep - Update periods.yaml10 Sep - Update cast and crew details BRH\n\nInformation from Jess McNamee, director\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 13 Sep - Update roadmap.md12 Sep - Upload of lots of images from the university archives12 Sep - Upload of Bedroom Farce Poster12 Sep - Added Show Poster12 Sep - Merge branch 'master' of https://github.com/newtheatre/history-project11 Sep - Optimise morning on a rainy day programme images11 Sep - Add..."
+        "excerpt": "Recent Changes 13 Sep - Show data collection form, #15713 Sep - Update roadmap.md12 Sep - Upload of lots of images from the university archives12 Sep - Upload of Bedroom Farce Poster12 Sep - Added Show Poster12 Sep - Merge branch 'master' of https://github.com/newtheatre/history-project11 Sep - Optimise morning on a..."
     }
     
     
@@ -9822,6 +9835,160 @@
         "excerpt": "The show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'. ## Attribute Reference | Attribute | Job | Description | |:-|:-|:-| | `title` | Show title | Displayed at the top of the show page and on various other pages. | | `playwright` | Full name..."
     }
     
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
     
 
     

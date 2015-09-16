@@ -10,7 +10,7 @@
   <meta name="description" content="Archive project collecting past shows, committees and alumni bios to piece together the New Theatre’s dynamic and vibrant history.">
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600|Montserrat" />
   <link rel="stylesheet" href="/lib/github-issues-widget/github-issues-widget-default.css">
-  <link rel="stylesheet" href="/css/main.css?cachebust=201509161621">
+  <link rel="stylesheet" href="/css/main.css?cachebust=201509162227">
   <link rel="canonical" href="http://history.newtheatre.org.uk/search/">
   <link rel="alternate" type="application/rss+xml" title="New Theatre History Project" href="http://history.newtheatre.org.uk/feed.xml" />
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
@@ -32,15 +32,15 @@
     <!-- Debug LHS -->
     <div class="debug-build-details" data-debug-toggle>
       <i class="fa fa-clock-o"></i>
-      2015-09-16 16:21, build 762
+      2015-09-16 22:27, build 766
 , section 
     </div>
 
     <div class="debug-last-commit" data-debug-toggle>
       <i class="octicon octicon-history"></i>
-      16 Sep - <a href='https://github.com/newtheatre/history-project/commit/c2cc427eed7bde3d25af5162fb0f33631a35efc4/' data-proofer-ignore>Fix errors brought to light from htmlproofer use
+      16 Sep - <a href='https://github.com/newtheatre/history-project/commit/d8be44dae6901e53575d26444c6f17fdd661cabe/' data-proofer-ignore>Merge pull request #171 from newtheatre/better-search
 
-Inc twitter 404 link, fixes #161</a>
+Better search</a>
     </div>
 
     <div class="debug-badges" data-debug-toggle>
@@ -107,15 +107,12 @@ Inc twitter 404 link, fixes #161</a>
     <div class="content">
         <div class="search-form">
   <div class="search-form-title">
-    <h1>Site Search</h1>
+    <h1><i class="fa fa-search"></i></h1>
   </div>
   <!-- Search form -->
   <form method="get" action="/search" data-search-form>
   <div class="search-form-text">
     <input class="search-q" type="search" name="q" id="q" placeholder="Enter search term" data-search-input />
-  </div>
-  <div class="search-form-actions">
-    <button class="button button-search" type="submit"><i class="fa fa-search"></i></button>
   </div>
   </form>
 </div>
@@ -127,9 +124,6 @@ Inc twitter 404 link, fixes #161</a>
     These search results are very much in beta. If you find any bugs, such as pages not showing up you know exist, please report them using the button on the right.
   </div>
 
-  <p data-search-found>
-    <span data-search-found-count></span> result(s) found for &ldquo;<span data-search-found-term></span>&rdquo;.
-  </p>
   <div data-search-results></div>
 
 
@@ -167,7 +161,23 @@ Inc twitter 404 link, fixes #161</a>
     <% } %>
     </div>
   </script>
+  <script type="text/x-template" id="search-message-empty">
 
+    <div class="search-results-empty">
+      <h2>Nope, nothing here&hellip;</h2>
+      <p>Sorry, but we couldn't find anything on this site about "<%= query %>"</p>
+
+    </div>
+
+    <div class="search-results-collect">
+      <div class="box-info">
+        <i class="ion-help"></i>
+        <h4>Should there be something here?</h4>
+        <p>We're still a long way off collecting every single show. If you know of one that isn't here please <a href="/collect/show">let us know!</a></p>
+      </div>
+    </div>
+
+  </script>
 </div>
 
     </div>
@@ -702,8 +712,8 @@ Inc twitter 404 link, fixes #161</a>
 </script>
 
 
-    <script type="text/javascript" src="/js/lib.js?cachebust=201509161621"></script>
-<script type="text/javascript" src="/js/app.js?cachebust=201509161621"></script>
+    <script type="text/javascript" src="/js/lib.js?cachebust=201509162227"></script>
+<script type="text/javascript" src="/js/app.js?cachebust=201509162227"></script>
 
 
 

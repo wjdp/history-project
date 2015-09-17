@@ -4418,7 +4418,7 @@
         "run": "28 - 1 November 2012",
         "excerpt": "War is peace. Freedom is Slavery. Ignorance is strength. Orwell’s classic novel follows Winston and Julia as they face the perils of rebelling against Big Brother’s totalitarian regime. Set in an industrial scaffolding amphitheatre, controlled by the eight-strong cast, a relationship is brutally ripped apart, a man tortured and reality...",
         "cast": "Ben Hollands, Amelia Gann, Richard Hill, Lara Tysseling, Tom Toland, Nick Barker, Hugh Williams, Emily Thompson, ",
-        "crew": "Bridie Rollins, Martha Wilson, Aneira Pugh, Will Pimblett, Robert Leventhall, Lyle Fulton, Dan Turke, Claire Nias, "
+        "crew": "Bridie Rollins, Martha Wilson, Aneira Pugh, Will Pimblett, Robert Leventhall, Lyle Fulton, Dan Turke, Claire Nias, Will Pimblett, "
     }
     
     
@@ -9605,7 +9605,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-17 17:35\n      Build number 769\n.\n      436 shows and 19 committees.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-17 18:58\n      Build number 770\n.\n      436 shows and 19 committees.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -9799,10 +9799,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n17 Sep - Fix invalid links (github edit links for virtual pages)17 Sep - Basic styling for people show listings17 Sep - Improve reverse lookup and include committees17 Sep - Implement a reverse lookup index for show roles\n\ni.e. People records can now have lists of show involvement by magic17 Sep - Console the number of pages in search index on build17 Sep - Fix #175 htmlproofer not working16 Sep - Add search loading spinner, closes #6416 Sep - Merge pull request #171 from newtheatre/better-search\n\nBetter search16 Sep - Add coffee-script as a dep16 Sep - Only write TRAVIS_BUILD_NUMBER when you have it\n",
+        "content": " Recent Changes\n\n17 Sep - Update ninteen_eighty_four.md17 Sep - Fix invalid links (github edit links for virtual pages)17 Sep - Basic styling for people show listings17 Sep - Improve reverse lookup and include committees17 Sep - Implement a reverse lookup index for show roles\n\ni.e. People records can now have lists of show involvement by magic17 Sep - Console the number of pages in search index on build17 Sep - Fix #175 htmlproofer not working16 Sep - Add search loading spinner, closes #6416 Sep - Merge pull request #171 from newtheatre/better-search\n\nBetter search16 Sep - Add coffee-script as a dep\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 17 Sep - Fix invalid links (github edit links for virtual pages)17 Sep - Basic styling for people show listings17 Sep - Improve reverse lookup and include committees17 Sep - Implement a reverse lookup index for show roles i.e. People records can now have lists of show involvement..."
+        "excerpt": "Recent Changes 17 Sep - Update ninteen_eighty_four.md17 Sep - Fix invalid links (github edit links for virtual pages)17 Sep - Basic styling for people show listings17 Sep - Improve reverse lookup and include committees17 Sep - Implement a reverse lookup index for show roles i.e. People records can now have..."
     }
     
     

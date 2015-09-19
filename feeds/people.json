@@ -199,6 +199,11 @@
             }
         
             ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
                 "title": "Mercury Fur",
                 "roles": ["Technical Director","Lighting Designer"]
             }
@@ -234,7 +239,7 @@
             }
         
             ,{
-                "title": "Freshers Fringe",
+                "title": "Freshers' Fringe",
                 "roles": ["Technical Director"]
             }
         
@@ -11578,6 +11583,11 @@
             }
         
             ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Coordinator"]
+            }
+        
+            ,{
                 "title": "The Pillowman",
                 "roles": ["Director"]
             }
@@ -11598,7 +11608,7 @@
             }
         
             ,{
-                "title": "Freshers Fringe",
+                "title": "Freshers' Fringe",
                 "roles": ["Coordinator"]
             }
         
@@ -12716,6 +12726,11 @@
             ,{
                 "title": "Charley's Aunt",
                 "roles": ["Brassett"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Stage Manager"]
             }
         
             ,{
@@ -15217,6 +15232,40 @@
     
 
     ,
+    "liz_cornwell" : {
+        "name": "Liz Cornwell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Freshers' Fringe",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "'night, Mother",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Jerusalem",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2012-13",
+                "roles": ["Workshop Manager"]
+            }
+        ],
+        "link": "/people/liz_cornwell/"
+    }
+    
+
+    ,
     "laura_gallop" : {
         "name": "Laura Gallop",
         "type": "person",
@@ -15768,35 +15817,6 @@
         ],
         "committees": [],
         "link": "/people/alexandra_day/"
-    }
-    
-
-    ,
-    "liz_cornwell" : {
-        "name": "Liz Cornwell",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'night, Mother",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Jerusalem",
-                "roles": ["Stage Manager"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2012-13",
-                "roles": ["Workshop Manager"]
-            }
-        ],
-        "link": "/people/liz_cornwell/"
     }
     
 
@@ -19790,6 +19810,11 @@
                 "title": "Blue Remembered Hills",
                 "roles": ["Willie"]
             }
+        
+            ,{
+                "title": "Cracked China",
+                "roles": ["Valerie"]
+            }
         ],
         "committees": [],
         "link": "/people/penny_bainbridge/"
@@ -20144,6 +20169,11 @@
                 "title": "Blue Remembered Hills",
                 "roles": ["Angela"]
             }
+        
+            ,{
+                "title": "Cracked China",
+                "roles": ["Suzanne"]
+            }
         ],
         "committees": [],
         "link": "/people/nina_blythe/"
@@ -20322,6 +20352,11 @@
             }
         
             ,{
+                "title": "Cracked China",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
                 "title": "Tribes",
                 "roles": ["Technical Operator"]
             }
@@ -20347,6 +20382,44 @@
         ],
         "committees": [],
         "link": "/people/adam_edwards/"
+    }
+    
+
+    ,
+    "harry_patte-dobbs" : {
+        "name": "Harry Patte-Dobbs",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Cracked China",
+                "roles": ["Jonathan"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/harry_patte-dobbs/"
+    }
+    
+
+    ,
+    "liam_knight" : {
+        "name": "Liam Knight",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Cracked China",
+                "roles": ["Director","Writer","Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/liam_knight/"
     }
     
 

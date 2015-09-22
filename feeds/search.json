@@ -6545,7 +6545,7 @@
         "year_title": "2014 - 15",
         "content": "37 plays in 97 minutes. Watch as 3 actors attempt to do what they believe is “unprecedented in the history of civilization.” You’ll recognise all the characters you know and love (or hate), from Juliet to Hamlet to MacBeth. Whether or not you’re a fan of the Bard, you’re guaranteed a night of laughter and hideous wigs.\n",
         "playwright": "Adam Long",
-        "season": "?",
+        "season": "External",
         "venue": ["New Theatre"],
         "link": "/years/14_15/the_complete_works_of_shakespeare_abridged_/",
         "date": "2015-06-01",
@@ -18921,7 +18921,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-22 15:27\n      Build number 787\n.\n      437 shows, 19 committees and 845 people.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the New Theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-22 15:33\n      Build number 788\n.\n      437 shows, 19 committees and 845 people.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the Alumni Network, and we are relying on as many people as possible getting involved and contributing..."
@@ -19119,10 +19119,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n22 Sep - Update old_times.md22 Sep - Update emily_and_ben_in_a_likely_story.md22 Sep - Update the_last_days_of_judas_iscariot.md\n\nAdd Nathan as TO21 Sep - Merge pull request #195 from newtheatre/njstevenson14-patch-1\n\nUpdate nick_stevenson.md21 Sep - Merge pull request #196 from newtheatre/njstevenson14-patch-2\n\nUpdate wild_west_end.md21 Sep - Update wild_west_end.md21 Sep - Update nick_stevenson.md20 Sep - Catch alumni records on empty search\n\n#15720 Sep - Closes #19219 Sep - Remove block on /lib/\n",
+        "content": " Recent Changes\n\n22 Sep - Update the_complete_works_of_shakespeare_abridged_.md22 Sep - Update old_times.md22 Sep - Update emily_and_ben_in_a_likely_story.md22 Sep - Update the_last_days_of_judas_iscariot.md\n\nAdd Nathan as TO21 Sep - Merge pull request #195 from newtheatre/njstevenson14-patch-1\n\nUpdate nick_stevenson.md21 Sep - Merge pull request #196 from newtheatre/njstevenson14-patch-2\n\nUpdate wild_west_end.md21 Sep - Update wild_west_end.md21 Sep - Update nick_stevenson.md20 Sep - Catch alumni records on empty search\n\n#15720 Sep - Closes #192\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 22 Sep - Update old_times.md22 Sep - Update emily_and_ben_in_a_likely_story.md22 Sep - Update the_last_days_of_judas_iscariot.md Add Nathan as TO21 Sep - Merge pull request #195 from newtheatre/njstevenson14-patch-1 Update nick_stevenson.md21 Sep - Merge pull request #196 from newtheatre/njstevenson14-patch-2 Update wild_west_end.md21 Sep - Update wild_west_end.md21 Sep - Update nick_stevenson.md20 Sep - Catch..."
+        "excerpt": "Recent Changes 22 Sep - Update the_complete_works_of_shakespeare_abridged_.md22 Sep - Update old_times.md22 Sep - Update emily_and_ben_in_a_likely_story.md22 Sep - Update the_last_days_of_judas_iscariot.md Add Nathan as TO21 Sep - Merge pull request #195 from newtheatre/njstevenson14-patch-1 Update nick_stevenson.md21 Sep - Merge pull request #196 from newtheatre/njstevenson14-patch-2 Update wild_west_end.md21 Sep - Update wild_west_end.md21 Sep - Update..."
     }
     
     

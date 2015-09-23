@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>New Theatre History Project</title>
-    <description>Archive project collecting past shows, committees and alumni bios to piece together the New Theatre’s dynamic and vibrant history.</description>
+    <title>Nottingham New Theatre History Project</title>
+    <description>Archive project collecting past shows, committees and alumni biographies to piece together the theatre&#39;s dynamic and vibrant history.</description>
     <link>http://history.newtheatre.org.uk/</link>
     <atom:link href="http://history.newtheatre.org.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Sep 2015 15:39:48 +0000</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2015 15:39:48 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2015 13:53:18 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2015 13:53:18 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>

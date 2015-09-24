@@ -12311,6 +12311,11 @@
                 "title": "Buried Child",
                 "roles": ["Halie"]
             }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Lady Capulet"]
+            }
         ],
         "committees": [],
         "link": "/people/lucy_bromilow/"
@@ -14370,6 +14375,11 @@
             }
         
             ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Set Design"]
+            }
+        
+            ,{
                 "title": "A Servant To Two Masters",
                 "roles": ["Director"]
             }
@@ -14406,6 +14416,11 @@
             ,{
                 "title": "A Clockwork Orange",
                 "roles": ["Chaplain"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Paris"]
             }
         ],
         "committees": [],
@@ -15077,6 +15092,11 @@
             }
         
             ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Publicity Design"]
+            }
+        
+            ,{
                 "title": "Krapp's Last Tape",
                 "roles": ["Technical Director","Technical Operator","Publicity Designer","Photographer"]
             }
@@ -15341,6 +15361,11 @@
                 "title": "Posh",
                 "roles": ["Ed"]
             }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Mercutio"]
+            }
         ],
         "committees": [
             {
@@ -15443,6 +15468,11 @@
                 "title": "Mercury Fur",
                 "roles": ["Party Piece"]
             }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Nurse"]
+            }
         ],
         "committees": [],
         "link": "/people/holly_daniels/"
@@ -15476,6 +15506,11 @@
             ,{
                 "title": "Betrayal",
                 "roles": ["Emma"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Live Music - Performer and Composition"]
             }
         
             ,{
@@ -15731,6 +15766,11 @@
             ,{
                 "title": "Blue Remembered Hills",
                 "roles": ["Donald"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Montague"]
             }
         ],
         "committees": [
@@ -16017,6 +16057,11 @@
             ,{
                 "title": "The Pitchfork Disney",
                 "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Capulet"]
             }
         
             ,{
@@ -16737,6 +16782,11 @@
                 "title": "Stags and Hens",
                 "roles": ["Linda"]
             }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Juliet"]
+            }
         ],
         "committees": [
             {
@@ -16890,6 +16940,11 @@
             ,{
                 "title": "Titus Andronicus",
                 "roles": ["Make Up Artist/Costumes/Blood Effects"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Make-Up"]
             }
         
             ,{
@@ -17192,6 +17247,11 @@
                 "title": "Posh",
                 "roles": ["Hugo"]
             }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Tybalt"]
+            }
         ],
         "committees": [],
         "link": "/people/will_hedges/"
@@ -17306,7 +17366,7 @@
         
             ,{
                 "title": "Romeo And Juliet",
-                "roles": ["Lighting Designer"]
+                "roles": ["Lighting Design"]
             }
         
             ,{
@@ -17596,6 +17656,11 @@
             ,{
                 "title": "Titus Andronicus",
                 "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Gregory / Peter"]
             }
         
             ,{
@@ -18038,6 +18103,11 @@
                 "title": "Molly Sweeney",
                 "roles": ["Director"]
             }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Friar Laurence"]
+            }
         ],
         "committees": [],
         "link": "/people/jake_leonard/"
@@ -18298,7 +18368,7 @@
         
             ,{
                 "title": "Romeo And Juliet",
-                "roles": ["Technical Operator"]
+                "roles": ["Technical Operators"]
             }
         
             ,{
@@ -18386,6 +18456,11 @@
             {
                 "title": "Fox Finder",
                 "roles": ["Samuel"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Sampson / Apothecary"]
             }
         ],
         "committees": [],
@@ -18502,6 +18577,11 @@
                 "title": "Sorry, Wrong Number",
                 "roles": ["Sergeant Duffy"]
             }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Abraham / Friar John"]
+            }
         ],
         "committees": [
             {
@@ -18544,6 +18624,11 @@
             {
                 "title": "Sorry, Wrong Number",
                 "roles": ["George / Western Union"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Stage Manager"]
             }
         ],
         "committees": [],
@@ -18722,6 +18807,11 @@
             {
                 "title": "God of Carnage",
                 "roles": ["Michael Novak"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Benvolio"]
             }
         ],
         "committees": [],
@@ -18943,6 +19033,11 @@
             ,{
                 "title": "The Last Days Of Judas Iscariot",
                 "roles": ["Technical Operator"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Shadow Technical Director"]
             }
         
             ,{
@@ -19326,6 +19421,11 @@
                 "title": "Betrayal",
                 "roles": ["Stage Manager"]
             }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Stage Manager"]
+            }
         ],
         "committees": [],
         "link": "/people/jenny_kohnhorst/"
@@ -19504,6 +19604,11 @@
             ,{
                 "title": "Room 30",
                 "roles": [null]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Stage Manager"]
             }
         ],
         "committees": [],
@@ -20130,7 +20235,7 @@
         
             ,{
                 "title": "Romeo And Juliet",
-                "roles": ["Technical Operator"]
+                "roles": ["Technical Operators"]
             }
         
             ,{
@@ -20464,6 +20569,173 @@
     
 
     ,
+    "diderik_ypma" : {
+        "name": "Diderik Ypma",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Romeo And Juliet",
+                "roles": ["Romeo"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2014-15",
+                "roles": ["Front of House Manager"]
+            }
+        ],
+        "link": "/people/diderik_ypma/"
+    }
+    
+
+    ,
+    "katy_roe" : {
+        "name": "Katy Roe",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Romeo And Juliet",
+                "roles": ["Lady Montague"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/katy_roe/"
+    }
+    
+
+    ,
+    "david_whalley" : {
+        "name": "David Whalley",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Romeo And Juliet",
+                "roles": ["Balthasar"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/david_whalley/"
+    }
+    
+
+    ,
+    "jemima_rathbone" : {
+        "name": "Jemima Rathbone",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Romeo And Juliet",
+                "roles": ["Prince Escalus"]
+            }
+        
+            ,{
+                "title": "The Final Act",
+                "roles": [null]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jemima_rathbone/"
+    }
+    
+
+    ,
+    "ed_currie" : {
+        "name": "Ed Currie",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Romeo And Juliet",
+                "roles": ["Fight And Dance Choreography"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/ed_currie/"
+    }
+    
+
+    ,
+    "dan_oconnor" : {
+        "name": "Dan O'Connor",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Romeo And Juliet",
+                "roles": ["Shadow Lighting Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/dan_oconnor/"
+    }
+    
+
+    ,
+    "madeleine_hardy" : {
+        "name": "Madeleine Hardy",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Romeo And Juliet",
+                "roles": ["Make-Up"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/madeleine_hardy/"
+    }
+    
+
+    ,
+    "joanna_manning" : {
+        "name": "Joanna Manning",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Romeo And Juliet",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "A Servant To Two Masters",
+                "roles": ["Technical Operator"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/joanna_manning/"
+    }
+    
+
+    ,
     "lily_mcgeough" : {
         "name": "Lily McGeough",
         "type": "person",
@@ -20474,11 +20746,30 @@
         "shows": [
             {
                 "title": "Romeo And Juliet",
-                "roles": ["Technical Operator"]
+                "roles": ["Technical Operators"]
             }
         ],
         "committees": [],
         "link": "/people/lily_mcgeough/"
+    }
+    
+
+    ,
+    "gilad_grant" : {
+        "name": "Gilad Grant",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Romeo And Juliet",
+                "roles": ["Live Music - Performer and Composition"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/gilad_grant/"
     }
     
 
@@ -20873,25 +21164,6 @@
     
 
     ,
-    "joanna_manning" : {
-        "name": "Joanna Manning",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "A Servant To Two Masters",
-                "roles": ["Technical Operator"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/joanna_manning/"
-    }
-    
-
-    ,
     "natasha_mortimer" : {
         "name": "Natasha Mortimer",
         "type": "person",
@@ -20907,25 +21179,6 @@
         ],
         "committees": [],
         "link": "/people/natasha_mortimer/"
-    }
-    
-
-    ,
-    "jemima_rathbone" : {
-        "name": "Jemima Rathbone",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "The Final Act",
-                "roles": [null]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jemima_rathbone/"
     }
     
 

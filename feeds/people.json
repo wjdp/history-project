@@ -9066,6 +9066,110 @@
     
 
     ,
+    "philip_geller" : {
+        "name": "Philip Geller",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "The Country",
+                "roles": ["Set Designer","Technical Director"]
+            }
+        
+            ,{
+                "title": "The Importance Of Being Earnest",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "The Ghetto",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Rhinocerous",
+                "roles": ["Technical Director","Technical Operator"]
+            }
+        
+            ,{
+                "title": "The Winterling",
+                "roles": ["Set Designer","Technical Director"]
+            }
+        
+            ,{
+                "title": "Road",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "The Real Inspector Hound",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "The Small Things",
+                "roles": ["Technical Director","Set Construction"]
+            }
+        
+            ,{
+                "title": "Orphans",
+                "roles": ["Designer","Technical Director"]
+            }
+        
+            ,{
+                "title": "Bluebird",
+                "roles": ["Designer"]
+            }
+        
+            ,{
+                "title": "Arcadia",
+                "roles": ["Designer"]
+            }
+        
+            ,{
+                "title": "After the End",
+                "roles": ["Set Designer"]
+            }
+        
+            ,{
+                "title": "Rope",
+                "roles": ["Set Designer","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Educating Rita",
+                "roles": ["Window Designer/Builder"]
+            }
+        
+            ,{
+                "title": "Boeing Boeing",
+                "roles": ["Set Designer","Set Construction"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2008-09",
+                "roles": ["Technical Manager"]
+            }
+        
+            ,{
+                "title": "2009-10",
+                "roles": ["Theatre Manager"]
+            }
+        
+            ,{
+                "title": "2010-11",
+                "roles": ["Workshop Manager"]
+            }
+        ],
+        "link": "/people/philip_geller/"
+    }
+    
+
+    ,
     "matt_leventhall" : {
         "name": "Matt Leventhall",
         "type": "person",
@@ -14267,6 +14371,70 @@
     
 
     ,
+    "nick_stevenson" : {
+        "name": "Nick Stevenson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Bed",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Charley's Aunt",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "The Pillowman",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Wild West End",
+                "roles": ["Musical Director"]
+            }
+        
+            ,{
+                "title": "Boeing Boeing",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Titus Andronicus",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Dr Faustus",
+                "roles": ["Assistant to Producer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2012-13",
+                "roles": ["Treasurer"]
+            }
+        
+            ,{
+                "title": "2013-14",
+                "roles": ["President"]
+            }
+        ],
+        "link": "/people/nick_stevenson/"
+    }
+    
+
+    ,
     "grace_lowe" : {
         "name": "Grace Lowe",
         "type": "person",
@@ -14878,6 +15046,145 @@
         ],
         "committees": [],
         "link": "/people/dan_turek/"
+    }
+    
+
+    ,
+    "will_pimblett" : {
+        "name": "Will Pimblett",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Faust is Dead",
+                "roles": ["Video Designer"]
+            }
+        
+            ,{
+                "title": "The Beauty Queen of Leenane",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Innocent Infidelity",
+                "roles": ["Technical Director","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Charley's Aunt",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Mercury Fur",
+                "roles": ["Technical Director","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "'night, Mother",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Nineteen Eighty-Four",
+                "roles": ["Lighting Designer","Photography"]
+            }
+        
+            ,{
+                "title": "Wild West End",
+                "roles": ["Sound Engineer"]
+            }
+        
+            ,{
+                "title": "Posh",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "East",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Mary Shelley's Frankenstein",
+                "roles": ["Lighting Designer","Video Designer"]
+            }
+        
+            ,{
+                "title": "Freshers' Fringe",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Fox Finder",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Back to Oblivion",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Molly Sweeney",
+                "roles": ["Technical Director","Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Titus Andronicus",
+                "roles": ["Photography"]
+            }
+        
+            ,{
+                "title": "Habeas Corpus",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Concrete Boots",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Equus",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "A Servant To Two Masters",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Krapp's Last Tape",
+                "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "The Final Act",
+                "roles": ["Lighting Designer","Sound Engineer"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2012-13",
+                "roles": ["Technical Manager"]
+            }
+        
+            ,{
+                "title": "2013-14",
+                "roles": ["Technical Manager"]
+            }
+        ],
+        "link": "/people/will_pimblett/"
     }
     
 
@@ -21203,6 +21510,1000 @@
         ],
         "committees": [],
         "link": "/people/tom_heath_harvey/"
+    }
+    
+
+    ,
+    "emma_barnett" : {
+        "name": "Emma Barnett",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/emma_barnett/"
+    }
+    
+
+    ,
+    "rufus_tanner" : {
+        "name": "Rufus Tanner",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/rufus_tanner/"
+    }
+    
+
+    ,
+    "david_maih" : {
+        "name": "David Maih",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/david_maih/"
+    }
+    
+
+    ,
+    "emily_medhurst" : {
+        "name": "Emily Medhurst",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/emily_medhurst/"
+    }
+    
+
+    ,
+    "charlie_brafman" : {
+        "name": "Charlie Brafman",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/charlie_brafman/"
+    }
+    
+
+    ,
+    "mary_anne_obrian" : {
+        "name": "Mary Anne O'Brian",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/mary_anne_obrian/"
+    }
+    
+
+    ,
+    "megan_allyse" : {
+        "name": "Megan Allyse",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/megan_allyse/"
+    }
+    
+
+    ,
+    "ali_blackwell" : {
+        "name": "Ali Blackwell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/ali_blackwell/"
+    }
+    
+
+    ,
+    "eliana_zur-szpiro" : {
+        "name": "Eliana Zur-Szpiro",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/eliana_zur-szpiro/"
+    }
+    
+
+    ,
+    "dave_stephenson" : {
+        "name": "Dave Stephenson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/dave_stephenson/"
+    }
+    
+
+    ,
+    "georgie_strawson" : {
+        "name": "Georgie Strawson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/georgie_strawson/"
+    }
+    
+
+    ,
+    "johnny_skinner" : {
+        "name": "Johnny Skinner",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/johnny_skinner/"
+    }
+    
+
+    ,
+    "dom_donocik" : {
+        "name": "Dom Donocik",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/dom_donocik/"
+    }
+    
+
+    ,
+    "guy_unsworth" : {
+        "name": "Guy Unsworth",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/guy_unsworth/"
+    }
+    
+
+    ,
+    "ben_ford" : {
+        "name": "Ben Ford",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/ben_ford/"
+    }
+    
+
+    ,
+    "michelle_ghatan" : {
+        "name": "Michelle Ghatan",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/michelle_ghatan/"
+    }
+    
+
+    ,
+    "maryann_obrien" : {
+        "name": "Maryann O'Brien",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/maryann_obrien/"
+    }
+    
+
+    ,
+    "lee_denny" : {
+        "name": "Lee Denny",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/lee_denny/"
+    }
+    
+
+    ,
+    "nick_breen" : {
+        "name": "Nick Breen",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/nick_breen/"
+    }
+    
+
+    ,
+    "sam_morris" : {
+        "name": "Sam Morris",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/sam_morris/"
+    }
+    
+
+    ,
+    "tammy_ingamells" : {
+        "name": "Tammy Ingamells",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/tammy_ingamells/"
+    }
+    
+
+    ,
+    "maia_gibbs" : {
+        "name": "Maia Gibbs",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/maia_gibbs/"
+    }
+    
+
+    ,
+    "tom_warren" : {
+        "name": "Tom Warren",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/tom_warren/"
+    }
+    
+
+    ,
+    "krystyna_liakh" : {
+        "name": "Krystyna Liakh",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/krystyna_liakh/"
+    }
+    
+
+    ,
+    "oli_margolis" : {
+        "name": "Oli Margolis",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/oli_margolis/"
+    }
+    
+
+    ,
+    "nick_medhurst" : {
+        "name": "Nick Medhurst",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/nick_medhurst/"
+    }
+    
+
+    ,
+    "johnny_steer" : {
+        "name": "Johnny Steer",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/johnny_steer/"
+    }
+    
+
+    ,
+    "victoria_aukland" : {
+        "name": "Victoria Aukland",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/victoria_aukland/"
+    }
+    
+
+    ,
+    "katie_blumenblatt" : {
+        "name": "Katie Blumenblatt",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/katie_blumenblatt/"
+    }
+    
+
+    ,
+    "lauren_knight" : {
+        "name": "Lauren Knight",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/lauren_knight/"
+    }
+    
+
+    ,
+    "laura_free" : {
+        "name": "Laura Free",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/laura_free/"
+    }
+    
+
+    ,
+    "luke_steaggles" : {
+        "name": "Luke Steaggles",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/luke_steaggles/"
+    }
+    
+
+    ,
+    "fu_bu" : {
+        "name": "Fu Bu",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/fu_bu/"
+    }
+    
+
+    ,
+    "chilli_wright" : {
+        "name": "Chilli Wright",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/chilli_wright/"
+    }
+    
+
+    ,
+    "christopher_walters" : {
+        "name": "Christopher Walters",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/christopher_walters/"
+    }
+    
+
+    ,
+    "frances_rylands" : {
+        "name": "Frances Rylands",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/frances_rylands/"
+    }
+    
+
+    ,
+    "lucy_bromillow" : {
+        "name": "Lucy Bromillow",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/lucy_bromillow/"
+    }
+    
+
+    ,
+    "emma_louise_amanshia" : {
+        "name": "Emma Louise Amanshia",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/emma_louise_amanshia/"
+    }
+    
+
+    ,
+    "steph_warren" : {
+        "name": "Steph Warren",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/steph_warren/"
+    }
+    
+
+    ,
+    "tom_gladston" : {
+        "name": "Tom Gladston",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/tom_gladston/"
+    }
+    
+
+    ,
+    "laura_jayne_bateman" : {
+        "name": "Laura Jayne Bateman",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/laura_jayne_bateman/"
+    }
+    
+
+    ,
+    "eden_phillips-harrington" : {
+        "name": "Eden Phillips-Harrington",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/eden_phillips-harrington/"
+    }
+    
+
+    ,
+    "matt_standan" : {
+        "name": "Matt Standan",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/matt_standan/"
+    }
+    
+
+    ,
+    "darcey_graham" : {
+        "name": "Darcey Graham",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/darcey_graham/"
+    }
+    
+
+    ,
+    "joe_strickland" : {
+        "name": "Joe Strickland",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/joe_strickland/"
+    }
+    
+
+    ,
+    "beth_wilson" : {
+        "name": "Beth Wilson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/beth_wilson/"
+    }
+    
+
+    ,
+    "max_miller" : {
+        "name": "Max Miller",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/max_miller/"
+    }
+    
+
+    ,
+    "omid_faramazi" : {
+        "name": "Omid Faramazi",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/omid_faramazi/"
+    }
+    
+
+    ,
+    "niamh_caines" : {
+        "name": "Niamh Caines",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/niamh_caines/"
+    }
+    
+
+    ,
+    "charlotte_kirkman" : {
+        "name": "Charlotte Kirkman",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/charlotte_kirkman/"
+    }
+    
+
+    ,
+    "rod_craig" : {
+        "name": "Rod Craig",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/rod_craig/"
+    }
+    
+
+    ,
+    "david_jones" : {
+        "name": "David Jones",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/david_jones/"
+    }
+    
+
+    ,
+    "alisa_gibson" : {
+        "name": "Alisa Gibson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/alisa_gibson/"
+    }
+    
+
+    ,
+    "brian_kerr" : {
+        "name": "Brian Kerr",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/brian_kerr/"
+    }
+    
+
+    ,
+    "timothy_haughton" : {
+        "name": "Timothy Haughton",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/timothy_haughton/"
+    }
+    
+
+    ,
+    "jamie_justham" : {
+        "name": "Jamie Justham",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/jamie_justham/"
+    }
+    
+
+    ,
+    "andrew_gould" : {
+        "name": "Andrew Gould",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/andrew_gould/"
+    }
+    
+
+    ,
+    "mark_hammond" : {
+        "name": "Mark Hammond",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/mark_hammond/"
+    }
+    
+
+    ,
+    "rob_ashburn" : {
+        "name": "Rob Ashburn",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/rob_ashburn/"
+    }
+    
+
+    ,
+    "isabelle_wallace" : {
+        "name": "Isabelle (Wallace?)",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/isabelle_wallace/"
+    }
+    
+
+    ,
+    "mark_everett" : {
+        "name": "Mark Everett",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/mark_everett/"
+    }
+    
+
+    ,
+    "lynn_myers" : {
+        "name": "Lynn Myers",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/lynn_myers/"
+    }
+    
+
+    ,
+    "jim_cowell" : {
+        "name": "Jim Cowell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/jim_cowell/"
+    }
+    
+
+    ,
+    "judith_fabian" : {
+        "name": "Judith Fabian",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/judith_fabian/"
+    }
+    
+
+    ,
+    "ric_shields" : {
+        "name": "Ric Shields",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/ric_shields/"
+    }
+    
+
+    ,
+    "tim_sluckin" : {
+        "name": "Tim Sluckin",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/tim_sluckin/"
+    }
+    
+
+    ,
+    "john_thewlis" : {
+        "name": "John Thewlis",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/john_thewlis/"
+    }
+    
+
+    ,
+    "john_turner" : {
+        "name": "John Turner",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/john_turner/"
+    }
+    
+
+    ,
+    "richard_simpson" : {
+        "name": "Richard Simpson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/richard_simpson/"
+    }
+    
+
+    ,
+    "rosemary_farrar" : {
+        "name": "Rosemary Farrar",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/rosemary_farrar/"
+    }
+    
+
+    ,
+    "paul_kerensa" : {
+        "name": "Paul Kerensa",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [],
+        "committees": [],
+        "link": "/people/paul_kerensa/"
     }
     
 

@@ -863,7 +863,7 @@
         
             ,{
                 "title": "Macbeth",
-                "roles": ["Assistant Director"]
+                "roles": ["Assistant Director","Fight Director"]
             }
         ],
         "committees": [],
@@ -1458,63 +1458,6 @@
     
 
     ,
-    "gilbert__hall_ltd" : {
-        "name": "Gilbert & Hall Ltd",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Westside Story",
-                "roles": ["Special Thanks - for providing scaffolding"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/gilbert__hall_ltd/"
-    }
-    
-
-    ,
-    "mechanical_engineering_dept" : {
-        "name": "Mechanical Engineering Dept",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Westside Story",
-                "roles": ["Special Thanks - for use of welding equipment and expertise"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/mechanical_engineering_dept/"
-    }
-    
-
-    ,
-    "buttery_bar" : {
-        "name": "Buttery Bar",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Westside Story",
-                "roles": ["Special Thanks - for providing Beer Crates"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/buttery_bar/"
-    }
-    
-
-    ,
     "martin_pye" : {
         "name": "Martin Pye",
         "type": "person",
@@ -1906,25 +1849,6 @@
         ],
         "committees": [],
         "link": "/people/jasmeet_kaur/"
-    }
-    
-
-    ,
-    "sarah_hanafin" : {
-        "name": "Sarah Hanafin",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Macbeth",
-                "roles": ["Fight Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/sarah_hanafin/"
     }
     
 
@@ -2481,25 +2405,6 @@
         ],
         "committees": [],
         "link": "/people/marilyn_bird/"
-    }
-    
-
-    ,
-    "paul_woodward_life_science_department_poseurs_fancy_dress_the_golden_cage_top_hat_antiques_centre" : {
-        "name": "Paul Woodward, Life Science Department, Poseurs Fancy Dress, The Golden Cage, Top Hat Antiques Centre",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Frankenstein",
-                "roles": ["Special Thanks"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/paul_woodward_life_science_department_poseurs_fancy_dress_the_golden_cage_top_hat_antiques_centre/"
     }
     
 
@@ -3155,25 +3060,6 @@
     
 
     ,
-    "courtesy_of_stus_mum" : {
-        "name": "courtesy of Stu's Mum",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Who Claimed Roger's Habit",
-                "roles": ["Habit and Devil's Cloak"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/courtesy_of_stus_mum/"
-    }
-    
-
-    ,
     "stuart_barter" : {
         "name": "Stuart Barter",
         "type": "person",
@@ -3505,25 +3391,6 @@
         ],
         "committees": [],
         "link": "/people/james_law/"
-    }
-    
-
-    ,
-    "ajays_dad" : {
-        "name": "Ajay's Dad",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "In Bed With Sue Lawley",
-                "roles": ["Official Cast Photographer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/ajays_dad/"
     }
     
 
@@ -5605,6 +5472,11 @@
                 "title": "Educating Rita",
                 "roles": ["Producer"]
             }
+        
+            ,{
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Lighting Assistant and Sound Manager"]
+            }
         ],
         "committees": [],
         "link": "/people/sarah_ball/"
@@ -5642,6 +5514,11 @@
             {
                 "title": "Educating Rita",
                 "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "Time of My Life",
+                "roles": ["Lighting and Sound"]
             }
         ],
         "committees": [],
@@ -5908,25 +5785,6 @@
         ],
         "committees": [],
         "link": "/people/amanda_hobson/"
-    }
-    
-
-    ,
-    "hannah_steven" : {
-        "name": "Hannah Steven",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Time of My Life",
-                "roles": ["Lighting and Sound"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/hannah_steven/"
     }
     
 
@@ -6441,25 +6299,6 @@
         ],
         "committees": [],
         "link": "/people/lucy_ockenden/"
-    }
-    
-
-    ,
-    "sarah_bal" : {
-        "name": "Sarah Bal",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Lighting Assistant and Sound Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/sarah_bal/"
     }
     
 
@@ -7064,7 +6903,7 @@
         "shows": [
             {
                 "title": "Translations",
-                "roles": ["Producer / Asst Director","Technical Operator","Publicity Designer"]
+                "roles": ["Producer / Asst Director","Music","Technical Operator","Publicity Designer"]
             }
         ],
         "committees": [],
@@ -7088,44 +6927,6 @@
         ],
         "committees": [],
         "link": "/people/jane_lawson/"
-    }
-    
-
-    ,
-    "the_cast_crew_and_ade" : {
-        "name": "The Cast, Crew and Ade",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Set Construction"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/the_cast_crew_and_ade/"
-    }
-    
-
-    ,
-    "richard_mckeelvey" : {
-        "name": "Richard McKEelvey",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Music"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/richard_mckeelvey/"
     }
     
 
@@ -7202,63 +7003,6 @@
         ],
         "committees": [],
         "link": "/people/sam_taylor/"
-    }
-    
-
-    ,
-    "nottingham_playhouse_workshop" : {
-        "name": "Nottingham Playhouse Workshop",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Doctor Faustus",
-                "roles": ["Set Construction"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/nottingham_playhouse_workshop/"
-    }
-    
-
-    ,
-    "emma_shepherd__simon_brown_eskimo_design" : {
-        "name": "Emma Shepherd & Simon Brown (Eskimo Design)",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Doctor Faustus",
-                "roles": ["Publicity Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/emma_shepherd__simon_brown_eskimo_design/"
-    }
-    
-
-    ,
-    "roo_machell_ampersand_design_studio" : {
-        "name": "Roo Machell (Ampersand Design Studio)",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Doctor Faustus",
-                "roles": ["Programme"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/roo_machell_ampersand_design_studio/"
     }
     
 
@@ -8072,25 +7816,6 @@
         ],
         "committees": [],
         "link": "/people/kate_holder/"
-    }
-    
-
-    ,
-    "the_lacemarket_theatre" : {
-        "name": "The Lacemarket Theatre",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Amadeus",
-                "roles": ["Costumes"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/the_lacemarket_theatre/"
     }
     
 
@@ -10059,7 +9784,12 @@
                 "roles": ["Director"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2008-09",
+                "roles": ["Treasurer"]
+            }
+        ],
         "link": "/people/oliver_margolis/"
     }
     
@@ -10382,8 +10112,8 @@
     
 
     ,
-    "george_bancroft-livingstone" : {
-        "name": "George Bancroft-Livingstone",
+    "george_bancroft-livingston" : {
+        "name": "George Bancroft-Livingston",
         "type": "person",
         "excerpt": "",
         
@@ -10394,9 +10124,24 @@
                 "title": "Rhinocerous",
                 "roles": ["Botard"]
             }
+        
+            ,{
+                "title": "The Shape of Things",
+                "roles": ["Phillip"]
+            }
+        
+            ,{
+                "title": "The Real Inspector Hound",
+                "roles": ["The Dead Body"]
+            }
+        
+            ,{
+                "title": "Normal",
+                "roles": ["Director"]
+            }
         ],
         "committees": [],
-        "link": "/people/george_bancroft-livingstone/"
+        "link": "/people/george_bancroft-livingston/"
     }
     
 
@@ -11274,35 +11019,6 @@
         ],
         "committees": [],
         "link": "/people/lizzy_bourne/"
-    }
-    
-
-    ,
-    "george_bancroft-livingston" : {
-        "name": "George Bancroft-Livingston",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "The Shape of Things",
-                "roles": ["Phillip"]
-            }
-        
-            ,{
-                "title": "The Real Inspector Hound",
-                "roles": ["The Dead Body"]
-            }
-        
-            ,{
-                "title": "Normal",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/george_bancroft-livingston/"
     }
     
 
@@ -12421,7 +12137,12 @@
                 "roles": ["Lady Capulet"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2011-12",
+                "roles": ["Costume & Props Manager"]
+            }
+        ],
         "link": "/people/lucy_bromilow/"
     }
     
@@ -12453,6 +12174,11 @@
             ,{
                 "title": "Closer",
                 "roles": [null]
+            }
+        
+            ,{
+                "title": "The Pillowman",
+                "roles": ["Katurian"]
             }
         ],
         "committees": [
@@ -13356,8 +13082,8 @@
     
 
     ,
-    "phillip_damms" : {
-        "name": "Phillip Damms",
+    "phil_damms" : {
+        "name": "Phil Damms",
         "type": "person",
         "excerpt": "",
         
@@ -13368,9 +13094,14 @@
                 "title": "The Laramie Project",
                 "roles": [null]
             }
+        
+            ,{
+                "title": "A Clockwork Orange",
+                "roles": ["Dim"]
+            }
         ],
         "committees": [],
-        "link": "/people/phillip_damms/"
+        "link": "/people/phil_damms/"
     }
     
 
@@ -15359,6 +15090,11 @@
             }
         
             ,{
+                "title": "Jerusalem",
+                "roles": ["Sound Designer"]
+            }
+        
+            ,{
                 "title": "The Pillowman",
                 "roles": ["Photographer"]
             }
@@ -15463,6 +15199,11 @@
         "shows": [
             {
                 "title": "The History Boys",
+                "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "God of Carnage",
                 "roles": ["Director"]
             }
         
@@ -16488,25 +16229,6 @@
     
 
     ,
-    "nick_barket" : {
-        "name": "Nick Barket",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Jerusalem",
-                "roles": ["Sound Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/nick_barket/"
-    }
-    
-
-    ,
     "rosie_cave" : {
         "name": "Rosie Cave",
         "type": "person",
@@ -16633,25 +16355,6 @@
         ],
         "committees": [],
         "link": "/people/james_gregory/"
-    }
-    
-
-    ,
-    "sam_haywood" : {
-        "name": "Sam Haywood",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "The Pillowman",
-                "roles": ["Katurian"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/sam_haywood/"
     }
     
 
@@ -17697,25 +17400,6 @@
     
 
     ,
-    "phil_damms" : {
-        "name": "Phil Damms",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "A Clockwork Orange",
-                "roles": ["Dim"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/phil_damms/"
-    }
-    
-
-    ,
     "sam_peake" : {
         "name": "Sam Peake",
         "type": "person",
@@ -18192,6 +17876,11 @@
             }
         
             ,{
+                "title": "Fox Finder",
+                "roles": ["Sarah"]
+            }
+        
+            ,{
                 "title": "Molly Sweeney",
                 "roles": ["Make Up Artist"]
             }
@@ -18534,8 +18223,8 @@
     
 
     ,
-    "ollie_short" : {
-        "name": "Ollie Short",
+    "ollie_shortt" : {
+        "name": "Ollie Shortt",
         "type": "person",
         "excerpt": "",
         
@@ -18548,8 +18237,18 @@
             }
         
             ,{
+                "title": "Sorry, Wrong Number",
+                "roles": ["Sergeant Duffy"]
+            }
+        
+            ,{
                 "title": "Blue Remembered Hills",
                 "roles": ["Director"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Abraham / Friar John"]
             }
         
             ,{
@@ -18559,11 +18258,16 @@
         ],
         "committees": [
             {
+                "title": "2014-15",
+                "roles": ["Treasurer"]
+            }
+        
+            ,{
                 "title": "2015-16",
                 "roles": ["Secretary"]
             }
         ],
-        "link": "/people/ollie_short/"
+        "link": "/people/ollie_shortt/"
     }
     
 
@@ -18776,25 +18480,6 @@
     
 
     ,
-    "sian_beavan" : {
-        "name": "Sian Beavan",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Fox Finder",
-                "roles": ["Sarah"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/sian_beavan/"
-    }
-    
-
-    ,
     "victoria_rudolph" : {
         "name": "Victoria Rudolph",
         "type": "person",
@@ -18868,35 +18553,6 @@
         ],
         "committees": [],
         "link": "/people/courtney_rose/"
-    }
-    
-
-    ,
-    "ollie_shortt" : {
-        "name": "Ollie Shortt",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Sorry, Wrong Number",
-                "roles": ["Sergeant Duffy"]
-            }
-        
-            ,{
-                "title": "Romeo And Juliet",
-                "roles": ["Abraham / Friar John"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2014-15",
-                "roles": ["Treasurer"]
-            }
-        ],
-        "link": "/people/ollie_shortt/"
     }
     
 
@@ -19121,33 +18777,19 @@
                 "roles": ["Benvolio"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2014-15",
+                "roles": ["Social Secretary"]
+            }
+        ],
         "link": "/people/tom_gladstone/"
     }
     
 
     ,
-    "tess_monroe-somerville" : {
-        "name": "Tess Monroe-Somerville",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "God of Carnage",
-                "roles": ["Director"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/tess_monroe-somerville/"
-    }
-    
-
-    ,
-    "eden_philips_harrington" : {
-        "name": "Eden Philips Harrington",
+    "eden_phillips-harrington" : {
+        "name": "Eden Phillips-Harrington",
         "type": "person",
         "excerpt": "",
         
@@ -19164,8 +18806,13 @@
                 "title": "2014-15",
                 "roles": ["Workshop Manager"]
             }
+        
+            ,{
+                "title": "2015-16",
+                "roles": ["Productions Coordinator"]
+            }
         ],
-        "link": "/people/eden_philips_harrington/"
+        "link": "/people/eden_phillips-harrington/"
     }
     
 
@@ -19193,7 +18840,12 @@
                 "roles": ["Harry Dalton"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2015-16",
+                "roles": ["Publicity and External Marketing Manager"]
+            }
+        ],
         "link": "/people/omid_faramarzi/"
     }
     
@@ -19451,6 +19103,11 @@
             ,{
                 "title": "Blackbird",
                 "roles": ["Make Up Artist"]
+            }
+        
+            ,{
+                "title": "Romeo And Juliet",
+                "roles": ["Make-Up"]
             }
         
             ,{
@@ -20336,8 +19993,8 @@
     
 
     ,
-    "page_phillips_harrington" : {
-        "name": "Page Phillips Harrington",
+    "page_phillips-harrington" : {
+        "name": "Page Phillips-Harrington",
         "type": "person",
         "excerpt": "",
         
@@ -20350,7 +20007,7 @@
             }
         ],
         "committees": [],
-        "link": "/people/page_phillips_harrington/"
+        "link": "/people/page_phillips-harrington/"
     }
     
 
@@ -20996,25 +20653,6 @@
         ],
         "committees": [],
         "link": "/people/dan_oconnor/"
-    }
-    
-
-    ,
-    "madeleine_hardy" : {
-        "name": "Madeleine Hardy",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Romeo And Juliet",
-                "roles": ["Make-Up"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/madeleine_hardy/"
     }
     
 
@@ -21850,20 +21488,6 @@
     
 
     ,
-    "oli_margolis" : {
-        "name": "Oli Margolis",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [],
-        "committees": [],
-        "link": "/people/oli_margolis/"
-    }
-    
-
-    ,
     "nick_medhurst" : {
         "name": "Nick Medhurst",
         "type": "person",
@@ -22018,20 +21642,6 @@
     
 
     ,
-    "lucy_bromillow" : {
-        "name": "Lucy Bromillow",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [],
-        "committees": [],
-        "link": "/people/lucy_bromillow/"
-    }
-    
-
-    ,
     "emma_louise_amanshia" : {
         "name": "Emma Louise Amanshia",
         "type": "person",
@@ -22060,20 +21670,6 @@
     
 
     ,
-    "tom_gladston" : {
-        "name": "Tom Gladston",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [],
-        "committees": [],
-        "link": "/people/tom_gladston/"
-    }
-    
-
-    ,
     "laura_jayne_bateman" : {
         "name": "Laura Jayne Bateman",
         "type": "person",
@@ -22084,20 +21680,6 @@
         "shows": [],
         "committees": [],
         "link": "/people/laura_jayne_bateman/"
-    }
-    
-
-    ,
-    "eden_phillips-harrington" : {
-        "name": "Eden Phillips-Harrington",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [],
-        "committees": [],
-        "link": "/people/eden_phillips-harrington/"
     }
     
 
@@ -22168,20 +21750,6 @@
         "shows": [],
         "committees": [],
         "link": "/people/max_miller/"
-    }
-    
-
-    ,
-    "omid_faramazi" : {
-        "name": "Omid Faramazi",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [],
-        "committees": [],
-        "link": "/people/omid_faramazi/"
     }
     
 

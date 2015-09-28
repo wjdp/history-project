@@ -10778,6 +10778,11 @@
                 "title": "Rope",
                 "roles": ["Set Designer","Hair and Makeup"]
             }
+        
+            ,{
+                "title": "Beef",
+                "roles": ["Producer"]
+            }
         ],
         "committees": [],
         "link": "/people/liz_rose/"
@@ -13326,6 +13331,25 @@
         ],
         "committees": [],
         "link": "/people/sam_warren/"
+    }
+    
+
+    ,
+    "liz_stevenson" : {
+        "name": "Liz Stevenson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Beef",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/liz_stevenson/"
     }
     
 

@@ -20470,7 +20470,12 @@
                 "roles": ["Technical Operator"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2015-16",
+                "roles": ["Front of House Manager"]
+            }
+        ],
         "link": "/people/matt_standen/"
     }
     
@@ -21680,20 +21685,6 @@
         "shows": [],
         "committees": [],
         "link": "/people/laura_jayne_bateman/"
-    }
-    
-
-    ,
-    "matt_standan" : {
-        "name": "Matt Standan",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [],
-        "committees": [],
-        "link": "/people/matt_standan/"
     }
     
 

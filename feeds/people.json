@@ -6203,6 +6203,439 @@
     
 
     ,
+    "joe_millington" : {
+        "name": "Joe Millington",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Jimmy","Set Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/joe_millington/"
+    }
+    
+
+    ,
+    "jenny_crossley" : {
+        "name": "Jenny Crossley",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Sarah"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jenny_crossley/"
+    }
+    
+
+    ,
+    "charly_brooks" : {
+        "name": "Charly Brooks",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Bridget"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/charly_brooks/"
+    }
+    
+
+    ,
+    "andy_mcdonnell" : {
+        "name": "Andy McDonnell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Hugh"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/andy_mcdonnell/"
+    }
+    
+
+    ,
+    "chris_roberts" : {
+        "name": "Chris Roberts",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Owen"]
+            }
+        
+            ,{
+                "title": "Amadeus",
+                "roles": ["Count Orsini-Rosenberg","Set Design / Construction"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/chris_roberts/"
+    }
+    
+
+    ,
+    "rob_ridd" : {
+        "name": "Rob Ridd",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Lancey"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rob_ridd/"
+    }
+    
+
+    ,
+    "rupert_hurley" : {
+        "name": "Rupert Hurley",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Yolland"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/rupert_hurley/"
+    }
+    
+
+    ,
+    "richard_mckelvey" : {
+        "name": "Richard McKelvey",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Producer / Asst Director","Music","Technical Operator","Publicity Designer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/richard_mckelvey/"
+    }
+    
+
+    ,
+    "jane_lawson" : {
+        "name": "Jane Lawson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Stage Manager","Music"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/jane_lawson/"
+    }
+    
+
+    ,
+    "martin_piggott" : {
+        "name": "Martin Piggott",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Music"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/martin_piggott/"
+    }
+    
+
+    ,
+    "tom_kyle" : {
+        "name": "Tom Kyle",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Translations",
+                "roles": ["Music"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/tom_kyle/"
+    }
+    
+
+    ,
+    "toby_brack" : {
+        "name": "Toby Brack",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Mike (The Ruffian On The Stair)"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/toby_brack/"
+    }
+    
+
+    ,
+    "janey_lawson" : {
+        "name": "Janey Lawson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["M (Crave)"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/janey_lawson/"
+    }
+    
+
+    ,
+    "phil_sarson" : {
+        "name": "Phil Sarson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["B (Crave)"]
+            }
+        
+            ,{
+                "title": "'Morning on a Rainy day' and 'Capital'",
+                "roles": ["Ben"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/phil_sarson/"
+    }
+    
+
+    ,
+    "chloe_campbell" : {
+        "name": "Chloe Campbell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Producer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/chloe_campbell/"
+    }
+    
+
+    ,
+    "lucy_ockenden" : {
+        "name": "Lucy Ockenden",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Lighting Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/lucy_ockenden/"
+    }
+    
+
+    ,
+    "naomi_oppenheim" : {
+        "name": "Naomi Oppenheim",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Stage Manager"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/naomi_oppenheim/"
+    }
+    
+
+    ,
+    "amanda_robinson" : {
+        "name": "Amanda Robinson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Backstage"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/amanda_robinson/"
+    }
+    
+
+    ,
+    "nick_stafford" : {
+        "name": "Nick Stafford",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Driver and Painter"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/nick_stafford/"
+    }
+    
+
+    ,
+    "john_campbell" : {
+        "name": "John Campbell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Publicity"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/john_campbell/"
+    }
+    
+
+    ,
+    "matt_wilson" : {
+        "name": "Matt Wilson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["Design Advice"]
+            }
+        
+            ,{
+                "title": "'Morning on a Rainy day' and 'Capital'",
+                "roles": ["Art"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/matt_wilson/"
+    }
+    
+
+    ,
+    "claude_debussy" : {
+        "name": "Claude Debussy",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "'Crave' and 'The Ruffian On The Stair'",
+                "roles": ["'Ruffian' Musical Composer"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/claude_debussy/"
+    }
+    
+
+    ,
     "phil_hammond" : {
         "name": "Phil Hammond",
         "type": "person",
@@ -6532,439 +6965,6 @@
         ],
         "committees": [],
         "link": "/people/mike_dawe/"
-    }
-    
-
-    ,
-    "toby_brack" : {
-        "name": "Toby Brack",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Mike (The Ruffian On The Stair)"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/toby_brack/"
-    }
-    
-
-    ,
-    "janey_lawson" : {
-        "name": "Janey Lawson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["M (Crave)"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/janey_lawson/"
-    }
-    
-
-    ,
-    "phil_sarson" : {
-        "name": "Phil Sarson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["B (Crave)"]
-            }
-        
-            ,{
-                "title": "'Morning on a Rainy day' and 'Capital'",
-                "roles": ["Ben"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/phil_sarson/"
-    }
-    
-
-    ,
-    "chloe_campbell" : {
-        "name": "Chloe Campbell",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Producer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/chloe_campbell/"
-    }
-    
-
-    ,
-    "lucy_ockenden" : {
-        "name": "Lucy Ockenden",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Lighting Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/lucy_ockenden/"
-    }
-    
-
-    ,
-    "naomi_oppenheim" : {
-        "name": "Naomi Oppenheim",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Stage Manager"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/naomi_oppenheim/"
-    }
-    
-
-    ,
-    "amanda_robinson" : {
-        "name": "Amanda Robinson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Backstage"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/amanda_robinson/"
-    }
-    
-
-    ,
-    "nick_stafford" : {
-        "name": "Nick Stafford",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Driver and Painter"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/nick_stafford/"
-    }
-    
-
-    ,
-    "john_campbell" : {
-        "name": "John Campbell",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Publicity"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/john_campbell/"
-    }
-    
-
-    ,
-    "matt_wilson" : {
-        "name": "Matt Wilson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["Design Advice"]
-            }
-        
-            ,{
-                "title": "'Morning on a Rainy day' and 'Capital'",
-                "roles": ["Art"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/matt_wilson/"
-    }
-    
-
-    ,
-    "claude_debussy" : {
-        "name": "Claude Debussy",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "'Crave' and 'The Ruffian On The Stair'",
-                "roles": ["'Ruffian' Musical Composer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/claude_debussy/"
-    }
-    
-
-    ,
-    "joe_millington" : {
-        "name": "Joe Millington",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Jimmy","Set Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/joe_millington/"
-    }
-    
-
-    ,
-    "jenny_crossley" : {
-        "name": "Jenny Crossley",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Sarah"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jenny_crossley/"
-    }
-    
-
-    ,
-    "charly_brooks" : {
-        "name": "Charly Brooks",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Bridget"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/charly_brooks/"
-    }
-    
-
-    ,
-    "andy_mcdonnell" : {
-        "name": "Andy McDonnell",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Hugh"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/andy_mcdonnell/"
-    }
-    
-
-    ,
-    "chris_roberts" : {
-        "name": "Chris Roberts",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Owen"]
-            }
-        
-            ,{
-                "title": "Amadeus",
-                "roles": ["Count Orsini-Rosenberg","Set Design / Construction"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/chris_roberts/"
-    }
-    
-
-    ,
-    "rob_ridd" : {
-        "name": "Rob Ridd",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Lancey"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/rob_ridd/"
-    }
-    
-
-    ,
-    "rupert_hurley" : {
-        "name": "Rupert Hurley",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Yolland"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/rupert_hurley/"
-    }
-    
-
-    ,
-    "richard_mckelvey" : {
-        "name": "Richard McKelvey",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Producer / Asst Director","Music","Technical Operator","Publicity Designer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/richard_mckelvey/"
-    }
-    
-
-    ,
-    "jane_lawson" : {
-        "name": "Jane Lawson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Stage Manager","Music"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/jane_lawson/"
-    }
-    
-
-    ,
-    "martin_piggott" : {
-        "name": "Martin Piggott",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Music"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/martin_piggott/"
-    }
-    
-
-    ,
-    "tom_kyle" : {
-        "name": "Tom Kyle",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Translations",
-                "roles": ["Music"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/tom_kyle/"
     }
     
 
@@ -7999,6 +7999,117 @@
             }
         ],
         "link": "/people/andy_mcnamee/"
+    }
+    
+
+    ,
+    "james_lewis_15_16_june_dan_downes_14_17_june" : {
+        "name": "James Lewis (15, 16 June) Dan Downes (14, 17 June)",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "The Last 5 Years",
+                "roles": ["Jamie"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/james_lewis_15_16_june_dan_downes_14_17_june/"
+    }
+    
+
+    ,
+    "laura_kaye_thompson_15_16_june_nell_charleston_14_17_june" : {
+        "name": "Laura Kaye Thompson (15, 16 June) Nell Charleston (14, 17 June)",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "The Last 5 Years",
+                "roles": ["Cathy"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/laura_kaye_thompson_15_16_june_nell_charleston_14_17_june/"
+    }
+    
+
+    ,
+    "stephen_james_irvine" : {
+        "name": "Stephen James Irvine",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "The Last 5 Years",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/stephen_james_irvine/"
+    }
+    
+
+    ,
+    "lauren_grant" : {
+        "name": "Lauren Grant",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "The Last 5 Years",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "The Ghetto",
+                "roles": [null]
+            }
+        
+            ,{
+                "title": "Arcadia",
+                "roles": ["Thomaseena"]
+            }
+        
+            ,{
+                "title": "Deus Vult",
+                "roles": ["Elaine"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Stage Manager"]
+            }
+        
+            ,{
+                "title": "The Memory of Water",
+                "roles": ["Producer"]
+            }
+        
+            ,{
+                "title": "Jerusalem",
+                "roles": ["Technical Operator"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2010-11",
+                "roles": ["Front of House Manager"]
+            }
+        ],
+        "link": "/people/lauren_grant/"
     }
     
 
@@ -9493,55 +9604,6 @@
         ],
         "committees": [],
         "link": "/people/cem_aytacli/"
-    }
-    
-
-    ,
-    "lauren_grant" : {
-        "name": "Lauren Grant",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "The Ghetto",
-                "roles": [null]
-            }
-        
-            ,{
-                "title": "Arcadia",
-                "roles": ["Thomaseena"]
-            }
-        
-            ,{
-                "title": "Deus Vult",
-                "roles": ["Elaine"]
-            }
-        
-            ,{
-                "title": "Macbeth",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "The Memory of Water",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Jerusalem",
-                "roles": ["Technical Operator"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2010-11",
-                "roles": ["Front of House Manager"]
-            }
-        ],
-        "link": "/people/lauren_grant/"
     }
     
 

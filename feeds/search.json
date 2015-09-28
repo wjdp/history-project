@@ -2863,6 +2863,28 @@
 
     
     ,{
+        "title": "Freshers' Fringe",
+        "type": "show",
+        
+        
+        
+        "year_title": "2009 - 10",
+        "content": "\n",
+        "playwright": "(Various)",
+        "season": "In House",
+        "venue": ["New Theatre"],
+        "link": "/years/09_10/freshers_fringe/",
+        "date": "2009-10-16",
+        "run": "16 - 17 October 2009",
+        "excerpt": "\n",
+        "cast": "",
+        "crew": ""
+    }
+    
+    
+
+    
+    ,{
         "title": "The Ghetto",
         "type": "show",
         
@@ -12731,281 +12753,6 @@
     
 
     ,{
-        "title": "Joe Millington",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/joe_millington/"
-    }
-    
-
-    ,{
-        "title": "Jenny Crossley",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/jenny_crossley/"
-    }
-    
-
-    ,{
-        "title": "Charly Brooks",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/charly_brooks/"
-    }
-    
-
-    ,{
-        "title": "Andy McDonnell",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/andy_mcdonnell/"
-    }
-    
-
-    ,{
-        "title": "Chris Roberts",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/chris_roberts/"
-    }
-    
-
-    ,{
-        "title": "Rob Ridd",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/rob_ridd/"
-    }
-    
-
-    ,{
-        "title": "Rupert Hurley",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/rupert_hurley/"
-    }
-    
-
-    ,{
-        "title": "Richard McKelvey",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/richard_mckelvey/"
-    }
-    
-
-    ,{
-        "title": "Jane Lawson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/jane_lawson/"
-    }
-    
-
-    ,{
-        "title": "Martin Piggott",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/martin_piggott/"
-    }
-    
-
-    ,{
-        "title": "Tom Kyle",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/tom_kyle/"
-    }
-    
-
-    ,{
-        "title": "Chris Robers",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/chris_robers/"
-    }
-    
-
-    ,{
-        "title": "Sam Taylor",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/sam_taylor/"
-    }
-    
-
-    ,{
-        "title": "Sam Partridge",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/sam_partridge/"
-    }
-    
-
-    ,{
-        "title": "Toby Brack",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/toby_brack/"
-    }
-    
-
-    ,{
-        "title": "Janey Lawson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/janey_lawson/"
-    }
-    
-
-    ,{
-        "title": "Phil Sarson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/phil_sarson/"
-    }
-    
-
-    ,{
-        "title": "Chloe Campbell",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/chloe_campbell/"
-    }
-    
-
-    ,{
-        "title": "Lucy Ockenden",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/lucy_ockenden/"
-    }
-    
-
-    ,{
-        "title": "Naomi Oppenheim",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/naomi_oppenheim/"
-    }
-    
-
-    ,{
-        "title": "Amanda Robinson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/amanda_robinson/"
-    }
-    
-
-    ,{
-        "title": "Nick Stafford",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/nick_stafford/"
-    }
-    
-
-    ,{
-        "title": "John Campbell",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/john_campbell/"
-    }
-    
-
-    ,{
-        "title": "Matt Wilson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/matt_wilson/"
-    }
-    
-
-    ,{
-        "title": "Claude Debussy",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/claude_debussy/"
-    }
-    
-
-    ,{
         "title": "Phil Hammond",
         "type": "person",
         "excerpt": "",
@@ -13189,6 +12936,281 @@
         "graduated": null,
         "award": null,
         "link": "/people/mike_dawe/"
+    }
+    
+
+    ,{
+        "title": "Toby Brack",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/toby_brack/"
+    }
+    
+
+    ,{
+        "title": "Janey Lawson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/janey_lawson/"
+    }
+    
+
+    ,{
+        "title": "Phil Sarson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/phil_sarson/"
+    }
+    
+
+    ,{
+        "title": "Chloe Campbell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/chloe_campbell/"
+    }
+    
+
+    ,{
+        "title": "Lucy Ockenden",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/lucy_ockenden/"
+    }
+    
+
+    ,{
+        "title": "Naomi Oppenheim",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/naomi_oppenheim/"
+    }
+    
+
+    ,{
+        "title": "Amanda Robinson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/amanda_robinson/"
+    }
+    
+
+    ,{
+        "title": "Nick Stafford",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/nick_stafford/"
+    }
+    
+
+    ,{
+        "title": "John Campbell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/john_campbell/"
+    }
+    
+
+    ,{
+        "title": "Matt Wilson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/matt_wilson/"
+    }
+    
+
+    ,{
+        "title": "Claude Debussy",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/claude_debussy/"
+    }
+    
+
+    ,{
+        "title": "Joe Millington",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/joe_millington/"
+    }
+    
+
+    ,{
+        "title": "Jenny Crossley",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/jenny_crossley/"
+    }
+    
+
+    ,{
+        "title": "Charly Brooks",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/charly_brooks/"
+    }
+    
+
+    ,{
+        "title": "Andy McDonnell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/andy_mcdonnell/"
+    }
+    
+
+    ,{
+        "title": "Chris Roberts",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/chris_roberts/"
+    }
+    
+
+    ,{
+        "title": "Rob Ridd",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/rob_ridd/"
+    }
+    
+
+    ,{
+        "title": "Rupert Hurley",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/rupert_hurley/"
+    }
+    
+
+    ,{
+        "title": "Richard McKelvey",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/richard_mckelvey/"
+    }
+    
+
+    ,{
+        "title": "Jane Lawson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/jane_lawson/"
+    }
+    
+
+    ,{
+        "title": "Martin Piggott",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/martin_piggott/"
+    }
+    
+
+    ,{
+        "title": "Tom Kyle",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/tom_kyle/"
+    }
+    
+
+    ,{
+        "title": "Chris Robers",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/chris_robers/"
+    }
+    
+
+    ,{
+        "title": "Sam Taylor",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/sam_taylor/"
+    }
+    
+
+    ,{
+        "title": "Sam Partridge",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/sam_partridge/"
     }
     
 
@@ -19537,7 +19559,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-28 19:42\n      Build number 810\n.\n      439 shows, 19 committees and 897 people.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-28 19:48\n      Build number 811\n.\n      440 shows, 19 committees and 897 people.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing..."
@@ -19735,10 +19757,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n28 Sep - Create vday_2011_any_one_of_us_words_from_prison.md28 Sep - Make a postwall bodge for launch and IE, closes #21228 Sep - Update search collect content, alumni -&gt; alumnus28 Sep - comments -&gt; comment attribute28 Sep - Update a_bunch_of_talentless_wannabes.md28 Sep - Update a_bunch_of_talentless_wannabes.md28 Sep - Create a_bunch_of_talentless_wannabes.md28 Sep - Delete A Bunch of Talentless Wannabe's28 Sep - Create A Bunch of Talentless Wannabe's28 Sep - Alumni bios section page, closes #200\n",
+        "content": " Recent Changes\n\n28 Sep - Create freshers_fringe.md28 Sep - Create vday_2011_any_one_of_us_words_from_prison.md28 Sep - Make a postwall bodge for launch and IE, closes #21228 Sep - Update search collect content, alumni -&gt; alumnus28 Sep - comments -&gt; comment attribute28 Sep - Update a_bunch_of_talentless_wannabes.md28 Sep - Update a_bunch_of_talentless_wannabes.md28 Sep - Create a_bunch_of_talentless_wannabes.md28 Sep - Delete A Bunch of Talentless Wannabe's28 Sep - Create A Bunch of Talentless Wannabe's\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 28 Sep - Create vday_2011_any_one_of_us_words_from_prison.md28 Sep - Make a postwall bodge for launch and IE, closes #21228 Sep - Update search collect content, alumni -&gt; alumnus28 Sep - comments -&gt; comment attribute28 Sep - Update a_bunch_of_talentless_wannabes.md28 Sep - Update a_bunch_of_talentless_wannabes.md28 Sep - Create a_bunch_of_talentless_wannabes.md28 Sep - Delete A..."
+        "excerpt": "Recent Changes 28 Sep - Create freshers_fringe.md28 Sep - Create vday_2011_any_one_of_us_words_from_prison.md28 Sep - Make a postwall bodge for launch and IE, closes #21228 Sep - Update search collect content, alumni -&gt; alumnus28 Sep - comments -&gt; comment attribute28 Sep - Update a_bunch_of_talentless_wannabes.md28 Sep - Update a_bunch_of_talentless_wannabes.md28 Sep - Create a_bunch_of_talentless_wannabes.md28..."
     }
     
     
@@ -19771,6 +19793,8 @@
         "excerpt": "The show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'. ## Attribute Reference | Attribute | Job | Description | |:-|:-|:-| | `title` | Show title | Displayed at the top of the show page and on various other pages. | | `playwright` | Full name..."
     }
     
+    
+
     
 
     

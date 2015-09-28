@@ -442,6 +442,9 @@
     <loc>http://history.newtheatre.org.uk/years/09_10/excess/</loc>
   </url>
   <url>
+    <loc>http://history.newtheatre.org.uk/years/09_10/freshers_fringe/</loc>
+  </url>
+  <url>
     <loc>http://history.newtheatre.org.uk/years/09_10/ghetto/</loc>
   </url>
   <url>
@@ -2263,81 +2266,6 @@
     <loc>http://history.newtheatre.org.uk/people/alex_turner/</loc>
   </url>
   <url>
-    <loc>http://history.newtheatre.org.uk/people/joe_millington/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/jenny_crossley/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/charly_brooks/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/andy_mcdonnell/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/chris_roberts/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/rob_ridd/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/rupert_hurley/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/richard_mckelvey/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/jane_lawson/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/martin_piggott/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/tom_kyle/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/chris_robers/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/sam_taylor/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/sam_partridge/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/toby_brack/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/janey_lawson/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/phil_sarson/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/chloe_campbell/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/lucy_ockenden/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/naomi_oppenheim/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/amanda_robinson/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/nick_stafford/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/john_campbell/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/matt_wilson/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/claude_debussy/</loc>
-  </url>
-  <url>
     <loc>http://history.newtheatre.org.uk/people/phil_hammond/</loc>
   </url>
   <url>
@@ -2387,6 +2315,81 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/people/mike_dawe/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/toby_brack/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/janey_lawson/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/phil_sarson/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/chloe_campbell/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/lucy_ockenden/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/naomi_oppenheim/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/amanda_robinson/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/nick_stafford/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/john_campbell/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/matt_wilson/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/claude_debussy/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/joe_millington/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/jenny_crossley/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/charly_brooks/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/andy_mcdonnell/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/chris_roberts/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/rob_ridd/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/rupert_hurley/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/richard_mckelvey/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/jane_lawson/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/martin_piggott/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/tom_kyle/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/chris_robers/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/sam_taylor/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/sam_partridge/</loc>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/people/matt_jones/</loc>
@@ -4118,7 +4121,7 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/googlee5aee69e17917677.html</loc>
-    <lastmod>2015-09-28T19:41:47+00:00</lastmod>
+    <lastmod>2015-09-28T19:48:36+00:00</lastmod>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>

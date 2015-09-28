@@ -13354,6 +13354,25 @@
     
 
     ,
+    "adam_h_wells" : {
+        "name": "Adam H Wells",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Chasing Dragons",
+                "roles": ["Director"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/adam_h_wells/"
+    }
+    
+
+    ,
     "georgina_norie" : {
         "name": "Georgina Norie",
         "type": "person",

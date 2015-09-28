@@ -19537,7 +19537,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-27 07:27\n      Build number 795\n.\n      437 shows, 19 committees and 901 people.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-28 00:21\n      Build number 798\n.\n      437 shows, 19 committees and 901 people.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing..."
@@ -19630,6 +19630,8 @@
     
 
     
+
+    
     ,{
         "title": "Tell us about a show",
         "type": "page",
@@ -19653,8 +19655,6 @@
         "excerpt": "Your Details Name and year of graduation. We may contact you using your alumni membership contact details. If you have not yet registered for the Alumni Network please do so here. Your course What course or courses did you study at Nottingham? Your time at the theatre An overview of..."
     }
     
-    
-
     
 
     
@@ -19735,10 +19735,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n27 Sep - Reconcile people names N-Z\n\nI may have made errors!\n\nAlso 1000th commit, WOOO!!!!27 Sep - Add some more design tests27 Sep - Generate virtual people pages from a central index\n\nUsed to do from show cast/crew lists only, missed\npeople who were just on committees. Fixes #18027 Sep - Add 'someone missing' report form link to person_list\n\ncloses #15727 Sep - Hide modal scrollbars when not needed27 Sep - Only include person_list.html if there are people to show27 Sep - Make logo NNT rather than NT, closes #16027 Sep - Comments on top of all Sass files24 Sep - Update cast/crew\n\nInfo from Nick Stevenson, Producer. Closes #19324 Sep - Update cast/crew\n\nInfo from Logan, Director and Writer\n",
+        "content": " Recent Changes\n\n28 Sep - Merge pull request #205 from newtheatre/index-layout-design-changes\n\nHomepage Redesign27 Sep - Various buildling new home27 Sep - Make posterwall work!27 Sep - Various, incomplete changes to home27 Sep - Tweak to nav tab inactive colour27 Sep - Reconcile people names N-Z\n\nI may have made errors!\n\nAlso 1000th commit, WOOO!!!!27 Sep - Add some more design tests27 Sep - Generate virtual people pages from a central index\n\nUsed to do from show cast/crew lists only, missed\npeople who were just on committees. Fixes #18027 Sep - Add 'someone missing' report form link to person_list\n\ncloses #15727 Sep - Hide modal scrollbars when not needed\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 27 Sep - Reconcile people names N-Z I may have made errors! Also 1000th commit, WOOO!!!!27 Sep - Add some more design tests27 Sep - Generate virtual people pages from a central index Used to do from show cast/crew lists only, missed people who were just on committees...."
+        "excerpt": "Recent Changes 28 Sep - Merge pull request #205 from newtheatre/index-layout-design-changes Homepage Redesign27 Sep - Various buildling new home27 Sep - Make posterwall work!27 Sep - Various, incomplete changes to home27 Sep - Tweak to nav tab inactive colour27 Sep - Reconcile people names N-Z I may have made errors!..."
     }
     
     

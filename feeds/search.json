@@ -3141,7 +3141,7 @@
         "date": "2010-06-14",
         "run": "14 - 17 June 2010",
         "excerpt": "\n",
-        "cast": "James Lewis (15, 16 June) Dan Downes (14, 17 June), Laura Kaye Thompson (15, 16 June) Nell Charleston (14, 17 June), ",
+        "cast": "James Lewis, Dan Downes, Laura Kaye Thompson, Nell Charleston, ",
         "crew": "Stephen James Irvine, Lauren Grant, "
     }
     
@@ -12885,248 +12885,6 @@
     
 
     ,{
-        "title": "Joe Millington",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/joe_millington/"
-    }
-    
-
-    ,{
-        "title": "Jenny Crossley",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/jenny_crossley/"
-    }
-    
-
-    ,{
-        "title": "Charly Brooks",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/charly_brooks/"
-    }
-    
-
-    ,{
-        "title": "Andy McDonnell",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/andy_mcdonnell/"
-    }
-    
-
-    ,{
-        "title": "Chris Roberts",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/chris_roberts/"
-    }
-    
-
-    ,{
-        "title": "Rob Ridd",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/rob_ridd/"
-    }
-    
-
-    ,{
-        "title": "Rupert Hurley",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/rupert_hurley/"
-    }
-    
-
-    ,{
-        "title": "Richard McKelvey",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/richard_mckelvey/"
-    }
-    
-
-    ,{
-        "title": "Jane Lawson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/jane_lawson/"
-    }
-    
-
-    ,{
-        "title": "Martin Piggott",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/martin_piggott/"
-    }
-    
-
-    ,{
-        "title": "Tom Kyle",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/tom_kyle/"
-    }
-    
-
-    ,{
-        "title": "Toby Brack",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/toby_brack/"
-    }
-    
-
-    ,{
-        "title": "Janey Lawson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/janey_lawson/"
-    }
-    
-
-    ,{
-        "title": "Phil Sarson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/phil_sarson/"
-    }
-    
-
-    ,{
-        "title": "Chloe Campbell",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/chloe_campbell/"
-    }
-    
-
-    ,{
-        "title": "Lucy Ockenden",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/lucy_ockenden/"
-    }
-    
-
-    ,{
-        "title": "Naomi Oppenheim",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/naomi_oppenheim/"
-    }
-    
-
-    ,{
-        "title": "Amanda Robinson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/amanda_robinson/"
-    }
-    
-
-    ,{
-        "title": "Nick Stafford",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/nick_stafford/"
-    }
-    
-
-    ,{
-        "title": "John Campbell",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/john_campbell/"
-    }
-    
-
-    ,{
-        "title": "Matt Wilson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/matt_wilson/"
-    }
-    
-
-    ,{
-        "title": "Claude Debussy",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/claude_debussy/"
-    }
-    
-
-    ,{
         "title": "Phil Hammond",
         "type": "person",
         "excerpt": "",
@@ -13310,6 +13068,248 @@
         "graduated": null,
         "award": null,
         "link": "/people/mike_dawe/"
+    }
+    
+
+    ,{
+        "title": "Toby Brack",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/toby_brack/"
+    }
+    
+
+    ,{
+        "title": "Janey Lawson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/janey_lawson/"
+    }
+    
+
+    ,{
+        "title": "Phil Sarson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/phil_sarson/"
+    }
+    
+
+    ,{
+        "title": "Chloe Campbell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/chloe_campbell/"
+    }
+    
+
+    ,{
+        "title": "Lucy Ockenden",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/lucy_ockenden/"
+    }
+    
+
+    ,{
+        "title": "Naomi Oppenheim",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/naomi_oppenheim/"
+    }
+    
+
+    ,{
+        "title": "Amanda Robinson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/amanda_robinson/"
+    }
+    
+
+    ,{
+        "title": "Nick Stafford",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/nick_stafford/"
+    }
+    
+
+    ,{
+        "title": "John Campbell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/john_campbell/"
+    }
+    
+
+    ,{
+        "title": "Matt Wilson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/matt_wilson/"
+    }
+    
+
+    ,{
+        "title": "Claude Debussy",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/claude_debussy/"
+    }
+    
+
+    ,{
+        "title": "Joe Millington",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/joe_millington/"
+    }
+    
+
+    ,{
+        "title": "Jenny Crossley",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/jenny_crossley/"
+    }
+    
+
+    ,{
+        "title": "Charly Brooks",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/charly_brooks/"
+    }
+    
+
+    ,{
+        "title": "Andy McDonnell",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/andy_mcdonnell/"
+    }
+    
+
+    ,{
+        "title": "Chris Roberts",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/chris_roberts/"
+    }
+    
+
+    ,{
+        "title": "Rob Ridd",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/rob_ridd/"
+    }
+    
+
+    ,{
+        "title": "Rupert Hurley",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/rupert_hurley/"
+    }
+    
+
+    ,{
+        "title": "Richard McKelvey",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/richard_mckelvey/"
+    }
+    
+
+    ,{
+        "title": "Jane Lawson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/jane_lawson/"
+    }
+    
+
+    ,{
+        "title": "Martin Piggott",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/martin_piggott/"
+    }
+    
+
+    ,{
+        "title": "Tom Kyle",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/tom_kyle/"
     }
     
 
@@ -13875,50 +13875,6 @@
     
 
     ,{
-        "title": "James Lewis (15, 16 June) Dan Downes (14, 17 June)",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/james_lewis_15_16_june_dan_downes_14_17_june/"
-    }
-    
-
-    ,{
-        "title": "Laura Kaye Thompson (15, 16 June) Nell Charleston (14, 17 June)",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/laura_kaye_thompson_15_16_june_nell_charleston_14_17_june/"
-    }
-    
-
-    ,{
-        "title": "Stephen James Irvine",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/stephen_james_irvine/"
-    }
-    
-
-    ,{
-        "title": "Lauren Grant",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/lauren_grant/"
-    }
-    
-
-    ,{
         "title": "Ollie Silver",
         "type": "person",
         "excerpt": "",
@@ -14421,6 +14377,17 @@
         "graduated": null,
         "award": null,
         "link": "/people/cem_aytacli/"
+    }
+    
+
+    ,{
+        "title": "Lauren Grant",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/lauren_grant/"
     }
     
 
@@ -15250,6 +15217,39 @@
     
 
     ,{
+        "title": "Dan Downes",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/dan_downes/"
+    }
+    
+
+    ,{
+        "title": "Laura Kaye Thompson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/laura_kaye_thompson/"
+    }
+    
+
+    ,{
+        "title": "Stephen James Irvine",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/stephen_james_irvine/"
+    }
+    
+
+    ,{
         "title": "Sean Jones",
         "type": "person",
         "excerpt": "",
@@ -15345,17 +15345,6 @@
         "graduated": null,
         "award": null,
         "link": "/people/pete_allott/"
-    }
-    
-
-    ,{
-        "title": "Dan Downes",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/dan_downes/"
     }
     
 
@@ -19746,7 +19735,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-28 20:45\n      Build number 819\n.\n      446 shows, 19 committees and 902 people.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-28 22:20\n      Build number 821\n.\n      446 shows, 19 committees and 901 people.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing..."
@@ -19944,10 +19933,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n28 Sep - Create the_last_5_years.md28 Sep - Update holy_matrimony.md28 Sep - Create holy_matrimony.md28 Sep - Create freshers_fringe.md28 Sep - Create chasing_dragons.md28 Sep - Create beef.md28 Sep - Rename bright_ideas_an_evening_of_new_writing to bright_ideas_an_evening_of_new_writing.md28 Sep - Create bright_ideas_an_evening_of_new_writing28 Sep - Create freshers_fringe.md28 Sep - Create vday_2011_any_one_of_us_words_from_prison.md\n",
+        "content": " Recent Changes\n\n28 Sep - Fix cast names with notes\n\nCast names fixed28 Sep - Update the_last_5_years.md28 Sep - Create the_last_5_years.md28 Sep - Update holy_matrimony.md28 Sep - Create holy_matrimony.md28 Sep - Create freshers_fringe.md28 Sep - Create chasing_dragons.md28 Sep - Create beef.md28 Sep - Rename bright_ideas_an_evening_of_new_writing to bright_ideas_an_evening_of_new_writing.md28 Sep - Create bright_ideas_an_evening_of_new_writing\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": " Recent Changes\n\n28 Sep - Create the_last_5_years.md28 Sep - Update holy_matrimony.md28 Sep - Create holy_matrimony.md28 Sep - Create freshers_fringe.md28 Sep - Create chasing_dragons.md28 Sep - Create beef.md28 Sep - Rename bright_ideas_an_evening_of_new_writing to bright_ideas_an_evening_of_new_writing.md28 Sep - Create bright_ideas_an_evening_of_new_writing28 Sep - Create freshers_fringe.md28 Sep - Create vday_2011_any_one_of_us_words_from_prison.md\n"
+        "excerpt": "Recent Changes 28 Sep - Fix cast names with notes Cast names fixed28 Sep - Update the_last_5_years.md28 Sep - Create the_last_5_years.md28 Sep - Update holy_matrimony.md28 Sep - Create holy_matrimony.md28 Sep - Create freshers_fringe.md28 Sep - Create chasing_dragons.md28 Sep - Create beef.md28 Sep - Rename bright_ideas_an_evening_of_new_writing to bright_ideas_an_evening_of_new_writing.md28 Sep - Create..."
     }
     
     

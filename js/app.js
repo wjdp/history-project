@@ -279,6 +279,7 @@
     } else {
       sView.renderBlank();
     }
+    $('#q').focus();
     return $('#q').keyup(debounce(function() {
       var query;
       if ($(this).val().length < 2) {

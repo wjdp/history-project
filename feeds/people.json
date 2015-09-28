@@ -8791,110 +8791,6 @@
     
 
     ,
-    "philip_geller" : {
-        "name": "Philip Geller",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "The Country",
-                "roles": ["Set Designer","Technical Director"]
-            }
-        
-            ,{
-                "title": "The Importance Of Being Earnest",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "The Ghetto",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Rhinocerous",
-                "roles": ["Technical Director","Technical Operator"]
-            }
-        
-            ,{
-                "title": "The Winterling",
-                "roles": ["Set Designer","Technical Director"]
-            }
-        
-            ,{
-                "title": "Road",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "The Real Inspector Hound",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "The Small Things",
-                "roles": ["Technical Director","Set Construction"]
-            }
-        
-            ,{
-                "title": "Orphans",
-                "roles": ["Designer","Technical Director"]
-            }
-        
-            ,{
-                "title": "Bluebird",
-                "roles": ["Designer"]
-            }
-        
-            ,{
-                "title": "Arcadia",
-                "roles": ["Designer"]
-            }
-        
-            ,{
-                "title": "After the End",
-                "roles": ["Set Designer"]
-            }
-        
-            ,{
-                "title": "Rope",
-                "roles": ["Set Designer","Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Educating Rita",
-                "roles": ["Window Designer/Builder"]
-            }
-        
-            ,{
-                "title": "Boeing Boeing",
-                "roles": ["Set Designer","Set Construction"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2008-09",
-                "roles": ["Technical Manager"]
-            }
-        
-            ,{
-                "title": "2009-10",
-                "roles": ["Theatre Manager"]
-            }
-        
-            ,{
-                "title": "2010-11",
-                "roles": ["Workshop Manager"]
-            }
-        ],
-        "link": "/people/philip_geller/"
-    }
-    
-
-    ,
     "matt_leventhall" : {
         "name": "Matt Leventhall",
         "type": "person",
@@ -14102,70 +13998,6 @@
     
 
     ,
-    "nick_stevenson" : {
-        "name": "Nick Stevenson",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Bed",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Charley's Aunt",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "The Pillowman",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Wild West End",
-                "roles": ["Musical Director"]
-            }
-        
-            ,{
-                "title": "Boeing Boeing",
-                "roles": ["Stage Manager"]
-            }
-        
-            ,{
-                "title": "Titus Andronicus",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Romeo And Juliet",
-                "roles": ["Producer"]
-            }
-        
-            ,{
-                "title": "Dr Faustus",
-                "roles": ["Assistant to Producer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2012-13",
-                "roles": ["Treasurer"]
-            }
-        
-            ,{
-                "title": "2013-14",
-                "roles": ["President"]
-            }
-        ],
-        "link": "/people/nick_stevenson/"
-    }
-    
-
-    ,
     "grace_lowe" : {
         "name": "Grace Lowe",
         "type": "person",
@@ -14777,145 +14609,6 @@
         ],
         "committees": [],
         "link": "/people/dan_turek/"
-    }
-    
-
-    ,
-    "will_pimblett" : {
-        "name": "Will Pimblett",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Faust is Dead",
-                "roles": ["Video Designer"]
-            }
-        
-            ,{
-                "title": "The Beauty Queen of Leenane",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Innocent Infidelity",
-                "roles": ["Technical Director","Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Charley's Aunt",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Freshers' Fringe",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Mercury Fur",
-                "roles": ["Technical Director","Lighting Designer"]
-            }
-        
-            ,{
-                "title": "'night, Mother",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Nineteen Eighty-Four",
-                "roles": ["Lighting Designer","Photography"]
-            }
-        
-            ,{
-                "title": "Wild West End",
-                "roles": ["Sound Engineer"]
-            }
-        
-            ,{
-                "title": "Posh",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "East",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Mary Shelley's Frankenstein",
-                "roles": ["Lighting Designer","Video Designer"]
-            }
-        
-            ,{
-                "title": "Freshers' Fringe",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Fox Finder",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Back to Oblivion",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Molly Sweeney",
-                "roles": ["Technical Director","Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Titus Andronicus",
-                "roles": ["Photography"]
-            }
-        
-            ,{
-                "title": "Habeas Corpus",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Concrete Boots",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Equus",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "A Servant To Two Masters",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "Krapp's Last Tape",
-                "roles": ["Lighting Designer"]
-            }
-        
-            ,{
-                "title": "The Final Act",
-                "roles": ["Lighting Designer","Sound Engineer"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2012-13",
-                "roles": ["Technical Manager"]
-            }
-        
-            ,{
-                "title": "2013-14",
-                "roles": ["Technical Manager"]
-            }
-        ],
-        "link": "/people/will_pimblett/"
     }
     
 
@@ -21165,7 +20858,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2005-06",
+                "roles": ["President"]
+            }
+        ],
         "link": "/people/emma_barnett/"
     }
     
@@ -21179,7 +20877,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2005-06",
+                "roles": ["unknown"]
+            }
+        ],
         "link": "/people/rufus_tanner/"
     }
     
@@ -21193,7 +20896,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2005-06",
+                "roles": ["unknown"]
+            }
+        ],
         "link": "/people/david_maih/"
     }
     
@@ -21207,7 +20915,17 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2005-06",
+                "roles": ["unknown"]
+            }
+        
+            ,{
+                "title": "2006-07",
+                "roles": ["Social Secretary"]
+            }
+        ],
         "link": "/people/emily_medhurst/"
     }
     
@@ -21221,7 +20939,22 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2005-06",
+                "roles": ["Productions Coordinator?"]
+            }
+        
+            ,{
+                "title": "2006-07",
+                "roles": ["President"]
+            }
+        
+            ,{
+                "title": "2007-08",
+                "roles": ["Business Manager"]
+            }
+        ],
         "link": "/people/charlie_brafman/"
     }
     
@@ -21235,7 +20968,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2005-06",
+                "roles": ["unknown"]
+            }
+        ],
         "link": "/people/mary_anne_obrian/"
     }
     
@@ -21249,7 +20987,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Treasurer"]
+            }
+        ],
         "link": "/people/megan_allyse/"
     }
     
@@ -21263,7 +21006,17 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Theatre Manager"]
+            }
+        
+            ,{
+                "title": "2007-08",
+                "roles": ["President"]
+            }
+        ],
         "link": "/people/ali_blackwell/"
     }
     
@@ -21277,7 +21030,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Secretary"]
+            }
+        ],
         "link": "/people/eliana_zur-szpiro/"
     }
     
@@ -21291,7 +21049,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
         "link": "/people/dave_stephenson/"
     }
     
@@ -21305,7 +21068,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Health and Safety Officer"]
+            }
+        ],
         "link": "/people/georgie_strawson/"
     }
     
@@ -21319,7 +21087,17 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Workshop Manager"]
+            }
+        
+            ,{
+                "title": "2007-08",
+                "roles": ["Workshop Manager"]
+            }
+        ],
         "link": "/people/johnny_skinner/"
     }
     
@@ -21333,7 +21111,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Workshop Manager"]
+            }
+        ],
         "link": "/people/dom_donocik/"
     }
     
@@ -21347,7 +21130,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Publicity Officer"]
+            }
+        ],
         "link": "/people/guy_unsworth/"
     }
     
@@ -21361,7 +21149,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["External Events Coordinator"]
+            }
+        ],
         "link": "/people/ben_ford/"
     }
     
@@ -21375,7 +21168,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Edinburgh Coordinator"]
+            }
+        ],
         "link": "/people/michelle_ghatan/"
     }
     
@@ -21389,7 +21187,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2006-07",
+                "roles": ["Costumes Manager"]
+            }
+        ],
         "link": "/people/maryann_obrien/"
     }
     
@@ -21403,7 +21206,17 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Theatre Manager"]
+            }
+        
+            ,{
+                "title": "2008-09",
+                "roles": ["Social Secretary"]
+            }
+        ],
         "link": "/people/lee_denny/"
     }
     
@@ -21417,7 +21230,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Secretary"]
+            }
+        ],
         "link": "/people/nick_breen/"
     }
     
@@ -21431,7 +21249,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
         "link": "/people/sam_morris/"
     }
     
@@ -21445,7 +21268,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Company Technical Director"]
+            }
+        ],
         "link": "/people/tammy_ingamells/"
     }
     
@@ -21459,7 +21287,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Publicity and Internal Marketing Manager"]
+            }
+        ],
         "link": "/people/maia_gibbs/"
     }
     
@@ -21473,7 +21306,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Edinburgh and Social Secretary"]
+            }
+        ],
         "link": "/people/tom_warren/"
     }
     
@@ -21487,7 +21325,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2007-08",
+                "roles": ["Costume and Props Manager"]
+            }
+        ],
         "link": "/people/krystyna_liakh/"
     }
     
@@ -21501,7 +21344,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2008-09",
+                "roles": ["Secretary"]
+            }
+        ],
         "link": "/people/nick_medhurst/"
     }
     
@@ -21515,7 +21363,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2008-09",
+                "roles": ["Productions Coordinator"]
+            }
+        ],
         "link": "/people/johnny_steer/"
     }
     
@@ -21529,7 +21382,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2008-09",
+                "roles": ["Workshop Manager"]
+            }
+        ],
         "link": "/people/victoria_aukland/"
     }
     
@@ -21543,7 +21401,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2008-09",
+                "roles": ["Workshop Manager"]
+            }
+        ],
         "link": "/people/katie_blumenblatt/"
     }
     
@@ -21557,7 +21420,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2008-09",
+                "roles": ["Costumes Manager"]
+            }
+        ],
         "link": "/people/lauren_knight/"
     }
     
@@ -21571,7 +21439,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2008-09",
+                "roles": ["Costumes Manager"]
+            }
+        ],
         "link": "/people/laura_free/"
     }
     
@@ -21585,7 +21458,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2009-10",
+                "roles": ["Assistant Workshop Manager"]
+            }
+        ],
         "link": "/people/luke_steaggles/"
     }
     
@@ -21599,7 +21477,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2009-10",
+                "roles": ["Technical Director"]
+            }
+        ],
         "link": "/people/fu_bu/"
     }
     
@@ -21613,7 +21496,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2009-10",
+                "roles": ["Social Secretary"]
+            }
+        ],
         "link": "/people/chilli_wright/"
     }
     
@@ -21627,7 +21515,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2010-11",
+                "roles": ["Assistant Workshop Manager"]
+            }
+        ],
         "link": "/people/christopher_walters/"
     }
     
@@ -21641,7 +21534,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2010-11",
+                "roles": ["Social Secretary"]
+            }
+        ],
         "link": "/people/frances_rylands/"
     }
     
@@ -21655,7 +21553,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2012-13",
+                "roles": ["Secretary"]
+            }
+        ],
         "link": "/people/emma_louise_amanshia/"
     }
     
@@ -21669,7 +21572,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2012-13",
+                "roles": ["Workshop Manager"]
+            }
+        ],
         "link": "/people/steph_warren/"
     }
     
@@ -21683,7 +21591,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2015-16",
+                "roles": ["Treasurer"]
+            }
+        ],
         "link": "/people/laura_jayne_bateman/"
     }
     
@@ -21697,7 +21610,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2015-16",
+                "roles": ["Company Stage Manager"]
+            }
+        ],
         "link": "/people/darcey_graham/"
     }
     
@@ -21711,7 +21629,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2015-16",
+                "roles": ["Workshop Manager"]
+            }
+        ],
         "link": "/people/joe_strickland/"
     }
     
@@ -21725,7 +21648,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2015-16",
+                "roles": ["Workshop Manager"]
+            }
+        ],
         "link": "/people/beth_wilson/"
     }
     
@@ -21739,7 +21667,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2015-16",
+                "roles": ["Publicity and Internal Marketing Manager"]
+            }
+        ],
         "link": "/people/max_miller/"
     }
     
@@ -21753,7 +21686,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2015-16",
+                "roles": ["Fringe Coordinator"]
+            }
+        ],
         "link": "/people/niamh_caines/"
     }
     
@@ -21767,7 +21705,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2015-16",
+                "roles": ["Costume and Props Manager"]
+            }
+        ],
         "link": "/people/charlotte_kirkman/"
     }
     
@@ -21781,7 +21724,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1970-71",
+                "roles": ["Technical Director"]
+            }
+        ],
         "link": "/people/rod_craig/"
     }
     
@@ -21795,7 +21743,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1971-72",
+                "roles": ["President"]
+            }
+        ],
         "link": "/people/david_jones/"
     }
     
@@ -21809,7 +21762,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1971-72",
+                "roles": ["Secretary"]
+            }
+        ],
         "link": "/people/alisa_gibson/"
     }
     
@@ -21823,7 +21781,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1971-72",
+                "roles": ["Business Manager"]
+            }
+        ],
         "link": "/people/brian_kerr/"
     }
     
@@ -21837,7 +21800,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1971-72",
+                "roles": ["Theatre Manager (ex off)"]
+            }
+        ],
         "link": "/people/timothy_haughton/"
     }
     
@@ -21851,7 +21819,17 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1971-72",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "1972-73",
+                "roles": ["Technical Committee Rep"]
+            }
+        ],
         "link": "/people/jamie_justham/"
     }
     
@@ -21865,7 +21843,17 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1971-72",
+                "roles": ["Committee Members"]
+            }
+        
+            ,{
+                "title": "1972-73",
+                "roles": ["Secretary"]
+            }
+        ],
         "link": "/people/andrew_gould/"
     }
     
@@ -21879,7 +21867,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1972-73",
+                "roles": ["President"]
+            }
+        ],
         "link": "/people/mark_hammond/"
     }
     
@@ -21893,7 +21886,17 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1972-73",
+                "roles": ["Theatre Manager"]
+            }
+        
+            ,{
+                "title": "1973-74",
+                "roles": ["Theatre Manager"]
+            }
+        ],
         "link": "/people/rob_ashburn/"
     }
     
@@ -21907,7 +21910,17 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1972-73",
+                "roles": ["Committee Member"]
+            }
+        
+            ,{
+                "title": "1973-74",
+                "roles": ["Secretary"]
+            }
+        ],
         "link": "/people/isabelle_wallace/"
     }
     
@@ -21921,7 +21934,17 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1972-73",
+                "roles": ["Committee Members"]
+            }
+        
+            ,{
+                "title": "1973-74",
+                "roles": ["President"]
+            }
+        ],
         "link": "/people/mark_everett/"
     }
     
@@ -21935,7 +21958,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1973-74",
+                "roles": ["Business Manager"]
+            }
+        ],
         "link": "/people/lynn_myers/"
     }
     
@@ -21949,7 +21977,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1973-74",
+                "roles": ["Technical Committee Rep"]
+            }
+        ],
         "link": "/people/jim_cowell/"
     }
     
@@ -21963,7 +21996,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1973-74",
+                "roles": ["Committee Members"]
+            }
+        ],
         "link": "/people/judith_fabian/"
     }
     
@@ -21977,7 +22015,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1974-75",
+                "roles": ["President"]
+            }
+        ],
         "link": "/people/ric_shields/"
     }
     
@@ -21991,7 +22034,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1974-75",
+                "roles": ["Secretary"]
+            }
+        ],
         "link": "/people/tim_sluckin/"
     }
     
@@ -22005,7 +22053,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1974-75",
+                "roles": ["Business Manager"]
+            }
+        ],
         "link": "/people/john_thewlis/"
     }
     
@@ -22019,7 +22072,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1976-77",
+                "roles": ["President"]
+            }
+        ],
         "link": "/people/john_turner/"
     }
     
@@ -22033,7 +22091,17 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1976-77",
+                "roles": ["Treasurer"]
+            }
+        
+            ,{
+                "title": "1977-78",
+                "roles": ["President"]
+            }
+        ],
         "link": "/people/richard_simpson/"
     }
     
@@ -22047,7 +22115,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1977-78",
+                "roles": ["Treasurer"]
+            }
+        ],
         "link": "/people/rosemary_farrar/"
     }
     
@@ -22061,7 +22134,12 @@
         "graduated": null,
         "award": null,
         "shows": [],
-        "committees": [],
+        "committees": [
+            {
+                "title": "1999-00",
+                "roles": ["Secretary"]
+            }
+        ],
         "link": "/people/paul_kerensa/"
     }
     

@@ -3962,6 +3962,8 @@
     
 
     
+
+    
     ,{
         "title": "Closer",
         "type": "show",
@@ -19757,7 +19759,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-29 09:40\n      Build number 823\n.\n      447 shows, 19 committees and 901 people.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-09-29 09:47\n      Build number 824\n.\n      448 shows, 19 committees and 901 people.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing..."
@@ -19955,10 +19957,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n29 Sep - Create the_comedy_of_errors_a_shakespeare_experiment.md28 Sep - Mistake made in styling for home, corrected28 Sep - Add images from Nick, closes #21328 Sep - Improve image optimse script, removes EXIF data now28 Sep - Fix cast names with notes\n\nCast names fixed28 Sep - Update the_last_5_years.md28 Sep - Create the_last_5_years.md28 Sep - Update holy_matrimony.md28 Sep - Create holy_matrimony.md28 Sep - Create freshers_fringe.md\n",
+        "content": " Recent Changes\n\n29 Sep - Create children_of_the_underworld.md29 Sep - Create the_comedy_of_errors_a_shakespeare_experiment.md28 Sep - Mistake made in styling for home, corrected28 Sep - Add images from Nick, closes #21328 Sep - Improve image optimse script, removes EXIF data now28 Sep - Fix cast names with notes\n\nCast names fixed28 Sep - Update the_last_5_years.md28 Sep - Create the_last_5_years.md28 Sep - Update holy_matrimony.md28 Sep - Create holy_matrimony.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 29 Sep - Create the_comedy_of_errors_a_shakespeare_experiment.md28 Sep - Mistake made in styling for home, corrected28 Sep - Add images from Nick, closes #21328 Sep - Improve image optimse script, removes EXIF data now28 Sep - Fix cast names with notes Cast names fixed28 Sep - Update the_last_5_years.md28 Sep -..."
+        "excerpt": "Recent Changes 29 Sep - Create children_of_the_underworld.md29 Sep - Create the_comedy_of_errors_a_shakespeare_experiment.md28 Sep - Mistake made in styling for home, corrected28 Sep - Add images from Nick, closes #21328 Sep - Improve image optimse script, removes EXIF data now28 Sep - Fix cast names with notes Cast names fixed28 Sep -..."
     }
     
     
@@ -19991,6 +19993,8 @@
         "excerpt": "The show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'. ## Attribute Reference | Attribute | Job | Description | |:-|:-|:-| | `title` | Show title | Displayed at the top of the show page and on various other pages. | | `playwright` | Full name..."
     }
     
+    
+
     
 
     

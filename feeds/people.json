@@ -8298,6 +8298,11 @@
             }
         
             ,{
+                "title": "The Dumb Waiter",
+                "roles": ["Gus"]
+            }
+        
+            ,{
                 "title": "Charley's Aunt",
                 "roles": ["Stephen Spettigue"]
             }
@@ -10103,11 +10108,6 @@
                 "title": "Rope",
                 "roles": ["Director"]
             }
-        
-            ,{
-                "title": "The Dumb Waiter",
-                "roles": ["Director"]
-            }
         ],
         "committees": [],
         "link": "/people/elizabeth_stevenson/"
@@ -10146,6 +10146,11 @@
             ,{
                 "title": "A Midsummer Night's Dream",
                 "roles": ["Lysander"]
+            }
+        
+            ,{
+                "title": "The Dumb Waiter",
+                "roles": ["Ben"]
             }
         ],
         "committees": [
@@ -13410,6 +13415,11 @@
                 "title": "Beef",
                 "roles": ["Director"]
             }
+        
+            ,{
+                "title": "The Dumb Waiter",
+                "roles": ["Director"]
+            }
         ],
         "committees": [],
         "link": "/people/liz_stevenson/"
@@ -13592,6 +13602,11 @@
             ,{
                 "title": "Bed",
                 "roles": ["Make Up Artist"]
+            }
+        
+            ,{
+                "title": "The Dumb Waiter",
+                "roles": ["Producer"]
             }
         
             ,{

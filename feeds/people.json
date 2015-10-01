@@ -19230,6 +19230,11 @@
             }
         
             ,{
+                "title": "Habeas Corpus",
+                "roles": ["Producer"]
+            }
+        
+            ,{
                 "title": "Kiss Me Like You Mean It",
                 "roles": ["Technical Director"]
             }
@@ -19913,25 +19918,6 @@
         ],
         "committees": [],
         "link": "/people/rachel_connolly/"
-    }
-    
-
-    ,
-    "nicola_hill" : {
-        "name": "Nicola Hill",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Habeas Corpus",
-                "roles": ["Producer"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/nicola_hill/"
     }
     
 

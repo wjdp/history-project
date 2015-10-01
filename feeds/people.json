@@ -19234,7 +19234,12 @@
                 "roles": ["Technical Director"]
             }
         ],
-        "committees": [],
+        "committees": [
+            {
+                "title": "2014-15",
+                "roles": ["Theatre Manager"]
+            }
+        ],
         "link": "/people/nikki_hill/"
     }
     
@@ -19925,12 +19930,7 @@
                 "roles": ["Producer"]
             }
         ],
-        "committees": [
-            {
-                "title": "2014-15",
-                "roles": ["Theatre Manager"]
-            }
-        ],
+        "committees": [],
         "link": "/people/nicola_hill/"
     }
     

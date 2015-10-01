@@ -5451,7 +5451,7 @@
         "date": "2013-11-06",
         "run": "6 - 9 November 2013",
         "excerpt": "“Boys will be boys, but the adults are usually worse- much worse.” Yasmina Reza’s biting satire God of Carnage depicts a civilised meeting between the Novaks and the Raleighs to discuss the unruly behaviour of their sons. However, this spirals into an evening of tears, tantrums, laughter and chaos through...",
-        "cast": "Harry Bradley, Ellie Cawthorn, Tom Gladstone, Verity Spencer, ",
+        "cast": "Harry Bradley, Ellie Cawthorne, Tom Gladstone, Verity Spencer, ",
         "crew": "Tess Monro-Somerville, Tom Dineen, Daniel O'Connor, Eden Phillips-Harrington, Aubrey Turner, Joseph Heil, Andy Routledge, Chelsea Jayne Wright, "
     }
     
@@ -17923,17 +17923,6 @@
     
 
     ,{
-        "title": "Ellie Cawthorn",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/ellie_cawthorn/"
-    }
-    
-
-    ,{
         "title": "Tom Gladstone",
         "type": "person",
         "excerpt": "",
@@ -19768,7 +19757,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-10-01 16:49\n      Build number 840\n.\n      448 shows, 19 committees and 900 people.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-10-01 16:55\n      Build number 841\n.\n      448 shows, 19 committees and 899 people.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing..."
@@ -19966,10 +19955,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n01 Oct - Merge pull request #216 from nhyty/patch-2\n\nNicola-&gt;Nikki01 Oct - Merge pull request #215 from nhyty/patch-1\n\nNicola-&gt;Nikki01 Oct - Nicola-&gt;Nikki01 Oct - Nicola-&gt;Nikki29 Sep - Add my bio29 Sep - Launch banner, #2129 Sep - Update six_characters_in_search_of_an_author.md29 Sep - Update children_of_the_underworld.md29 Sep - Update out_of_order.md29 Sep - Update the_comedy_of_errors_a_shakespeare_experiment.md\n",
+        "content": " Recent Changes\n\n01 Oct - Merge pull request #217 from nhyty/patch-3\n\nCawthorn-&gt;Cawthorne01 Oct - Merge pull request #216 from nhyty/patch-2\n\nNicola-&gt;Nikki01 Oct - Merge pull request #215 from nhyty/patch-1\n\nNicola-&gt;Nikki01 Oct - Cawthorn-&gt;Cawthorne01 Oct - Nicola-&gt;Nikki01 Oct - Nicola-&gt;Nikki29 Sep - Add my bio29 Sep - Launch banner, #2129 Sep - Update six_characters_in_search_of_an_author.md29 Sep - Update children_of_the_underworld.md\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 01 Oct - Merge pull request #216 from nhyty/patch-2 Nicola-&gt;Nikki01 Oct - Merge pull request #215 from nhyty/patch-1 Nicola-&gt;Nikki01 Oct - Nicola-&gt;Nikki01 Oct - Nicola-&gt;Nikki29 Sep - Add my bio29 Sep - Launch banner, #2129 Sep - Update six_characters_in_search_of_an_author.md29 Sep - Update children_of_the_underworld.md29 Sep - Update out_of_order.md29 Sep..."
+        "excerpt": "Recent Changes 01 Oct - Merge pull request #217 from nhyty/patch-3 Cawthorn-&gt;Cawthorne01 Oct - Merge pull request #216 from nhyty/patch-2 Nicola-&gt;Nikki01 Oct - Merge pull request #215 from nhyty/patch-1 Nicola-&gt;Nikki01 Oct - Cawthorn-&gt;Cawthorne01 Oct - Nicola-&gt;Nikki01 Oct - Nicola-&gt;Nikki29 Sep - Add my bio29 Sep - Launch banner, #2129 Sep..."
     }
     
     

@@ -12828,6 +12828,11 @@
             }
         
             ,{
+                "title": "God of Carnage",
+                "roles": ["Annette Raleigh"]
+            }
+        
+            ,{
                 "title": "The Rehearsal",
                 "roles": ["Director"]
             }
@@ -18550,25 +18555,6 @@
         ],
         "committees": [],
         "link": "/people/thomas_addison/"
-    }
-    
-
-    ,
-    "ellie_cawthorn" : {
-        "name": "Ellie Cawthorn",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "God of Carnage",
-                "roles": ["Annette Raleigh"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/ellie_cawthorn/"
     }
     
 

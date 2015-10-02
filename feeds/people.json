@@ -10137,6 +10137,11 @@
         ],
         "committees": [
             {
+                "title": "2010-11",
+                "roles": ["Assistant Workshop Manager"]
+            }
+        
+            ,{
                 "title": "2011-12",
                 "roles": ["Company Stage Manager"]
             }
@@ -21621,25 +21626,6 @@
             }
         ],
         "link": "/people/chilli_wright/"
-    }
-    
-
-    ,
-    "christopher_walters" : {
-        "name": "Christopher Walters",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [],
-        "committees": [
-            {
-                "title": "2010-11",
-                "roles": ["Assistant Workshop Manager"]
-            }
-        ],
-        "link": "/people/christopher_walters/"
     }
     
 

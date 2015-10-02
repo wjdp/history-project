@@ -16,13 +16,13 @@
     <loc>http://history.newtheatre.org.uk/history/</loc>
   </url>
   <url>
-    <loc>http://history.newtheatre.org.uk/</loc>
-  </url>
-  <url>
     <loc>http://history.newtheatre.org.uk/collect/show/</loc>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/collect/person/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/</loc>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/docs/</loc>
@@ -4145,7 +4145,7 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/googlee5aee69e17917677.html</loc>
-    <lastmod>2015-10-02T12:41:58+00:00</lastmod>
+    <lastmod>2015-10-02T12:48:15+00:00</lastmod>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>

@@ -590,7 +590,7 @@
         "run": "2002 - 03 (Dates Unknown)",
         "excerpt": "It is 1953. The theatres in London have been closed due to the outbreak of the plague. Shakespeare and his theatre company have left the city in search of audiences elsewhere. This is, however, not the only reason why Shakespeare is so far from home… [This play is based on...",
         "cast": "Matt Jones, Dave Jobanputra, Ben Bergin, Laura Teague, Laura Elmer, Michael Walker, Jo Hoare, Martina Heron, Euan Lawrence, Chloe Osborn, Annaliesse Mackintosh, Jen Smith, Helen Streeter, Eryn Burden, ",
-        "crew": "James Ashton, Lindsey Fowler, Andi McCrae, David Wills, Judith Thei, Lizzy Plackett, Offy Tilt, Caroline Blinkham, Nicola Brooker, Elaine Sivyer, "
+        "crew": "James Ashton, Lindsey Fowler, Andi McCrae, David Wills, Judith Thei, Lizzy Plackett, Offy Tilt, Caroline Blinkhorn, Nicola Brooker, Elaine Sivyer, "
     }
     
     
@@ -2899,7 +2899,7 @@
         "date": "2009-11-25",
         "run": "25 - 28 November 2009",
         "excerpt": "Ghetto - “Everytime we put on a show - sold out three weeks in advance!… People who knew next day they’d be on a train to the camps, the night before they’d put on their finery and come to a play.” Set in the Lithuanian Ghetto of Vilna in 1942,...",
-        "cast": "Cem Aytacli, Lauren Grant, Florian Goebel, Will Vickers, Douggie McMeekin, Alanna Southgate, Oliver Margolis, Chloe Keedy, Topher Collins, Paul Whickman, Rose Eccleshare, Amy Rushton, Peter Carey, Conrad Cohen, Andrew Kennedy, Lucien Jack, ",
+        "cast": "Cem Aytacli, Lauren Grant, Florian Goebel, Will Vickers, Douggie McMeekin, Alanna Southgate, Oliver Margolis, Chloe Keedy, Topher Collins, Paul Whickman, Rose Eccleshare, Amy Rushton, Peter Cary, Conrad Cohen, Andrew Kennedy, Lucien Jack, ",
         "crew": "Hatty Preston, Libby Galvin, Philip Geller, Matt Leventhall, Angus MacRae, "
     }
     
@@ -5539,8 +5539,8 @@
         "date": "2013-12-02",
         "run": "2 - 3 December 2013",
         "excerpt": "A play about love, rivalry and ultimately forgiveness, the year is 1914 and a young woman’s life is torn apart when the men closest to her are sent off to war, the building hatred between the two male protagonists fuels the plot which then reaches its height in the penultimate...",
-        "cast": "Ricki Crook, Omid Faramarzi, unknown, unknown, unknown, ",
-        "crew": "Georgina Varley, Holly Pownall, Sioned Walker, "
+        "cast": "Ricki Crook, Matt Standen, Omid Faramarzi, Olivia Rook, Matt Hodges, ",
+        "crew": "Georgina Varley, Georgina Varley, Holly Pownall, Melissa Donaldson, Sioned Walker, Elissa Burgoine, Sioned Walker, Melissa Donaldson, "
     }
     
     
@@ -6727,28 +6727,6 @@
         "date": "2015-04-29",
         "run": "29 April - 2 May 2015",
         "excerpt": "“THIS IS OUR ROAD!” Over the course of one wild night of drunken debauchery follow our mischievous tour guide, Scullery as he takes us down his anonymous road in Lancashire where we’re introduced to “all-sorts” who inhabit this un-named town. Hilarious, magical, and at times, very uncomfortable, we are given...",
-        "cast": "",
-        "crew": ""
-    }
-    
-    
-
-    
-    ,{
-        "title": "Telos",
-        "type": "show",
-        
-        "poster_thumb_tag": "<a href='/years/14_15/telos/'><img src='/images/resized/for_shows/telos_poster-140x.jpg' class='search-result-poster-thumb' alt='Show poster' ></a>",
-        
-        "year_title": "2014 - 15",
-        "content": "Telos follows four students at the end of university who are all, for undisclosed reasons, in group therapy. During sessions paced with bitterness and surface tension, questions are raised as to the worth of love, parenting and what it is about graduating into the “real world” that scares them – forcing everyone to face their deep set fears.\n",
-        "playwright": "Harry Patte-Dobbs",
-        "season": "Fringe",
-        "venue": null,
-        "link": "/years/14_15/telos/",
-        "date": "2015-03-16",
-        "run": "16 - 17 March 2015",
-        "excerpt": "Telos follows four students at the end of university who are all, for undisclosed reasons, in group therapy. During sessions paced with bitterness and surface tension, questions are raised as to the worth of love, parenting and what it is about graduating into the “real world” that scares them –...",
         "cast": "",
         "crew": ""
     }
@@ -8355,7 +8333,7 @@
         "date": "",
         "run": "1994 - 95 (Dates Unknown)",
         "excerpt": "\n",
-        "cast": "Martin Pye, James Tyson, Tristan Halford-Maw, Damian Lynch, Giles Daubeney, Gyuri Sarossy, Paul Harrison, Richard Welbourne, Simon Hall, Mike Green, Nick Walton, Matthew Cowlinshaw, Olivia Haussels, Marissa Holden, Claire Hobbs, Caroline Mabon, Caroline Warburton, David Trennery, Andrew Taylor, Sonja Webb, Rachel Webb, ",
+        "cast": "Martin Pye, James Tyson, Tristan Halford-Maw, Damian Lynch, Giles Daubeney, Gyuri Sarossy, Paul Harrison, Richard Welbourne, Simon Hall, Mike Green, Nick Walton, Matthew Cowlishaw, Olivia Haussels, Marissa Holden, Claire Hobbs, Caroline Mabon, Caroline Warburton, David Trennery, Andrew Taylor, Sonja Webb, Rachel Webb, ",
         "crew": "Mark Heywood, Sarah Hannafin, Andrew Batty, Rebecca Bowen, Christopher Wix, Rachel Gollin, Hana Iqbal, Jasmeet Kaur, Michael North, Sarah Hannafin, Matthew Peck, Abigail Duckworth, Grace Sentamu, Adam McCreight, Steve Broughton, Catherine Williams, Jo Boyd, Pete Kinglsey, Adam Key, Jenny Savage, Joy McDonald, Helen Wilson, Lindsay Harrison, Steve Schofield, Sean Turner, Ashton Gray, "
     }
     
@@ -10604,17 +10582,6 @@
         "graduated": null,
         "award": null,
         "link": "/people/nick_walton/"
-    }
-    
-
-    ,{
-        "title": "Matthew Cowlinshaw",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/matthew_cowlinshaw/"
     }
     
 
@@ -13556,17 +13523,6 @@
     
 
     ,{
-        "title": "Caroline Blinkham",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/caroline_blinkham/"
-    }
-    
-
-    ,{
         "title": "Nicola Brooker",
         "type": "person",
         "excerpt": "",
@@ -14535,13 +14491,13 @@
     
 
     ,{
-        "title": "Peter Carey",
+        "title": "Peter Cary",
         "type": "person",
         "excerpt": "",
         
         "graduated": null,
         "award": null,
-        "link": "/people/peter_carey/"
+        "link": "/people/peter_cary/"
     }
     
 
@@ -15631,17 +15587,6 @@
         "graduated": null,
         "award": null,
         "link": "/people/matt_miller/"
-    }
-    
-
-    ,{
-        "title": "Peter Cary",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/peter_cary/"
     }
     
 
@@ -18330,6 +18275,39 @@
     
 
     ,{
+        "title": "Matt Standen",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/matt_standen/"
+    }
+    
+
+    ,{
+        "title": "Olivia Rook",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/olivia_rook/"
+    }
+    
+
+    ,{
+        "title": "Matt Hodges",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/matt_hodges/"
+    }
+    
+
+    ,{
         "title": "Georgina Varley",
         "type": "person",
         "excerpt": "",
@@ -18341,6 +18319,17 @@
     
 
     ,{
+        "title": "Melissa Donaldson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/melissa_donaldson/"
+    }
+    
+
+    ,{
         "title": "Sioned Walker",
         "type": "person",
         "excerpt": "",
@@ -18348,6 +18337,17 @@
         "graduated": null,
         "award": null,
         "link": "/people/sioned_walker/"
+    }
+    
+
+    ,{
+        "title": "Elissa Burgoine",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "link": "/people/elissa_burgoine/"
     }
     
 
@@ -18649,17 +18649,6 @@
     
 
     ,{
-        "title": "Matt Standen",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/matt_standen/"
-    }
-    
-
-    ,{
         "title": "Adam Edwards",
         "type": "person",
         "excerpt": "",
@@ -18832,17 +18821,6 @@
         "graduated": null,
         "award": null,
         "link": "/people/ruth_wogan/"
-    }
-    
-
-    ,{
-        "title": "Matt Hodges",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "link": "/people/matt_hodges/"
     }
     
 
@@ -19757,7 +19735,7 @@
         "title": "About This Site",
         "type": "page",
         "group": "about",
-        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-10-01 16:55\n      Build number 841\n.\n      448 shows, 19 committees and 899 people.\n    \n\n  \n\n\n",
+        "content": " About This Site\n\nThis site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history.\n\nThis is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing to the story – whether you were an actor, a director, a stage-manager or an audience member, we want you to get in touch with you memories from your time at the theatre.\n\nIn particular we are looking for: listings of season shows, casts and crew lists, photographs, programmes, flyers, reviews and anything else which could provide an insight into the history of the theatre.\n\nSee the contributing section for details on how to help out.\n\n\n\n\n\n    People\n\n    \n      Project Lead: Phil Geller\n      Development Lead: Will Pimblett\n    \n\n  \n\n\n    Build Details\n\n    \n      Site last updated at 2015-10-02 02:11\n      Build number 842\n.\n      447 shows, 19 committees and 899 people.\n    \n\n  \n\n\n",
         "link": "/about/",
         "date": null,
         "excerpt": "About This Site This site is an initiative of the Nottingham New Theatre Alumni Network and aims to piece together the New Theatre’s dynamic and vibrant history. This is an extremely exciting project for the network, and we are relying on as many people as possible getting involved and contributing..."
@@ -19955,10 +19933,10 @@
         "title": "Recent Changes",
         "type": "page",
         "group": "about",
-        "content": " Recent Changes\n\n01 Oct - Merge pull request #217 from nhyty/patch-3\n\nCawthorn-&gt;Cawthorne01 Oct - Merge pull request #216 from nhyty/patch-2\n\nNicola-&gt;Nikki01 Oct - Merge pull request #215 from nhyty/patch-1\n\nNicola-&gt;Nikki01 Oct - Cawthorn-&gt;Cawthorne01 Oct - Nicola-&gt;Nikki01 Oct - Nicola-&gt;Nikki29 Sep - Add my bio29 Sep - Launch banner, #2129 Sep - Update six_characters_in_search_of_an_author.md29 Sep - Update children_of_the_underworld.md\n",
+        "content": " Recent Changes\n\n02 Oct - Update roadmap02 Oct - Blinkham -&gt; Blinkhorn, closes #17602 Oct - Cowlinshaw -&gt; Cowlishaw, closes #17902 Oct - Carey -&gt; Carry, closes #20302 Oct - Remove Telos, closes #21902 Oct - Add cast/crew/video Letting Go\n\nInfo from dir and prod02 Oct - Update role01 Oct - Merge pull request #217 from nhyty/patch-3\n\nCawthorn-&gt;Cawthorne01 Oct - Merge pull request #216 from nhyty/patch-2\n\nNicola-&gt;Nikki01 Oct - Merge pull request #215 from nhyty/patch-1\n\nNicola-&gt;Nikki\n",
         "link": "/recent_changes/",
         "date": null,
-        "excerpt": "Recent Changes 01 Oct - Merge pull request #217 from nhyty/patch-3 Cawthorn-&gt;Cawthorne01 Oct - Merge pull request #216 from nhyty/patch-2 Nicola-&gt;Nikki01 Oct - Merge pull request #215 from nhyty/patch-1 Nicola-&gt;Nikki01 Oct - Cawthorn-&gt;Cawthorne01 Oct - Nicola-&gt;Nikki01 Oct - Nicola-&gt;Nikki29 Sep - Add my bio29 Sep - Launch banner, #2129 Sep..."
+        "excerpt": "Recent Changes 02 Oct - Update roadmap02 Oct - Blinkham -&gt; Blinkhorn, closes #17602 Oct - Cowlinshaw -&gt; Cowlishaw, closes #17902 Oct - Carey -&gt; Carry, closes #20302 Oct - Remove Telos, closes #21902 Oct - Add cast/crew/video Letting Go Info from dir and prod02 Oct - Update role01 Oct..."
     }
     
     
@@ -19968,10 +19946,10 @@
         "title": "Roadmap",
         "type": "page",
         "group": "about",
-        "content": "\n\n   Roadmap\n\n  Our current timeline:\n\n  \n    27 April: Establish the site and define how data is going to be stored.\n    Mid May: Add a number of shows, polish the styling, make sure the site is working well on mobile devices, optimise search.\n    28 September: Have all the shows we have on record entered into the site. Officially launch via newsletter.\n    And Beyond: Continue to collect archive material and update the site. Add alumni bios, continue to improve the site.\n  \n\n\n\n\n\n Open Issues\n\n\n\n\n",
+        "content": "\n\n   Roadmap\n\n  Our current timeline:\n\n  \n    April 15: Establish the site and define how data is going to be stored.\n    May 15: Add a number of shows, polish the styling, make sure the site is working well on mobile devices, optimise search.\n    September 15: Have all the shows we have on record entered into the site. Officially launch via newsletter.\n    November 15: Jobs to be done before 50th Anniversary Event\n    January 16: Intermediary milestone\n    March 16: Jobs to be done before Alumni Dinner event\n    And Beyond: Continue to collect archive material and update and improve the site.\n  \n\n\n\n\n\n Open Issues\n\n\n\n\n",
         "link": "/roadmap/",
         "date": null,
-        "excerpt": "Roadmap Our current timeline: 27 April: Establish the site and define how data is going to be stored. Mid May: Add a number of shows, polish the styling, make sure the site is working well on mobile devices, optimise search. 28 September: Have all the shows we have on record..."
+        "excerpt": "Roadmap Our current timeline: April 15: Establish the site and define how data is going to be stored. May 15: Add a number of shows, polish the styling, make sure the site is working well on mobile devices, optimise search. September 15: Have all the shows we have on record..."
     }
     
     
@@ -19991,8 +19969,6 @@
         "excerpt": "The show records are stored as `_shows/YY_YY/show_name.md` with YY_YY being the academic year 'span'. ## Attribute Reference | Attribute | Job | Description | |:-|:-|:-| | `title` | Show title | Displayed at the top of the show page and on various other pages. | | `playwright` | Full name..."
     }
     
-    
-
     
 
     

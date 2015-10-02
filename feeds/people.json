@@ -180,7 +180,7 @@
         "shows": [
             {
                 "title": "Faust is Dead",
-                "roles": ["Video Designer"]
+                "roles": ["Video Technician"]
             }
         
             ,{
@@ -711,6 +711,11 @@
             {
                 "title": "Westside Story",
                 "roles": ["Chino"]
+            }
+        
+            ,{
+                "title": "Macbeth",
+                "roles": ["Seyton"]
             }
         ],
         "committees": [],
@@ -1630,25 +1635,6 @@
         ],
         "committees": [],
         "link": "/people/nick_walton/"
-    }
-    
-
-    ,
-    "matthew_cowlinshaw" : {
-        "name": "Matthew Cowlinshaw",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Macbeth",
-                "roles": ["Seyton"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/matthew_cowlinshaw/"
     }
     
 
@@ -4227,6 +4213,11 @@
             ,{
                 "title": "Our Country's Good",
                 "roles": ["Lighting Designer"]
+            }
+        
+            ,{
+                "title": "Oberonicus",
+                "roles": ["The Musical Trio"]
             }
         ],
         "committees": [],
@@ -7311,25 +7302,6 @@
     
 
     ,
-    "caroline_blinkham" : {
-        "name": "Caroline Blinkham",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Oberonicus",
-                "roles": ["The Musical Trio"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/caroline_blinkham/"
-    }
-    
-
-    ,
     "nicola_brooker" : {
         "name": "Nicola Brooker",
         "type": "person",
@@ -9797,8 +9769,8 @@
     
 
     ,
-    "peter_carey" : {
-        "name": "Peter Carey",
+    "peter_cary" : {
+        "name": "Peter Cary",
         "type": "person",
         "excerpt": "",
         
@@ -9809,9 +9781,19 @@
                 "title": "The Ghetto",
                 "roles": [null]
             }
+        
+            ,{
+                "title": "Flare Path",
+                "roles": ["Flight Lieutenant Teddy Graham"]
+            }
         ],
-        "committees": [],
-        "link": "/people/peter_carey/"
+        "committees": [
+            {
+                "title": "2010-11",
+                "roles": ["Fundraising Coordinator"]
+            }
+        ],
+        "link": "/people/peter_cary/"
     }
     
 
@@ -12608,30 +12590,6 @@
         ],
         "committees": [],
         "link": "/people/matt_miller/"
-    }
-    
-
-    ,
-    "peter_cary" : {
-        "name": "Peter Cary",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Flare Path",
-                "roles": ["Flight Lieutenant Teddy Graham"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2010-11",
-                "roles": ["Fundraising Coordinator"]
-            }
-        ],
-        "link": "/people/peter_cary/"
     }
     
 
@@ -18632,7 +18590,7 @@
         
             ,{
                 "title": "Letting Go",
-                "roles": ["unknown"]
+                "roles": ["Jack Fisher"]
             }
         
             ,{
@@ -19338,7 +19296,7 @@
         
             ,{
                 "title": "Letting Go",
-                "roles": ["unknown"]
+                "roles": ["Charlie Parnell"]
             }
         
             ,{
@@ -19577,6 +19535,88 @@
     
 
     ,
+    "matt_standen" : {
+        "name": "Matt Standen",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Letting Go",
+                "roles": ["Harry Lacey"]
+            }
+        
+            ,{
+                "title": "Room 30",
+                "roles": ["The Occupier"]
+            }
+        
+            ,{
+                "title": "Cracked China",
+                "roles": ["Technical Director"]
+            }
+        
+            ,{
+                "title": "Tribes",
+                "roles": ["Technical Operator"]
+            }
+        ],
+        "committees": [
+            {
+                "title": "2015-16",
+                "roles": ["Front of House Manager"]
+            }
+        ],
+        "link": "/people/matt_standen/"
+    }
+    
+
+    ,
+    "olivia_rook" : {
+        "name": "Olivia Rook",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Letting Go",
+                "roles": ["Kitty Parnell"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/olivia_rook/"
+    }
+    
+
+    ,
+    "matt_hodges" : {
+        "name": "Matt Hodges",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Letting Go",
+                "roles": ["Officer Stephen Thomas"]
+            }
+        
+            ,{
+                "title": "Equus",
+                "roles": ["Horseman/Nugget"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/matt_hodges/"
+    }
+    
+
+    ,
     "georgina_varley" : {
         "name": "Georgina Varley",
         "type": "person",
@@ -19587,11 +19627,30 @@
         "shows": [
             {
                 "title": "Letting Go",
-                "roles": ["Director"]
+                "roles": ["Director","Writer"]
             }
         ],
         "committees": [],
         "link": "/people/georgina_varley/"
+    }
+    
+
+    ,
+    "melissa_donaldson" : {
+        "name": "Melissa Donaldson",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Letting Go",
+                "roles": ["Assistant Director","Technical Operator"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/melissa_donaldson/"
     }
     
 
@@ -19606,7 +19665,7 @@
         "shows": [
             {
                 "title": "Letting Go",
-                "roles": ["unknown"]
+                "roles": ["Stage Manager","Technical Operator"]
             }
         
             ,{
@@ -19616,6 +19675,25 @@
         ],
         "committees": [],
         "link": "/people/sioned_walker/"
+    }
+    
+
+    ,
+    "elissa_burgoine" : {
+        "name": "Elissa Burgoine",
+        "type": "person",
+        "excerpt": "",
+        
+        "graduated": null,
+        "award": null,
+        "shows": [
+            {
+                "title": "Letting Go",
+                "roles": ["ASM"]
+            }
+        ],
+        "committees": [],
+        "link": "/people/elissa_burgoine/"
     }
     
 
@@ -20233,40 +20311,6 @@
     
 
     ,
-    "matt_standen" : {
-        "name": "Matt Standen",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Room 30",
-                "roles": ["The Occupier"]
-            }
-        
-            ,{
-                "title": "Cracked China",
-                "roles": ["Technical Director"]
-            }
-        
-            ,{
-                "title": "Tribes",
-                "roles": ["Technical Operator"]
-            }
-        ],
-        "committees": [
-            {
-                "title": "2015-16",
-                "roles": ["Front of House Manager"]
-            }
-        ],
-        "link": "/people/matt_standen/"
-    }
-    
-
-    ,
     "adam_edwards" : {
         "name": "Adam Edwards",
         "type": "person",
@@ -20587,25 +20631,6 @@
         ],
         "committees": [],
         "link": "/people/ruth_wogan/"
-    }
-    
-
-    ,
-    "matt_hodges" : {
-        "name": "Matt Hodges",
-        "type": "person",
-        "excerpt": "",
-        
-        "graduated": null,
-        "award": null,
-        "shows": [
-            {
-                "title": "Equus",
-                "roles": ["Horseman/Nugget"]
-            }
-        ],
-        "committees": [],
-        "link": "/people/matt_hodges/"
     }
     
 

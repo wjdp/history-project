@@ -970,9 +970,6 @@
     <loc>http://history.newtheatre.org.uk/years/14_15/road/</loc>
   </url>
   <url>
-    <loc>http://history.newtheatre.org.uk/years/14_15/telos/</loc>
-  </url>
-  <url>
     <loc>http://history.newtheatre.org.uk/years/14_15/the_adventures_of_anne_marie_de_bourbon/</loc>
   </url>
   <url>
@@ -1655,9 +1652,6 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/people/nick_walton/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/matthew_cowlinshaw/</loc>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/people/olivia_haussels/</loc>
@@ -2461,9 +2455,6 @@
     <loc>http://history.newtheatre.org.uk/people/offy_tilt/</loc>
   </url>
   <url>
-    <loc>http://history.newtheatre.org.uk/people/caroline_blinkham/</loc>
-  </url>
-  <url>
     <loc>http://history.newtheatre.org.uk/people/nicola_brooker/</loc>
   </url>
   <url>
@@ -2728,7 +2719,7 @@
     <loc>http://history.newtheatre.org.uk/people/rose_eccleshare/</loc>
   </url>
   <url>
-    <loc>http://history.newtheatre.org.uk/people/peter_carey/</loc>
+    <loc>http://history.newtheatre.org.uk/people/peter_cary/</loc>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/people/conrad_cohen/</loc>
@@ -3026,9 +3017,6 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/people/matt_miller/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/peter_cary/</loc>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/people/christey_nethercott/</loc>
@@ -3763,10 +3751,25 @@
     <loc>http://history.newtheatre.org.uk/people/fergal_murphy/</loc>
   </url>
   <url>
+    <loc>http://history.newtheatre.org.uk/people/matt_standen/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/olivia_rook/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/matt_hodges/</loc>
+  </url>
+  <url>
     <loc>http://history.newtheatre.org.uk/people/georgina_varley/</loc>
   </url>
   <url>
+    <loc>http://history.newtheatre.org.uk/people/melissa_donaldson/</loc>
+  </url>
+  <url>
     <loc>http://history.newtheatre.org.uk/people/sioned_walker/</loc>
+  </url>
+  <url>
+    <loc>http://history.newtheatre.org.uk/people/elissa_burgoine/</loc>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/people/alfie_cranmer/</loc>
@@ -3850,9 +3853,6 @@
     <loc>http://history.newtheatre.org.uk/people/julia_rincon/</loc>
   </url>
   <url>
-    <loc>http://history.newtheatre.org.uk/people/matt_standen/</loc>
-  </url>
-  <url>
     <loc>http://history.newtheatre.org.uk/people/adam_edwards/</loc>
   </url>
   <url>
@@ -3899,9 +3899,6 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/people/ruth_wogan/</loc>
-  </url>
-  <url>
-    <loc>http://history.newtheatre.org.uk/people/matt_hodges/</loc>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/people/hollie_blaber/</loc>
@@ -4151,7 +4148,7 @@
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/googlee5aee69e17917677.html</loc>
-    <lastmod>2015-10-01T16:55:15+00:00</lastmod>
+    <lastmod>2015-10-02T02:11:44+00:00</lastmod>
   </url>
   <url>
     <loc>http://history.newtheatre.org.uk/lib/github-issues-widget/demo.html</loc>
